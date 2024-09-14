@@ -1,5 +1,6 @@
 <div align="center">
 <h1 align="center">GOODBYEADS<br>一个强力去广告的规则</h1>
+<h3 align="center">临时公告:<br>24.9.14日更新了规则的存放路径（后续将不再更新该路径）。如果您发现规则失效，请删除旧规则并重新复制主页链接进行订阅。</h3>
 <p>
   <a href="https://github.com/8680/GOODBYEADS">
     <img src="https://img.shields.io/github/last-commit/8680/GOODBYEADS?style=flat-square" alt="last update" />
