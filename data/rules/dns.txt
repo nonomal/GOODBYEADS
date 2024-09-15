@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-14 21:59:47（北京时间）
+! Version: 2024-09-15 09:43:50（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100073
+! Total count: 100096
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1790,6 +1790,7 @@
 ||452tapgn.de^
 ||453130fa9e.com^
 ||45ba1be349.com^
+||45cb7b8453.com^
 ||45cf2c258c.a272118d17.com^
 ||45d31559c9.26fc91ec79.com^
 ||45eijvhgj2.com^
@@ -7892,6 +7893,7 @@
 ||abyocawlfe.com^
 ||abyssfar.com^
 ||abz.com^
+||abzaligtwd.com^
 ||abzjkaridcit.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -9503,7 +9505,6 @@
 ||adqit.com^
 ||adqongwuxvav.com^
 ||adquery.io^
-||adquet.com^
 ||adquota.com^
 ||adrazzi.com^
 ||adrcdn.com^
@@ -12576,6 +12577,7 @@
 ||analytics.evgcdn.net^
 ||analytics.evn.com.vn^
 ||analytics.evo.co.uk^
+||analytics.explus.vn^
 ||analytics.faceitanalytics.com^
 ||analytics.fap.bar^
 ||analytics.faprika.net^
@@ -15125,6 +15127,7 @@
 ||arnimalconeer.com^
 ||arnofourgu.com^
 ||aroidsguide.com^
+||arojgi.xyz^
 ||aromabirch.com^
 ||aromaexplode.com^
 ||aromamidland.com^
@@ -21712,6 +21715,7 @@
 ||cdp.cifinancial.com^
 ||cdp.yna.co.kr^
 ||cdpqtuityras.com^
+||cdptracker.hocmai.com.vn^
 ||cdrive.compellent.com^
 ||cdrrvlkew.filasofighit.com^
 ||cdrvkdni.xyz^
@@ -24497,6 +24501,7 @@
 ||convention.interfaceflor.com^
 ||conventional-nurse.pro^
 ||conventionalrestaurant.com^
+||conventionalsecond.pro^
 ||converge.headuplabs.com^
 ||convergentdental.actonservice.com^
 ||convergeselect.net^
@@ -27830,7 +27835,6 @@
 ||data.t.worldvision.ca^
 ||data.tc.jetstar.com^
 ||data.thepointsguy.com^
-||data.tm-awx.com^
 ||data.tmail.northeast.aaa.com^
 ||data.torry.io^
 ||data.transaction.giftcards.com^
@@ -34216,6 +34220,7 @@
 ||ewoverth.buzz^
 ||ewpubiimput.com^
 ||ewqkrfjkqz.com^
+||ewqws55.fun^
 ||ewrerew29w09.com^
 ||ewrgryxjaq.com^
 ||ewrjjqflq.com^
@@ -34464,6 +34469,7 @@
 ||expressingblossomjudicious.com^
 ||expressproducer.com^
 ||expulsionfluffysea.com^
+||exqbondtwitvj.com^
 ||exquisitefundlocations.com^
 ||exquisiteseptember.com^
 ||exr-mms.expertreviews.co.uk^
@@ -38192,6 +38198,7 @@
 ||ggx01.miguvideo.com^
 ||ggx03.miguvideo.com^
 ||ggxcoez.com^
+||ggxdzrvo.com^
 ||ggxwb.miguvideo.com^
 ||ggxyyalrj.com^
 ||ggzckmlts.com^
@@ -47843,6 +47850,7 @@
 ||kdyxxkcd.com^
 ||keajs.com^
 ||keawmrohgxtl.com^
+||kebeckirgon.net^
 ||kebohjhh.xyz^
 ||kebpln.darngoodyarn.com^
 ||kecwhlsr.com^
@@ -48173,6 +48181,7 @@
 ||kjjuuy.icaniwill.fi^
 ||kjjvpwvyon.com^
 ||kjklisbcab.com^
+||kjkulnpfdhn.com^
 ||kjlmoxpnst.com^
 ||kjmaoi.babor.com^
 ||kjmfjwhlrhmmtq.com^
@@ -62469,6 +62478,7 @@
 ||oqcrqirncna.xyz^
 ||oqddkgixmqhovv.xyz^
 ||oqeazohx.com^
+||oqejupqb.xyz^
 ||oqelpqoyyz.com^
 ||oqgrax.sissy-boy.com^
 ||oqhbykhlt.com^
@@ -62575,6 +62585,7 @@
 ||orionmarketing.actonservice.com^
 ||orisow.com^
 ||orjfun.com^
+||orjmtknm.com^
 ||orjohmpkq.com^
 ||orkhovdimin.xyz^
 ||orlandowaggons.com^
@@ -62729,6 +62740,7 @@
 ||otbuzvqq8fm5.com^
 ||otcdn2.auditude.com^
 ||otdalxhhiah.com^
+||otekmnyfcv.com^
 ||otfiqdmohyhywj.com^
 ||oth.eve.mdt.qq.com^
 ||oth.eve.qq.com^
@@ -64293,6 +64305,7 @@
 ||people.mbtionline.com^
 ||peoplehr.actonservice.com^
 ||peopleshouldthin.com^
+||peospjryrzxuyb.com^
 ||pepapigg.xyz^
 ||pepburst.com^
 ||pepebalance.com^
@@ -68267,6 +68280,7 @@
 ||qtyusiy.top^
 ||qu96.com^
 ||quacktypist.com^
+||quackupsilon.com^
 ||quagfa.com^
 ||quail.trueglowbylaura.com^
 ||quailnude.com^
@@ -68558,6 +68572,7 @@
 ||qzdmvwewzxzzze.com^
 ||qzehwg.xyz^
 ||qzesmjv.com^
+||qzetnversitym.com^
 ||qzfxcf.coastal.com^
 ||qziuwzn.cn^
 ||qzkjkiexmsyv.com^
@@ -71396,6 +71411,7 @@
 ||ruwfempxgwry.xyz^
 ||ruwookri.xyz^
 ||ruxgqemwywx.com^
+||ruzotchaufu.xyz^
 ||ruzxzebrupa.com^
 ||rva.outbrain.com^
 ||rvbiocn.cn^
@@ -73933,8 +73949,6 @@
 ||semblanceafford.com^
 ||semblanceindulgebellamy.com^
 ||semeeclots.top^
-||semena.cz^
-||semenaonline.cz^
 ||semenaonline.sk^
 ||semhgk.xyz^
 ||semi-cod.nnmclub.ch^
@@ -82771,6 +82785,7 @@
 ||strodefat.com^
 ||strodemorallyhump.com^
 ||strollfondnesssurround.com^
+||stronepurrel.shop^
 ||strongestconvenient.com^
 ||strongesthaste.com^
 ||strongesthissblackout.com^
@@ -82945,6 +82960,7 @@
 ||substantialhound.com^
 ||substation.confection.io^
 ||subsultfidgety.click^
+||subtle-give.pro^
 ||subtractillfeminine.com^
 ||subtractrefused.com^
 ||suburbgetconsole.com^
@@ -84575,6 +84591,7 @@
 ||tao.barstoolsports.com^
 ||taobao.qq.com^
 ||taobc.com^
+||taosiz.xyz^
 ||taotaogeren.xyz^
 ||taovgsy.com^
 ||taoyinbiacid.com^
@@ -85302,6 +85319,7 @@
 ||temachaumble.top^
 ||temai.snssdk.com^
 ||temails.productnotice.thomsonreuters.com^
+||temgthropositea.com^
 ||temiakazon.com^
 ||temksrtd.net^
 ||temp.aomg5bzv7.com^
@@ -91138,6 +91156,7 @@
 ||udsgty.alkosto.com^
 ||udtropary.top^
 ||uduhytyllobm.com^
+||uduxztwig.com^
 ||udxhzqg.cn^
 ||udxsuy.helline.fr^
 ||udykkl.cn^
@@ -92697,6 +92716,7 @@
 ||vax-boost.com^
 ||vax-now.com^
 ||vaxoovos.net^
+||vazshojt.com^
 ||vazulp.graniph.com^
 ||vazypteke.pro^
 ||vbdqycuuynwrfgi.com^
@@ -92739,6 +92759,7 @@
 ||vcvacpaenqepvm.com^
 ||vcvnsyewnv.com^
 ||vcxipynawv.com^
+||vcxv73.fun^
 ||vcxv787.fun^
 ||vcxzp.com^
 ||vczypss.com^
@@ -92846,6 +92867,7 @@
 ||vempozah.net^
 ||vendigamus.com^
 ||vendimob.pl^
+||vendingboatsunbutton.com^
 ||veneeringextremely.com^
 ||veneeringperfect.com^
 ||venetrigni.com^
@@ -93546,6 +93568,7 @@
 ||vm.aty.sohu.com^
 ||vm.swellyprostoa.com^
 ||vm4.aomg5bzv7.com^
+||vm8lm1vp.xyz^
 ||vmap.v.ad-generation.jp^
 ||vmbcdprc.com^
 ||vmbgoblxpl.com^
@@ -98650,6 +98673,7 @@
 ||yiqvgsqx.com^
 ||yirringamnesic.click^
 ||yistkechauk.org^
+||yiucfif.icu^
 ||yivkzvog.xyz^
 ||yiwckti.icu^
 ||yixvbp.merkal.com^
@@ -99472,7 +99496,6 @@
 ||zerodecisive.com^
 ||zeroingchaus.top^
 ||zerzvqroeveae.top^
-||zesemen.cz^
 ||zesgky.belambra.fr^
 ||zestpocosin.com^
 ||zetaagnates.com^
