@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-15 20:36:35（北京时间）
+! Version: 2024-09-16 09:40:58（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100111
+! Total count: 100134
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -16765,7 +16765,6 @@
 ||b73uszzq3g9h.com^
 ||b754af79a7.com^
 ||b76751e155.com^
-||b785f3975b.com^
 ||b7efb2664b.com^
 ||b7om8bdayac6at.com^
 ||b7qmb255e.com^
@@ -19260,6 +19259,7 @@
 ||bowlpromoteintimacy.com^
 ||bowlsolicitor.com^
 ||bowoprf.icu^
+||bowvses.icu^
 ||box.anchorfree.net^
 ||box.bossdata.be^
 ||box1.aomg5bzv7.com^
@@ -20073,6 +20073,7 @@
 ||bumpingcarfax.com^
 ||bumpmoss.com^
 ||bumpthank.com^
+||bumxmomcu.com^
 ||bunbeautifullycleverness.com^
 ||bundasnovinhas.com^
 ||bundlerenown.com^
@@ -24038,7 +24039,6 @@
 ||config.appjolt.com^
 ||config.chsmarttv.com^
 ||config.jpush.cn^
-||config.safedk.com^
 ||configurationluxuriantinclination.com^
 ||configure.adlermode.com^
 ||confinecrisisorbit.com^
@@ -24728,6 +24728,7 @@
 ||couldobliterate.com^
 ||coumasha.xyz^
 ||counaupsi.com^
+||councernedasesi.com^
 ||counciladvertising.net^
 ||councilheader.com^
 ||counmg.greatvaluevacations.com^
@@ -25325,6 +25326,7 @@
 ||crs-hometab-event.line.me^
 ||crs.actonservice.com^
 ||crs.baidu.com^
+||crsope.com^
 ||crsspxl.com^
 ||crta.and.co.uk^
 ||crta.dailymail.co.uk^
@@ -28724,6 +28726,7 @@
 ||despotbenignitybluish.com^
 ||despotfifteen.com^
 ||dessertgermdimness.com^
+||dessillucian.com^
 ||dessly.ru^
 ||dessnivyer.com^
 ||desspinarakr.com^
@@ -29757,6 +29760,7 @@
 ||djmzap.gamivo.com^
 ||djnaivalj34ub.cloudfront.net^
 ||djnqoe.rani.com.tr^
+||djosbhwpnfxmx.com^
 ||djphnuhkbjf.com^
 ||djponj.xyz^
 ||djqacscl.com^
@@ -30747,8 +30751,10 @@
 ||dsbudkwq.xyz^
 ||dsceopm.cn^
 ||dscex7u1h4a9a.cloudfront.net^
+||dsda21.fun^
 ||dsdjbj.abracadabra.com.br^
 ||dsdordering.kdrp.com^
+||dsdsa33.fun^
 ||dsdsg44.fun^
 ||dsethimdownthmo.com^
 ||dsfe19.madeindesign.com^
@@ -32065,6 +32071,7 @@
 ||efd8d8a247.86e7d35526.com^
 ||efdeaeb7de.3fba1b901c.com^
 ||efdjelx.com^
+||efemsvcdjuov.com^
 ||eff39833a7.d7e13aeb98.com^
 ||effacedefend.com^
 ||effaceecho.com^
@@ -33426,6 +33433,7 @@
 ||epitokealraun.top^
 ||epiv.cardlytics.com^
 ||epixkf.dentrodahistoria.com.br^
+||eplndhtrobl.com^
 ||epm.mailperformance.com^
 ||epmfjjabhfwgkun.com^
 ||epnfoq.cyberpowersystem.co.uk^
@@ -41381,6 +41389,7 @@
 ||highwaysenufo.guru^
 ||higyoe.cn^
 ||hihlj.online^
+||hiidevelelastic.com^
 ||hijpdcvwb.com^
 ||hijxfm.gaspedaal.nl^
 ||hikestale.com^
@@ -43847,6 +43856,7 @@
 ||imglnkd.com^
 ||imglnke.com^
 ||imgmail.mediasetpremium.it^
+||imgmin133.top^
 ||imgopen.vip^
 ||imgoss1380.top^
 ||imgoss2255.top^
@@ -45683,7 +45693,6 @@
 ||ipnkkmxo.com^
 ||ipoavoawhemt.com^
 ||ipodreevess.com^
-||ippcodeblack.com^
 ||ippcodepink.com^
 ||ippleshiswashis.info^
 ||ippscriptbear.com^
@@ -47074,6 +47083,7 @@
 ||jotskuffieh.website^
 ||jotterswirrah.com^
 ||jouaboe.com^
+||joucefeet.xyz^
 ||joudauhee.com^
 ||joudotee.com^
 ||joukaglie.com^
@@ -47171,6 +47181,7 @@
 ||jrclick.jd.com^
 ||jrfjcn.mebeli.bg^
 ||jrfwfwk.com^
+||jrgmooxsln.com^
 ||jrhsjmwtrwiam.com^
 ||jrilbcd.com^
 ||jrilkvjehrjlri.com^
@@ -52322,6 +52333,7 @@
 ||lvnnqdgxdlhj.com^
 ||lvnzrh.xyz^
 ||lvodomo.info^
+||lvojjayaaoqym.top^
 ||lvomenbxbyl.com^
 ||lvpcxqcoohcviks.com^
 ||lvphbj.xyz^
@@ -54784,7 +54796,6 @@
 ||maxigamma.com^
 ||maxim.pub^
 ||maximtoaster.com^
-||maximumcash.com^
 ||maximumductpictorial.com^
 ||maximumimmortality.com^
 ||maximumingrow.com^
@@ -54969,6 +54980,7 @@
 ||mdiygc.xyz^
 ||mdjdpyrt.xyz^
 ||mdm.hibinobi-mandom.jp^
+||mdmuky.xyz^
 ||mdoirsw.com^
 ||mdokua.shiseido.co.jp^
 ||mdoshbx.top^
@@ -59683,6 +59695,7 @@
 ||news-weekend1.xyz^
 ||news-wew.click^
 ||news-xehola.com^
+||news-xmiyasa.com^
 ||news.azcapitoltimes.com^
 ||news.bestcompaniesgroup.com^
 ||news.bpsecinc.com^
@@ -65006,7 +65019,6 @@
 ||pixel.1und1.de^
 ||pixel.4pcdn.de^
 ||pixel.admobclick.com^
-||pixel.advertising.com^
 ||pixel.ampry.com^
 ||pixel.anyclip.com^
 ||pixel.archipro.co.nz^
@@ -68963,6 +68975,7 @@
 ||rbhunp.xyz^
 ||rbis-solutions.averydennison.com^
 ||rbjmfj.dickies.ca^
+||rbkmzhc.icu^
 ||rblgfyvwse.com^
 ||rblrekay.com^
 ||rbltedbpjshxb.com^
@@ -70232,6 +70245,7 @@
 ||revstripe.com^
 ||revulsiondeportvague.com^
 ||revupads.com^
+||rewaawoyamvky.top^
 ||rewallesthete.shop^
 ||rewardrush.life^
 ||rewards-my.greateasternlife.com^
@@ -70487,6 +70501,7 @@
 ||riverhit.com^
 ||riverpush.com^
 ||riversingratitudestifle.com^
+||riverstressful.com^
 ||rivetrearrange.com^
 ||rivmuvlnu.com^
 ||rivne.space^
@@ -79419,6 +79434,7 @@
 ||soonlint.com^
 ||soonpersuasiveagony.com^
 ||soonstrongestquoted.com^
+||soopsepsi.net^
 ||soopsulo.xyz^
 ||soosooka.com^
 ||sootconform.com^
@@ -82884,6 +82900,7 @@
 ||stupidspaceshipfestivity.com^
 ||sturton-lation.com^
 ||stusnais.com^
+||stuwhost.net^
 ||stvbiopr.net^
 ||stvkr.com^
 ||stvsmdhfplfrcy.xyz^
@@ -89846,6 +89863,7 @@
 ||trellian.com^
 ||trembleday.com^
 ||tremorhub.com^
+||trenchpoor.net^
 ||trendads.reactivebetting.com^
 ||trenddigital.vn^
 ||trendmd.com^
@@ -92401,6 +92419,7 @@
 ||uvzrtq.livingspaces.com^
 ||uvzsmwfxa.com^
 ||uwadpksbkzp.com^
+||uwams.info^
 ||uwavoptig.com^
 ||uwaxoyfklhm.com^
 ||uwdzbo.tgw.com^
@@ -96355,6 +96374,7 @@
 ||wwu.jjill.com^
 ||wwunnmshmv.xyz^
 ||wwv.jjill.com^
+||wwvxdhbmlqcgk.xyz^
 ||www-103.aig.com^
 ||www-103.chartisinsurance.com^
 ||www-104.aig.com^
@@ -97317,6 +97337,7 @@
 ||xafuzcxr.xyz^
 ||xageyai.com^
 ||xaguwy.thomas-muenz.ru^
+||xahttwmfmyji.com^
 ||xait.actonservice.com^
 ||xajibur.ru^
 ||xajqhrrrnxmy.com^
@@ -97576,6 +97597,7 @@
 ||xjakcitm.com^
 ||xjappzvz.xyz^
 ||xjfbhxp.com^
+||xjfqqyrcz.com^
 ||xjincmbrulchml.xyz^
 ||xjkhaow.com^
 ||xjkpzh.voraxacessorios.com.br^
@@ -98348,7 +98370,6 @@
 ||y41my.com^
 ||y43wd34.dagobert33.xyz^
 ||y4e04gql5o1b.www.nookgaming.com^
-||y653.theridgefieldpress.com^
 ||y66xvgo5i.chuimg.com^
 ||y738.nhregister.com^
 ||y752.milfordmirror.com^
@@ -99718,6 +99739,7 @@
 ||zlebdfhnampju.com^
 ||zlgame.top^
 ||zlgkpr.lottehotel.com^
+||zlhaekgfrqlu.com^
 ||zlink2.com^
 ||zlink6.com^
 ||zlinkc.com^
@@ -100092,6 +100114,7 @@
 ||zypy2h6rgfux.com^
 ||zyq2.destinia.sk^
 ||zyqweovbaaz.com^
+||zyrnbh.xyz^
 ||zyuzdmxel.com^
 ||zyzo.cn^
 ||zz.bdstatic.com^
