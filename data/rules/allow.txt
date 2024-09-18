@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-18 09:35:26（北京时间）
+! Version: 2024-09-18 20:38:46（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14537
+! Total count: 14546
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -6150,6 +6150,7 @@
 @@||googletagmanager.com/gtm.js$domain=petlebi.com
 @@||googletagmanager.com/gtm.js$domain=pioneer.eu
 @@||googletagmanager.com/gtm.js$domain=plaion.com
+@@||googletagmanager.com/gtm.js$domain=playactivate.com
 @@||googletagmanager.com/gtm.js$domain=plus.net
 @@||googletagmanager.com/gtm.js$domain=pointmall.rakuten.co.jp
 @@||googletagmanager.com/gtm.js$domain=portal.game.aug.wkb.jp
@@ -9348,6 +9349,8 @@
 @@||online.bcs.ru^*/piwik.bcs.js$script
 @@||online.cosmosbank.in^$document
 @@||online.mps-gba.de/praeludium/$script,domain=auto-motor-und-sport.de|caravaning.de|motorradonline.de
+@@||online.rshb.ru/rshb-mbfl/lib/snowplow/
+@@||online.rshb.ru/rshb-mbfl/plugins/
 @@||online.tivo.com^$elemhide,jsinject
 @@||online.unionpay.com/ads/$script
 @@||onlinebanking.usbank.com/TUX/public/libs/adobe/appmeasurement.js$script,~third-party
@@ -9614,6 +9617,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cbs-soft.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cdkm.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cellmapper.net
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cfx-info.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chd4.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=check-plagiarism.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cheersandgears.com
@@ -10105,6 +10109,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=automap.it
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=b2bhint.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=babymodz.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=bagi.co.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=benacer-techpro.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=bestx.stream
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=blog.nationapk.com
@@ -10850,6 +10855,7 @@
 @@||pstatic.net^$image,stealth
 @@||psypost.org^$generichide
 @@||ptah.m3pd.com/key=$media,domain=porntop.com,stealth=referrer
+@@||pttcell.com.tr^$stealth=dpi
 @@||pttplay.com/js/momo/adsbygoogle.js
 @@||pub-api.biggerpicture.ai^$stealth=3p-auth
 @@||pub.alimama.com/common/adzone/
@@ -12398,7 +12404,9 @@
 @@||static.ads-twitter.com/uwt.js$xmlhttprequest
 @@||static.ads-twitter.com^|$app=com.nttdocomo.android.danimeapp
 @@||static.adsafeprotected.com/iasPET*.js$domain=independent.co.uk
+@@||static.adsafeprotected.com/iasPET.1.js$domain=cn.wsj.com
 @@||static.adsafeprotected.com/skeleton.js$domain=cwtv.com
+@@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=cn.wsj.com
 @@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=forbes.com
 @@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=motorsport.tv
 @@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=nhl.com
@@ -13406,6 +13414,7 @@
 @@||turkdown.com/*/advertisement.js
 @@||turkdown.com^$generichide
 @@||turkleech.com^$generichide
+@@||turktelekom.com.tr^$stealth=dpi
 @@||turner.com/cnn/*/video/chartbeat.js$domain=cnn.com
 @@||turnip.cdn.turner.com/top/auth/$stealth,domain=tbs.com
 @@||turramusic.com.au^$xmlhttprequest,elemhide,jsinject,extension

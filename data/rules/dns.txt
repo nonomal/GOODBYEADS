@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-18 09:35:26（北京时间）
+! Version: 2024-09-18 20:38:46（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99405
+! Total count: 99409
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -12018,7 +12018,6 @@
 ||amazinelistrun.pro^
 ||amazinelistrun.xyz^
 ||amazingcounters.com^
-||amazinglyclimb.com^
 ||amazingomgnews.ru/live.js^
 ||amazon-adsystem.com^
 ||amazon-cornerstone.com^
@@ -16690,7 +16689,6 @@
 ||b42rracj.com^
 ||b43bc6681c.4bad5cdf48.com^
 ||b44261ea37.1be76e820d.com^
-||b44b3c5f19.com^
 ||b479c48f5b.2a1b3d0e95.com^
 ||b4b2389406.com^
 ||b4c340b5c1.8db4fde90b.com^
@@ -20221,6 +20219,7 @@
 ||bxumze.tuscaloosanews.com^
 ||bxvirhgaq.com^
 ||bxvlyrw.com^
+||bxxibvjt.com^
 ||bxxvmjrpegqy.com^
 ||by.addrecipes.com^
 ||by.ballinghelonin.com^
@@ -30584,6 +30583,7 @@
 ||dsbahmgppc0j4.cloudfront.net^
 ||dsbqvj.xyz^
 ||dsbudkwq.xyz^
+||dscds111.fun^
 ||dsceopm.cn^
 ||dscex7u1h4a9a.cloudfront.net^
 ||dsda21.fun^
@@ -33173,7 +33173,6 @@
 ||envoyauthorityregularly.com^
 ||envoystormy.com^
 ||envylavish.com^
-||enwrapquai.com^
 ||enx5.online^
 ||enxqkbsqlh.com^
 ||enyjonakhjo.com^
@@ -36382,6 +36381,7 @@
 ||fq03.shop^
 ||fq04.shop^
 ||fq05.shop^
+||fq06.shop^
 ||fq67.top^
 ||fq9vy0muyqi3.www.madrigalmaps.com^
 ||fqbjzj.xyz^
@@ -39115,6 +39115,7 @@
 ||gobreadthpopcorn.com^
 ||gobusinessloan.com^
 ||gocertiport.pearsonvue.com^
+||gocheewimtie.xyz^
 ||gocolow.com^
 ||gocomparisongarrison.com^
 ||gocp.stroeermediabrands.de^
@@ -45455,7 +45456,6 @@
 ||iqxuuski.com^
 ||iqyioj.harryanddavid.com^
 ||ir.mildlydoucely.com^
-||iracundnold.com^
 ||iranicoloner.top^
 ||irate1x.xyz^
 ||irbtwjy.com^
@@ -47230,6 +47230,7 @@
 ||jy05.shop^
 ||jy06.shop^
 ||jy07.shop^
+||jy08.shop^
 ||jy147a.com^
 ||jybaekajjmrqw.top^
 ||jybnuw.mudah.my^
@@ -59816,6 +59817,7 @@
 ||noodledesperately.com^
 ||noodokod.xyz^
 ||noodshare.pics^
+||nooglaug.net^
 ||noojoomo.com^
 ||nookthem.com/js/popping^
 ||nookwiser.com^
@@ -62019,6 +62021,7 @@
 ||opximages.webtool.net^
 ||opxogkbiqkti.com^
 ||oq6ry.com^
+||oqaejin.icu^
 ||oqbimz.aviasales.ru^
 ||oqcjtifihpi.com^
 ||oqcrqirncna.xyz^
@@ -67511,6 +67514,7 @@
 ||qkhhjm.autoscout24.nl^
 ||qkhvongctffugm.com^
 ||qkikkg.xyz^
+||qkitery.top^
 ||qkjjuhs.com^
 ||qkodjvdsm.com^
 ||qkqlqjjobvkr.top^
