@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-20 20:39:08（北京时间）
+! Version: 2024-09-21 09:35:11（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99511
+! Total count: 99522
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1497,7 +1497,6 @@
 ||3367.4puuqeh41.com^
 ||3373.833enmhob.com^
 ||3376.5clo0xmbf.com^
-||338d2db673.com^
 ||3390.935ft4j96.com^
 ||33a5056b13.4bec16452f.com^
 ||33a81b5b91.6ec7e42994.com^
@@ -2170,6 +2169,7 @@
 ||5e1b8e9d68.com^
 ||5e23859408.7868d5c036.com^
 ||5e6ef8e03b.com^
+||5ed55e7208.com^
 ||5eef1ed9ac.com^
 ||5efd1e6d20.5e6ef8e03b.com^
 ||5ejlo.xyz^
@@ -11229,6 +11229,7 @@
 ||agstat.html5.qq.com^
 ||agtongagla.com^
 ||agtwvigehvl.com^
+||agufoi.xyz^
 ||agukalty.net^
 ||agurgeed.net^
 ||agvinfo.kollmorgen.com^
@@ -15960,6 +15961,7 @@
 ||aurum.tirto.id^
 ||aus.amexforbusiness.com.au^
 ||ausclh.castlery.com^
+||aushaq.top^
 ||ausoafab.net^
 ||ausomsup.net^
 ||auspiceguile.com^
@@ -16126,7 +16128,6 @@
 ||avowappear.com^
 ||avowdelicacydried.com^
 ||avp.labanquepostale.fr^
-||avpa.javalobby.org^
 ||avpayments.com^
 ||avplwte.xyz^
 ||avramstroy.ru^
@@ -16934,6 +16935,7 @@
 ||baiwhoavita.net^
 ||baiwhuga.net^
 ||baj.fanwenzhan.com^
+||bajowsxpy.com^
 ||bakabok.com^
 ||bakatvackzat.com^
 ||bakercommunications.actonservice.com^
@@ -17216,7 +17218,6 @@
 ||barrenhatrack.com^
 ||barrenusers.com^
 ||barringjello.com^
-||barristerwebzoo.com^
 ||bars.funportal.info^
 ||barscreative1.com^
 ||barsshrug.com^
@@ -18510,6 +18511,7 @@
 ||bkhhijbvyq.com^
 ||bkifg.actonservice.com^
 ||bkirfeu.com^
+||bkiterv.top^
 ||bkjhqkohal.com^
 ||bkkejrvlnmbbr.top^
 ||bklesfzb.com^
@@ -18590,6 +18592,7 @@
 ||blankgrey.com^
 ||blareclockwisebead.com^
 ||blarnydines.com^
+||blasedustin.shop^
 ||blast4traffic.com^
 ||blastadoptedlink.com^
 ||blastcahs.com^
@@ -18601,7 +18604,6 @@
 ||blatewave.top^
 ||blatwalm.com^
 ||blau-subdomain.b.information.blau.de^
-||blaugasemoting.com^
 ||blava.viessmann.sk^
 ||blavity.black.news^
 ||blaze-media.com^
@@ -20441,7 +20443,6 @@
 ||c0me-get-s0me.net^
 ||c0n.tubestash.com^
 ||c0p.cepsum.umontreal.ca^
-||c1-stats.shopifysvc.com^
 ||c1.4qx.net^
 ||c1.chajiaotong.com^
 ||c1.china.cn^
@@ -25797,6 +25798,7 @@
 ||cypressreel.com^
 ||cyprie.com^
 ||cyretuf.top^
+||cysgcm.xyz^
 ||cyuwkbf.top^
 ||cyuyvjwyfvn.com^
 ||cyvjmnu.com^
@@ -28966,7 +28968,6 @@
 ||dianomioffers.co.uk^
 ||diaperdollrelevant.com^
 ||diapsidwigwag.top^
-||diasciaturned.com^
 ||diazoestmark.guru^
 ||diboji.class101.net^
 ||dibrachndoderm.com^
@@ -36838,6 +36839,7 @@
 ||funestjacket.shop^
 ||fungalqueller.com^
 ||fungiaoutfame.com^
+||fungidcolder.com^
 ||fungus.online^
 ||funjoobpolicester.info^
 ||funklicks.com^
@@ -39273,6 +39275,7 @@
 ||googie-anaiytics.com^
 ||google-ads.hara.vn^
 ||google-analytics-cn.com^
+||google-analytics.bi.owox.com^
 ||google-analytics.com^
 ||google-js-01.xyz^
 ||google-js-02.xyz^
@@ -39642,6 +39645,7 @@
 ||greengaming.de^
 ||greenjapan-cname.green-japan.com^
 ||greenlinknow.com^
+||greenmortgage.pro^
 ||greenpaperlist.com^
 ||greenplasticdua.com^
 ||greenrecru.info^
@@ -42493,6 +42497,7 @@
 ||ibptutlgoloqy.com^
 ||ibpxnkwstvqcon.com^
 ||ibqjduiipukerj.com^
+||ibqmey.xyz^
 ||ibrapush.com^
 ||ibryte.com^
 ||ibs.lgappstv.com^
@@ -45946,7 +45951,6 @@
 ||j0ss4np1c5.site^
 ||j1.ax.xrea.com^
 ||j1.piaobing.com^
-||j158.hearstmediact.com^
 ||j178.wmur.com^
 ||j198.registercitizen.com^
 ||j2i0.mathon.fr^
@@ -46766,7 +46770,6 @@
 ||join.zendesk.com^
 ||join02.informamarkets.com^
 ||joina.rune.ai^
-||joinallport.live^
 ||joinb.rune.ai^
 ||joindetox.info^
 ||joinelegancetitanic.com^
@@ -48003,6 +48006,7 @@
 ||klixfeed.com^
 ||klktmc.parler.co.jp^
 ||klmcorporate.americanexpress.nl^
+||klmmnd.com^
 ||klmrgtvjeiea.com^
 ||klonedaset.org^
 ||kloperd.com^
@@ -58170,6 +58174,7 @@
 ||msigbs.actonservice.com^
 ||msioay.backcountry.com^
 ||msioi.steeelm.xyz^
+||msite.baidu.com^
 ||msitec.actonservice.com^
 ||mskjtggjwix.com^
 ||msm.qq.com^
@@ -58269,6 +58274,7 @@
 ||mucinyak.com^
 ||muckilywayback.top^
 ||mucopussamkhya.com^
+||mucvvcbqrwfmir.com^
 ||mud4.destinia.com.eg^
 ||mudbankoxfords.top^
 ||muddiedbubales.com^
@@ -62320,6 +62326,7 @@
 ||ossyfirecpo.com^
 ||ostazvtx.com^
 ||ostensiblecompetitive.com^
+||ostfuwdmiohg.com^
 ||ostilllookinga.cc^
 ||ostjpig.cn^
 ||ostlon.com^
@@ -63224,7 +63231,6 @@
 ||paletteoverjoyed.com^
 ||palibs.tech^
 ||palibzh.tech^
-||paliercleaned.com^
 ||pallonenuda.top^
 ||pallorirony.com^
 ||palmcodliverblown.com^
@@ -67172,6 +67178,7 @@
 ||pwsviu.com^
 ||pwtftm.shingaku.mynavi.jp^
 ||pwuxnr.cn^
+||pwuzvbhf.com^
 ||pwwjuyty.com^
 ||pwwqkppwqkezqer.site^
 ||pwwysydh.com^
@@ -67873,6 +67880,7 @@
 ||qualifyundeniable.com^
 ||qualitas-app.hotdoc.com.au^
 ||qualitiesstopsallegiance.com^
+||qualityadverse.com^
 ||qualitydestructionhouse.com^
 ||qualityremaining.com^
 ||qualitysquashwin.com^
@@ -69429,6 +69437,7 @@
 ||requirestwine.com^
 ||requisiteconjure.com^
 ||requotebatman.com^
+||reqwevf3.fun^
 ||reqyfuijl.com^
 ||rereddit.com^
 ||reroplittrewheck.pro^
@@ -69773,6 +69782,7 @@
 ||revolutionpersuasive.com^
 ||revolvemockerycopper.com^
 ||revolveoppress.com^
+||revolvingshine.pro^
 ||revopush.com^
 ||revresponse.com^
 ||revrtb.com^
@@ -72159,7 +72169,6 @@
 ||sardineforgiven.com^
 ||sardoindkm.top^
 ||sarinfalun.com^
-||sarpocongest.com^
 ||sarrowgrivois.com^
 ||sartolutus.com^
 ||saryprocedentw.info^
@@ -72733,6 +72742,7 @@
 ||sdownload.stargame.com^
 ||sdpimt.lostgolfballs.com^
 ||sdrive.skoda-auto.com^
+||sdss99.fun^
 ||sdtagging.azureedge.net^
 ||sdtsad.com^
 ||sdwbmqqluxiu.com^
@@ -83885,7 +83895,6 @@
 ||tadsbelver.com^
 ||taduhy.timberland.co.uk^
 ||tae0t.site^
-||taelssoftly.com^
 ||taemhn.zamst-online.jp^
 ||taexnaexgg.com^
 ||tafuzcxr.xyz^
@@ -89374,7 +89383,6 @@
 ||trivial-girlfriend.com^
 ||trix.net^
 ||trj.valuecommerce.com^
-||trjxedbjlme.com^
 ||trjxehoxjcbxvuc.xyz^
 ||trk-aspernatur.com^
 ||trk-branch.balinea.com^
@@ -92644,7 +92652,6 @@
 ||vietnam.aomg5bzv7.com^
 ||vietnam.promo.skf.com^
 ||vietnamdaily-log.kienthuc.net.vn^
-||vietnamdaily-log.trithuccuocsong.vn^
 ||view-flix.com^
 ||view.adjust.com^
 ||view.americanbuildings.com^
@@ -94776,6 +94783,7 @@
 ||whoognoz.com^
 ||whookrair.xyz^
 ||whookroo.com^
+||whoolrulr.net^
 ||whoomseezesh.com^
 ||whoopblew.com^
 ||whoostoo.net^
@@ -97621,6 +97629,7 @@
 ||xw.horrifyclausum.com^
 ||xwagtyhujov.com^
 ||xwazafkzej.com^
+||xwbmjb.xyz^
 ||xwcfvvnegv.com^
 ||xwcumrmfkdkbv.com^
 ||xwdjnj.xyz^
@@ -98567,6 +98576,7 @@
 ||ywojvu.kujten.com^
 ||ywokwlx.icu^
 ||ywopyohpihnkppc.xyz^
+||ywpdobsvqlchvrl.com^
 ||ywrcqa.11alive.com^
 ||ywrcqa.12news.com^
 ||ywrcqa.13newsnow.com^
@@ -99503,6 +99513,7 @@
 ||zzkwsosixkdu.com^
 ||zzkzklrjlkbao.top^
 ||zzlong14.cn^
+||zzohucf.icu^
 ||zzqolojyqkamj.top^
 ||zzqyxd.smartpozyczka.pl^
 ||zzrazroawqjkb.top^
