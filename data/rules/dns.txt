@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-21 09:35:11（北京时间）
+! Version: 2024-09-21 20:35:59（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99522
+! Total count: 99515
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -822,7 +822,6 @@
 ||1dfgh34g.gr3hjjj.pics^
 ||1dtdsln1j.de^
 ||1e18a448a6.com^
-||1e49ec466f.com^
 ||1e90.pandasuite.io^
 ||1e9a9a2d5c.7116c9673e.com^
 ||1ed2497413.4f528af8ae.com^
@@ -7233,7 +7232,6 @@
 ||a997d93794.aa2e7ea3fe.com^
 ||a99hz.space^
 ||a9ae7df45f.com^
-||a9c44e3c7e.com^
 ||a9ce112bde.com^
 ||a9d8e7b6i5s.andgino.jp^
 ||a9o.youlikeboys.com^
@@ -8687,7 +8685,6 @@
 ||ad2.linxcz.cz^
 ||ad2.lupa.cz^
 ||ad2.udn.com^
-||ad2games.com^
 ||ad2the.net^
 ||ad2up.com^
 ||ad2upapp.com^
@@ -9847,7 +9844,6 @@
 ||ads.mediaodyssey.com^
 ||ads.mediastinct.com^
 ||ads.medienhaus.de^
-||ads.mercadoclics.com^
 ||ads.metropolis.co.jp^
 ||ads.mgnetwork.com^
 ||ads.mmania.com^
@@ -12940,6 +12936,7 @@
 ||analytics.southpointcasino.com^
 ||analytics.spankbang.com^
 ||analytics.spark.co.nz^
+||analytics.spearly.com^
 ||analytics.sports.ru^
 ||analytics.spun.com.br^
 ||analytics.stanby.com^
@@ -13143,7 +13140,6 @@
 ||anamaembush.com^
 ||anamestreat.top^
 ||anamuel-careslie.com^
-||ananashotel.com^
 ||anansao2ay8yap09.com^
 ||anapirate.com^
 ||anapp.adobe.com^
@@ -22602,7 +22598,6 @@
 ||clauseemploy.com^
 ||clausepredatory.com^
 ||clavialguttera.com^
-||clawedwarble.com^
 ||clayapologizingappreciate.com^
 ||claynelsonlifebalance.actonservice.com^
 ||claypanelohim.top^
@@ -24614,6 +24609,7 @@
 ||cosmicnewspulse.com^
 ||cosmicpartially.com^
 ||cosmo001.top^
+||cosmo100.top^
 ||cosouy.xyz^
 ||costaquire.com^
 ||costarchamfer.com^
@@ -27873,7 +27869,6 @@
 ||day13vh1xl0gh.cloudfront.net^
 ||daybeamposit.com^
 ||daybreakarchitecture.com^
-||daysalsoae.live^
 ||daysmenformat.top^
 ||daysstone.com^
 ||daytimeentreatyalternate.com^
@@ -39624,7 +39619,6 @@
 ||greecewizards.com^
 ||greedcocoatouchy.com^
 ||greedrum.net^
-||greedypiotine.com^
 ||greeftougivy.com^
 ||greekbelievablesplit.com^
 ||greekmankind.com^
@@ -40047,7 +40041,6 @@
 ||guroshied.com^
 ||gurynyce.com^
 ||gus.host^
-||gushbulb.com^
 ||gushfaculty.com^
 ||gushi.network^
 ||gushswarthy.com^
@@ -43649,6 +43642,7 @@
 ||imjxso.bristol.nl^
 ||imk.neweggimages.com^
 ||imkmurrvm.com^
+||immaculate-suspect.com^
 ||immaculategirdlewade.com^
 ||immaculatestolen.com^
 ||immediatebedroom.pro^
@@ -46700,7 +46694,6 @@
 ||jogdied.com^
 ||joggingavenge.com^
 ||jogglenetwork.com^
-||jogglesflocky.com^
 ||jogtestdrive.jeep.com^
 ||jogytuuey.com^
 ||johamp.com^
@@ -47299,6 +47292,7 @@
 ||jy06.shop^
 ||jy07.shop^
 ||jy08.shop^
+||jy09.shop^
 ||jy147a.com^
 ||jybaekajjmrqw.top^
 ||jybnuw.mudah.my^
@@ -49463,6 +49457,7 @@
 ||lgwxawtg.com^
 ||lgylib.dg-home.ru^
 ||lgzkzp.bauhaus.at^
+||lh.bigcrunch.com^
 ||lh031i88q.com^
 ||lhamjcpnpqb.xyz^
 ||lhaqtn.lyst.ca^
@@ -56947,7 +56942,6 @@
 ||midgerelativelyhoax.com^
 ||midgetdeliveringsmartly.com^
 ||midgetincidentally.com^
-||midgetmaying.com^
 ||midistortrix.com^
 ||midlandfeisty.com^
 ||midmaintee.com^
@@ -57259,6 +57253,7 @@
 ||mkg.colfondos.co^
 ||mkgiiijigxwwn.com^
 ||mkhoj.com^
+||mkiterx.top^
 ||mkjsqrpmxqdf.com^
 ||mkkvprwskq.com^
 ||mklik.gazeta.pl^
@@ -72187,7 +72182,6 @@
 ||satarget.southaustralia.com^
 ||satchel.rei.com/packages/adobe-target^
 ||satgt.grafana.com^
-||sationturret.top^
 ||satireunhealthy.com^
 ||satirevegetableshaw.com^
 ||satisfaction399.fun^
@@ -82130,7 +82124,6 @@
 ||storetail.io^
 ||storeyplayfulinnocence.com^
 ||storiesfaultszap.com^
-||storj.cloud^
 ||stork.ibite.company^
 ||stork.notlessbutbetter.com^
 ||stormwind.actonservice.com^
@@ -92203,6 +92196,7 @@
 ||vc.rompishvariola.com^
 ||vcbydvfouqqyls.com^
 ||vcdc.com^
+||vcdfsf99.fun^
 ||vcdn.subiz-cdn.com^
 ||vcdpuyl.com^
 ||vcgdfvbvfxq.com^
@@ -92576,7 +92570,6 @@
 ||video-ads.a2z.com^
 ||video-analytics-api.cloudinary.com^
 ||video-dsp.pddpic.com^
-||video-on-demand.link^
 ||video-serve.com^
 ||video-stats.video.google.com^
 ||video-streaming.ezoic.com^
