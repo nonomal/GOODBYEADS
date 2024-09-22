@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-21 20:35:59（北京时间）
+! Version: 2024-09-22 09:44:26（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99515
+! Total count: 99533
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1737,6 +1737,7 @@
 ||4148d83c3c.f3f202565b.com^
 ||415677.com^
 ||4157.5clo0xmbf.com^
+||4164d5b6eb.com^
 ||416deca3db.com^
 ||4174.79j68qav2.com^
 ||4182.sosqboh85.com^
@@ -2825,7 +2826,6 @@
 ||88.42.84.136^
 ||8818.79j68qav2.com^
 ||8820.pandasuite.io^
-||88225233827.com^
 ||88362zubo95838.com^
 ||884de19f2b.com^
 ||8850.5clo0xmbf.com^
@@ -2889,7 +2889,6 @@
 ||8cc5ff581a88.bitsngo.net^
 ||8cf530b4c4.7dfbef87b6.com^
 ||8cnd.com^
-||8coins.ru^
 ||8d07a.xyz^
 ||8d1dce99ab.com^
 ||8d4b.pandasuite.io^
@@ -3374,6 +3373,7 @@
 ||a.itim.es^
 ||a.itsmore.cn^
 ||a.izlok.xyz^
+||a.jamni.xyz^
 ||a.jaz-hotel.com^
 ||a.jeniz.xyz^
 ||a.jerkdevice.tv^
@@ -8442,7 +8442,6 @@
 ||ad.belleeau.jp^
 ||ad.bench.utorrent.com^
 ||ad.bitmedia.io^
-||ad.bizo.com^
 ||ad.bluepartner.eu^
 ||ad.bobi.tw^
 ||ad.bondage.com^
@@ -11175,6 +11174,7 @@
 ||aggregateknowledge.com^
 ||aggregationcontagion.com^
 ||aggregationstiffenflamboyant.com^
+||aggressivedifficulty.com^
 ||aggressivefrequentneckquirky.com^
 ||aghppuhixd.com^
 ||agilemedia.jp^
@@ -14890,7 +14890,6 @@
 ||aptlycover.com^
 ||aptlydoubtful.com^
 ||aptlytree.com^
-||aptpurerun.live^
 ||apture.com^
 ||apus.tech^
 ||apv-launcher.minute.ly^
@@ -16873,6 +16872,7 @@
 ||baggageconservationcaught.com^
 ||baggagesuch.com^
 ||baggalaresaid.com^
+||baggvon.icu^
 ||baghlachalked.com^
 ||baghoorg.xyz^
 ||bagiijdjejjcficbaag.world^
@@ -19637,7 +19637,6 @@
 ||britaininspirationsplendid.com^
 ||brithungown.com^
 ||britishbeheldtask.com^
-||britishconstrue.com^
 ||britishdividechess.com^
 ||britishensureplease.com^
 ||britishfinestarrangement.com^
@@ -22908,6 +22907,7 @@
 ||client-analytics.braintreegateway.com^
 ||client-analytics.mts.ru^
 ||client-log.box.com^
+||client-log.karte.io^
 ||client-logger.beta.salemove.com^
 ||client-logger.salemove.com^
 ||client-metrics.chess.com^
@@ -25315,6 +25315,7 @@
 ||csdsa22.fun^
 ||cse3.chausport.com^
 ||csfabdtmrs.com^
+||csfds000.fun^
 ||csggmxrbt.com^
 ||csghyg.reginaclinic.jp^
 ||cshbyjjgdtc.com^
@@ -25695,6 +25696,7 @@
 ||cvyimypsjxca.com^
 ||cvzvun.vidaxl.de^
 ||cw.tynessubpart.com^
+||cwaterf.top^
 ||cwcdmm.zennioptical.com^
 ||cwchmb.com^
 ||cwerilxf.top^
@@ -28059,6 +28061,7 @@
 ||ddagyoyucaqay.com^
 ||ddaixdz.cn^
 ||ddb6f742cc.f3010e5e7a.com^
+||ddctoqpfve.com^
 ||ddd.adil23.xyz^
 ||ddd.contoseroticoscnn.com^
 ||ddd.sexstories69.com^
@@ -28382,6 +28385,7 @@
 ||delightdriving.com^
 ||delightedheavy.com^
 ||delightedintention.com^
+||delightedplash.com^
 ||delightedprawn.com^
 ||delightful-page.pro^
 ||delightspiritedtroop.com^
@@ -29473,6 +29477,7 @@
 ||dismalthroat.pro^
 ||dismantlepenantiterrorist.com^
 ||dismantleunloadaffair.com^
+||dismastrostra.com^
 ||dismaybrave.com^
 ||dismaytestimony.com^
 ||dismissabuse.com^
@@ -31434,6 +31439,7 @@
 ||eatengossipyautomobile.com^
 ||eaterdrewduchess.com^
 ||eatjav.ekosport.fr^
+||eatmenttogeth.com^
 ||eatonaero.advancedtech.com^
 ||eatsidebicep.com^
 ||eatssetaria.top^
@@ -31652,7 +31658,6 @@
 ||ecrwqu.com^
 ||ecstatic-rope.pro^
 ||ecsxtrhfgvs.com^
-||ecthhpmjtrqs.com^
 ||ectsofcukorpor.com^
 ||ectyet.top^
 ||ecu.hagerty.com^
@@ -31941,7 +31946,6 @@
 ||effacedefend.com^
 ||effaceecho.com^
 ||effacerevealing.com^
-||effad.ru^
 ||effateuncrisp.com^
 ||effect.habr.com^
 ||effectedscorch.com^
@@ -33510,6 +33514,7 @@
 ||esrogunstagy.com^
 ||esrpkd.com^
 ||essaycosigninvite.com^
+||essededowns.click^
 ||essentiahealth.hrm.healthgrades.com^
 ||essential-apps-analytics.herokuapp.com^
 ||essential-trash.com^
@@ -34973,6 +34978,7 @@
 ||fdelphaswcealifornica.com^
 ||fdfda.zhuzhai.com^
 ||fdfghgfdd.yunqishi.net^
+||fdfqbxsaas.com^
 ||fdheincvdbp.com^
 ||fdhnsr56.shop^
 ||fdiinc.actonservice.com^
@@ -35230,6 +35236,7 @@
 ||fgbnnholonge.info^
 ||fgbthrsxnlo.xyz^
 ||fgcxdr.cn^
+||fgdkfr.xyz^
 ||fgdxwpht.com^
 ||fgeivosgjk.com^
 ||fgfecw.rebelle.com^
@@ -38539,6 +38546,7 @@
 ||gntsrybdc.com^
 ||gnuppbsxa.xyz^
 ||gnvpmftcgp.com^
+||gnyjxyzqdcjb.com^
 ||go-clicks.de^
 ||go-communications.comed.com^
 ||go-cpa.click^
@@ -40061,6 +40069,7 @@
 ||guttulatruancy.com^
 ||gutwn.info^
 ||guufxr.sdbullion.com^
+||guvmcalwio.com^
 ||guvsxiex.xyz^
 ||guvwolr.com^
 ||guwohvw.icu^
@@ -40329,6 +40338,7 @@
 ||halogennetwork.com^
 ||halthomosexual.com^
 ||haltough.net^
+||haltowe.info^
 ||halveimpendinggig.com^
 ||halvwk.jetcost.ie^
 ||hambtr.unilife.co.jp^
@@ -42277,6 +42287,7 @@
 ||hygeistagua.com^
 ||hygiena.actonservice.com^
 ||hygromycin-b-50mg-ml-solution.com^
+||hyhy2.fun^
 ||hyibby.lampen24.be^
 ||hyislou.top^
 ||hyistkechaukrguke.com^
@@ -45890,6 +45901,7 @@
 ||ixrzwf.decathlon.be^
 ||ixsgoy.getpenta.com^
 ||ixstng.cn^
+||ixtxxvbgudre.com^
 ||ixtzad.fetch.co.uk^
 ||ixwereksbeforeb.info^
 ||ixwloxw.com^
@@ -48521,6 +48533,7 @@
 ||kxwhiogrswx.com^
 ||kxxfdwt.cn^
 ||kxyfhxbsvfhy.com^
+||ky595images.com^
 ||ky891.oss-*.aliyuncs.com^
 ||kyaywy.xyz^
 ||kyccmn.com^
@@ -57212,7 +57225,6 @@
 ||mixedreading.com^
 ||mixer.sina.cn^
 ||mixhillvedism.com^
-||mixmarket.biz^
 ||mixomniture.rbs.com^
 ||mixpanel-proxy.ted.com^
 ||mixpo.com^
@@ -57827,6 +57839,7 @@
 ||mopeia.xyz^
 ||mopemodelingfrown.com^
 ||mopesrubelle.com^
+||mopiwhoisqui.com^
 ||moplahsoleil.top^
 ||mopub-win-us-east.bksn.se^
 ||mopub.com^
@@ -64564,7 +64577,6 @@
 ||pithierdossel.com^
 ||pitonlocmna.com^
 ||pitoodsouk.net^
-||pitors.com^
 ||pitsampy.net^
 ||pitshopsat.com^
 ||pittaking.openapp.link^
@@ -65182,7 +65194,6 @@
 ||pmc1201.com^
 ||pmd-vp-aka.canal-plus.com^
 ||pmdnditvte.com^
-||pmdxwtkmbthlg.com^
 ||pmegulnunf.com^
 ||pmetorealiukze.xyz^
 ||pmeuehivfps.com^
@@ -67671,6 +67682,7 @@
 ||qnartpbxjaxep.com^
 ||qnbiiygyrox.com^
 ||qnbskk.oqvestir.com.br^
+||qnesnufjs.com^
 ||qnhuxyqjv.com^
 ||qnhvvrpkus.com^
 ||qnifdlay.top^
@@ -68555,6 +68567,7 @@
 ||rcaqaogrcjukkg.com^
 ||rcblkkhfvrxyn.com^
 ||rcbsrm.fivefoxes.co.jp^
+||rccdmvlyhsuc.com^
 ||rccnyh.airportrentalcars.com^
 ||rcdjkdesdn.com^
 ||rce.iperceptions.com^
@@ -70978,6 +70991,7 @@
 ||rvioyjme.com^
 ||rvitam.xenos.nl^
 ||rvltckxibcmlt.com^
+||rvnaxwqe.icu^
 ||rvo-cohesion.healthline.com^
 ||rvrpushserv.com^
 ||rvrpushsrv.com^
@@ -72098,6 +72112,7 @@
 ||sanedfalsely.com^
 ||sanggilregard.com^
 ||sangleysoldo.com^
+||sanhpaox.xyz^
 ||sanitarysustain.com^
 ||sanjay44.xyz^
 ||sankaudacityrefine.com^
@@ -72442,6 +72457,7 @@
 ||scarpeweevily.top^
 ||scarymarine.com^
 ||scashwl.com^
+||scatteredhecheaper.com^
 ||scatulalactate.com^
 ||scavelbuntine.life^
 ||scdown.qq.com^
@@ -82291,7 +82307,6 @@
 ||stripe.rs-1028-a.com^
 ||stripedcover.pro^
 ||stripedonerous.com^
-||stripeformism.com^
 ||striperaised.com^
 ||striperewind.com^
 ||striperoused.com^
@@ -82818,7 +82833,6 @@
 ||sv6.aomg5bzv7.com^
 ||svanh-xqh.com^
 ||svaohpdxn.xyz^
-||svbzpenplok.com^
 ||svc.kartinka.com.ua^
 ||svc2.sc.com^
 ||svhdbmp.cn^
@@ -83366,6 +83380,7 @@
 ||szqxvo.com^
 ||szrpr.raen.com^
 ||sztpmc.branshes.com^
+||szwschryizrb.com^
 ||szzhwaaxhnnrx.com^
 ||t-ak.hulu.com^
 ||t-dsp.pinduoduo.com^
@@ -86212,7 +86227,6 @@
 ||toovoala.net^
 ||top-casting-termine.de^
 ||top-fwz1.mail.ru^
-||top-js-metrics.top.my.ua^
 ||top-offers1.com^
 ||top-performance.best^
 ||top-performance.club^
@@ -90492,6 +90506,7 @@
 ||ualkzq.moobel1.ee^
 ||uamoctchgmkya.com^
 ||uanbpywrumpuj.com^
+||uaoaig.xyz^
 ||uapi.ads.heytapmobi.com^
 ||uaputgtwlhkmtr.com^
 ||uaqcui.tennis-point.fr^
@@ -91848,7 +91863,6 @@
 ||uvzrtq.livingspaces.com^
 ||uvzsmwfxa.com^
 ||uwadpksbkzp.com^
-||uwams.info^
 ||uwavoptig.com^
 ||uwaxoyfklhm.com^
 ||uwdzbo.tgw.com^
@@ -97408,6 +97422,7 @@
 ||xnedglnnwrexss.com^
 ||xnfhxszj.xyz^
 ||xnpuw.cn^
+||xnqboqc.icu^
 ||xnrowzw.com^
 ||xnszbmnxuzfvr.com^
 ||xntrmky.com^
@@ -97665,6 +97680,7 @@
 ||xxsmad1.com^
 ||xxsmad2.com^
 ||xxsmad3.com^
+||xxsmad4.com^
 ||xxwflybvwbario.com^
 ||xxx.sdtraff.com^
 ||xxxbannerswap.com^
@@ -98427,6 +98443,7 @@
 ||yrqxygxnpg.com^
 ||yrrudp.inven.co.kr^
 ||yrszy.com.cn^
+||yrudsrdignej.com^
 ||yrvzqabfxe.com^
 ||ys-log-upload-os.hoyoverse.com^
 ||ys.muhoujiemi.com^
@@ -98800,6 +98817,7 @@
 ||zbfemgimtyejpm.com^
 ||zbfszb.calpis-shop.jp^
 ||zbrfde.ozmall.co.jp^
+||zbrfqupfyfu.com^
 ||zbvhwaakws.com^
 ||zbvpfsorrl.com^
 ||zbxtcwi.xyz^
