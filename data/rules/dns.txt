@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-22 09:44:26（北京时间）
+! Version: 2024-09-22 20:36:49（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99533
+! Total count: 99525
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2810,7 +2810,6 @@
 ||8692.79j68qav2.com^
 ||869cf3d7e4.com^
 ||8715.bestinterestings.com^
-||87193776899.com^
 ||87442aa6f2.d473c08307.com^
 ||874547.men^
 ||8759.bestinterestings.com^
@@ -3019,7 +3018,6 @@
 ||943d6e0643.com^
 ||945vxo482.com^
 ||9474.5clo0xmbf.com^
-||947ec124d5.com^
 ||94870bbbc9.com^
 ||9488.833enmhob.com^
 ||9489.bestinterestings.com^
@@ -3149,7 +3147,6 @@
 ||9cfcbc9209.com^
 ||9content.com^
 ||9d0a3ce113.0935feb05f.com^
-||9d2852b15a.com^
 ||9d2cca15e4.com^
 ||9d3464a212.eac77b4889.com^
 ||9d407e803d.com^
@@ -15350,7 +15347,6 @@
 ||asgccummig.com^
 ||asgclick.com^
 ||asgclickkl.com^
-||asgclickpop.com^
 ||asgclickpp.com^
 ||asgex.click^
 ||asgg.ghostbin.me^
@@ -16748,7 +16744,6 @@
 ||b73uszzq3g9h.com^
 ||b754af79a7.com^
 ||b76751e155.com^
-||b7efb2664b.com^
 ||b7om8bdayac6at.com^
 ||b7qmb255e.com^
 ||b7sw62.pingshu8.xyz^
@@ -18086,7 +18081,6 @@
 ||bewetnovate.com^
 ||bewhigwithier.com^
 ||bewitchadmiringconstraint.com^
-||bewitchliquor.com^
 ||bewoobaton.com^
 ||bewr1.com^
 ||bewrapsstomal.website^
@@ -18101,7 +18095,6 @@
 ||bezwtpxx.com^
 ||bf-ad.net^
 ||bf34714db5.eafb9d5abc.com^
-||bf3572595c.com^
 ||bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au^
 ||bfac5cb821.19d7fd2ed2.com^
 ||bfast.com^
@@ -27209,7 +27202,6 @@
 ||danielsmoving.actonservice.com^
 ||danmounttablets.com^
 ||dansheshi.com^
-||danspowsmwap.com^
 ||dantasg.com^
 ||dantbritingd.club^
 ||danv01ao0kdr2.cloudfront.net^
@@ -36654,7 +36646,6 @@
 ||frogrugby.com^
 ||frolicaugmentcreeper.com^
 ||frolnk.com^
-||frombatmuch.live^
 ||fromhttptohttps.atea.fi^
 ||fromjoytohappiness.com^
 ||fromoffspringcaliber.com^
@@ -42197,6 +42188,7 @@
 ||hw70f395eb456e.aomg5bzv7.com^
 ||hwa.his.huawei.com^
 ||hwaagkmiitos.com^
+||hwateru.top^
 ||hwbekhxxihvdoue.com^
 ||hwderdk.com^
 ||hwerilxu.top^
@@ -64390,7 +64382,6 @@
 ||picklecandourbug.com^
 ||picklesdumb.com^
 ||picklespealwanderer.com^
-||pickupfaxmultitude.com^
 ||pickupnationalityinexhaustible.com^
 ||pickuppestsyndrome.com^
 ||pickvideolink.com^
@@ -64861,7 +64852,6 @@
 ||platesnervous.com^
 ||platesworked.com^
 ||platform-hetcash.com^
-||platform.adlinknetwork.vn^
 ||platform.artilleryads.com^
 ||platform.cid.samba.tv^
 ||platform.iteratehq.com^
@@ -92477,6 +92467,7 @@
 ||vfvad.top^
 ||vfvcxv.naturhaeuschen.de^
 ||vfvdsati.com^
+||vfvdvd99.fun^
 ||vfvrld.xyz^
 ||vfvvhywsdons.com^
 ||vfxrpl.xyz^
@@ -97414,6 +97405,7 @@
 ||xn--u1aaw.xn--p1ai^
 ||xn--w9q675dm1p7em.net^
 ||xn--wgvp78a61swpe6zdozj.cn^
+||xn--xhq326aj6yqpw.com^
 ||xn--xhq326apqhcx0d.cn^
 ||xn.brocardgillar.com^
 ||xn.geoidalsericin.com^
