@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-23 20:40:25（北京时间）
+! Version: 2024-09-24 09:39:33（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14570
+! Total count: 14571
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -12420,13 +12420,13 @@
 @@||static.ads-twitter.com/uwt.js$xmlhttprequest
 @@||static.ads-twitter.com^|$app=com.nttdocomo.android.danimeapp
 @@||static.adsafeprotected.com/iasPET*.js$domain=independent.co.uk
-@@||static.adsafeprotected.com/iasPET.1.js$domain=cn.wsj.com
+@@||static.adsafeprotected.com/iasPET.1.js$domain=wsj.com
 @@||static.adsafeprotected.com/skeleton.js$domain=cwtv.com
-@@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=cn.wsj.com
 @@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=forbes.com
 @@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=motorsport.tv
 @@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=nhl.com
 @@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=tyla.com
+@@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=wsj.com
 @@||static.adtrue24.com/images/*$domain=fap18.net
 @@||static.amazon.jobs/assets/analytics-$script,domain=amazon.jobs
 @@||static.anyporn.com/bravoplayer/custom/anyporncom/scripts/bpcc.js
@@ -13159,6 +13159,7 @@
 @@||tms.oracle.com/main/prod/utag.sync.js$~third-party
 @@||tmx.bestbuy.com/z3nsvo31pnlmt3tw.js$domain=bestbuy.com
 @@||tn.voyeurhit.com^$domain=voyeurhit.tube
+@@||tnmr.org/hls$stealth=useragent
 @@||tns-counter.ru/tcounter.js$domain=forbes.ru
 @@||tntdrama.com/modules/custom/ten_libraries/reusedFrom*/adHelper.js$~third-party
 @@||tntdrama.com/modules/custom/ten_video/js/analytics_v2.js$~third-party
