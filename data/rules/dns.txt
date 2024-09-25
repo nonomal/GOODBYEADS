@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-25 09:40:31（北京时间）
+! Version: 2024-09-25 20:41:02（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99948
+! Total count: 99947
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -239,7 +239,6 @@
 ||0934.5clo0xmbf.com^
 ||0940088.com^
 ||0941.org^
-||09482aec5d.com^
 ||096783c985.c4cdca50cc.com^
 ||0978.4puuqeh41.com^
 ||097cfe5997.4d9e86640a.com^
@@ -58905,7 +58904,6 @@
 ||mymix.mixdevelopment.com^
 ||mymix.mixtel.com^
 ||mymix.mixtelematics.com^
-||mymomlike.com^
 ||mymqcy.xyz^
 ||mynativeplatform.com^
 ||myniceposts.com^
@@ -61584,7 +61582,6 @@
 ||oltcneutwheoioo.xyz^
 ||oltptelifmal.com^
 ||olularhenewrev.info^
-||olvewvnhaqkkc.com^
 ||olvwnmnp.com^
 ||olwqxg.europcar.it^
 ||olxcvfwfej.com^
@@ -64521,6 +64518,7 @@
 ||phhxlhdjw.xyz^
 ||phialedamende.com^
 ||phicmune.net^
+||phidianowlet.com^
 ||phiduvuka.pro^
 ||phignubsordy.com^
 ||philacct.com^
@@ -91947,7 +91945,6 @@
 ||urnkcqzu.com^
 ||uropygimoraine.com^
 ||uroqgj.wind.it^
-||urosteavialled.com^
 ||urpctsrjilp.com^
 ||urptcerftud.com^
 ||urquqtbswaqta.com^
@@ -92842,6 +92839,7 @@
 ||vfchm.cyou^
 ||vfcsesjgbj.com^
 ||vfd2dyn.vodafone.de^
+||vfdvdfv77.fun^
 ||vfdvdg67.fun^
 ||vfeeopywioabi.xyz^
 ||vfgajrk.cn^
@@ -95874,6 +95872,7 @@
 ||wpinfnyp.com^
 ||wpjhenqutmdzd.com^
 ||wpkfti.1300k.com^
+||wpmdeo.xyz^
 ||wpncdn.com^
 ||wpnetwork.eu^
 ||wpnjs.com^
