@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-28 09:38:42（北京时间）
+! Version: 2024-09-28 20:37:12（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100039
+! Total count: 100020
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -251,7 +251,6 @@
 ||0a1c70608b.2e4b7fc71a.com^
 ||0a22eeac91.e46ece0a18.com^
 ||0a2b3c4d5e.com^
-||0a65b6165b.com^
 ||0a8d87mlbcac.top^
 ||0ab8344566.51cd57d70c.com^
 ||0af2a962b0102942d9a7df351b20be55.com^
@@ -2412,7 +2411,6 @@
 ||671c.pandasuite.io^
 ||674715bc8d.1db10dd33b.com^
 ||6753.833enmhob.com^
-||675ad8b574.com^
 ||6793.l5eamr17d.com^
 ||67b3239ff1.d58f989012.com^
 ||67trackdomain.com^
@@ -8133,7 +8131,6 @@
 ||accuratewistful.com^
 ||accuride.actonservice.com^
 ||accusationcollegeload.com^
-||accusedmilkdemanded.com^
 ||accusedstone.com^
 ||accusemonacan.com^
 ||accuseraccustomed.com^
@@ -11707,7 +11704,6 @@
 ||albeitinflame.com^
 ||albeittuitionsewing.com^
 ||albeitvoiceprick.com^
-||alberguecasaanita.com^
 ||albireo.xyz^
 ||alblux.com^
 ||alboautotrasportatori.it^
@@ -18159,7 +18155,6 @@
 ||betmasquerainchan.com^
 ||betnidorinoan.net^
 ||betnoctowlor.com^
-||betonychevage.com^
 ||betotodilea.com^
 ||betotodileon.com^
 ||betrayalmakeoverinstruct.com^
@@ -18839,7 +18834,6 @@
 ||blowscarcetown.com^
 ||blowssubplow.com^
 ||bloxplay.com^
-||blqwovxjibbauwm.xyz^
 ||blrpbt.xyz^
 ||blsoof.wirwinzer.de^
 ||blthwbe.xyz^
@@ -20045,7 +20039,6 @@
 ||buccanslabby.top^
 ||buckanimateretired.com^
 ||buckeyekantars.com^
-||buckrapallier.com^
 ||buckumoore.com^
 ||buckwheatchipwrinkle.com^
 ||bucojjqcica.com^
@@ -21277,7 +21270,6 @@
 ||catukhyistke.info^
 ||catwalkoutled.com^
 ||catwenbat.com^
-||catwoodflewit.click^
 ||catwrite.com^
 ||catxkeopwc.com^
 ||cau1aighae.com^
@@ -22012,6 +22004,7 @@
 ||cfd546b20a.com^
 ||cfda4acf08.2f1a1a7f62.com^
 ||cfdns.vip^
+||cfdvd779.fun^
 ||cfe6275a8e.3ead4fd497.com^
 ||cfeb0910c5.com^
 ||cfg.cml.ksmobile.com^
@@ -27335,6 +27328,7 @@
 ||dajiahao9.top^
 ||dajkq.com^
 ||dajkqqpz.top^
+||dajs001.shop^
 ||dajswiacllfy.com^
 ||dakjddjerdrct.online^
 ||daksflkalq.top^
@@ -33582,7 +33576,6 @@
 ||erdeallyighab.com^
 ||erdecisesgeorg.info^
 ||erebor.douban.com^
-||erebusdithery.top^
 ||eredthechildre.info^
 ||ereerdepi.com^
 ||erelongoilmen.com^
@@ -33711,7 +33704,6 @@
 ||esqjac.costakreuzfahrten.de^
 ||esqxrp.bonprix-fl.be^
 ||esri.nl.actonservice.com^
-||esrogunstagy.com^
 ||esrpkd.com^
 ||essaycosigninvite.com^
 ||essededowns.click^
@@ -34087,7 +34079,6 @@
 ||events.brightline.tv^
 ||events.btw.so^
 ||events.busuu.com^
-||events.caffeine.tv^
 ||events.cardsmobile.ru^
 ||events.careallies.com^
 ||events.centex.com^
@@ -34977,7 +34968,6 @@
 ||faquirrelot.com^
 ||farahatco.actonservice.com^
 ||faramkaqxoh.com^
-||farbankthy.live^
 ||farceurincurve.com^
 ||farciedfungals.top^
 ||fardasub.xyz^
@@ -35348,7 +35338,6 @@
 ||fer2oxheou4nd.com^
 ||feralopponentplum.com^
 ||ferdarius.com^
-||feredeficit.top^
 ||ferelatedmothes.com^
 ||ferias.usj.es^
 ||ferict.com^
@@ -37379,7 +37368,6 @@
 ||ga1.3dmgame.com^
 ||gaafbi.fashiondays.hu^
 ||gaana.com/ajax/loaddfp^
-||gabaritevict.top^
 ||gabblecongestionhelpful.com^
 ||gabblewhining.com^
 ||gabsailr.com^
@@ -44087,7 +44075,6 @@
 ||inadmissibleinsensitive.com^
 ||inadmissiblesomehow.com^
 ||inadnetwork.xyz^
-||inagtwo.live^
 ||inaltariaon.com^
 ||inalzlo.top^
 ||inamiaaglow.life^
@@ -48010,6 +47997,7 @@
 ||kfjslid.top^
 ||kflybplr.xyz^
 ||kfngvuu.com^
+||kfocken.icu^
 ||kfpicimage.xyz^
 ||kfpljakmiousajl.com^
 ||kfpnqug.cn^
@@ -52512,7 +52500,6 @@
 ||m.gdt.qq.com^
 ||m.giftry.com^
 ||m.go4.io^
-||m.gxwztv.com^
 ||m.happ.social^
 ||m.history.com^
 ||m.historyvault.com^
@@ -59339,7 +59326,6 @@
 ||ncpnth.xyz^
 ||ncpxhrurirscgsd.com^
 ||nct.ui-portal.de^
-||nct1.logging.nextsmarty.com^
 ||nct2-logging.nct.vn^
 ||nctrk.abmail.com.br^
 ||ncubadmavfp.com^
@@ -59387,7 +59373,6 @@
 ||ndthensome.com^
 ||ndtsusmqnuslkqx.com^
 ||ndwouldmeu.info^
-||ndyzz.com^
 ||ndzksr.xyz^
 ||ndzoaaa.com^
 ||neaaom.ytn.co.kr^
@@ -59795,7 +59780,6 @@
 ||nf1nknlw.mateforevents.com^
 ||nfctoroxi.xyz^
 ||nffxqi.jorgebischoff.com.br^
-||nfjwnmayskpfkvm.com^
 ||nfkd2ug8d9.com^
 ||nfldgbt.xyz^
 ||nflxjp.residences-immobilier.com^
@@ -83501,7 +83485,6 @@
 ||swinity.com^
 ||swissadserver.ch^
 ||swissinside.easyjet.com.edgekey.net.easyjet.com^
-||switchadhub.com^
 ||swivelarditi.shop^
 ||swlkdqlcx.com^
 ||swlogic.wpu.sh^
@@ -93174,7 +93157,6 @@
 ||viiapps.com^
 ||viiatomicnumber.com^
 ||viiavjpe.com^
-||viiaxe.com^
 ||viibest.com^
 ||viibngx.com^
 ||viicqujz.com^
@@ -98304,7 +98286,6 @@
 ||yak.gregsullivan.com^
 ||yakcphctjbzwnv.com^
 ||yakvssigg.xyz^
-||yalidescale.com^
 ||yallarec.com^
 ||yamalkacausata.top^
 ||yamanaisleepry.com^
