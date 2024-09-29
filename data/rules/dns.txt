@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-09-29 09:45:59（北京时间）
+! Version: 2024-09-29 20:37:32（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100031
+! Total count: 100027
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -15648,7 +15648,6 @@
 ||assure360.actonservice.com^
 ||assurednesssalesmanmaud.com^
 ||assuredtroublemicrowave.com^
-||assuredunskilledconnected.com^
 ||assuremath.com^
 ||assuretwelfth.com^
 ||ast-en.adp.ca^
@@ -21302,7 +21301,6 @@
 ||cavalryoppression.com^
 ||cavebummer.com^
 ||caveestate.com^
-||caverculpon.top^
 ||cavewrap.care^
 ||caviarconcealed.com^
 ||cawedburial.com^
@@ -25497,7 +25495,6 @@
 ||csjplatform.com^
 ||csjuq.com^
 ||csk.ru^
-||cskh-hcm.fpt.edu.vn^
 ||cskh.onlinecrm.vn^
 ||cskmfxhxhjrskl.com^
 ||csm.magnetintell.com^
@@ -31395,7 +31392,6 @@
 ||e702fa7de9d35c37.com^
 ||e732bfae2a.com^
 ||e733abaa55.884de19f2b.com^
-||e76e75ed51.com^
 ||e770af238b.com^
 ||e77lmzbqou0n-a.akamaihd.net^
 ||e7cb8e602c.05b960757b.com^
@@ -33482,7 +33478,6 @@
 ||ephpqyjqyj.com^
 ||epicgameads.com^
 ||epicgolive.rainresources.com^
-||epicsambari.click^
 ||epimetheus.navigator.web.de^
 ||epipialbeheira.com^
 ||epitokealraun.top^
@@ -37459,6 +37454,7 @@
 ||game.loveota.com^
 ||game.starswalker.site^
 ||game.weixin.qq.com^
+||game8.jp/logs^
 ||gameads.io^
 ||gameanalysis.appcpi.net^
 ||gameawin.com^
@@ -46623,6 +46619,7 @@
 ||jerusalemcurve.com^
 ||jerusalemstatedstill.com^
 ||jerust.com^
+||jeryt111.fun^
 ||jesaifie.com^
 ||jessamyimprovementdepression.com^
 ||jessunews.com^
@@ -59398,7 +59395,6 @@
 ||neatsafety.com^
 ||neawaytogyptsix.info^
 ||nebackextol.top^
-||nebaliaasslike.shop^
 ||nebsefte.net^
 ||nebulouslostpremium.com^
 ||necessaryescort.com^
@@ -69723,7 +69719,6 @@
 ||repeatedlyshepherd.com^
 ||repeatloin.com^
 ||repeatresolve.com^
-||repegraver.com^
 ||repelcultivate.com^
 ||repellentamorousrefutation.com^
 ||repellentbaptism.com^
@@ -70813,6 +70808,7 @@
 ||roxot-panel.com^
 ||roxr.net^
 ||roxtec.actonservice.com^
+||roxwusak.icu^
 ||roxyaffiliates.com^
 ||royalcactus.com^
 ||royallycuprene.com^
@@ -72585,7 +72581,6 @@
 ||satisfactorilyfigured.com^
 ||satisfactoryhustlebands.com^
 ||satisfied-tour.pro^
-||satlockspa.live^
 ||satmon.neekstore.com^
 ||satoripedary.com^
 ||satracking.cubiq.com^
@@ -89822,6 +89817,7 @@
 ||triumphantplace.com^
 ||trix.net^
 ||trj.valuecommerce.com^
+||trjs2.mediafin.be^
 ||trjxehoxjcbxvuc.xyz^
 ||trk-aspernatur.com^
 ||trk-branch.balinea.com^
