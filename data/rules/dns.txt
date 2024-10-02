@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-02 09:39:13（北京时间）
+! Version: 2024-10-02 20:40:45（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100188
+! Total count: 100175
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1483,7 +1483,6 @@
 ||3221dkf7m2.com^
 ||3222.5clo0xmbf.com^
 ||3227.k3718qw08.com^
-||3227a4c431.com^
 ||3247.5clo0xmbf.com^
 ||3251.5clo0xmbf.com^
 ||3254.5clo0xmbf.com^
@@ -2391,7 +2390,6 @@
 ||65f249bd43.com^
 ||65mjvw6i1z.com^
 ||65spy7rgcu.com^
-||65u0tvf9l4.com^
 ||6600.5clo0xmbf.com^
 ||6613.79j68qav2.com^
 ||663008888.com^
@@ -2954,7 +2952,6 @@
 ||8c62c8cf22.38f3857fa1.com^
 ||8c771f7ea1.com^
 ||8cbf11312f.2989f3f0ff.com^
-||8cc185db46.com^
 ||8cc5ff581a88.bitsngo.net^
 ||8cf530b4c4.7dfbef87b6.com^
 ||8cnd.com^
@@ -3226,7 +3223,6 @@
 ||9d2cca15e4.com^
 ||9d3464a212.eac77b4889.com^
 ||9d407e803d.com^
-||9d4d667182.com^
 ||9d5ed16be3.2f2bef3deb.com^
 ||9d603009eb.com^
 ||9db1ac1992.9d8880ca57.com^
@@ -13824,6 +13820,7 @@
 ||api.metrike.com^
 ||api.miui.security.xiaomi.com^
 ||api.mixpanel.com^
+||api.moneyoyo.org^
 ||api.mumuglobal.com^
 ||api.nas.nct.vn^
 ||api.native-track.com^
@@ -15862,6 +15859,7 @@
 ||ato.mx^
 ||ato.tooopen.com^
 ||atom-log.3.cn^
+||atom.warnermedia.com^
 ||atomex.net^
 ||atomicarot.com^
 ||atonato.de^
@@ -16634,6 +16632,7 @@
 ||az100.cosmicnewspulse.com^
 ||az43064.vo.msecnd.net^
 ||az693360.vo.msecnd.net^
+||az697jylm.cc^
 ||azads.com^
 ||azazyjjzbelwb.top^
 ||azbaclxror.com^
@@ -17497,7 +17496,6 @@
 ||bbhxuqym.xyz^
 ||bbiuowdofb.com^
 ||bbjnttjqknnmf.com^
-||bbjrrtddffb.com^
 ||bbjtx9pwy.com^
 ||bbk.pnc.com^
 ||bbkydnakc.com^
@@ -18040,7 +18038,6 @@
 ||bepawrepave.com^
 ||bephungoagno.com^
 ||bepilelaities.com^
-||bepityetheric.com^
 ||bepolite.eu^
 ||beqioy.promessedefleurs.com^
 ||ber2g8e3keley.com^
@@ -19352,7 +19349,6 @@
 ||bovid.docutize.de^
 ||bovid.neural.love^
 ||bovidsacate.com^
-||bowcoolstop.live^
 ||bowedcounty.com^
 ||boweddemand.com^
 ||boweddrawback.com^
@@ -21279,7 +21275,6 @@
 ||catshark.janetalexandersson.com^
 ||catshark.jimmyaldape.dev^
 ||catshark.spur.design^
-||catsnthing.com^
 ||catsnthings.fun^
 ||catsunrunjam.com^
 ||cattell.loanzify.app^
@@ -24984,6 +24979,7 @@
 ||couwhivu.com^
 ||couwhoupesho.net^
 ||couwooji.xyz^
+||covatic.io^
 ||covenant.psjhealth.org^
 ||coveredbetting.com^
 ||coveredsnortedelectronics.com^
@@ -25619,7 +25615,6 @@
 ||ctl.mobitrack.co.kr^
 ||ctlayn.talbots.com^
 ||ctlrarz.xyz^
-||ctltbinyiifmlr.com^
 ||ctm-media.com^
 ||ctmrso.xyz^
 ||ctnetwork.hu^
@@ -28799,7 +28794,6 @@
 ||descriptionhoney.com^
 ||descz.ovh^
 ||desekansr.com^
-||desertedrat.com^
 ||desertsfraze.com^
 ||desertsquiverinspiration.com^
 ||desertsutilizetopless.com^
@@ -31431,7 +31425,6 @@
 ||e5asyhilodice.com^
 ||e5obq1v261.www.lurkit.com^
 ||e6400a77fa.com^
-||e6460525b5.com^
 ||e6644fec96.7b98c550d1.com^
 ||e67jpj6to.com^
 ||e67repidwnfu7gcha.com^
@@ -36577,7 +36570,6 @@
 ||fourier.taobao.com^
 ||fourmtagservices.appspot.com^
 ||fourteenthcongratulate.com^
-||fourthatbud.live^
 ||fourtimessmelly.com^
 ||fourwhenstatistics.com^
 ||fout.jp^
@@ -38825,7 +38817,6 @@
 ||gnkvyn.freeportstore.com^
 ||gnnkrz.josbank.com^
 ||gnnnzxuzv.com^
-||gnojicfj.com^
 ||gnozmx.locasun.fr^
 ||gnqsvrafjtoa.com^
 ||gnqtageoyy.com^
@@ -48364,6 +48355,7 @@
 ||klmmnd.com^
 ||klmrgtvjeiea.com^
 ||klonedaset.org^
+||kloojzn.icu^
 ||kloperd.com^
 ||kloynfsag.com^
 ||klpgmansuchcesu.com^
@@ -48856,6 +48848,7 @@
 ||kwtnhdrmbx.com^
 ||kwtpbkqmtbuqvz.com^
 ||kwumme.xyz^
+||kwurserd.top^
 ||kwvbhj.jcpenney.com^
 ||kwwgmv.tennistown.de^
 ||kwwvxn.uniqlo.com^
@@ -50944,7 +50937,6 @@
 ||lipsate.com^
 ||lipurialauroyl.com^
 ||liqikxqpx.com^
-||liquidad.narrowcastmedia.com^
 ||liquidapprovaltar.com^
 ||liquidfire.mobi^
 ||liquorelectric.com^
@@ -59978,7 +59970,6 @@
 ||nicksstevmark.com^
 ||nicmaui.com^
 ||nicmisa.com^
-||nicsorts-accarade.com^
 ||nicthei.com^
 ||nidaungig.net^
 ||nidays.austria.ni.com^
@@ -63183,7 +63174,6 @@
 ||owqrtaodb.com^
 ||owrddzml.com^
 ||owrkwilxbw.com^
-||owrtwsrp.com^
 ||ows.ihs.com^
 ||owsfsoogb.com^
 ||owss.ihs.com^
@@ -63994,7 +63984,6 @@
 ||pauewr4cw2xs5q.com^
 ||paughtyrostrum.com^
 ||paugrozefou.net^
-||pauhoano.com^
 ||paul.aomg5bzv7.com^
 ||paularrears.com^
 ||paulastroid.com^
@@ -68353,7 +68342,6 @@
 ||quangcao.fff.com.vn^
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
-||quangcaococcoc.vn^
 ||quangcaodantri.vn^
 ||quanta-wave.com^
 ||quantcount.com^
@@ -73206,6 +73194,7 @@
 ||sdk.hzsanjiaomao.com^
 ||sdk.markmedia.com.cn^
 ||sdk.mobads.adwangmai.com^
+||sdk.moneyoyo.com^
 ||sdk.starbolt.io^
 ||sdk.stats-locations.com^
 ||sdkconf.avlyun.com^
@@ -74143,7 +74132,6 @@
 ||sephora-qa.branch.rocks^
 ||sephora-qa.branchstaging.com^
 ||sepianshap.com^
-||sepiasbalkis.com^
 ||seponews.com^
 ||septemberautomobile.com^
 ||septfd2em64eber.com^
@@ -79051,7 +79039,6 @@
 ||soilenthusiasmshindig.com^
 ||soilgnaw.com^
 ||soilthesaurus.com^
-||soimportan.club^
 ||sokitosa.com^
 ||sokmil-ad.com^
 ||soknm.com^
@@ -84664,7 +84651,6 @@
 ||tapioni.com^
 ||tapir.albertaguardtraining.ca^
 ||tapir.lindahlstudios.com^
-||tapiserlilt.top^
 ||tapit.com^
 ||tapixesa.pro^
 ||tapjoy.com^
@@ -91881,7 +91867,6 @@
 ||unwoobater.com^
 ||unworldfoxwood.top^
 ||unwritmirific.com^
-||unxhvwqcuuk.com^
 ||unynwld.com^
 ||unyzea.aboutyou.sk^
 ||uo.tubaronunheler.com^
@@ -93009,6 +92994,7 @@
 ||verygoodminigames.com^
 ||veryn1ce.com^
 ||verysilenit.com^
+||veryt111.fun^
 ||vesdsp.com^
 ||vespymedia.com^
 ||vessoupy.com^
@@ -94898,7 +94884,6 @@
 ||webpush.todo.vn^
 ||webpush.vn^
 ||webpushcloud.info^
-||webpushdirect.biz^
 ||webquizspot.com^
 ||webregadvertising.com^
 ||webreseau.com^
@@ -99704,6 +99689,7 @@
 ||zio.xcar.com.cn^
 ||zion-telemetry-nonprod.api.cnn.io^
 ||zion-telemetry.api.cnn.io^
+||zion.api.cnn.io^
 ||zion.qbo.intuit.com^
 ||zipakrar.com^
 ||ziphay.com^
@@ -99837,6 +99823,7 @@
 ||zniwiarz.topagrar.pl^
 ||znlgke.jiobit.com^
 ||znmtka.kikocosmetics.com^
+||znnfzx.xyz^
 ||znnudxutihlksn.com^
 ||znpynwhcqvkudk.com^
 ||znq9.destinia.mx^
