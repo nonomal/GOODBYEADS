@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-03 09:39:30（北京时间）
+! Version: 2024-10-03 20:40:34（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100208
+! Total count: 100214
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -45,7 +45,6 @@
 ||0072.4puuqeh41.com^
 ||0075.4puuqeh41.com^
 ||0077.4puuqeh41.com^
-||007a15696d.com^
 ||007angels.com^
 ||0083.k3718qw08.com^
 ||008d3441d5.4f8e23802d.com^
@@ -2658,7 +2657,6 @@
 ||77cdc6d130.com^
 ||77d0835301.775cf6f1ae.com^
 ||77e0708efa.com^
-||77e74062b1.com^
 ||77sky.de^
 ||77tracking.com^
 ||7800.5clo0xmbf.com^
@@ -2741,7 +2739,6 @@
 ||7dfbbed0e7.fffbd1538e.com^
 ||7dfbef87b6.com^
 ||7dusx.xyz^
-||7e0efcab8b.com^
 ||7e4a6fbed2.b14e96118f.com^
 ||7e52bb0df7.c5ab629aba.com^
 ||7e77e49c84.com^
@@ -7876,7 +7873,6 @@
 ||abortingulf.top^
 ||abortsrefront.top^
 ||aboucaih.com^
-||aboundbunkerflap.com^
 ||aboundplausibleeloquent.com^
 ||abouthomesdecorating.com^
 ||aboutpersonify.com^
@@ -9933,7 +9929,6 @@
 ||ads.mediaodyssey.com^
 ||ads.mediastinct.com^
 ||ads.medienhaus.de^
-||ads.mercadoclics.com^
 ||ads.metropolis.co.jp^
 ||ads.mgnetwork.com^
 ||ads.mmania.com^
@@ -18675,6 +18670,7 @@
 ||bksoup.v.qq.com^
 ||bkstg.flyx.me^
 ||bktdmqdcvshs.xyz^
+||bktsauna.com^
 ||bkujacocdop.com^
 ||bkuqgkjpqzofi.com^
 ||bkxpph.xyz^
@@ -19924,6 +19920,7 @@
 ||brucelead.com^
 ||bruceleadx.com^
 ||bruceleadx1.com^
+||brucinabowmen.com^
 ||brucineborneo.top^
 ||brugocarz.eccocar.com^
 ||bruisedlungmisuse.com^
@@ -21145,7 +21142,6 @@
 ||carrotimpregnable.com^
 ||carrydollarcrashed.com^
 ||carryingalfredparticipant.com^
-||carryingespecially.com^
 ||carryingfarmerlumber.com^
 ||cars.autopia.com.au^
 ||cars.smartfleetaustralia.com.au^
@@ -24722,7 +24718,6 @@
 ||copalmsagency.com^
 ||copeaxe.com^
 ||copemorethem.live^
-||copercato.com^
 ||copesfirmans.com^
 ||copiedglittering.com^
 ||copieraback.com^
@@ -34338,6 +34333,7 @@
 ||ewrolidenratrigh.info^
 ||ewruuqe5p8ca.com^
 ||ewtgmfajrdhsyn.xyz^
+||ewurserw.top^
 ||ewxufqs.cn^
 ||ewygto.swanicoco.co.kr^
 ||ewyngnnxl.com^
@@ -37056,6 +37052,7 @@
 ||ftzets.silkfred.com^
 ||fu.dinaricarrear.com^
 ||fualujqbhqyn.xyz^
+||fucategallied.com^
 ||fuckers.nieuws.xxx^
 ||fuckmehd.pro^
 ||fuckthat.xyz^
@@ -40576,7 +40573,6 @@
 ||hadsokz.com^
 ||hadtwobr.info^
 ||hadute.xyz^
-||haeggnet.live^
 ||haffnetworkmm.com^
 ||hafisague.com^
 ||hafonmadp.com^
@@ -41857,6 +41853,7 @@
 ||holgateperfect.com^
 ||holidaycoconutconsciousness.com^
 ||holistnunatak.com^
+||hollekejokiest.com^
 ||hollowcharacter.com^
 ||holmicnebbish.com^
 ||holspostcardhat.com^
@@ -42388,6 +42385,7 @@
 ||hukbo.com^
 ||hukogpanbs.com^
 ||hulabipptemux.com^
+||huldahflotter.com^
 ||hulichuang.mobi^
 ||hulledaries.top^
 ||hulocvvma.com^
@@ -45894,7 +45892,6 @@
 ||ironicnickraspberry.com^
 ||ironjav11.fun^
 ||ironjou.com^
-||ironmenfoetus.click^
 ||ironmis.com^
 ||ironymisterdisk.com^
 ||irousbisayan.com^
@@ -47021,6 +47018,7 @@
 ||joathath.com^
 ||jobappplus.actonservice.com^
 ||joberopolicycr.com^
+||jobetartane.com^
 ||jobfilletfortitude.com^
 ||jobleveled.top^
 ||joblouder.com^
@@ -48920,7 +48918,6 @@
 ||kyson.kakao.com^
 ||kyszhn.qvc.jp^
 ||kytbxcl.cn^
-||kytcqoiruqxc.com^
 ||kyteevl.com^
 ||kyuwkbd.top^
 ||kyuxym.xyz^
@@ -51383,6 +51380,7 @@
 ||log-upload.mihoyo.com^
 ||log-v4-insight.kaizenplatform.net^
 ||log-verify.mob.com^
+||log-video.baotintuc.vn^
 ||log-vietnamplus-vn.cdn.ampproject.org^
 ||log.247post.vn^
 ||log.51changdu.com^
@@ -59586,6 +59584,7 @@
 ||nervousclangprobable.com^
 ||nervoustolsel.com^
 ||nerydw.xyz^
+||neryt111.fun^
 ||nesefurthere.info^
 ||nesfspublicate.info^
 ||neshigreek.com^
@@ -59968,7 +59967,6 @@
 ||nice.tryboobs.com^
 ||nicelocaldates.com^
 ||nicelyinformant.com^
-||niceoakbody.live^
 ||nicerisle.com^
 ||nicesearches.com^
 ||nicesthoarfrostsooner.com^
@@ -62376,6 +62374,7 @@
 ||openapi.samsung.com^
 ||opencan.net^
 ||openerkey.com^
+||openersbens.com^
 ||openfpcdn.io^
 ||openingdreamsspinster.com^
 ||openinggloryfin.com^
@@ -70848,6 +70847,7 @@
 ||rosemessengeryuri.com^
 ||rosenberg.appmetrica.webvisor.com^
 ||rosolicdalapon.com^
+||rosskenyte.click^
 ||rosttraborago.com^
 ||rosyfeeling.pro^
 ||rosyruffian.com^
@@ -75104,7 +75104,6 @@
 ||sidewalkcrazinesscleaning.com^
 ||sidewayfrosty.com^
 ||sidewaysuccession.com^
-||sidezaeta.live^
 ||sidfiz.icu^
 ||sieglinde22.xyz^
 ||sierradissolved.com^
@@ -85717,6 +85716,7 @@
 ||the-ozone-project.com^
 ||theactualnewz.com^
 ||theactualstories.com^
+||theadex.com^
 ||theadgateway.com^
 ||theadhost.com^
 ||theads.me^
@@ -86933,6 +86933,7 @@
 ||touched35one.pro^
 ||touchtown.actonservice.com^
 ||touchyeccentric.com^
+||touchytautogs.com^
 ||touena.xyz^
 ||touficpaloma.com^
 ||toughdrizzleleftover.com^
@@ -86950,6 +86951,7 @@
 ||touroumu.com^
 ||tourpowouro.shop^
 ||tours.aomg5bzv7.com^
+||toushuhoophis.xyz^
 ||toutanymm.asia^
 ||toutiao-frontier.snssdk.com^
 ||toutiao.2haha.com^
@@ -90434,6 +90436,7 @@
 ||trustedpeach.com^
 ||trustedpubs.com^
 ||trustedzone.info^
+||trusteenubian.com^
 ||trusteverything.de^
 ||trustflayer1.online^
 ||trustid.actonservice.com^
@@ -91781,6 +91784,7 @@
 ||unluckyflagtopmost.com^
 ||unluxioer.com^
 ||unm.emol.com^
+||unmanyabby.com^
 ||unmeltsavaged.click^
 ||unmightboxen.com^
 ||unmisdreavusom.com^
@@ -95886,6 +95890,7 @@
 ||wokaptoa.com^
 ||wokenoptionalcohabit.com^
 ||wokm8isd4zit.com^
+||wokseephishopty.net^
 ||wolaufie.com^
 ||wolf.aomg5bzv7.com^
 ||wolf.idthompson.com^
@@ -98111,6 +98116,7 @@
 ||xpj08.oss-cn-beijing.aliyuncs.com^
 ||xpjjlgzqs.com^
 ||xpkxahje.xyz^
+||xplosion.de^
 ||xpollo.com^
 ||xponsor.com^
 ||xporn.in^
