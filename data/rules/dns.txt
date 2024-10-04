@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-04 09:39:38（北京时间）
+! Version: 2024-10-04 20:40:03（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100220
+! Total count: 100209
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1387,7 +1387,6 @@
 ||2smarttracker.com^
 ||2smt6mfgo.de^
 ||2spdo6g9h.de^
-||2step-garage.co.uk^
 ||2t4f7g9a.de^
 ||2ta5l5rc0.de^
 ||2tfg9bo2i.de^
@@ -4347,7 +4346,6 @@
 ||a17909.actonservice.com^
 ||a17916.actonservice.com^
 ||a17918.actonservice.com^
-||a181667a95.com^
 ||a18327.actonservice.com^
 ||a18330.actonservice.com^
 ||a18886.actonservice.com^
@@ -8690,7 +8688,6 @@
 ||ad.simpledesign.ltd^
 ||ad.smaad.jp^
 ||ad.smartclip.net^
-||ad.snaptube.app^
 ||ad.style^
 ||ad.sunflower.vn^
 ||ad.sxp.smartclip.net^
@@ -12135,7 +12132,6 @@
 ||amateurs.jerkr.com^
 ||amateursexdvd.com^
 ||amateurspain.com^
-||amateurterrible.com^
 ||amatrice-partouzeuse.com^
 ||amatrices-sexy.fr^
 ||amatrixe.free.fr^
@@ -13854,7 +13850,6 @@
 ||api5-normal-quic-lf.ixigua.com^
 ||apia.headlines.pw^
 ||apiads.gg.pl^
-||apicsaba.xyz^
 ||apiculirackman.top^
 ||apidata.info^
 ||apiecelee.com^
@@ -14792,7 +14787,6 @@
 ||applesconvertedpansy.com^
 ||appleservenumeric.com^
 ||applesometimes.com^
-||applestram.com^
 ||appletdejectedsounds.com^
 ||appletrelentlessfreeway.com^
 ||applets.ebxcdn.com^
@@ -17026,6 +17020,7 @@
 ||baifen.music.baidu.com^
 ||baigamp.icu^
 ||baigh8eosmgie01.site^
+||baigh8eosmgie02.site^
 ||baijs010.shop^
 ||baijs010.xyz^
 ||baijs011.xyz^
@@ -20160,7 +20155,6 @@
 ||bulyiel.com^
 ||bum7.bymycar.fr^
 ||bumblecash.com^
-||bumhuetony.live^
 ||bumlabhurt.live^
 ||bummerdeducthandshake.com^
 ||bummerentertain.com^
@@ -20285,7 +20279,6 @@
 ||butlerheavy.com^
 ||butomuskainah.com^
 ||butrathakinrol.com^
-||buttduckwiser.com^
 ||butterfly.coverworld.com.au^
 ||butterfly.dharsh.dev^
 ||butterfly.rfortherestofus.com^
@@ -24990,7 +24983,6 @@
 ||cowroidforril.click^
 ||cowtpvi.com^
 ||coxaripply.top^
-||coxbunban.live^
 ||coxiesthubble.com^
 ||coxziptwo.com^
 ||coyizl.embracon.com.br^
@@ -34091,6 +34083,7 @@
 ||eventos.mirecweek.com^
 ||eventos.ubmmexico.com^
 ||eventos.usj.es^
+||eventrecorder.cm.bloomberg.com^
 ||events-api.gazetadopovo.com.br^
 ||events-api.soundcloud.com^
 ||events-collector-api.viacom.tech^
@@ -40728,7 +40721,6 @@
 ||hardaque.xyz^
 ||hardboileddearlyaccomplish.com^
 ||hardinet.actonservice.com^
-||harduponnine.live^
 ||hardwaretakeoutintimidate.com^
 ||hardynarrow.com^
 ||hardynylon.com^
@@ -40830,6 +40822,7 @@
 ||hauphoak.xyz^
 ||hauphuchaum.com^
 ||haupsoag.xyz^
+||hauqou.top^
 ||hausasisters.com^
 ||hausoumu.net^
 ||haustoam.com^
@@ -41062,6 +41055,7 @@
 ||heatherssb.com^
 ||heathertravelledpast.com^
 ||heatjav12.fun^
+||heatmap-events-collector.instapage.com^
 ||heatmap.emma.tools^
 ||heatmaps.lcisoft.it^
 ||heatprecipitation.com^
@@ -41215,7 +41209,6 @@
 ||heritageamyconstitutional.com^
 ||herlittleboywhow.info^
 ||herma-tor.com^
-||hermaturse.com^
 ||hermelebromin.top^
 ||hermes.allo-media.net^
 ||hermichermicbroadcastinglifting.com^
@@ -41894,6 +41887,7 @@
 ||honeymoonregular.com^
 ||honeyreadinesscentral.com^
 ||hongi7ie8owiie01.site^
+||hongi7ie8owiie02.site^
 ||honitonchyazic.com^
 ||honknl.xyz^
 ||honkoutsing.com^
@@ -51930,6 +51924,7 @@
 ||love.aomg5bzv7.com^
 ||love.furenkeji.com^
 ||love.romanticcollection.ru^
+||loveameng.top^
 ||lovedcorrectionsuffix.com^
 ||loveeveryday.brighterkind.com^
 ||lovehiccuppurple.com^
@@ -62453,7 +62448,6 @@
 ||oppressiontheychore.com^
 ||oppressiveconnoisseur.com^
 ||oppressiveoversightnight.com^
-||oppullpick.live^
 ||oppuz.com^
 ||oppxzerrufhe.com^
 ||opqhihiw.com^
@@ -64525,7 +64519,6 @@
 ||pets.channeladvisor.com^
 ||petsavoury.com^
 ||pettishprecopy.com^
-||pettowermummy.com^
 ||petyntrx.com^
 ||pevftg.shopee.sg^
 ||pexavfro.xyz^
@@ -68565,6 +68558,7 @@
 ||qwsanan.top^
 ||qwtag.com^
 ||qwuaqrxfuohb.com^
+||qwursery.top^
 ||qwvqbeqwbrabj.top^
 ||qwvvoaykybbo.top^
 ||qwvvoaykyrbj.top^
@@ -75077,7 +75071,6 @@
 ||sia.aomg5bzv7.com^
 ||sia.internet.apps.samsung.com^
 ||siazlw.cetroloja.com.br^
-||sibbshagworm.com^
 ||sibcjyml.com^
 ||sibehgtq.xyz^
 ||siberiabecrush.com^
@@ -79833,7 +79826,6 @@
 ||speedilycartrigeglove.com^
 ||speedilyeuropeanshake.com^
 ||speedingbroadcastingportent.com^
-||speedknow.co^
 ||speednetwork14.com^
 ||speedsupermarketdonut.com^
 ||speedtest.aomg5bzv7.com^
@@ -82950,7 +82942,6 @@
 ||stvsmdhfplfrcy.xyz^
 ||stvwell.online^
 ||stydrumgmaringpo.info^
-||style.onvz.nl^
 ||styles.hautelook.com^
 ||styletrackstable.com^
 ||stylewhiskerscreepy.com^
@@ -91385,7 +91376,6 @@
 ||ujautifuleed.xyz^
 ||ujbhri.pharmamarket.nl^
 ||ujevaice.com^
-||ujhhfgbbhs.com^
 ||ujidhusjvmbfv.com^
 ||ujlwwo.lehner-versand.ch^
 ||ujovcb.cn^
@@ -99183,7 +99173,6 @@
 ||yu.deggerfletton.com^
 ||yu.dlxxjsh.top^
 ||yu0123456.com^
-||yu6v3nhnsl.com^
 ||yuanmengbi.com^
 ||yuanpinghengkangfuyouxiangongsi.top^
 ||yuarra.pluto.ro^
