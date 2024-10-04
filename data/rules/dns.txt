@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-03 20:40:34（北京时间）
+! Version: 2024-10-04 09:39:38（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100214
+! Total count: 100220
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -953,7 +953,6 @@
 ||1xlite-522762.top^
 ||1zone1.free.fr^
 ||2.haoxue360.com^
-||2.speedknow.co^
 ||2.uyybde07w.com^
 ||2.wantsext.me^
 ||2.wemakebestnews.com^
@@ -10904,7 +10903,6 @@
 ||aegis.trovo.live^
 ||aegiumks.com^
 ||aehudh.rakumachi.jp^
-||aejdmicfyli.xyz^
 ||aejslgc.com^
 ||aekhfdpxcw.com^
 ||aelgdju.com^
@@ -10927,6 +10925,7 @@
 ||aerobiabassing.com^
 ||aeromark.actonservice.com^
 ||aeroplaneversion.com^
+||aeryt111.fun^
 ||aesary.com^
 ||aesus.so-net.ne.jp^
 ||aetgjds.com^
@@ -12268,7 +12267,6 @@
 ||amongremember.com^
 ||amontp.com^
 ||amoochaw.com^
-||amoraldesperateavailable.com^
 ||amorallibrarysmother.com^
 ||amorouslimitsbrought.com^
 ||amorousstableminister.com^
@@ -15916,7 +15914,6 @@
 ||attenuatenovelty.com^
 ||attepigom.com^
 ||attestationaudience.com^
-||attestationmonk.com^
 ||attestationoats.com^
 ||attestationovernightinvoluntary.com^
 ||attestcribaccording.com^
@@ -17073,7 +17070,6 @@
 ||bakerstreetfinance.tv^
 ||bakertangiblebehaved.com^
 ||bakeryflowerbed.com^
-||bakeryordinal.com^
 ||bakeryunprofessional.com^
 ||bakingbeheld.com^
 ||bakld.com^
@@ -18046,7 +18042,6 @@
 ||bereaveencodefestive.com^
 ||bereaveundresscrowded.com^
 ||berenicepunch.com^
-||beresearchaffection.com^
 ||bergertubbie.com^
 ||berideshaptin.com^
 ||berispat.top^
@@ -18261,6 +18256,7 @@
 ||bflgokbupydgr.xyz^
 ||bflybplr.xyz^
 ||bfmio.com^
+||bfnsnehjbkewk.com^
 ||bfntkv.icon.co.cr^
 ||bfovysc.com^
 ||bfp.capitalone.com^
@@ -21326,7 +21322,6 @@
 ||cautionpursued.com^
 ||cauvousy.net^
 ||cauyuksehink.info^
-||cauzoupo.com^
 ||cavalryoppression.com^
 ||cavebummer.com^
 ||caveestate.com^
@@ -23205,7 +23200,6 @@
 ||clnbze.telemagazyn.pl^
 ||clnk.me^
 ||clnmetrics.cisco.com^
-||clnxfwyxyedh.com^
 ||cloba.xyz^
 ||clobberprocurertightwad.com^
 ||clockwisefamilyunofficial.com^
@@ -27310,6 +27304,7 @@
 ||daejyre.com^
 ||dafdfd.cn^
 ||daffaite.com^
+||daffodilnotifyquarterback.com^
 ||daffyfleecy.top^
 ||dafvng.sunrefre.jp^
 ||dagd0kz7sipfl.cloudfront.net^
@@ -31390,6 +31385,7 @@
 ||e1cea7c952.4ffecd1ee4.com^
 ||e1e.io^
 ||e1f6a352a1.3ea94c3718.com^
+||e1zin.icu^
 ||e2.resources.foxtel.com.au^
 ||e20d8e38992b.o3n.io^
 ||e218cdc27d.com^
@@ -37199,7 +37195,6 @@
 ||fuwn782kk.alphaporno.com^
 ||fux.com/ade/pop_ex.php^
 ||fuxcmbo.com^
-||fuxuoqjilh.com^
 ||fuyviz.com^
 ||fuywsmvxhtg.com^
 ||fuyytjuopkikl.com^
@@ -39528,7 +39523,6 @@
 ||golsaiksi.net^
 ||gomain.pro^
 ||gomain2.pro^
-||gomajor1.com^
 ||gomajorik1.com^
 ||gomajorlink.com^
 ||gombotrubu.com^
@@ -41372,6 +41366,7 @@
 ||hhkld.com^
 ||hhmako.cloud^
 ||hhooyivpxq.com^
+||hhrerv.xyz^
 ||hhrsecure.com^
 ||hhsp2.com^
 ||hht8m6w8mnug.quine.sh^
@@ -43128,6 +43123,7 @@
 ||ihhqwaurke.com^
 ||ihi.flowplayer.com^
 ||ihknbyeaclaxikb.com^
+||ihkybtde.com^
 ||ihnbqe.shane.co.jp^
 ||ihnhnpz.com^
 ||ihoolrun.net^
@@ -48574,6 +48570,7 @@
 ||korrelate.net^
 ||korununkept.digital^
 ||kosininia.com^
+||kossog.xyz^
 ||kostprice.com^
 ||kotikinar2ko8tiki09.com^
 ||kotnvzp.com^
@@ -49420,6 +49417,7 @@
 ||lbgfqn.onward.co.jp^
 ||lbgrwm.zolta.pl^
 ||lbjdbym.xyz^
+||lbjekygz.icu^
 ||lbjxsort.xyz^
 ||lbkezllkewevy.top^
 ||lbn.ru^
@@ -51295,7 +51293,6 @@
 ||loboloshetaery.com^
 ||lobster.justunderwear.com^
 ||lobster.tonebleed.com^
-||lobster.unionpeer.com^
 ||lobsterbusily.com^
 ||lobsterredress.com^
 ||lobsudsauhiw.xyz^
@@ -55559,6 +55556,7 @@
 ||merry-hearing.pro^
 ||merryindecisionremained.com^
 ||merterpazar.com^
+||meryt111.fun^
 ||merywf.xyz^
 ||merzostueru2hu8jr09.com^
 ||mesalabs.actonservice.com^
@@ -57226,6 +57224,7 @@
 ||mgmuye.xyz^
 ||mgn.ebis.xn--olsz5f0ufw02b.net^
 ||mgptul.finson.com^
+||mgqtcs.xyz^
 ||mgrcghccvk.com^
 ||mgs123.com^
 ||mgt7.madeindesign.it^
@@ -59680,6 +59679,7 @@
 ||newbluetrue.xyz^
 ||newbornleasetypes.com^
 ||newbornprayerseagle.com^
+||newcategory.pro^
 ||newchallenges-dsp.com^
 ||newdhopr.com^
 ||newdisplayformats.com^
@@ -60311,7 +60311,6 @@
 ||nooloqfzdta.com^
 ||noolt.com^
 ||noondaylingers.com^
-||noopaipo.com^
 ||noopapnoeic.digital^
 ||noopking.com^
 ||nooraunod.com^
@@ -60694,6 +60693,7 @@
 ||nthaitingsh.com^
 ||ntheworldw.buzz^
 ||nthldc.europcar.co.uk^
+||ntiutox.icu^
 ||ntjmnyzwkpb.com^
 ||ntlysearchingf.info^
 ||ntlzvrv.xyz^
@@ -61004,6 +61004,7 @@
 ||oabnmx.jewelryexchange.com^
 ||oacaighy.com^
 ||oacechoo.com^
+||oaceewhouceet.net^
 ||oachaigin.com^
 ||oachailo.net^
 ||oackoubs.com^
@@ -62705,6 +62706,7 @@
 ||osezny.intheswim.com^
 ||osfrjut.com^
 ||osgqretnpoqsubt.com^
+||osgsijvkoap.com^
 ||oshaista.xyz^
 ||oshaq.top^
 ||osharvrziafx.com^
@@ -67076,6 +67078,7 @@
 ||psurdoak.com^
 ||psurigrabi.com^
 ||psurouptoa.com^
+||psutopheehaufoo.net^
 ||psvgnczo.com^
 ||psvpromo.psvgamestudio.com^
 ||pswagjx.com^
@@ -68333,6 +68336,7 @@
 ||qtfnvf.ethika.com^
 ||qtj0.destinia.pl^
 ||qtoidch.icu^
+||qtoxhaamntfi.com^
 ||qtq632.com^
 ||qttfwb.shaneco.com^
 ||qtuopsqmunzo.com^
@@ -75200,7 +75204,6 @@
 ||similarlength.pro^
 ||similarlyrelicrecovery.com^
 ||similarmarriage.com^
-||similartreat.com^
 ||simple-isl.com^
 ||simple.avaya.com^
 ||simple.siegelgale.com^
@@ -79830,6 +79833,7 @@
 ||speedilycartrigeglove.com^
 ||speedilyeuropeanshake.com^
 ||speedingbroadcastingportent.com^
+||speedknow.co^
 ||speednetwork14.com^
 ||speedsupermarketdonut.com^
 ||speedtest.aomg5bzv7.com^
@@ -90440,6 +90444,7 @@
 ||trusteverything.de^
 ||trustflayer1.online^
 ||trustid.actonservice.com^
+||trusting-offer.com^
 ||trustiseverything.de^
 ||trustisimportant.fun^
 ||trustlearningclearly.com^
@@ -91419,7 +91424,6 @@
 ||ukdtzkc.com^
 ||ukenthasmeetu.com^
 ||ukentsiwoulukdlik.info^
-||ukepfloi.com^
 ||ukg6sq48dy4zd6gn.edge41.testandtarget.omniture.com^
 ||ukgfniu.cn^
 ||ukgfxw.satofull.jp^
@@ -95043,6 +95047,7 @@
 ||weeweesozoned.com^
 ||weewhaik.com^
 ||weewhunoamo.xyz^
+||weezoptez.net^
 ||wefihob.cn^
 ||wefoonsaidoo.com^
 ||wegastroky.com^
@@ -96413,6 +96418,7 @@
 ||wwrupv.tannico.it^
 ||wwu.jjill.com^
 ||wwunnmshmv.xyz^
+||wwursere.top^
 ||wwv.jjill.com^
 ||wwvxdhbmlqcgk.xyz^
 ||www-103.aig.com^
