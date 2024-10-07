@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-06 20:37:05（北京时间）
+! Version: 2024-10-07 09:42:31（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100344
+! Total count: 100347
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1317,6 +1317,7 @@
 ||2e8dgn8n0e0l.com^
 ||2eb3b8d787.53e91a4877.com^
 ||2ecfa1db15.com^
+||2efgcdcjr000.fun^
 ||2efj.economies.cheque-dejeuner.com^
 ||2efj.up.coop^
 ||2eszq7woo.com^
@@ -2504,6 +2505,7 @@
 ||6ee3994103.cdb670d960.com^
 ||6eec76752e.adfaae31e2.com^
 ||6ef2279e3d.com^
+||6efgcdcjr000.fun^
 ||6f0e0a9e80.5f6efdfc05.com^
 ||6f257d3f47.b3ab84c0f7.com^
 ||6f472074c3.6a0d38e347.com^
@@ -18986,6 +18988,7 @@
 ||bmodjx.mgos.jp^
 ||bmptbyb.com^
 ||bmqtvmdg.xyz^
+||bmqulua.icu^
 ||bmret.cn^
 ||bmrg.reflected.net^
 ||bmst.pw^
@@ -19312,7 +19315,6 @@
 ||bosquehaafs.top^
 ||boss.openapp.link^
 ||boss.qzone.qq.com^
-||bossaudioandcomic-1252317822.image.myqcloud.com^
 ||bosscrystudious.com^
 ||bossdescendentrefer.com^
 ||bosselinorrummage.com^
@@ -20402,6 +20404,7 @@
 ||bwstatistics.sapoapps.vn^
 ||bwtcilgll.com^
 ||bwujxl.yoga-lava.com^
+||bwurserv.top^
 ||bwuwirv.cn^
 ||bwvqjqmlkezjk.top^
 ||bwwhcljtytrpo.com^
@@ -23202,6 +23205,7 @@
 ||cllctr.any.run^
 ||cllctr.roistat.com^
 ||clmbtech.com^
+||clmcam.xyz^
 ||clmcom.com^
 ||clmkwi.xyz^
 ||cln.willyporn.com^
@@ -24206,12 +24210,6 @@
 ||coniesnitch.com^
 ||conimicutlighthouse.viessmann-us.com^
 ||conjeller-chikemon.com^
-||conn-service-cn-03.allawntech.com^
-||conn-service-cn-04.allawntech.com^
-||conn-service-cn-05.allawntech.com^
-||conn-service-in-03.allawnos.com^
-||conn-service-in-04.allawnos.com^
-||conn-service-in-05.allawnos.com^
 ||connect-qa.netapp.com^
 ||connect.abm.netapp.com^
 ||connect.acams.org^
@@ -28333,6 +28331,7 @@
 ||ddlcvm.clas.style^
 ||ddlh1467paih3.cloudfront.net^
 ||ddllhqj.xyz^
+||ddlmsoyo.icu^
 ||ddlvpmt.xyz^
 ||ddmfrg.modivo.bg^
 ||ddmuiijrdvv0s.cloudfront.net^
@@ -31983,6 +31982,7 @@
 ||edacityedacitycorrespondence.com^
 ||edacityedacityhandicraft.com^
 ||edacityedacitystrawcrook.com^
+||edadmy.xyz^
 ||edaightutaitlastwe.info^
 ||edalloverwiththinl.info^
 ||edallthroughthe.info^
@@ -44074,6 +44074,7 @@
 ||immunocap.thermofisher.com^
 ||immunocorp.actonservice.com^
 ||immureuvanite.com^
+||imndl.icu^
 ||imoughtcallmeoc.com^
 ||imp-toutiao-data.37.com.cn^
 ||imp.accesstra.de^
@@ -48187,6 +48188,7 @@
 ||kgwlfrdtf.com^
 ||kgxpbxhigq.com^
 ||kgyhxdh.com^
+||kgymoc.xyz^
 ||kh.suno.vn^
 ||khakisminder.com^
 ||khanjeeyapness.website^
@@ -97861,6 +97863,7 @@
 ||xlvvy4msxr.coolinastore.com^
 ||xlwnzkyj.com^
 ||xlwrdnrw.xyz^
+||xlxehr.xyz^
 ||xlyhpurmfnlall.com^
 ||xlypzbzs.xyz^
 ||xmadsapi.joboko.com^
