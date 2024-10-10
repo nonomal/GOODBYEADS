@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-10 09:39:08（北京时间）
+! Version: 2024-10-10 20:40:14（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99905
+! Total count: 99917
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1306,6 +1306,7 @@
 ||3336637.com^
 ||3337723.com^
 ||3337738.com^
+||333bbb777bbb.com^
 ||3347.wolf-gordon.com^
 ||3347.wolfgordon.com^
 ||3367.4puuqeh41.com^
@@ -7206,7 +7207,6 @@
 ||abdicatehorrified.com^
 ||abdicatesyrupwhich.com^
 ||abdict.com^
-||abdicted.com^
 ||abdlnk.com^
 ||abdlnkjs.com^
 ||abdlphone.com^
@@ -10264,7 +10264,6 @@
 ||advantageshallwayasks.com^
 ||advantagespire.com^
 ||advard.com^
-||advariant.com^
 ||advast.sibnet.ru^
 ||adventory.com^
 ||adventurefeeds.com^
@@ -15346,6 +15345,7 @@
 ||ata-sdk-uuid-report.dreport.meituan.net^
 ||atableofcup.com^
 ||atacticserena.top^
+||ataiyalstrays.com^
 ||atala-apw.com^
 ||atamansdockize.com^
 ||atampharosom.com^
@@ -16289,6 +16289,7 @@
 ||azxdkucizr.com^
 ||azxhlzxmrqc.com^
 ||azxhnt.uniformadvantage.com^
+||azygotesonless.com^
 ||azyuuk.xyz^
 ||azyyyeyeqeazj.top^
 ||b-1st.com^
@@ -16644,6 +16645,7 @@
 ||bailoaso.xyz^
 ||bailonushe.com^
 ||bainushe.com^
+||baipahanoop.net^
 ||bairnsvibrion.top^
 ||baiseesh.net^
 ||baitdyed.com^
@@ -19461,6 +19463,7 @@
 ||brotherhoodonionbuttons.com^
 ||brotherleadcape.com^
 ||brothersparklingresolve.com^
+||brottpyric.com^
 ||broughtalienshear.com^
 ||broughtcontract.com^
 ||broughtenragesince.com^
@@ -29057,6 +29060,7 @@
 ||dilruwha.net^
 ||dilutegulpedshirt.com^
 ||dilutemylodon.top^
+||diluterocciput.click^
 ||dilutesnoopzap.com^
 ||dilutionavailstoker.com^
 ||dilvyi2h98h1q.cloudfront.net^
@@ -32736,6 +32740,7 @@
 ||endingmedication.com^
 ||endingrude.com^
 ||endjigsur.com^
+||endlessgoes.com^
 ||endlesslyalwaysbeset.com^
 ||endlessvow.com^
 ||endljp.168chasa.bg^
@@ -39232,6 +39237,7 @@
 ||gorillatrking.com^
 ||gorod.tunt.lv^
 ||goruli.com^
+||goschenelect.com^
 ||gosenergy.actonservice.com^
 ||goseri-link.mysuki.io^
 ||goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com^
@@ -39469,7 +39475,6 @@
 ||gratifiedshoot.com^
 ||gratis-sexkontakte.com^
 ||gratis.sms.senden.sms13.de^
-||gratisweb.com^
 ||gratitudeobservestayed.com^
 ||gratituderefused.com^
 ||grauglak.com^
@@ -40160,6 +40165,7 @@
 ||habukaiambics.com^
 ||habutaeirisate.com^
 ||habutaeunroost.com^
+||hackeestrict.click^
 ||hadajvqpha.com^
 ||haddock.affilimate.com^
 ||haddock.jeffreyknox.dev^
@@ -42681,6 +42687,7 @@
 ||igc0.destinia.at^
 ||igexlg.weltbild.de^
 ||igfjkh.vw.com.tr^
+||iggbky.xyz^
 ||ightdecipientconc.info^
 ||ightsapph.info^
 ||igidskio.top^
@@ -43553,6 +43560,7 @@
 ||imgict.dwtcmarketing.com^
 ||imginfo.insource.co.jp^
 ||imgint1.com^
+||imgix.video^
 ||imglnkd.com^
 ||imglnke.com^
 ||imgmail.mediasetpremium.it^
@@ -46750,7 +46758,6 @@
 ||joint-bad.com^
 ||joinus.holidayseniorliving.com^
 ||joiwnq2.cn^
-||jojaerudjl.xyz^
 ||jokingzealotgossipy.com^
 ||jolecyclist.com^
 ||jollyfloat.com^
@@ -52368,6 +52375,7 @@
 ||mabdkggqleseuhj.com^
 ||mabelasateens.com^
 ||mabolmvcuo.com^
+||mabolocorrive.com^
 ||mabtcaraqdho.com^
 ||mabyerwaxand.click^
 ||mac.macheq.com^
@@ -52804,6 +52812,7 @@
 ||mareswimming.com^
 ||margaritaimmense.com^
 ||margaritapowerclang.com^
+||marginshache.com^
 ||maria.aomg5bzv7.com^
 ||mariadock.com^
 ||marial.pro^
@@ -60885,6 +60894,7 @@
 ||ocggec.xyz^
 ||ocheebou.xyz^
 ||ochoawhou.com^
+||ochoovoajaw.xyz^
 ||ochre-app.hotdoc.com.au^
 ||ochsner.hrm.healthgrades.com^
 ||oci.dyn.com^
@@ -66833,6 +66843,7 @@
 ||ptoangir.com^
 ||ptoapouk.com^
 ||ptoaveloamo.net^
+||ptoavibsaron.net^
 ||ptobsagn.com^
 ||ptochair.xyz^
 ||ptoftaupsift.com^
@@ -69860,6 +69871,7 @@
 ||reticencevaliddecoction.com^
 ||retillbicycle.top^
 ||retinaesprent.com^
+||retingexylogen.com^
 ||retintsmillion.com^
 ||retinueabash.com^
 ||retinuegigoh.com^
@@ -93378,6 +93390,7 @@
 ||vodlpsf.com^
 ||vodobyve.pro^
 ||voeux2020.wearemip.com^
+||voguesmaison.com^
 ||vogulprecast.com^
 ||vohqpgsdn.xyz^
 ||voice.thewealthadvisor.com^
@@ -99084,7 +99097,6 @@
 ||z89yxner8h.datsumou-beauty-times.com^
 ||z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me^
 ||z91f4.top^
-||z929.fuelfix.com^
 ||za-go.experian.com^
 ||za.agiay.vn^
 ||za.baomoi.com^
