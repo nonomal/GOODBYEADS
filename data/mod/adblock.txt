@@ -717,6 +717,14 @@ dmzj.com##div[class*="float_code"]
 !腾讯视频
 v.qq.com##div[class*="mod_row_box mod_row_box_special"]
 !虎牙直播
+||business.msstatic.com^
+||sf3-fe-tos.pglstatp-toutiao.com.queniuuf.com^
+||xy-cdnfile1pcdn.msstatic.com^
+||xy-livewebbs2pcdn.msstatic.com^
+||livewebbs2pcdn.msstatic.com^
+||qn-livewebbs2pcdn.msstatic.com^
+||business-qnpcdn.msstatic.com^
+||extsdk-msstatic.cdn.huya.com^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
 huya.com###J_liveListHeader > div.liveList-BusinessGame:last-child
