@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-19 09:38:23（北京时间）
+! Version: 2024-10-19 20:37:57（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 94391
+! Total count: 94382
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -251,6 +251,7 @@
 ||0ef06e4db3.76f74721ab.com^
 ||0efghij.com^
 ||0emn.com^
+||0er7pc8.xyz^
 ||0f20c9da12.b2e0073814.com^
 ||0f253aba7e.205f21070c.com^
 ||0f461325bf56c3e1b9.com^
@@ -1145,7 +1146,6 @@
 ||2e2vuogr9z3eh2yb.bestinterestings.com^
 ||2e30f1d69a.55320fa45d.com^
 ||2e4b7fc71a.com^
-||2e51ef91bb.com^
 ||2e55a2d58f.com^
 ||2e5e4544c4.com^
 ||2e718yf5jypb.test.digitalsurge.io^
@@ -1373,7 +1373,6 @@
 ||357dbd24e2.com^
 ||357fbe0abe.71d287479d.com^
 ||3587285621425460184.academyofconsciousleadership.net^
-||35998bf09e.com^
 ||35fdef5d29.8abd062147.com^
 ||35volitantplimsoles5.com^
 ||360.anatic.net^
@@ -2042,7 +2041,6 @@
 ||6304b64655.f2c4410d2a.com^
 ||6306c7a8c8.cde90a5fb0.com^
 ||6318.5clo0xmbf.com^
-||63383900e0.com^
 ||633c66f0dc.com^
 ||6381.5clo0xmbf.com^
 ||638236rpn.com^
@@ -2645,7 +2643,6 @@
 ||8jl11zys5vh12.pro^
 ||8khmer.com^
 ||8kj1ldt1.de^
-||8kjsbhdfsdf88.monster^
 ||8le8le.com^
 ||8n67t.com^
 ||8nugm4l6j.com^
@@ -9292,7 +9289,6 @@
 ||ads.adverline.com^
 ||ads.aerserv.com^
 ||ads.affiliates.match.com^
-||ads.aitype.net^
 ||ads.allvatar.com^
 ||ads.alobacsi.vn^
 ||ads.alt.com^
@@ -11639,7 +11635,6 @@
 ||ambient-platform.com^
 ||ambientdsp.com^
 ||ambientplatform.vn^
-||ambientrockutilities.com^
 ||ambiguityhalfmoon.com^
 ||ambiguityornamenttell.com^
 ||ambiguitypalm.com^
@@ -15604,7 +15599,6 @@
 ||awbrwrybywwew.top^
 ||awcdst.icu^
 ||awcrpu.com^
-||awdvipgsug.com^
 ||awecr.com^
 ||awecre.com^
 ||awecrptjmp.com^
@@ -15678,6 +15672,7 @@
 ||awuvcq.xyz^
 ||awvracajcsu.com^
 ||awwagqorqpty.com^
+||awwnaqax.com^
 ||awwprjafmfjbvt.xyz^
 ||awxgfiqifawg.com^
 ||awytythbxujkz.com^
@@ -21249,6 +21244,7 @@
 ||cho7932105co3l2ate3covere53d.com^
 ||choachim.com^
 ||choacmax.xyz^
+||choafaidoonsoy.net^
 ||choagrie.com^
 ||choakalsimen.com^
 ||choakaucmomt.com^
@@ -22889,7 +22885,6 @@
 ||config.appjolt.com^
 ||config.chsmarttv.com^
 ||config.jpush.cn^
-||config.safedk.com^
 ||config.unityads.unity3d.com^
 ||configurationluxuriantinclination.com^
 ||configure.adlermode.com^
@@ -30191,6 +30186,7 @@
 ||ebooktheft.com^
 ||ebp.renren.com^
 ||ebpex.space^
+||ebqptawxdxrrdsu.xyz^
 ||ebreid.garneroarredamenti.com^
 ||ebsbqexdgb.xyz^
 ||ebtxxz.travellink.se^
@@ -35595,7 +35591,6 @@
 ||gausovoheeza.com^
 ||gaustele.xyz^
 ||gautauzaiw.com^
-||gauthawhum.com^
 ||gauvaiho.net^
 ||gauwanouzeebota.net^
 ||gauwoocoasik.com^
@@ -36476,7 +36471,6 @@
 ||glecmaim.net^
 ||gledroupsens.xyz^
 ||gleefulcareless.com^
-||gleefulelegit.com^
 ||gleeglis.net^
 ||gleegloo.net^
 ||gleejoad.net^
@@ -39325,7 +39319,6 @@
 ||hjeilbpxjtyl.com^
 ||hjgcdi.farmacybeauty.com^
 ||hjgkdv.fiverr.com^
-||hjiosopece.xyz^
 ||hjjshv.xyz^
 ||hjkhxfh.360doc.cn^
 ||hjklq.com^
@@ -44436,7 +44429,6 @@
 ||josiehopeless.com^
 ||josieunethical.com^
 ||joskgw.sewingmachinesplus.com^
-||jotadqcaqphjwf.com^
 ||jotchidoun.net^
 ||jotpoolwarren.com^
 ||jotskuffieh.website^
@@ -51588,7 +51580,6 @@
 ||marvelbuds.com^
 ||marwerreh.top^
 ||marybskitchen.com^
-||mas-e.cds1.yospace.com^
 ||mas.hronboard.me^
 ||mas.marsh.com^
 ||mas.nth.ch^
@@ -51855,7 +51846,6 @@
 ||mcs.tiktokw.us^
 ||mcs.us.tiktokv.com^
 ||mcs.zijieapi.com^
-||mctqu.com^
 ||mcurrentlysea.info^
 ||mcvfbvgy.xyz^
 ||mcvwjzj.com^
@@ -59132,7 +59122,6 @@
 ||ouftukoo.net^
 ||oufuqh.kant.ru^
 ||oughoaghushouru.net^
-||ougnugno.com^
 ||ougnultoo.com^
 ||ougrauty.com^
 ||ougribot.net^
@@ -66893,6 +66882,7 @@
 ||rum.marquardmedia.hu^
 ||rum.perfops.net^
 ||rum.uptime.com^
+||rumkhprg.com^
 ||rummagemason.com^
 ||rummentaltheme.com^
 ||rummyaffiliates.com^
@@ -85567,6 +85557,7 @@
 ||tuftoawoo.xyz^
 ||tufzdj.xyz^
 ||tugngs.tui.com^
+||tugraughilr.xyz^
 ||tuhwjkesxo.com^
 ||tui07.shop^
 ||tuitionpancake.com^
@@ -85624,6 +85615,7 @@
 ||turbulentimpuresoul.com^
 ||turdauch.xyz^
 ||turdwwakrh.com^
+||turesdi.top^
 ||tureukworektob.info^
 ||turganic.com^
 ||turgelrouph.com^
@@ -92608,7 +92600,6 @@
 ||xvbcjh.xyz^
 ||xvbjctqs.xyz^
 ||xvbnrh.xyz^
-||xvbtdwdelhhxe.com^
 ||xvbwvle.com^
 ||xveenk.com^
 ||xvfyubhqjp.xyz^
