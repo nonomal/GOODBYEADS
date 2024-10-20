@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-20 09:46:58（北京时间）
+! Version: 2024-10-20 20:38:40（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 94607
+! Total count: 94580
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1094,7 +1094,6 @@
 ||299bf6b4b4.9a55672b0c.com^
 ||299dcc6f32.d37914770f.com^
 ||29apfjmg2.de^
-||29dc237c9b.com^
 ||29e73076ca.49d4db4864.com^
 ||29s55bf2.de^
 ||29vpnmv4q.com^
@@ -2828,6 +2827,7 @@
 ||99bithcoins.com^
 ||99count.com^
 ||99fe352223.com^
+||99jinpin.com^
 ||9a15f0c926.02ce917efd.com^
 ||9a46f67b9d.ced96f8fcc.com^
 ||9a55672b0c.com^
@@ -7270,9 +7270,7 @@
 ||abjectionpatheticcoloured.com^
 ||abjectpreludeparity.com^
 ||abjkfy.muuu.com^
-||abjmkkowbovov.top^
 ||abjtuq.exoticca.com^
-||abkajbvozmoow.top^
 ||abkdae.namshi.com^
 ||abkmbrf.com^
 ||abkobh.chobirich.com^
@@ -11805,7 +11803,6 @@
 ||amuseulteriorpair.com^
 ||amusinghump.com^
 ||amusingsnow.pro^
-||amvbwleayvwqw.top^
 ||amvtwk.thebottleclub.com^
 ||amwaenayzjqle.top^
 ||amwaenayzjwav.top^
@@ -15208,6 +15205,7 @@
 ||atonementimmersedlacerate.com^
 ||atonementwisely.com^
 ||atoniaregracy.com^
+||atorks.xyz^
 ||atpanchama.com^
 ||atpansagean.com^
 ||atpawniarda.com^
@@ -15236,7 +15234,6 @@
 ||attacarbo.com^
 ||attachedkneel.com^
 ||attaindisableneedlework.com^
-||attarpantoon.click^
 ||attemptinert.com^
 ||attemptingstray.com^
 ||attemptsbetween.com^
@@ -16604,7 +16601,6 @@
 ||basereflect.com^
 ||basetts.com^
 ||basheighthnumerous.com^
-||bashesmockery.com^
 ||bashnourish.com^
 ||bashwhoopflash.com^
 ||basicallyspacecraft.com^
@@ -17754,7 +17750,6 @@
 ||bjakku.com^
 ||bjappzvz.xyz^
 ||bjaxmaydcnal.xyz^
-||bjbjrmevkakw.top^
 ||bjc.hrm.healthgrades.com^
 ||bjdqbl.nippn-kenko.net^
 ||bjeellnaldl.xyz^
@@ -17923,7 +17918,6 @@
 ||blisterpompey.com^
 ||blistest.xyz^
 ||blitz-analytics-batch-server.blitz.gg^
-||bljyynzkzkyrv.top^
 ||bllom.cloud^
 ||blmibao.com^
 ||blmjbp.casamundo.pl^
@@ -18338,7 +18332,6 @@
 ||boqufs.2nn.jp^
 ||borablejoky.shop^
 ||bordeaux.futurecdn.net^
-||bordelsdislink.com^
 ||bordsnewsjule.com^
 ||boredombizarrerepent.com^
 ||borehatchetcarnival.com^
@@ -20522,7 +20515,6 @@
 ||cdn.htkcm.com^
 ||cdn.ianjumb.com^
 ||cdn.insta.playbryte.com^
-||cdn.insurads.com^
 ||cdn.iople.com^
 ||cdn.isgost.com^
 ||cdn.jampp.com^
@@ -21132,7 +21124,6 @@
 ||cheatingagricultural.com^
 ||cheatinghans.com^
 ||cheatingstiffen.com^
-||checaigu.net^
 ||checbox.cc^
 ||check-iy-ver-172-3.site^
 ||check-now.online^
@@ -23738,7 +23729,6 @@
 ||couwooji.xyz^
 ||covatic.io^
 ||covenant.psjhealth.org^
-||covenhalalah.com^
 ||coveredbetting.com^
 ||coveredsnortedelectronics.com^
 ||coveredstress.com^
@@ -28810,7 +28800,6 @@
 ||dolarkurum.com^
 ||dolatiaschan.com^
 ||dolatiosom.com^
-||dolcinopararek.com^
 ||dolefulcaller.com^
 ||dolefulitaly.com^
 ||dolefulwelcoming.com^
@@ -28971,7 +28960,6 @@
 ||dotserver.douyucdn.cn^
 ||dotsrv.com^
 ||dottilyjerky.com^
-||dottledwennish.com^
 ||dotuij.top^
 ||dotvox.actonservice.com^
 ||dotyruntchan.com^
@@ -35511,7 +35499,6 @@
 ||galairo.com^
 ||galajou.com^
 ||galamis.com^
-||galaxien.com^
 ||galaxydiminution.com^
 ||galaxypush.com^
 ||galeaeevovae.com^
@@ -38180,7 +38167,6 @@
 ||guchihyfa.pro^
 ||gueikw.xyz^
 ||guelvp.1111.com.tw^
-||guergalrekey.com^
 ||guerregamming.com^
 ||guerrilla-links.com^
 ||guess.h.qhimg.com^
@@ -38189,7 +38175,6 @@
 ||guestblackmail.com^
 ||guestsfingertipchristian.com^
 ||guffawsbandura.shop^
-||guffawsuniplex.com^
 ||guhomnfuzq.com^
 ||guhyqz.hawesko.de^
 ||guichetlola.com^
@@ -44831,7 +44816,6 @@
 ||juicyads.rocks^
 ||juicycash.net^
 ||jujtcq.amnibus.com^
-||jujubehoofing.com^
 ||jukseeng.net^
 ||jukulree.xyz^
 ||julefhgu.xyz^
@@ -45170,7 +45154,6 @@
 ||kartik.devishetty.com^
 ||kartik.devishetty.net^
 ||karwobeton.com^
-||kasbahchaw.com^
 ||kasfas.com^
 ||kassitegamy.top^
 ||kastafor.com^
@@ -45445,7 +45428,6 @@
 ||kiisetbtkaul.com^
 ||kiki.rireetchansons.fr^
 ||kikoe.aisei.co.jp^
-||kikongoguydom.click^
 ||kikoucuy.net^
 ||kiksajex.com^
 ||kileysgreeney.com^
@@ -52475,7 +52457,6 @@
 ||merchant-mail.neosurf.com^
 ||merchant.libertycarz.com^
 ||merchenta.com^
-||merciespinery.com^
 ||mercifulsurveysurpass.com^
 ||mercor.cn^
 ||mercuras.com^
@@ -54311,7 +54292,6 @@
 ||mimicbeeralb.com^
 ||mimicdisperse.com^
 ||mimicromax.com^
-||mimicvrows.com^
 ||mimilcnf.pro^
 ||mimosaavior.top^
 ||mimsossopet.com^
@@ -56847,7 +56827,6 @@
 ||nnxxjjhcwdfsbsa.xyz^
 ||no.resailslemures.com^
 ||no2veeamggaseber.com^
-||no88kks.infinityscans.net^
 ||no9pldds1lmn3.soundcloud.com^
 ||noa.yahoo.com^
 ||noa0.compteczam.fr^
@@ -57079,7 +57058,6 @@
 ||nourishmentrespective.com^
 ||noushe.zevvle.com^
 ||noustadegry.com^
-||nouunburn.click^
 ||nouusup.icu^
 ||nouveau-digital.com^
 ||nouvelobs.s3-website-eu-west-1.amazonaws.com^
@@ -59142,6 +59120,7 @@
 ||osnksi.czytam.pl^
 ||ospartners.xyz^
 ||ospreyorceins.com^
+||osrxzucira.com^
 ||ossfloetteor.com^
 ||ossgogoaton.com^
 ||osshydreigonan.com^
@@ -59316,6 +59295,7 @@
 ||ourcoolstories.com^
 ||ourdesperate.com^
 ||ourdreamsanswer.info^
+||ouresdk.top^
 ||ourgumpu.xyz^
 ||ourhobby.com^
 ||ourhotstories.com^
@@ -59376,7 +59356,6 @@
 ||outlookads.live.com^
 ||outlookreservebennet.com^
 ||outlopunnytor.com^
-||outlottint.com^
 ||outmatchurgent.com^
 ||outnidorinoom.com^
 ||outnumberconnatetomato.com^
@@ -61105,7 +61084,6 @@
 ||pings.vidpulse.com^
 ||pingtas.qq.com^
 ||pingtcss.qq.com^
-||pinieroxberry.com^
 ||pinklabel.com^
 ||pinkleo.pro^
 ||pinkpig2le8tt09.com^
@@ -61730,7 +61708,6 @@
 ||plus.tourispo.com^
 ||plusavecmoins.adp.ca^
 ||plusgo.win^
-||plushedupthrow.com^
 ||plusone8.com/ardexaae.php^
 ||plusungratefulinstruction.com^
 ||plutonium.cointelegraph.com^
@@ -62040,7 +62017,6 @@
 ||popunderstar.com^
 ||popunderz.com^
 ||popup-static.unisender.com^
-||popup.egyup.com^
 ||popup.msn.com^
 ||popup.sapoapps.vn^
 ||popupchat-live.com^
@@ -62185,7 +62161,6 @@
 ||pourpressedcling.com^
 ||pouseephaiji.com^
 ||poutrevenueeyeball.com^
-||poutsasuang.com^
 ||povoarge.com^
 ||povsefcrdj.com^
 ||powa.fr^
@@ -62894,7 +62869,6 @@
 ||proto2ad.durasite.net^
 ||protoawe.com^
 ||protocolgroupgroups.com^
-||protomaedging.com^
 ||proton-tm.com^
 ||protosell.actonservice.com^
 ||prototypewailrubber.com^
@@ -64604,7 +64578,6 @@
 ||ra6.xyz^
 ||raac33.net^
 ||raananfunning.shop^
-||rabbiesrammy.com^
 ||rabbinsfoldage.top^
 ||rabbit.radicalxchange.org^
 ||rabbit.upwardhomes.net^
@@ -68012,7 +67985,6 @@
 ||saluterblamed.com^
 ||saluton.cizion.com^
 ||salvagefloat.com^
-||salviaslarus.com^
 ||salzwerk.viessmann.de^
 ||sam*.baby-kingdom.com^
 ||sam.manager-magazin.de^
@@ -78513,7 +78485,6 @@
 ||suncanny.marvel.com^
 ||suncanny.marvelhq.com^
 ||sundayscrewinsulting.com^
-||sundhopen.site^
 ||sunflowerbright106.io^
 ||sunflowercoastlineprobe.com^
 ||sunflowergermcaptivate.com^
@@ -79140,6 +79111,7 @@
 ||syrsple2se8nyu09.com^
 ||sys.hager.com^
 ||syshrugglefor.info^
+||syshwc.xyz^
 ||sysmon.kakaku.com^
 ||sysoutvariola.com^
 ||systancia-scp.actonservice.com^
@@ -93177,6 +93149,7 @@
 ||yernbiconic.com^
 ||yeryt111.fun^
 ||yes-messenger.com^
+||yes88kks.infinityscans.net^
 ||yesads.com^
 ||yesadvertising.com^
 ||yesmessenger.com^
