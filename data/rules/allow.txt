@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-22 20:40:47（北京时间）
+! Version: 2024-10-23 09:39:27（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14643
+! Total count: 14641
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -1192,7 +1192,7 @@
 @@||ads2.contentabc.com/ads?spot_id=$domain=8muses.com,xmlhttprequest
 @@||ads2.filescreed.buzz^$xmlhttprequest,domain=techcyan.com
 @@||ads2.opensubtitles.org/*www/delivery/afr.php?
-@@||ads3.xumo.com^$domain=2vnews.com|redbox.com
+@@||ads3.xumo.com^$domain=2vnews.com
 @@||adsads.host-cdn.net/banners/$domain=maxstream.video
 @@||adsafeprotected.com/iasPET.$script,domain=independent.co.uk|reuters.com|wjs.com
 @@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=gamingbible.co.uk|ladbible.com|reuters.com|wjs.com
@@ -2196,7 +2196,6 @@
 @@||banner.infoey.com/adbanner.png$domain=bazadecrypto.com
 @@||banner.infoey.com/adbanner.png$domain=bchtechnologies.com
 @@||banner.infoey.com/adbanner.png$domain=phineypet.com
-@@||banner.yt^$image,domain=socialblade.com
 @@||banners.s1.citilink.ru^$image,domain=citilink.ru
 @@||bannersnack.com/banners/$document,subdocument,domain=adventcards.co.uk|charitychristmascards.org|christmascardpacks.co.uk|kingsmead.com|kingsmeadcards.co.uk|nativitycards.co.uk|printedchristmascards.co.uk
 @@||bapi.adsafeprotected.com/bapi?anId=*&auth_token=$domain=entrepreneur.com
@@ -10781,7 +10780,6 @@
 @@||porn.com^$generichide
 @@||pornbimbo.com/player/player_ads.html
 @@||pornbraze.com/advertisement.js
-@@||pornbraze.com^$generichide
 @@||porndish.com^$generichide
 @@||porngun.net^$generichide
 @@||pornhub.*/*?*&ajax=$xmlhttprequest
