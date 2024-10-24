@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-23 20:40:48（北京时间）
+! Version: 2024-10-24 09:39:45（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14641
+! Total count: 14643
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -2955,6 +2955,7 @@
 @@||cdn.jsdelivr.net^$script,domain=movieffm.net
 @@||cdn.jsdelivr.net^$script,domain=yemancomic.com
 @@||cdn.jsdelivr.net^*/fp.min.js$script,domain=cuevana2.io
+@@||cdn.kaizenplatform.net^$script,domain=navi.onamae.com
 @@||cdn.krxd.net/amp/remote.min.js$domain=static.telegraph.co.uk
 @@||cdn.krxd.net/controltag/*.js$domain=video.foxnews.com|video.foxbusiness.com
 @@||cdn.lib.getjad.io/library/$domain=purepeople.com
@@ -8322,6 +8323,7 @@
 @@||maclife.vn^$generichide
 @@||macrumors.com/2021/*-ad-$domain=macrumors.com
 @@||macwelt.de^$generichide
+@@||madeformed.com^$stealth=ip
 @@||madtrx.fun^$generichide
 @@||maedchen.de/sites/default/files/google_tag/google_tag_manager_fuersie/google_tag.script.js
 @@||magdyman.com^$generichide
