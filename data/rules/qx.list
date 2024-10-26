@@ -13217,6 +13217,8 @@ DOMAIN,api-adservices.apple.com,reject
 DOMAIN,api-analytics-prd.pelcro.com,reject
 DOMAIN,api-analytics.prod.birdapp.com,reject
 DOMAIN,api-analytics.rozetka.com.ua,reject
+DOMAIN,api-cloudfalcon.hismarttv.com,reject
+DOMAIN,api-dynhost.hismarttv.com,reject
 DOMAIN,api-exponea.o2.cz,reject
 DOMAIN,api-exponea.o2.sk,reject
 DOMAIN,api-fangarma.utyug.media,reject
