@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-26 09:37:12（北京时间）
+! Version: 2024-10-26 20:37:39（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 94979
+! Total count: 94971
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -365,7 +365,6 @@
 ||1.wemakebestnews.com^
 ||1.xilu.com^
 ||1.xuexi.la^
-||1.xuexili.com^
 ||1.y2sysv81v.com^
 ||1.yac8.net^
 ||1.yuexw.com^
@@ -3226,7 +3225,6 @@
 ||a.mysalo.store^
 ||a.n4m5x60.com^
 ||a.naliw.xyz^
-||a.nanhuwang.com^
 ||a.nelo.mx^
 ||a.nowscore.com^
 ||a.o2u.jp^
@@ -11041,7 +11039,6 @@
 ||aiiaqw.xyz^
 ||aiieer.mangnut2.com^
 ||aiiirwciki.com^
-||aijiamao.top^
 ||aijurivihebo.com^
 ||aikat-vim.com^
 ||aikhra.londonclub.sk^
@@ -13323,6 +13320,7 @@
 ||api.iterative.ly^
 ||api.itpub.cloud^
 ||api.jietuhb.com^
+||api.june.so^
 ||api.kekw.website^
 ||api.kekw.world^
 ||api.kingdata.ksyun.com^
@@ -16879,7 +16877,6 @@
 ||bcxcxixcwprccn.com^
 ||bcybka.deinetuer.de^
 ||bcytwb.student.com^
-||bd*-ys.km.com^
 ||bd-china-1.appmobile.cn^
 ||bd-js.duote.com^
 ||bd-js1.2345.com^
@@ -28758,7 +28755,6 @@
 ||dm.sanwen.net^
 ||dm.smfl.jp^
 ||dm.syntelli.com^
-||dm.taobaojuhuasuan.cn^
 ||dm.toutiao.com^
 ||dm.wenshenxiu.com^
 ||dm.zjut.cc^
@@ -33577,6 +33573,7 @@
 ||fc861ba414.com^
 ||fc96c51f92.0074854f80.com^
 ||fca4efa968.com^
+||fca6f.icu^
 ||fca88bf71e.632c96af3c.com^
 ||fcbacec887.df86fe80e6.com^
 ||fcc222dcb2.fe7fbef413.com^
@@ -45277,7 +45274,6 @@
 ||k8ik878i.top^
 ||k8s-adserver-adserver-4b35ec6a1d-815734624.us-east-1.elb.amazonaws.com^
 ||k9gj.site^
-||ka5188.com^
 ||kaacsi.belvilla.nl^
 ||kaaqgf.icu^
 ||kaascypher.com^
@@ -45820,7 +45816,6 @@
 ||kltmjevd.xyz^
 ||klwuhp.daehyuninside.com^
 ||km.rightanswers.com^
-||km1.muhoujiemi.com^
 ||km14hkusz.com^
 ||kmgzyug.com^
 ||kmhujzustl.com^
@@ -49881,7 +49876,6 @@
 ||m.zineworm.com^
 ||m0hcppadsnq8.com^
 ||m0rsq075u.com^
-||m1.100how.com^
 ||m1.27com.com^
 ||m1.51kaowang.com^
 ||m1.81312.com^
@@ -52658,7 +52652,6 @@
 ||menacing-awareness.pro^
 ||mendedrefuel.com^
 ||menews.org^
-||meng.360zuowen.com^
 ||menispirfly.com^
 ||menkaox.xyz^
 ||mennoc.mezlan.com^
@@ -55612,7 +55605,6 @@
 ||msyyvyle.com^
 ||msz3.destinia.cn^
 ||mt-business.vodafone.com^
-||mt.64foot.com^
 ||mt.gigazine.net^
 ||mt.plateiq.com^
 ||mt34iofvjay.com^
@@ -59672,6 +59664,7 @@
 ||ouzeelre.net^
 ||ouzosbesiren.com^
 ||ov.yahoo.co.jp^
+||ov8ct.icu^
 ||ovaleithermansfield.com^
 ||ovardu.com^
 ||ovbgeum.cn^
@@ -63675,6 +63668,7 @@
 ||pursuitgrasp.com^
 ||pursuitperceptionforest.com^
 ||puserving.com^
+||push-ads-cn.heytapmobi.com^
 ||push-api.topaz-analytics.com^
 ||push-news.click^
 ||push-notifications.top^
@@ -64377,6 +64371,7 @@
 ||qorlxle.com^
 ||qortex.ai^
 ||qos.report.qq.com^
+||qouvxliy.top^
 ||qouxkn.natuurhuisje.nl^
 ||qovua60gue.tubewolf.com^
 ||qowncyf.com^
@@ -80247,7 +80242,6 @@
 ||tankahuncoked.click^
 ||tao.barstoolsports.com^
 ||taobao.qq.com^
-||taobc.com^
 ||taosiz.xyz^
 ||taotaogeren.xyz^
 ||taovgsy.com^
@@ -92413,7 +92407,6 @@
 ||xbwpfs.fotocasa.es^
 ||xbxmdlosph.xyz^
 ||xc.gdt.qq.com^
-||xc.gouchezj.com^
 ||xc.macd.cn^
 ||xc.mydrivers.com^
 ||xcams.net^
@@ -93974,7 +93967,6 @@
 ||yrvzqabfxe.com^
 ||yrwqquykdja.com^
 ||ys-log-upload-os.hoyoverse.com^
-||ys.muhoujiemi.com^
 ||ys2000.cdn.bcebos.com^
 ||ysaaks.mobiauto.com.br^
 ||ysdk.qq.com^
