@@ -840,3 +840,4 @@ www.9game.cn##.entry.qak_popup
 wkings.blog##.di7ubns5b2nz
 tuniu.com##.web_envelope_mod, .tuniu-assist-hide, .show
 vacations.ctrip.com##.side_function
+||push-ads-cn.heytapmobi.com^
