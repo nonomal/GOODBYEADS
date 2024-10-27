@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-27 09:45:45（北京时间）
+! Version: 2024-10-27 20:37:33（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 94994
+! Total count: 94996
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -64430,6 +64430,7 @@
 ||qqdata.ab.qq.com^
 ||qqdflf.lpga.or.jp^
 ||qqeuq1cmoooq.accuretawealth.com^
+||qqganna.icu^
 ||qqguvmf.com^
 ||qqhuhu.com^
 ||qqinrm.jagodo.vn^
@@ -87284,6 +87285,7 @@
 ||uosyhthogsaavr.com^
 ||uosyiozyu.com^
 ||uoutube.com^
+||uouvxlit.top^
 ||up-banner.wavecdn.de^
 ||up-banner.wavecdn.net^
 ||up-hl.3g.qq.com^
