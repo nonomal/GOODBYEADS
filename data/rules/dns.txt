@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-27 20:37:33（北京时间）
+! Version: 2024-10-28 09:44:11（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 94996
+! Total count: 95008
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -788,6 +788,7 @@
 ||1ghp.4puuqeh41.com^
 ||1gktmd.4puuqeh41.com^
 ||1gktrmd.4puuqeh41.com^
+||1gmzo.icu^
 ||1gndv.4puuqeh41.com^
 ||1gtmdv.4puuqeh41.com^
 ||1gtmwdv.4puuqeh41.com^
@@ -24275,6 +24276,7 @@
 ||crmtt.livejasmin.com^
 ||crmx.eqvn.net^
 ||crnhbkd.com^
+||crnmyrk.icu^
 ||croakedrotonda.com^
 ||crocetta.viessmann.it^
 ||croceussmitter.click^
@@ -27763,6 +27765,7 @@
 ||dfgbalon.com^
 ||dfgfdffg.cn^
 ||dfh48z16zqvm6.cloudfront.net^
+||dfhgry.com^
 ||dfidhqoaunepq.cloudfront.net^
 ||dfigxb.underarmour.com.mx^
 ||dfiqvf0syzl54.cloudfront.net^
@@ -35458,6 +35461,7 @@
 ||fvvyjd.jtv.com^
 ||fvyqblc.icu^
 ||fw.qq.com^
+||fwbejnuplyuxufm.xyz^
 ||fwbntw.com^
 ||fwcnex.icu^
 ||fwealjdmeptu.com^
@@ -39015,6 +39019,7 @@
 ||hdvmyo.com^
 ||hdxdhu.zumnorde.de^
 ||hdxpqgvqm.com^
+||hdxyj.icu^
 ||hdywrwnvf-h.one^
 ||he3mero6calli4s.com^
 ||he7ll.com^
@@ -40604,7 +40609,6 @@
 ||i98jio988ui.world^
 ||i99i.org^
 ||i9klo.com^
-||i9zk5f8szj4x8saj5wcks8acja5sk1dz8stjs2g8isdcn6ejxn8zsr5xjs5h.com^
 ||ia-dmp.com^
 ||ia.51.la^
 ||ia.ekstrabladet.dk^
@@ -40835,6 +40839,7 @@
 ||ieldrjjkxwo.com^
 ||ielgag.top^
 ||ielmzzm.com^
+||ieluqiqttdwv.com^
 ||iemiq.com^
 ||ientent.stre4mplay.one^
 ||ientent.streampiay.fun^
@@ -44080,6 +44085,7 @@
 ||japfg-trending-content.uc.r.appspot.com^
 ||japw.cloud^
 ||jaqxaqoxwhce.com^
+||jareechargu.xyz^
 ||jargonwillinglybetrayal.com^
 ||jarguvie.xyz^
 ||jarsfulerenow.com^
@@ -44764,6 +44770,7 @@
 ||jouzoapi.com^
 ||jovialwoman.com^
 ||jowingtykhana.click^
+||jowkkzx.icu^
 ||jowlishdiviner.com^
 ||jowtkv.vertbaudet.de^
 ||jowyylrzbamz.top^
@@ -47288,6 +47295,7 @@
 ||lightssyrupdecree.com^
 ||lightstep.medium.systems^
 ||ligninenchant.com^
+||ligvraojlrr.com^
 ||ligxyv.hackers.co.kr^
 ||lih6e.site^
 ||liivhntsu.com^
@@ -50258,6 +50266,7 @@
 ||maltohoo.xyz^
 ||maltunfaithfulpredominant.com^
 ||mamamia.vintageporno.stream^
+||mamaunweft.click^
 ||mamblubamblua.com^
 ||mamjkg.xyz^
 ||mamka.aviasales.ru^
@@ -55728,6 +55737,7 @@
 ||mumintend.com^
 ||mummydiverseprovided.com^
 ||mumnxiex.top^
+||mumoartoor.net^
 ||munchkin.marketo.net^
 ||munilf.com^
 ||munnin.hicsuntdra.co^
@@ -57979,6 +57989,7 @@
 ||obturex.com^
 ||obvejksff.com^
 ||obviousestate.com^
+||obwnaon.icu^
 ||obzthda.xyz^
 ||oc.umeng.com^
 ||oc2tdxocb3ae0r.com^
@@ -94810,6 +94821,7 @@
 ||zrsaff.petworld.no^
 ||zrsetz.shutterstock.com^
 ||zrtfsoz.com^
+||zrtlvtsy.xyz^
 ||zrw1.destinia.jp^
 ||zrxdzq.levelshoes.com^
 ||zs.dhl.de^
