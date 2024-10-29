@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-29 09:42:01（北京时间）
+! Version: 2024-10-29 20:41:31（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 95171
+! Total count: 95173
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -26342,6 +26342,7 @@
 ||daquilan.com^
 ||darcycapacious.com^
 ||darcyjellynobles.com^
+||dareka4te.shop^
 ||darghinruskin.com^
 ||daringcooper.com^
 ||daringsupport.com^
@@ -85526,6 +85527,7 @@
 ||treenghsas.com^
 ||treeoflifecenterus.actonservice.com^
 ||treepullmerriment.com^
+||treferty33.fun^
 ||trehtnoas.com^
 ||treitrehagdin.top^
 ||trek.powtoon.com^
