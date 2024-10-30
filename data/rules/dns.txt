@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-30 09:40:55（北京时间）
+! Version: 2024-10-30 20:41:17（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 95189
+! Total count: 95199
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2319,6 +2319,7 @@
 ||6f9978f41d.f3e3a6cea1.com^
 ||6fb11f4b6e.7981d0e1b2.com^
 ||6fb345e22a.0f3f317f1d.com^
+||6ft8a.icu^
 ||6ftlady.com^
 ||6fxtpu64lxyt.com^
 ||6gcstb.xyz^
@@ -9673,6 +9674,7 @@
 ||ads.museum.or.jp^
 ||ads.music.126.net^
 ||ads.mxhnkn.pro^
+||ads.mythad.com^
 ||ads.networksolutions.com^
 ||ads.newgrounds.com^
 ||ads.newmedia.cz^
@@ -11114,6 +11116,7 @@
 ||aijurivihebo.com^
 ||aikat-vim.com^
 ||aikhra.londonclub.sk^
+||aikkits.com^
 ||aiknx.cn^
 ||aikraith.net^
 ||aikravoapu.com^
@@ -26391,6 +26394,7 @@
 ||dasyuredenmark.com^
 ||data-collector.wefi.com^
 ||data-data-vac.com^
+||data-ingestion.flowgpt.com^
 ||data-logdelivery.wconcept.co.kr^
 ||data-optout-service.uca.cloud.unity3d.com^
 ||data-px.services^
@@ -30622,6 +30626,7 @@
 ||ede3d8764d.1c7cf19baa.com^
 ||edeals.rbp.com^
 ||edeals.rhymebiz.com^
+||edeb873154.com^
 ||ederrassi.com^
 ||edgbas.com^
 ||edge-mobile-static.azureedge.net.iberostar.com^
@@ -30942,6 +30947,7 @@
 ||ehqdzqi.com^
 ||ehrhrrx.xyz^
 ||ehrlgb.izlato.sk^
+||ehrmanoda.com^
 ||ehrydnmdoe.com^
 ||eht.endress.com^
 ||eht116.com^
@@ -40107,6 +40113,7 @@
 ||hotvideos4726.34gwl8v1a.com^
 ||hotvideos4729.34gwl8v1a.com^
 ||hotwords.com^
+||houbliu.top^
 ||houdodoo.net^
 ||houfopsichoa.com^
 ||hougriwhabool.net^
@@ -45142,6 +45149,7 @@
 ||jugerfowells.com^
 ||juggleeducationfirearm.com^
 ||jugjetwok.com^
+||juglarunioid.com^
 ||jugnepha.xyz^
 ||jugsmithecology.com^
 ||juhece.uno^
@@ -63055,6 +63063,7 @@
 ||proditor.sparda.de^
 ||prodmp.ru^
 ||prodownload.newbetakey.com^
+||prodregistryv2.org^
 ||prodresell.com^
 ||producebreed.com^
 ||producedendorsecamp.com^
@@ -81760,6 +81769,7 @@
 ||ti.solipedsnarls.com^
 ||ti.tradetracker.net^
 ||ti3av8k3ikwm.resume.gerardbosch.xyz^
+||tianji.flowgpt.com^
 ||tiaoap.xyz^
 ||tibacta.com^
 ||tibcpowpiaqv.com^
