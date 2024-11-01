@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-10-31 20:40:35（北京时间）
+! Version: 2024-11-01 09:47:28（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 95043
+! Total count: 95064
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -605,6 +605,7 @@
 ||167.99.31.227^
 ||1675450967.rsc.cdn77.org^
 ||1677.5clo0xmbf.com^
+||1686385128.rsc.cdn77.org^
 ||16ao.mathon.fr^
 ||16c8nh2801z2.top^
 ||16dd-advertise-1252317822.file.myqcloud.com^
@@ -696,6 +697,7 @@
 ||1918634747.rsc.cdn77.org^
 ||1919f4eccf.08031fef00.com^
 ||192.luyouwang.com^
+||1937343605.rsc.cdn77.org^
 ||193bde9ab1.com^
 ||193eva.cosmicnewspulse.com^
 ||194.26.232.61^
@@ -7815,6 +7817,7 @@
 ||acceptablereality.com^
 ||acceptcards.americanexpress.co.uk^
 ||acceptimpatient.com^
+||acceptvigorously.com^
 ||access*.tpns.tencent.com^
 ||access-mc.com^
 ||access.acspubs.org^
@@ -8921,6 +8924,7 @@
 ||adgridwork.com^
 ||adgrx.com^
 ||adguanggao.eee114.com^
+||adgzfujunv.com^
 ||adhealers.com^
 ||adherenceofferinglieutenant.com^
 ||adherencescannercontaining.com^
@@ -19174,6 +19178,7 @@
 ||bruceleadx.com^
 ||bruceleadx1.com^
 ||brucinabowmen.com^
+||brughsasha.shop^
 ||brugocarz.eccocar.com^
 ||bruisedlungmisuse.com^
 ||bruisedpaperworkmetre.com^
@@ -24576,6 +24581,7 @@
 ||ctkyom.xyz^
 ||ctl.buyt.in^
 ||ctl.mobitrack.co.kr^
+||ctlacnh.icu^
 ||ctlayn.talbots.com^
 ||ctlrarz.xyz^
 ||ctm-media.com^
@@ -26334,6 +26340,7 @@
 ||danmounttablets.com^
 ||dannyuncoach.com^
 ||dansheshi.com^
+||dansimseng.xyz^
 ||danspowsmwap.com^
 ||dantasg.com^
 ||dantbritingd.club^
@@ -27460,6 +27467,7 @@
 ||deitynosebleed.com^
 ||dejavu.mercadolivre.com.br^
 ||dejavu.mlapps.com^
+||dejjjdbifojmi.com^
 ||dejpog.sunstar-shop.jp^
 ||dekanser.com^
 ||del-del-ete.com^
@@ -28906,6 +28914,7 @@
 ||dmnqfn.xyz^
 ||dmnxkj.cn^
 ||dmp.citiservi.es^
+||dmp.citynews.ovh^
 ||dmp.eland-tech.com^
 ||dmp.sbermarketing.ru^
 ||dmpcdn.el-mundo.net^
@@ -34365,6 +34374,7 @@
 ||fizzysquirtbikes.com^
 ||fj.aomg5bzv7.com^
 ||fjaqxtszakk.com^
+||fjbtkrfay.com^
 ||fjbubsdhpcticbu.com^
 ||fjdzgn.paulfredrick.com^
 ||fjgcai.zlavomat.sk^
@@ -35701,6 +35711,7 @@
 ||g33ktr4ck.com^
 ||g33tr4c3r.com^
 ||g4p.redtram.com^
+||g4y7uuk.com^
 ||g5fzq2l.com^
 ||g5rkmcc9f.com^
 ||g6j.cupidonmedia.com^
@@ -37759,6 +37770,7 @@
 ||gomerchant.groupon.com^
 ||gomnlt.com^
 ||gonairoomsoo.xyz^
+||gonakedowing.com^
 ||gone.pronhub.fun^
 ||goneawaytogy.info^
 ||gonoushauw.net^
@@ -38005,6 +38017,7 @@
 ||gradualmadness.com^
 ||graduate472.fun^
 ||graduatedspaghettiauthorize.com^
+||graesol.com^
 ||grafzen.com^
 ||graigloapikraft.net^
 ||graijoruwa.com^
@@ -39466,7 +39479,6 @@
 ||hibids10.com^
 ||hibiki-track.logica.bz^
 ||hibj.online^
-||hiboard-drcn.ai.dbankcloud.cn^
 ||hichhereallyw.info^
 ||hickeysmith.actonservice.com^
 ||hickunwilling.com^
@@ -44236,6 +44248,7 @@
 ||jbezdi.ilsole24ore.com^
 ||jbib-hxyf.icu^
 ||jbkqemk.icu^
+||jblkvlyurssx.xyz^
 ||jbm6c54upkui.com^
 ||jbrlsr.com^
 ||jbtul.com^
@@ -46076,6 +46089,7 @@
 ||kotokot.com^
 ||kotopoulathanasis.openapp.link^
 ||kotzzdwl.com^
+||koublid.top^
 ||kouceeptait.com^
 ||koucerie.com^
 ||koucqfpnsamftw.com^
@@ -57142,6 +57156,7 @@
 ||nnvjbb.xyz^
 ||nnvkh.com^
 ||nnvoia.closetworld.com^
+||nnxfiqgqdsoywwa.com^
 ||nnxxjjhcwdfsbsa.xyz^
 ||no.resailslemures.com^
 ||no2veeamggaseber.com^
@@ -60716,6 +60731,7 @@
 ||pbwlanlzmzeip.com^
 ||pbxai.com^
 ||pbxdny.angrybeards.cz^
+||pbyfdgnh.com^
 ||pc-ads.com^
 ||pc-mon.zijieapi.com^
 ||pc.personalcreations.com^
@@ -60988,6 +61004,7 @@
 ||permutive.app^
 ||perpetrateabsolute.com^
 ||perpetratejewels.com^
+||perpetraterummage.com^
 ||perpetualcod.com^
 ||perr.h-cdn.com^
 ||perr.hola.org^
@@ -64717,6 +64734,7 @@
 ||quizmastersnag.com^
 ||quizna.xyz^
 ||qujishu.com^
+||qujptcqr.com^
 ||quk9.destinia.com.ar^
 ||qumaef.conects.com^
 ||qumagee.com^
@@ -76636,6 +76654,7 @@
 ||stagelink.supershare.com^
 ||stagelink.youareaceo.com^
 ||stagepopkek.com^
+||stagerydialing.shop^
 ||stageseshoals.com^
 ||staggeredowner.com^
 ||staggeredplan.com^
@@ -88759,6 +88778,7 @@
 ||viralnewsobserver.com^
 ||viralnewssystems.com^
 ||viralstrangers.com^
+||virgalocust.shop^
 ||virgindisguisearguments.com^
 ||virginiasibyl.com^
 ||virginityneutralsouls.com^
@@ -92568,6 +92588,7 @@
 ||xgefvi.iteshop.com^
 ||xgeuzcfrkeb.com^
 ||xgezbc.tripmasters.com^
+||xggcyef.icu^
 ||xgihlgcfuu.com^
 ||xgjidt.xyz^
 ||xgraph.net^
