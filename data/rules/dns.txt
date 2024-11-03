@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-03 19:09:48（北京时间）
+! Version: 2024-11-03 20:37:05（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 95098
+! Total count: 95097
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -26319,7 +26319,6 @@
 ||dannyuncoach.com^
 ||dansheshi.com^
 ||dansimseng.xyz^
-||danspowsmwap.com^
 ||dantasg.com^
 ||dantbritingd.club^
 ||danv01ao0kdr2.cloudfront.net^
