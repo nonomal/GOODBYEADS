@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-03 09:46:09（北京时间）
+! Version: 2024-11-03 19:09:48（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 95121
+! Total count: 95098
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1476,7 +1476,6 @@
 ||37.44x.io^
 ||3702.5clo0xmbf.com^
 ||3740.5clo0xmbf.com^
-||3743e0aeab.com^
 ||3758.79j68qav2.com^
 ||3777.79j68qav2.com^
 ||3797.79j68qav2.com^
@@ -7423,7 +7422,6 @@
 ||ablebodiedsweatisolated.com^
 ||ablecheap.com^
 ||ablecolony.com^
-||ablefull.com^
 ||ablestsigma.click^
 ||abletoprese.org^
 ||ablink.1954.bk.com^
@@ -8309,7 +8307,6 @@
 ||ad.imp.joins.com^
 ||ad.infoseek.com^
 ||ad.inhaabit.com^
-||ad.inston.ltd^
 ||ad.intl.xiaomi.com^
 ||ad.iplayer.org^
 ||ad.iwhop.cn^
@@ -13159,7 +13156,6 @@
 ||anvilfaintmaiden.com^
 ||anwap.ru^
 ||anwhitepinafore.info^
-||anxgzfksydxgl.com^
 ||anxiousairliner.com^
 ||anxiousapples.com^
 ||anxiousjayholder.com^
@@ -13290,7 +13286,6 @@
 ||aphid.polarcop.com^
 ||aphid.smartjournal.no^
 ||aphid.thyself.me^
-||aphidespulques.com^
 ||aphrodisia01.free.fr^
 ||aphrodite.aomg5bzv7.com^
 ||aphxav.green-acres.it^
@@ -17589,7 +17584,6 @@
 ||beyers.cn^
 ||beyond.bluewolf.com^
 ||beyourxfriend.com^
-||bezantsslidder.click^
 ||bezwtpxx.com^
 ||bf-ad.net^
 ||bf0ca594d7.b3e0c0eb4d.com^
@@ -18646,7 +18640,6 @@
 ||box.anchorfree.net^
 ||box.bossdata.be^
 ||box1.aomg5bzv7.com^
-||boxampoa.com^
 ||boxappellation.com^
 ||boxernightdilution.com^
 ||boxernipplehopes.com^
@@ -23394,7 +23387,6 @@
 ||constitutekidnapping.com^
 ||constraingood.com^
 ||constraintarrearsadvantages.com^
-||constrictbuzz.com^
 ||constructbrought.com^
 ||constructionrejection.com^
 ||constructpiece.com^
@@ -25428,7 +25420,6 @@
 ||d1zy4z3rd7svgh.cloudfront.net^
 ||d1zzcae3f37dfx.cloudfront.net^
 ||d200108c6x0w2v.cloudfront.net^
-||d203291367.com^
 ||d204slsrhoah2f.cloudfront.net^
 ||d205jrj5h1616x.cloudfront.net^
 ||d20903hof2l33q.cloudfront.net^
@@ -29193,7 +29184,6 @@
 ||dositsil.net^
 ||dosliggooor.com^
 ||dosneaselor.com^
-||dosselsmachair.click^
 ||dossestarairi.shop^
 ||dossmanaventre.top^
 ||doswinuba.com^
@@ -32583,6 +32573,7 @@
 ||event-api.reverb.com^
 ||event-collector.moviesanywhere.com^
 ||event-collector.prd.data.s.joyn.de^
+||event-dot-learning-piano.appspot.com^
 ||event-listener.air.tv^
 ||event-logger.tagboard.com^
 ||event-reporting-dot-webylytics.appspot.com^
@@ -34809,7 +34800,6 @@
 ||forexclub.ru^
 ||forfeitfetid.com^
 ||forfeitsubscribe.com^
-||forfitbelter.click^
 ||forflygonom.com^
 ||forfrogadiertor.com^
 ||forgerylimit.com^
@@ -43166,6 +43156,7 @@
 ||insight.wittkieffer.com^
 ||insightexpress.com^
 ||insightexpressai.com^
+||insights-categorizer-noneu.truecaller.com^
 ||insights-collector.newrelic.com^
 ||insights-mxp-cdn.coursecareers.com^
 ||insights-mxp.coursecareers.com^
@@ -45086,7 +45077,6 @@
 ||jtyutq.chaussures.fr^
 ||jtzdld.xyz^
 ||ju23.madeindesign.co.uk^
-||juansgneiss.com^
 ||juaqmic.com^
 ||jubasfogs.com^
 ||jubbie.de^
@@ -45582,7 +45572,6 @@
 ||kemaz.xyz^
 ||kemmars.com^
 ||kendosliny.com^
-||kendotube.com^
 ||kenduktur.com^
 ||kennedyhealth.hrm.healthgrades.com^
 ||kennelbakerybasketball.com^
@@ -46181,7 +46170,6 @@
 ||krskux.newhaircaps.com.br^
 ||krtlisd.top^
 ||krum.vsct.fr^
-||krutilka.net^
 ||krutvncd.top^
 ||krxd.net^
 ||kryeia.xyz^
@@ -47404,7 +47392,6 @@
 ||limitedkettlemathematical.com^
 ||limitesrifer.com^
 ||limitlessascertain.com^
-||limitsevent.com^
 ||limitssimultaneous.com^
 ||limneraminic.click^
 ||limoiditches.top^
@@ -50386,7 +50373,6 @@
 ||mangensaud.net^
 ||mango.aomg5bzv7.com^
 ||mangoa.xyz^
-||manguecoelho.click^
 ||mangzoi.xyz^
 ||maniasensiblecompound.com^
 ||maniatoile.com^
@@ -55433,7 +55419,6 @@
 ||mosrtaek.net^
 ||mossgaietyhumiliation.com^
 ||mosspf.com^
-||mossru.com^
 ||mossyiapyges.com^
 ||mostauthor.com^
 ||moster.granny-xxx-video.com^
@@ -57071,7 +57056,6 @@
 ||nitrokod.com^
 ||nitrous-analytics.s3.amazonaws.com^
 ||niubixxx.com^
-||niveousatoner.click^
 ||niwluvepisj.site^
 ||niwooghu.com^
 ||niyimu.xyz^
@@ -57226,7 +57210,6 @@
 ||noisyunidentifiedinherited.com^
 ||nojazz.eu^
 ||nojhhsg.com^
-||nokeegne.com^
 ||noktaglaik.com^
 ||nol.yahoo.com^
 ||nolduniques.shop^
@@ -59586,7 +59569,6 @@
 ||otnolabttmup.com^
 ||otnolatrnup.com^
 ||otoadom.com^
-||otocyonbanner.click^
 ||otomacotelugu.com^
 ||otr.kaspersky.ca^
 ||otr.kaspersky.co.jp^
@@ -62986,7 +62968,6 @@
 ||processserver.abclegal.com^
 ||processsky.com^
 ||processusmetier.ricoh.fr^
-||proche2moi.com^
 ||proclean.club^
 ||procroanalytics.com^
 ||procuratorpresumecoal.com^
@@ -65420,7 +65401,6 @@
 ||realvids.space^
 ||realvu.net^
 ||realxavounow.com^
-||reamsan.buzz^
 ||reaonq.xn--hdks770u8f0a8dvzft.net^
 ||reapinject.com^
 ||rearcomrade.com^
@@ -66993,7 +66973,6 @@
 ||roundflow.net^
 ||roundpush.com^
 ||roundspaniardindefinitely.com^
-||roundynews.com^
 ||rounidorana.com^
 ||rounsh.com^
 ||rouonixon.com^
@@ -68179,7 +68158,6 @@
 ||sackeelroy.net^
 ||sackerskips.com^
 ||saclel.zotapay.com^
-||sacralflavian.com^
 ||sacredperpetratorbasketball.com^
 ||sacrificeaffliction.com^
 ||sacvmb.icu^
@@ -80970,7 +80948,6 @@
 ||tecunalupine.com^
 ||teczbq.amicashop.com^
 ||ted.dailymail.co.uk^
-||tedious-weight.pro^
 ||tediousgorgefirst.com^
 ||tediouswavingwhiskey.com^
 ||tedtaxi.com^
@@ -82556,6 +82533,7 @@
 ||toto.pandasuite.io^
 ||totogetica.com^
 ||touaz.xyz^
+||toublii.top^
 ||toucan.ateliermilky.com^
 ||toucan.the-faithful.com^
 ||touch.multitaction.com^
@@ -92488,7 +92466,6 @@
 ||x6.yakiuchi.com^
 ||x7r3mk6ldr.com^
 ||x8.cho-chin.com^
-||x822.mrt.com^
 ||x88s.pandasuite.io^
 ||x9.shinobi.jp^
 ||x9ner.anygay.com^
