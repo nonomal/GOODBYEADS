@@ -27,9 +27,10 @@
 @@||broadcastlv.chat.bilibili.com^
 !JD试用商品详情
 @@||wl.jd.com^
-!微信验证
+!微信
 @@||shminorshort.weixin.qq.com^
 @@||support.weixin.qq.com^
+@@||minorshort.weixin.qq.com^
 !Bootcdn
 @@||cdn.bootcdn.net^
 !饿了么小程序
