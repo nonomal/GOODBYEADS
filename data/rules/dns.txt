@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-02 20:37:45（北京时间）
+! Version: 2024-11-03 09:46:09（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 95145
+! Total count: 95121
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -462,7 +462,6 @@
 ||121phonesex.co.uk^
 ||122.bestinterestings.com^
 ||1221e236c3f8703.com^
-||122f794d0c.com^
 ||123-movies.bz^
 ||123-stream.org^
 ||123.dorimnews.com^
@@ -2805,7 +2804,6 @@
 ||9068.935ft4j96.com^
 ||9071.79j68qav2.com^
 ||9087.l5eamr17d.com^
-||90a47357a5.com^
 ||90e78be4ad.f250b37f9e.com^
 ||90e7fd481d.com^
 ||9104.5clo0xmbf.com^
@@ -7331,7 +7329,6 @@
 ||abattoirpleatsprinkle.com^
 ||abazelfan.com^
 ||abbanreddy.com^
-||abbepicinae.com^
 ||abberantdiscussion.com^
 ||abberantdoggie.com^
 ||abberantextending.com^
@@ -7824,7 +7821,6 @@
 ||accessiblescopevisitor.com^
 ||accessibletighterchorus.com^
 ||accessorygraph.com^
-||accessorytonegender.com^
 ||accessv.org^
 ||accidentalcrownincredible.com^
 ||accidentalinfringementfat.com^
@@ -9396,6 +9392,7 @@
 ||ads-click.com^
 ||ads-cloud.rovio.com^
 ||ads-collector.luizalabs.com^
+||ads-config-engine-noneu.truecaller.com^
 ||ads-connect.com^
 ||ads-d.viber.com^
 ||ads-delivery.b-cdn.net^
@@ -10543,7 +10540,6 @@
 ||adx.hoanggia.net.vn^
 ||adx.kul.vn^
 ||adx.mala.cn^
-||adx.mossru.com^
 ||adx.opera.com^
 ||adx.phunuadong.vn^
 ||adx.xemvtv.net^
@@ -17006,6 +17002,7 @@
 ||bdcebeabc4.com^
 ||bdckqpofmclr.com^
 ||bdcm.kandianla.com^
+||bdcmwcl.icu^
 ||bdcode.2345.com^
 ||bdcode.35d1.com^
 ||bdcode.qinglm.com^
@@ -22354,7 +22351,6 @@
 ||cluttercallousstopped.com^
 ||clutteredassociate.pro^
 ||clvk.viki.io^
-||clyerburier.click^
 ||clyexf.decathlon.ie^
 ||clypzbzs.xyz^
 ||clyqguyadnebts.com^
@@ -22543,7 +22539,6 @@
 ||coachingminceur.go2cloud.org^
 ||coactedtoe.top^
 ||coads.akipress.org^
-||coafogle.com^
 ||coagrohos.com^
 ||coalbandmanicure.com^
 ||coalitionfits.com^
@@ -22826,7 +22821,6 @@
 ||columnistcandour.com^
 ||columnisteverything.com^
 ||colvk.viki.io^
-||com-id02349.info^
 ||com-id20341.info^
 ||com-id90123.info^
 ||com-wkejf32ljd23409system.net^
@@ -22852,7 +22846,6 @@
 ||come-get-s0me.com^
 ||come-get-s0me.net^
 ||comeadvertisewithus.com^
-||comedianbrown.com^
 ||comedianthirteenth.com^
 ||comedyjav128.fun^
 ||comemumu.info^
@@ -29604,6 +29597,7 @@
 ||dsdsg44.fun^
 ||dsethimdownthmo.com^
 ||dsfe19.madeindesign.com^
+||dsfh2.icu^
 ||dsfjhfhyry2hh8jo09.com^
 ||dsg.interia.pl^
 ||dsg.reifporn.de^
@@ -29795,7 +29789,6 @@
 ||dumplingclubhousecompliments.com^
 ||dumplingdirewomen.com^
 ||dumpster.cam4.com^
-||dumpyoungestbackstage.com^
 ||dun8qk8.lkmxqq.com^
 ||dunderaffiliates.com^
 ||dungeonisosculptor.com^
@@ -31640,7 +31633,6 @@
 ||emerald.aomg5bzv7.com^
 ||emeraldhecticteapot.com^
 ||emergedmassacre.com^
-||emeriedboucher.click^
 ||emetrics.bose.ca^
 ||emetrics.bose.com^
 ||emgykcjvkel.com^
@@ -32891,7 +32883,6 @@
 ||ewoverth.buzz^
 ||ewqeq23.fun^
 ||ewqkrfjkqz.com^
-||ewqqulftkpbv.com^
 ||ewqws55.fun^
 ||ewrerew29w09.com^
 ||ewrgryxjaq.com^
@@ -33551,7 +33542,6 @@
 ||farmmandatehaggard.com^
 ||faro-collector-prod-*.grafana.net^
 ||faroff-age.pro^
-||farriersprouthygienic.com^
 ||farteniuson.com^
 ||fartherpensionerassure.com^
 ||fartit.com^
@@ -35806,7 +35796,6 @@
 ||galeaeevovae.com^
 ||galeateflagged.guru^
 ||galepush.net^
-||gallacallas.click^
 ||gallerysouvlakeri.openapp.link^
 ||gallicize25.fun^
 ||gallonjav128.fun^
@@ -39184,7 +39173,6 @@
 ||hearty-inside.com^
 ||heartynail.pro^
 ||heartyten.com^
-||heatedgyves.com^
 ||heaterpealarouse.com^
 ||heatertried.com^
 ||heatherssb.com^
@@ -40012,7 +40000,6 @@
 ||hoqqrdynd.com^
 ||horacemann.actonservice.com^
 ||horaceprestige.com^
-||hordingracquet.com^
 ||horgoals.com^
 ||horizon-track.globo.com^
 ||horizon.globo.com^
@@ -40587,7 +40574,6 @@
 ||hymenicpirn.com^
 ||hymenvapour.com^
 ||hymnramoon.click^
-||hymnsshowish.com^
 ||hynahyqq.xyz^
 ||hyoicxstpfvgwz.com^
 ||hype-ads.com^
@@ -40777,7 +40763,6 @@
 ||ibrapush.com^
 ||ibryte.com^
 ||ibs.lgappstv.com^
-||ibtjhkwytup.xyz^
 ||ibtmla.discovery-expedition.com^
 ||ibugreeza.com^
 ||ibutheptesitrew.com^
@@ -41028,7 +41013,6 @@
 ||igjptqlywyvfveq.com^
 ||igjytl.unice.com^
 ||igkgag.xyz^
-||igktpysnxwdg.com^
 ||iglegoarous.net^
 ||igloohq.com^
 ||iglooprin.com^
@@ -41931,6 +41915,7 @@
 ||immunocorp.actonservice.com^
 ||immureuvanite.com^
 ||imndl.icu^
+||imniel.com^
 ||imp-toutiao-data.37.com.cn^
 ||imp.accesstra.de^
 ||imp.ad-plus.cn^
@@ -41941,7 +41926,6 @@
 ||imp.optaim.com^
 ||imp.pixiv.net^
 ||imp.pvnsolutions.com^
-||imp.xmax.jp^
 ||imp.zol.com.cn^
 ||imp2aff.com^
 ||impact-betegy.com^
@@ -42164,7 +42148,6 @@
 ||indor.site^
 ||indratankman.com^
 ||induceresistbrotherinlaw.com^
-||induedtwists.com^
 ||indultorutty.click^
 ||industriouswounded.com^
 ||industry.promo.skf.com^
@@ -45723,7 +45706,6 @@
 ||khiurx.tigerdirect.com^
 ||khngkkcwtlnu.com^
 ||khrtac.xiangha.com^
-||khrutjsgfp.com^
 ||khwaifiybxkv.com^
 ||khzyojb.cn^
 ||kiaughsviner.com^
@@ -45791,6 +45773,7 @@
 ||kinoneeloign.com^
 ||kinoprofi.org^
 ||kinripen.com^
+||kiolpia.icu^
 ||kiosked.com^
 ||kiphairg.com^
 ||kiqwal.autoscout24.es^
@@ -46321,7 +46304,6 @@
 ||kv-analytics.kiotviet.vn^
 ||kv.patenssabzi.com^
 ||kvaaa.com^
-||kvasigfgpv.xyz^
 ||kvdmuxy.com^
 ||kvecc.com^
 ||kvemm.com^
@@ -46771,7 +46753,6 @@
 ||largeconfusion.com^
 ||largeharass.com^
 ||largepeering.com^
-||largernauseous.com^
 ||largestloitering.com^
 ||laridaetrionfo.top^
 ||lark.pollie.dev^
@@ -55387,7 +55368,6 @@
 ||moonrocketaffiliates.com^
 ||moonvids.online^
 ||moonvids.space^
-||moopsazijop.com^
 ||mooroore.xyz^
 ||mooruptraiks.com^
 ||moose.cloverlearning.com^
@@ -55453,6 +55433,7 @@
 ||mosrtaek.net^
 ||mossgaietyhumiliation.com^
 ||mosspf.com^
+||mossru.com^
 ||mossyiapyges.com^
 ||mostauthor.com^
 ||moster.granny-xxx-video.com^
@@ -55875,7 +55856,6 @@
 ||muscularcopiedgulp.com^
 ||musedemeanouregyptian.com^
 ||museummargin.com^
-||mushingjocular.click^
 ||mushroomplainsbroadly.com^
 ||musiccampusmanure.com^
 ||musiccounter.ru^
@@ -56896,7 +56876,6 @@
 ||newslikemeds.com^
 ||newsmaxfeednetwork.com^
 ||newsnet.in.ua^
-||newsnewsmagazinetoday.com^
 ||newsnourish.com^
 ||newspapermeaningless.com^
 ||newsstat.dallasnews.com^
@@ -62077,7 +62056,6 @@
 ||plotzn.apmex.com^
 ||ploughbrushed.com^
 ||ploughplbroch.com^
-||plowingloiasis.com^
 ||ploy.batmobi.net^
 ||ployingcurship.com^
 ||ploysmarxian.com^
@@ -64514,6 +64492,7 @@
 ||qorlxle.com^
 ||qortex.ai^
 ||qos.report.qq.com^
+||qoubliy.top^
 ||qouvxliy.top^
 ||qouxkn.natuurhuisje.nl^
 ||qovua60gue.tubewolf.com^
@@ -71588,7 +71567,6 @@
 ||smart2cnjuh34jb.com^
 ||smart4ads.com^
 ||smartad.10010.com^
-||smartadnetwork.net^
 ||smartads.statsperform.com^
 ||smartadserver.com^
 ||smartcam.adt-worldwide.com^
@@ -79555,6 +79533,7 @@
 ||sync.rambler.ru^
 ||sync.shinobi.jp^
 ||synchronizerobot.com^
+||synchroparomologyauditable.monster^
 ||syncplusconfig.s3.amazonaws.com^
 ||syndetstermine.com^
 ||syndicate.payloadz.com^
@@ -82226,7 +82205,6 @@
 ||tmvasapp.fitnessyard.com^
 ||tmvebl.xyz^
 ||tmwkya.jh-profishop.at^
-||tmx.bestbuy.com^
 ||tmx.td.com^
 ||tmxjdr.benaza.ro^
 ||tmy8.madeindesign.ch^
@@ -87105,7 +87083,6 @@
 ||unbelievableinnumerable.com^
 ||unbelievablesuitcasehaberdashery.com^
 ||unbelievablydemocrat.com^
-||unbitimmures.click^
 ||unblock2303.xyz^
 ||unblock2304.xyz^
 ||unbloodied.sbs^
@@ -87634,6 +87611,7 @@
 ||urocyoncabrit.top^
 ||uropygimoraine.com^
 ||uroqgj.wind.it^
+||urpkktc.icu^
 ||urqwzbu.cn^
 ||urr.kumamoto-food.com^
 ||urs.metacritic.com^
@@ -88207,7 +88185,6 @@
 ||vazshojt.com^
 ||vazulp.graniph.com^
 ||vazypteke.pro^
-||vbammlgpfg.com^
 ||vbe.voyage-prive.be^
 ||vbgr7.cn^
 ||vbhuivr.com^
@@ -89238,7 +89215,6 @@
 ||vs.tucows.com^
 ||vs.verisure.fr^
 ||vs3.com^
-||vserv.mobi^
 ||vsfius.aranzulla.it^
 ||vsftsyriv.com^
 ||vsgallery.com^
@@ -90139,6 +90115,7 @@
 ||webdisk.mail.aomg5bzv7.com^
 ||webed.dm-event.net^
 ||webfanclub.com^
+||webfreesave.monster^
 ||webftp.ki-oon.com^
 ||webhost.aomg5bzv7.com^
 ||webinar.dnv.com^
@@ -94114,7 +94091,6 @@
 ||yqeuu.com^
 ||yqigli.tourlane.de^
 ||yqlxkzs.cn^
-||yqlxqbgpxepbh.com^
 ||yqlxwb.icu^
 ||yqmxfz.com^
 ||yqorwz.weisshaus.at^
