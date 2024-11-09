@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-09 09:35:26（北京时间）
+! Version: 2024-11-09 20:36:25（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 92623
+! Total count: 92627
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1621,6 +1621,7 @@
 ||41af8c06b5.5da32c1419.com^
 ||41b5062d22.com^
 ||41eak.life^
+||41grk.icu^
 ||4205.5clo0xmbf.com^
 ||420909.cn^
 ||421f03c2e5.46acd35e41.com^
@@ -20336,7 +20337,6 @@
 ||cbnzop.c-c-j.com^
 ||cbpgpg.bombshellsportswear.com^
 ||cbpslot.com^
-||cbro.win^
 ||cbthkumwa96.shop^
 ||cbttnmo.xyz^
 ||cbudbs.tirendo.de^
@@ -30162,6 +30162,7 @@
 ||edavbu.vittz.co.kr^
 ||edbehindforhewa.info^
 ||edbritingsynt.info^
+||eddcc.icu^
 ||ede3d8764d.1c7cf19baa.com^
 ||edeals.rbp.com^
 ||edeals.rhymebiz.com^
@@ -32043,6 +32044,7 @@
 ||event-collector.moviesanywhere.com^
 ||event-collector.prd.data.s.joyn.de^
 ||event-dot-learning-piano.appspot.com^
+||event-dot-procolor-backend.appspot.com^
 ||event-listener.air.tv^
 ||event-logger.tagboard.com^
 ||event-reporting-dot-webylytics.appspot.com^
@@ -33236,6 +33238,7 @@
 ||feintelbowsburglar.com^
 ||feistyhelicopter.com^
 ||feistyswim.com^
+||feittoill.com^
 ||fejla.com^
 ||fekpcd.icu^
 ||felidae.mmm.page^
@@ -61462,6 +61465,7 @@
 ||prod-sponsoredads.mkt.zappos.com^
 ||prod.adjoe.zone^
 ||prod.cm.publishers.advertising.a2z.com^
+||prod.event.mwm-asset-manager.mwmwebapis.com^
 ||prod.ew.srp.navigacloud.com^
 ||prod.fennec.atp.fox^
 ||prod.html5-ads.vk-apps.com^
