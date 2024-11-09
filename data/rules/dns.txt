@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-08 20:39:25（北京时间）
+! Version: 2024-11-09 09:35:26（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 92595
+! Total count: 92623
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -510,7 +510,6 @@
 ||13199960a1.com^
 ||1320.5clo0xmbf.com^
 ||1329.5clo0xmbf.com^
-||1337x.*/sw.js^
 ||1337x.vpnonly.site^
 ||1339.79j68qav2.com^
 ||13453765871837679316.googlegroups.com^
@@ -2003,6 +2002,7 @@
 ||587b0060ba.ca2686564a.com^
 ||5889.5clo0xmbf.com^
 ||5891344.xn--j1amh^
+||58shuz.com^
 ||590578zugbr8.com^
 ||591520.xyz^
 ||592749d456.com^
@@ -2254,6 +2254,7 @@
 ||68aq8q352.com^
 ||68b956af2d.89df7388bf.com^
 ||68d6b65e65.com^
+||68yscw.com^
 ||69-74.net.jumia.sn^
 ||6927.5clo0xmbf.com^
 ||692881.com^
@@ -14973,6 +14974,7 @@
 ||ashhgo.com^
 ||ashionismscol.info^
 ||ashlarinaugur.com^
+||ashlingzanyish.com^
 ||ashoreyuripatter.com^
 ||ashot.txxx.com^
 ||ashoupsu.com^
@@ -15710,6 +15712,7 @@
 ||avwgzujkit.com^
 ||avwjyvzeyeov.top^
 ||avwjyvzeymmb.top^
+||avxonsp.icu^
 ||avygpim.com^
 ||avzwkkmzkabyv.top^
 ||awaitdetestableitem.com^
@@ -19506,6 +19509,7 @@
 ||bywordmiddleagedpowder.com^
 ||byxcbk.ipekevi.com^
 ||byyanmaor.com^
+||byzoruator.com^
 ||bzamusfalofn.com^
 ||bzaxgk.ecctur.com^
 ||bzclk.baidu.com^
@@ -20332,6 +20336,7 @@
 ||cbnzop.c-c-j.com^
 ||cbpgpg.bombshellsportswear.com^
 ||cbpslot.com^
+||cbro.win^
 ||cbthkumwa96.shop^
 ||cbttnmo.xyz^
 ||cbudbs.tirendo.de^
@@ -26931,6 +26936,7 @@
 ||deadmentionsunday.com^
 ||deafening-benefit.pro^
 ||deafeningdock.com^
+||deafeningphone.com^
 ||dealcurrent.com^
 ||dealdotcom.com^
 ||dealerrelations.cargurus.com^
@@ -28547,6 +28553,7 @@
 ||dn34cbtcv9mef.cloudfront.net^
 ||dn3hksy6kf.com^
 ||dn3uy6cx65ujf.cloudfront.net^
+||dn4qoz.com^
 ||dn6rwwtxa647p.cloudfront.net^
 ||dn7u3i0t165w2.cloudfront.net^
 ||dn9.biz^
@@ -37252,6 +37259,7 @@
 ||graphnitriot.com^
 ||grapseex.com^
 ||grapselu.com^
+||graptaupsi.net^
 ||grartoag.xyz^
 ||grasshusk.com^
 ||grassrootsunwired.actonservice.com^
@@ -37391,6 +37399,7 @@
 ||gripspigyard.com^
 ||grirault.net^
 ||grirkd215r4d22.7k11547nc.com^
+||grirqaks.com^
 ||grirtouy.com^
 ||grislyrooing.click^
 ||gristleupanaya.com^
@@ -37644,6 +37653,7 @@
 ||guardian-app.hotdoc.com.au^
 ||guardiancu.actonservice.com^
 ||guardiandigitalcomparison.co.uk^
+||guardiannostrils.com^
 ||guardsslate.com^
 ||guchihyfa.pro^
 ||gudohuxy.uno^
@@ -44969,6 +44979,7 @@
 ||koufqy.xyz^
 ||koukoku.red^
 ||kouopt.calvinklein.com.br^
+||kouphouwhajee.net^
 ||koushauwhie.xyz^
 ||kousjcignye.com^
 ||koussinnielli.com^
@@ -45224,6 +45235,7 @@
 ||kxtqgp.mistermenuiserie.com^
 ||kxxdxikksc.space^
 ||kxxfdwt.cn^
+||kxygsjv.icu^
 ||ky1amps1loy8iabe.pleasedonotblockme.com^
 ||ky595images.com^
 ||ky891.oss-*.aliyuncs.com^
@@ -48032,6 +48044,7 @@
 ||loublil.top^
 ||louchaug.com^
 ||louchees.net^
+||louderoink.shop^
 ||louderwalnut.com^
 ||loudlongerfolk.com^
 ||louisedistanthat.com^
@@ -54102,6 +54115,7 @@
 ||morgenskenotic.shop^
 ||morict.com^
 ||morinavotarius.top^
+||morionlochus.com^
 ||morionsluigini.digital^
 ||mormont.gamer-network.net^
 ||morneminim.top^
@@ -56652,6 +56666,7 @@
 ||obouckie.com^
 ||obqclg.dadway-onlineshop.com^
 ||obqvss.debameubelen.be^
+||obr3.space^
 ||obrazy.dlabiznesu.pracuj.pl^
 ||obrom.xyz^
 ||obrqts.hudforeclosed.com^
@@ -56777,6 +56792,7 @@
 ||odologyelicit.com^
 ||odourcowspeculation.com^
 ||odpgponumrw.com^
+||odqciqdazjuk.com^
 ||oebarc.ekosport.at^
 ||oedbml.collage-shop.jp^
 ||oedlmz.underarmour.it^
@@ -59313,6 +59329,7 @@
 ||pcnphysio-com.ca-eulerian.net^
 ||pcp.coupert.com^
 ||pcpqqnlvw.xyz^
+||pcqze.tech^
 ||pcs.capgroup.com^
 ||pctlwm.com^
 ||pctsrv.com^
@@ -63570,6 +63587,7 @@
 ||raymondcarryingordered.com^
 ||rayonnesiemens.shop^
 ||razorhsi.click^
+||razorvenue.com^
 ||razzlebuyer.com^
 ||rb.groc.press^
 ||rb.infox.sg^
@@ -69071,6 +69089,7 @@
 ||shoop4.com^
 ||shoopusahealth.com^
 ||shoordaird.com^
+||shoorsoacmo.xyz^
 ||shooterconsultationcart.com^
 ||shootereosins.com^
 ||shooterlearned.com^
@@ -69452,6 +69471,7 @@
 ||sjetnf-oizyo.buzz^
 ||sjezce.xyz^
 ||sjgsgy.xyz^
+||sjilyhwpu.xyz^
 ||sjkdbvjksbv.com^
 ||sjluuom.icu^
 ||sjmbua.matsui.co.jp^
@@ -72920,6 +72940,7 @@
 ||snapshotapp.progressive.com^
 ||snaretoeburp.work^
 ||snarlaptly.com^
+||snarlsfuzzes.com^
 ||snat.goguardian.com^
 ||snbwyi.heine.at^
 ||snd.freshstartnews.com^
@@ -80703,6 +80724,7 @@
 ||tq.startbrws-2.online^
 ||tq.starvalue-3.online^
 ||tq.starvalue-4.online^
+||tqanmatx.icu^
 ||tqbdio.medicare.pt^
 ||tqbrnd.xyz^
 ||tqeobp89axcn.com^
@@ -83505,6 +83527,7 @@
 ||trigs-sockets.com^
 ||trikerboughs.com^
 ||trim-goal.com^
+||trimmoits.com^
 ||trimpagkygg.com^
 ||trimpur.com^
 ||trimregular.com^
@@ -84406,6 +84429,7 @@
 ||tychon.bid^
 ||tycxhgrp.xyz^
 ||tydzfldt.xyz^
+||tyfqjbuk.one^
 ||tyfuufdp-xbd.top^
 ||tyhwheveeshngi.xyz^
 ||tyhyorvhscdbx.xyz^
@@ -86768,6 +86792,7 @@
 ||vjdciu.com^
 ||vjharl.xyz^
 ||vjjgpt.diamond.jp^
+||vjlyljbjjmley.top^
 ||vjnxpj.xyz^
 ||vjpgm.space^
 ||vjugz.com^
@@ -88644,6 +88669,7 @@
 ||withenvisagehurt.com^
 ||withholdrise.com^
 ||withmefeyaukna.com^
+||withnimmunger.com^
 ||withyou.shorr.com^
 ||withyouryretye.info^
 ||witnessedcompany.com^
@@ -90385,6 +90411,7 @@
 ||xjkhaow.com^
 ||xjkpzh.voraxacessorios.com.br^
 ||xjkugh.waterdropfilter.com^
+||xjlqybkll.com^
 ||xjoqmy.tuifly.be^
 ||xjpmlf.xyz^
 ||xjq5.belambra.be^
@@ -90813,6 +90840,7 @@
 ||xn--gmq238c5fy.com^
 ||xn--mts60is5y5uk.com^
 ||xn--sssy7vrppusjyv0a.com^
+||xn--swt207gl1hzc.net^
 ||xn--u1aaw.xn--p1ai^
 ||xn--w9q675dm1p7em.net^
 ||xn--wgvp78a61swpe6zdozj.cn^
