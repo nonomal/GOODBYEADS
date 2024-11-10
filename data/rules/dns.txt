@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-09 20:36:25（北京时间）
+! Version: 2024-11-10 09:42:59（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 92627
+! Total count: 92650
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -16035,6 +16035,7 @@
 ||azbaclxror.com^
 ||azbrtw.anydesk.com^
 ||azclip.co.ua^
+||azcmcacuc.com^
 ||azcoct.bikkembergs.com^
 ||azenco.xyz^
 ||azenka.one^
@@ -16647,6 +16648,7 @@
 ||banstat.nadavi.net^
 ||bantengdisgown.shop^
 ||banterteeserving.com^
+||baobabsruesome.com^
 ||bapa215.top^
 ||bapages.carte-gr.total.fr^
 ||bapdvtk.com^
@@ -22844,6 +22846,7 @@
 ||conative.network^
 ||concealedcredulous.com^
 ||concealmentbrainpower.com^
+||concedederaserskyline.com^
 ||conceitedfedapple.com^
 ||conceivedtowards.com^
 ||concentration2.fun^
@@ -23116,6 +23119,7 @@
 ||consistedlovedstimulate.com^
 ||consistpromised.com^
 ||consmo.net^
+||consolationgratitudeunwise.com^
 ||console-telemetry.oci.oraclecloud.com^
 ||console.adbility-media.com^
 ||console.adspmg.com^
@@ -33869,6 +33873,7 @@
 ||floatingbile.com^
 ||floatingdrake.com^
 ||floccischlump.com^
+||flockexecute.com^
 ||flockinjim.com^
 ||flog.pressplay.cc^
 ||flogpointythirteen.com^
@@ -36012,6 +36017,7 @@
 ||gkktjf.top^
 ||gklox.cn^
 ||gkopqp.coccodrillo.eu^
+||gkrtgrcquwttq.xyz^
 ||gkrtmc.com^
 ||gksqdt.reitmans.com^
 ||gkswas.xyz^
@@ -37950,6 +37956,7 @@
 ||hajilijnemo.com^
 ||hajoopteg.com^
 ||hakeemmuffled.top^
+||hakqkhtlav.com^
 ||haksaigho.com^
 ||hal.courrierinternational.com^
 ||halbertduffed.top^
@@ -44151,6 +44158,7 @@
 ||jwerioa.top^
 ||jwfesuk.cn^
 ||jwhdgt.icu^
+||jwhjqjfl.icu^
 ||jwia0.top^
 ||jwjzf.online^
 ||jwlvlo.icaniwill.dk^
@@ -44448,6 +44456,7 @@
 ||kdqytm.vipre.com^
 ||kdsahkln.xyz^
 ||kdtbpt.brogsitter.de^
+||kdzgrvn.icu^
 ||keajs.com^
 ||kebeckirgon.net^
 ||kebohjhh.xyz^
@@ -45717,6 +45726,7 @@
 ||lby2kd27c.com^
 ||lc.nodoseamylic.com^
 ||lcbgqqjeblw.com^
+||lcd.aivote.com^
 ||lcdsyj.daily.co.jp^
 ||lcefsf.icu^
 ||lcefua.timberland.ru^
@@ -48467,6 +48477,7 @@
 ||lust-goddess.buzz^
 ||lustasserted.com^
 ||lutachechu.pro^
+||lutoorgourgi.com^
 ||lutrbr.xyz^
 ||luumhi.whatonearthcatalog.com^
 ||luuming.com^
@@ -53217,6 +53228,7 @@
 ||mhkvktz.com^
 ||mhmp.bruker.com^
 ||mhmzhc.trysnow.com^
+||mhndfpbssfcsr.com^
 ||mhnpec.nimaxi-online.com^
 ||mhnzhlase.xyz^
 ||mholland.net.anwalt.de^
@@ -55082,6 +55094,7 @@
 ||naulme.info^
 ||nauloapt.com^
 ||naupouch.xyz^
+||naupsakiwhy.com^
 ||naupseko.com^
 ||nauseacomplimentary.com^
 ||nauthait.com^
@@ -57657,6 +57670,7 @@
 ||ooliticcabbler.com^
 ||ooloptou.net^
 ||oolsoudsoo.xyz^
+||oolsutsougri.net^
 ||ooltakreenu.xyz^
 ||oometermerkhet.click^
 ||oomphavenger.com^
@@ -61877,6 +61891,7 @@
 ||psootchu.net^
 ||psoowhoovort.com^
 ||psooxakree.com^
+||psoroumukr.com^
 ||psothoms.com^
 ||psotudev.com^
 ||psoudulto.com^
@@ -67244,6 +67259,7 @@
 ||scheduling.qualifi.hr^
 ||schinnerer.actonservice.com^
 ||schizorecooks.shop^
+||schizypdq.com^
 ||schjmp.com^
 ||schmalzgarniec.com^
 ||scholarkeyboarddoom.com^
@@ -69004,6 +69020,7 @@
 ||sheshaft.com/js/license.*.js^
 ||sheshaft.com/js/script.js^
 ||sheshaft.com/right.js^
+||shestieh.com^
 ||shestrozo.com^
 ||shexawhy.net^
 ||shfewojrmxpy.xyz^
@@ -79688,6 +79705,7 @@
 ||thoughtlessindeedopposition.com^
 ||thouphouwhad.net^
 ||thoupsuk.net^
+||thouptoorg.com^
 ||thousandinvoluntary.com^
 ||thousheek.com^
 ||thovapsa.net^
@@ -84260,6 +84278,7 @@
 ||turmoilragcrutch.com^
 ||turn.com^
 ||turncdn.com^
+||turndynamicforbes.com^
 ||turnhub.net^
 ||turnipsoft.pubfinity.com^
 ||turniptriumphantanalogy.com^
@@ -85935,6 +85954,7 @@
 ||valerieavisnba.com^
 ||valerieurania.com^
 ||valesweetheartconditions.com^
+||valetsangoise.top^
 ||valetsword.com^
 ||valiantjosie.com^
 ||valiantmanioca.com^
@@ -86188,6 +86208,7 @@
 ||vemflutuartambem.com^
 ||vempeeda.com^
 ||vempozah.net^
+||vemtoutcheeg.com^
 ||vendigamus.com^
 ||vendimob.pl^
 ||vendingboatsunbutton.com^
@@ -88787,6 +88808,7 @@
 ||wmptcd.com^
 ||wmptctl.com^
 ||wmpted.com^
+||wmptengate.com^
 ||wmpuem.com^
 ||wmudsraxwj.xyz^
 ||wmvroh.sgd.de^
@@ -88879,6 +88901,7 @@
 ||woodejou.net^
 ||woodenguardsheartburn.com^
 ||woodhenmils.com^
+||woodieababua.com^
 ||woodlandanyone.com^
 ||woodlandsmonthlyelated.com^
 ||woodlotrubato.com^
