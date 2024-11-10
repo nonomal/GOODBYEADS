@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-10 09:42:59（北京时间）
+! Version: 2024-11-10 20:36:13（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 92650
+! Total count: 92661
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -691,7 +691,6 @@
 ||1a65658575.com^
 ||1a715b8q5m3j.www.logology.co^
 ||1a8f9rq9c.de^
-||1ab9ee01cb.com^
 ||1ac9365789.com^
 ||1ad6ea4211.com^
 ||1ads.4puuqeh41.com^
@@ -1777,6 +1776,7 @@
 ||4cock.com^
 ||4d15ee32c1.com^
 ||4d2fb0abf1.ebc998936c.com^
+||4d3f87f705.com^
 ||4d657489e0.247dbf848b.com^
 ||4d658ab856.com^
 ||4d716774ff.7d3906347f.com^
@@ -2748,6 +2748,7 @@
 ||8a7d8912cb.0ef2473ad8.com^
 ||8a9d20ab14.0b9b5eada8.com^
 ||8aea82753b.2ab91613ab.com^
+||8ail6.icu^
 ||8b2f59b83b.55ef6cccfc.com^
 ||8b61533fb6.eda153603c.com^
 ||8be504503e.com^
@@ -16489,7 +16490,6 @@
 ||bance.jp^
 ||banclip.com^
 ||bancopostapremia.bancoposta.it^
-||bandageloathe.com^
 ||bandageretaliateemail.com^
 ||banddisordergraceless.com^
 ||bande2az.com^
@@ -16745,7 +16745,6 @@
 ||baste-znl.com^
 ||bastingestival.com^
 ||basuey.toyscenter.it^
-||basyfmucu.xyz^
 ||bat.bing.com^
 ||bat.bing.net^
 ||bat.heelix.be^
@@ -17567,7 +17566,6 @@
 ||bgidskiv.top^
 ||bginrbancsr.com^
 ||bgupcq.westfalia.de^
-||bguytsrstgnwtm.com^
 ||bh-test.groc.press^
 ||bh.groc.press^
 ||bh.twifoilperoxyl.com^
@@ -19617,6 +19615,7 @@
 ||c021b14e0782ad7ef6d74.clicknplay.to^
 ||c03ff6b001.78733f9c3c.com^
 ||c0594.com^
+||c05ua.icu^
 ||c083e24088.com^
 ||c0ae703671.com^
 ||c0cd2idcl5.com^
@@ -21522,6 +21521,7 @@
 ||cj.qidian.com^
 ||cj2550.com^
 ||cjbdme.conquer.org^
+||cjbyfsmr.life^
 ||cjcqls.onbuy.com^
 ||cjejjz.thelasthunt.com^
 ||cjekfmidk.xyz^
@@ -29096,6 +29096,7 @@
 ||dribturbot.com^
 ||driedanswerprotestant.com^
 ||driedcollisionshrub.com^
+||drihmae.com^
 ||drillcompensate.com^
 ||drinksbookcaseconsensus.com^
 ||dripgleamborrowing.com^
@@ -29462,7 +29463,6 @@
 ||dwin2.com^
 ||dwithmefeyauknal.info^
 ||dwnm2295blvjq.cloudfront.net^
-||dwp3ce9c.top^
 ||dwq661.biz^
 ||dwqjaehnk.com^
 ||dwr3zytn850g.cloudfront.net^
@@ -35189,6 +35189,7 @@
 ||garnishwas.com^
 ||garosesia.com^
 ||garotas.info^
+||garotedwhiff.top^
 ||garrafaoutsins.top^
 ||garretassociate.com^
 ||garretdistort.com^
@@ -35264,7 +35265,9 @@
 ||gazeroelet.space^
 ||gazettemisrun.click^
 ||gazozfelines.shop^
+||gazpachos28.fun^
 ||gazumpers27.fun^
+||gazumping30.fun^
 ||gb-asymbo.m-shop.me^
 ||gb.click.finning.com^
 ||gb1aff.com^
@@ -37416,6 +37419,7 @@
 ||grixaghe.xyz^
 ||grizzled-reality.pro^
 ||grizzlers30.fun^
+||grizzlier30.fun^
 ||grizzlies30.fun^
 ||grizzling33.fun^
 ||grmtas.com^
@@ -40172,6 +40176,7 @@
 ||ijhpdtiij.com^
 ||ijhweandthepe.info^
 ||ijhxe.com^
+||ijhyugb.com^
 ||ijifwb.green-acres.fr^
 ||ijjorsrnydjcwx.com^
 ||ijkcmm.com^
@@ -54454,7 +54459,6 @@
 ||mtnwxhjv.xyz^
 ||mto.cgv.vn^
 ||mtoxtg.tezenis.com^
-||mtp.spaces.im^
 ||mtr.fluor.com^
 ||mtrace.qq.com^
 ||mtracking.mhequipment.com^
@@ -54492,7 +54496,6 @@
 ||muddiedbubales.com^
 ||muddyharold.com^
 ||muddyquote.pro^
-||mudfishatabals.com^
 ||muellfrei.de^
 ||muendakutyfore.info^
 ||muer.cdn-baidu.fs-sywh.com^
@@ -57999,6 +58002,7 @@
 ||origin.www.images.2.forms.healthcare.philips.com^
 ||origin1266.fun^
 ||originalblow.pro^
+||originatecrane.com^
 ||originateposturecubicle.com^
 ||origintube.com^
 ||origoclick.com^
@@ -58962,6 +58966,7 @@
 ||pangolin.snssdk.com^
 ||pangolin16.isnssdk.com^
 ||pangolin16.sgsnssdk.com^
+||pangzz.xyz^
 ||panicmiserableeligible.com^
 ||pannamdashee.com^
 ||pannumregnal.com^
@@ -63675,6 +63680,7 @@
 ||rdbd.xsread.com^
 ||rdc.rachatdecredit.net^
 ||rddiqs.partyhallen.se^
+||rddjzbwt.click^
 ||rddywd.com^
 ||rdfine.camelbrown.com^
 ||rdiono.cn^
@@ -67419,7 +67425,6 @@
 ||sda.seksohub.com^
 ||sda.tamdiem247.com^
 ||sdarot-il.org^
-||sdarot-tv.org^
 ||sdarot.cc^
 ||sdata.avid.com^
 ||sdata.chelseafc.com^
@@ -78878,6 +78883,7 @@
 ||tck.fr.transavia.com^
 ||tck.photobox.com^
 ||tck.wonderbox.fr^
+||tcloaksandtheirclean.com^
 ||tcontametrop.info^
 ||tcowmrj.com^
 ||tcp.topcomicporno.net^
@@ -84976,6 +84982,7 @@
 ||umentrandings.xyz^
 ||umescomymanda.info^
 ||umexalim.com^
+||umggxggvv.com^
 ||umhlnkbj.xyz^
 ||umhyck.belvilla.com^
 ||umiaob.kireibiz.jp^
@@ -86193,6 +86200,7 @@
 ||veille-referencement.com^
 ||veilsuccessfully.com^
 ||veincartrigeforceful.com^
+||veinourdreams.com^
 ||vejhln.xyz^
 ||vekseptaufin.com^
 ||veldtwalk.com^
@@ -86348,6 +86356,7 @@
 ||vfvdvd99.fun^
 ||vfvrld.xyz^
 ||vfxrpl.xyz^
+||vfyhwapi.com^
 ||vfzqtgr.com^
 ||vg.piaroanjust.com^
 ||vg247-uk.vg247.com^
@@ -90375,6 +90384,7 @@
 ||xh33g.net^
 ||xhbheroq.xyz^
 ||xhbshv.xyz^
+||xhbulmpl.com^
 ||xhbzrk.hotmart.com^
 ||xhfxtqt.xyz^
 ||xhgpuxim.xyz^
@@ -91832,6 +91842,7 @@
 ||yvsofs.tropeaka.com.au^
 ||yvtgva.casa.it^
 ||yvudqzoa.xyz^
+||yvvmnkmbf.com^
 ||yvwuesh.icu^
 ||yvzgazds6d.com^
 ||ywayoh.ecipo.hu^
