@@ -2,7 +2,7 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-12 20:40:53（北京时间）
+! Version: 2024-11-13 09:39:19（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 93065
 ||*.diwodiwo.xyz^
@@ -15335,6 +15335,7 @@
 ||atgenesecton.com^
 ||atgt.grafana.com^
 ||atgtfj.bettermusic.com.au^
+||athalarilouwo.net^
 ||athbashara.com^
 ||athbzeobts.com^
 ||atheismcard.com^
@@ -15533,7 +15534,6 @@
 ||auditioningdock.com^
 ||auditoriumgiddiness.com^
 ||auditorydetainriddle.com^
-||auditoryembedded.com^
 ||auditude.com^
 ||audmrk.com^
 ||audrault.xyz^
@@ -18110,7 +18110,6 @@
 ||bloblohub.com^
 ||blobsurnameincessant.com^
 ||block-ad.com^
-||block.mediavenus.biz^
 ||blockadsnot.com^
 ||blockchain-ads.com^
 ||blockchain.actonservice.com^
@@ -21054,7 +21053,6 @@
 ||cfaexam.quantresear.ch^
 ||cfateu.xyz^
 ||cfb.8it.me^
-||cfc1afd774.com^
 ||cfcloudcdn.com^
 ||cfd546b20a.com^
 ||cfda4acf08.2f1a1a7f62.com^
@@ -22600,6 +22598,7 @@
 ||collector-api.frspecifics.com^
 ||collector-cdn.github.com^
 ||collector-dev.cdp-dev.cnn.com^
+||collector-direct.xhamster.com^
 ||collector-hpn.cliqz.com^
 ||collector-hpn.ghostery.net^
 ||collector-px0py5pczn.octopart.com^
@@ -22651,6 +22650,7 @@
 ||collector.xhamster.desi^
 ||collector.xhamster2.com^
 ||collector.xhamster3.com^
+||collector.xhamsterporno.mx^
 ||collector.xhofficial.com^
 ||collector.xhwide1.com^
 ||collector1.sooplive.co.kr^
@@ -36005,6 +36005,7 @@
 ||ghbdsbfd.com^
 ||ghd.vsee.me^
 ||ghdlry.greetz.nl^
+||gheqien.com^
 ||ghgasdb365.shop^
 ||ghgasdt963.shop^
 ||ghghgf.51dongshi.com^
@@ -38274,7 +38275,6 @@
 ||hashpreside.com^
 ||hashzone.io^
 ||haslocktyphia.com^
-||hasnegtiny.live^
 ||hasslefree.redwingshoes.com^
 ||hastecoat.com^
 ||hatagashira.com^
@@ -43366,7 +43366,6 @@
 ||jas.indeednps.com^
 ||jasdz1.cn^
 ||jashautchord.com^
-||jasminefisetin.top^
 ||jatflh.pharmamarket.be^
 ||jatfugios.com^
 ||jatobaviruela.com^
@@ -47702,6 +47701,7 @@
 ||lockingvesselbaseless.com^
 ||locomotivetroutliquidate.com^
 ||locooler-ageneral.com^
+||locpikbb.icu^
 ||locusflourishgarlic.com^
 ||locust.ausrebellion.earth^
 ||lodgedynamitebook.com^
@@ -53765,6 +53765,7 @@
 ||mj-snowplow-static-js.s3.amazonaws.com^
 ||mj23.eulerian.com^
 ||mjappzvz.xyz^
+||mjbidlg.icu^
 ||mjca-yijws.global.ssl.fastly.net^
 ||mjfcv.club^
 ||mjfunt.bibi.com^
@@ -54968,6 +54969,7 @@
 ||mycoolnewz.com^
 ||mycounter.ua^
 ||mycrdhtv.xyz^
+||mycuegxt.com^
 ||mycxhgrp.xyz^
 ||mydailynewz.com^
 ||mydario.actonservice.com^
@@ -65286,6 +65288,7 @@
 ||rjvfxxrsepwch.xyz^
 ||rjw4obbw.com^
 ||rjwljrf.xyz^
+||rjwpwod.icu^
 ||rk6h3.icu^
 ||rkapghq.com^
 ||rkatamonju.info^
@@ -69307,7 +69310,6 @@
 ||shenouth.com^
 ||shenzo.xyz^
 ||sheoguekibosh.top^
-||sheolsjoisted.com^
 ||shepeekr.net^
 ||shepherdalmightyretaliate.com^
 ||sher.index.hu^
@@ -76741,7 +76743,6 @@
 ||stealinggin.com^
 ||stealneitherfirearm.com^
 ||stealthlockers.com^
-||steamac.com^
 ||steamjaws.com^
 ||stedrits.xyz^
 ||steedgodful.com^
@@ -86949,7 +86950,6 @@
 ||viidsyej.com^
 ||viifixi.com^
 ||viifogyp.com^
-||viiforum.com^
 ||viifun.com^
 ||viiguqam.com^
 ||viihloln.com^
