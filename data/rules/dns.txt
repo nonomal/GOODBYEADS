@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-14 09:39:32（北京时间）
+! Version: 2024-11-14 20:41:49（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93071
+! Total count: 93069
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -5794,7 +5794,6 @@
 ||a46303.actonservice.com^
 ||a46306.actonservice.com^
 ||a48d53647a.com^
-||a49f4feabf.com^
 ||a4bj6.xyz^
 ||a4mt150303tl.com^
 ||a50f745777.6061de8597.com^
@@ -9441,6 +9440,7 @@
 ||ads-dev.pinterest.com^
 ||ads-dot-fbc-web-2018.uc.r.appspot.com^
 ||ads-gdl.imovideo.ru^
+||ads-image.production-public.tubi.io^
 ||ads-img-qc.xhscdn.com^
 ||ads-interfaces.sc-cdn.net^
 ||ads-jp.tiktok.com^
@@ -11441,7 +11441,6 @@
 ||alereinc.actonservice.com^
 ||aleroninc.actonservice.com^
 ||alertlogsemployer.com^
-||alertmoyenne.com^
 ||alerts.ironmountain.com^
 ||alerts.steadyapp.com^
 ||alerts.wolterskluwerfs.com^
@@ -12113,6 +12112,7 @@
 ||analytics-api.vanceai.com^
 ||analytics-batch.blitz.gg^
 ||analytics-beacon.p.uliza.jp^
+||analytics-cds.mobiedu.vn^
 ||analytics-cf.bigcrunch.com^
 ||analytics-cms.whitebeard.me^
 ||analytics-coletor-site.ojc.com.br^
@@ -17398,7 +17398,6 @@
 ||benignitydesirespring.com^
 ||benignityprophet.com^
 ||benignitywoofovercoat.com^
-||bennetproblems.com^
 ||benonblkd.xyz^
 ||benoopto.com^
 ||benpsbp.com^
@@ -17586,7 +17585,6 @@
 ||bewarevampiresister.com^
 ||bewaslac.com^
 ||bewathis.com^
-||bewetnovate.com^
 ||bewoobaton.com^
 ||bewperspiths.top^
 ||bewr1.com^
@@ -17696,7 +17694,6 @@
 ||biasedpushful.com^
 ||biaxalstiles.com^
 ||bibbersbanshie.com^
-||bibbersthenne.com^
 ||biberonmacers.shop^
 ||biberukalap.com^
 ||bibglj.timberland.fr^
@@ -18430,7 +18427,6 @@
 ||bonne-terre-data-layer.com^
 ||bonnetacademy.com^
 ||bonnettaking.com^
-||bonnockfilths.com^
 ||bonomans.com^
 ||bonosbevvy.com^
 ||bontent.powvideo.net^
@@ -19573,6 +19569,7 @@
 ||byluvdiscor.com^
 ||bylwtf.xyz^
 ||bymahuxv.xyz^
+||bynamebosh.com^
 ||bynix.xyz^
 ||bypasseaseboot.com^
 ||bypassed.ws^
@@ -19877,6 +19874,7 @@
 ||cafirebreather.com^
 ||cagakzcwyr.com^
 ||cageinattentiveconfederate.com^
+||cagitfiz.com^
 ||cagkpu.suitdirect.co.uk^
 ||caglaikr.net^
 ||caglonseeh.com^
@@ -23822,6 +23820,7 @@
 ||coyote.gnx.cloud^
 ||coyote.nickgurney.com^
 ||coyote.txet.ch^
+||coyureviral.com^
 ||cozeswracks.com^
 ||cp.7y7.com^
 ||cp.cp.twendee.jp^
@@ -24884,7 +24883,6 @@
 ||d12tu1kocp8e8u.cloudfront.net^
 ||d12ylqdkzgcup5.cloudfront.net^
 ||d138am4hd4ke4y.cloudfront.net^
-||d13dee4566.com^
 ||d13gni3sfor862.cloudfront.net^
 ||d13j11nqjt0s84.cloudfront.net^
 ||d13jhr4vol1304.cloudfront.net^
@@ -25452,7 +25450,6 @@
 ||d2m785nxw66jui.cloudfront.net^
 ||d2mgk3zfd02vd2.cloudfront.net^
 ||d2mic0r0bo3i6z.cloudfront.net^
-||d2moz0h55szev9.cloudfront.net^
 ||d2mqdhonc9glku.cloudfront.net^
 ||d2muzdhs7lpmo0.cloudfront.net^
 ||d2mw3lu2jj5laf.cloudfront.net^
@@ -27897,7 +27894,6 @@
 ||digital.opsbase.com^
 ||digital.setpointis.com^
 ||digital2cloud.com^
-||digitaladv.despar.it^
 ||digitaldsp.com^
 ||digitalmarketing.gogsg.com^
 ||digitalmarketing.smu.edu.sg^
@@ -28103,6 +28099,7 @@
 ||dinerpropagandatoothbrush.com^
 ||dinesdurr.com^
 ||dingbu.bj.bcebos.com^
+||dingerhoes.shop^
 ||dinghologyden.org^
 ||dingo.moehring.dev^
 ||diningalliance.actonservice.com^
@@ -30685,7 +30682,6 @@
 ||elconfidencialdigital.actonservice.com^
 ||elderlytown.com^
 ||eldestcontribution.com^
-||eldredsundial.com^
 ||ele26126.jscrambler.com^
 ||eleavers.com^
 ||eleazarfilasse.shop^
@@ -31624,6 +31620,7 @@
 ||ent1.12584.cn^
 ||ent1.qunchua.cn^
 ||ent1.qunchua.com^
+||entail-insights.com^
 ||entaildollar.com^
 ||entailgossipwrap.com^
 ||entangledivisionbeagle.com^
@@ -31720,7 +31717,6 @@
 ||epezqy.plaisio.gr^
 ||epffwffubmmdokm.com^
 ||eph-adsjutarnji.cdn.sysbee.net^
-||ephameanie.com^
 ||ephebedori.life^
 ||epheefere.net^
 ||epicgameads.com^
@@ -32156,6 +32152,7 @@
 ||ev.moneymade.io^
 ||ev.stellarlabs.ai^
 ||ev.tpocdm.com^
+||ev2.api.bdg.com^
 ||evaluateuncanny.com^
 ||evaluationfixedlygoat.com^
 ||evanescentedge.com^
@@ -37262,7 +37259,6 @@
 ||gotest.onefc.com^
 ||gotest.real.co^
 ||gotest.taillight.com^
-||gothemerges.top^
 ||gotheremploye.com^
 ||gotherresethat.info^
 ||gothicize25.fun^
@@ -38261,7 +38257,6 @@
 ||harvester.hbpl.co.uk^
 ||harvester.hnonline.sk^
 ||harzpzbsr.com^
-||hasdarot.info^
 ||hasdjksndjk.com^
 ||hasdrs.com^
 ||hash-hash-tag.com^
@@ -43183,6 +43178,7 @@
 ||iwatero.top^
 ||iwatojc.cn^
 ||iwe.ktvgv.com^
+||iweisio.top^
 ||iwerilxo.top^
 ||iwerioo.top^
 ||iwgfdj.iko-yo.net^
@@ -45369,7 +45365,6 @@
 ||kv-analytics.kiotviet.vn^
 ||kv.patenssabzi.com^
 ||kvaaa.com^
-||kvaedit.site^
 ||kvdmuxy.com^
 ||kvecc.com^
 ||kvemm.com^
@@ -48756,6 +48751,7 @@
 ||lwrohd.xyz^
 ||lwurserl.top^
 ||lwusnt.yogibo.kr^
+||lwvrv.icu^
 ||lwxuo.com^
 ||lx2rv.com^
 ||lx5.homeporntuber.com^
@@ -54626,6 +54622,7 @@
 ||mssdk.volces.com^
 ||mssdk.zijieapi.com^
 ||mssql2.aomg5bzv7.com^
+||mst.rnd.de^
 ||mstat.acestream.net^
 ||mstkvnya.xyz^
 ||mstm.motorsport.com^
@@ -58334,6 +58331,7 @@
 ||osjpyw.dico.com.mx^
 ||oskiwood.com^
 ||osm-onead.cdn.hinet.net^
+||osmeticjewlike.com^
 ||osmoticupbound.com^
 ||osmzym.xyz^
 ||osnksi.czytam.pl^
@@ -65464,7 +65462,6 @@
 ||rogligh.ehrydnmdoe.com^
 ||roguehideevening.com^
 ||rogueschedule.com^
-||roi.ediscom.it^
 ||roi.soulapp.cn^
 ||roia.biz^
 ||roiapp.net^
@@ -67716,7 +67713,6 @@
 ||sda.seesaa.jp^
 ||sda.seksohub.com^
 ||sda.tamdiem247.com^
-||sdarot-il.org^
 ||sdarot.cc^
 ||sdata.avid.com^
 ||sdata.chelseafc.com^
@@ -69231,6 +69227,7 @@
 ||sharkbleed.com^
 ||sharkedmarque.com^
 ||sharks.vn^
+||sharondemurer.shop^
 ||sharpofferlinks.com^
 ||sharpphysicallyupcoming.com^
 ||sharpwavedreinforce.com^
@@ -75862,6 +75859,7 @@
 ||stats.brumtechtapas.co.uk^
 ||stats.buddiy.net^
 ||stats.bungeefit.co.uk^
+||stats.bunkr.ru^
 ||stats.burocratin.com^
 ||stats.byma.com.br^
 ||stats.byterocket.dev^
@@ -77345,7 +77343,6 @@
 ||suffixinstitution.com^
 ||suffixlabores.com^
 ||suffixreleasedvenison.com^
-||suftanzine.com^
 ||suftoajachi.com^
 ||sugabyte.actonservice.com^
 ||sugar.zhihu.com^
@@ -84916,6 +84913,7 @@
 ||u578.wlwt.com^
 ||u595sebqih.com^
 ||u5lxh1y1pgxy.shop^
+||u5ps5.icu^
 ||u652.myplainview.com^
 ||u68t5.icu^
 ||u78s.top^
@@ -85948,6 +85946,7 @@
 ||user-metrics.onthemarket.com^
 ||user-red.com^
 ||user-shield-check.com^
+||user-signals.production-public.tubi.io^
 ||user.headlines.pw^
 ||user.userguiding.com^
 ||user1.game.qq.com^
@@ -86674,7 +86673,6 @@
 ||veuuulalu.xyz^
 ||vevhjj.xyz^
 ||vewbab.entertainmentearth.com^
-||vewhxobs.com^
 ||vexacion.com^
 ||vexationworship.com^
 ||vexedkindergarten.com^
@@ -87249,7 +87247,6 @@
 ||vmzqqmlpwwmazjnio.com^
 ||vn.finisbur.com^
 ||vn.jaygeepigs.com^
-||vnadsrv.com^
 ||vnadssb.com^
 ||vnbyclsboyoya.com^
 ||vndcrknbh.xyz^
@@ -87267,6 +87264,7 @@
 ||vnte9urn.click^
 ||vntsm.com^
 ||vntsm.io^
+||vnuuh.icu^
 ||vnzwxk.e-bebek.com^
 ||vo.mofettecalmed.com^
 ||vo.turbocap.net^
@@ -88488,6 +88486,7 @@
 ||weeklideals.com^
 ||ween.bid^
 ||weensnandow.com^
+||weensydudler.com^
 ||weepauza.com^
 ||weephuwe.xyz^
 ||weepingheartache.com^
@@ -91998,7 +91997,6 @@
 ||yonemoku.rdy.jp^
 ||yong.chazidian.com^
 ||yonhelioliskor.com^
-||yonminuner.com^
 ||yonomastara.com^
 ||yonsandileer.com^
 ||yonspheala.com^
