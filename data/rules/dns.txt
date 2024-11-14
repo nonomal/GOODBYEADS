@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-13 20:40:25（北京时间）
+! Version: 2024-11-14 09:39:32（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93067
+! Total count: 93071
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2965,7 +2965,6 @@
 ||96a3bc8522.com^
 ||96a70a4ce7.cde5138b76.com^
 ||96b600f50a.a0e351a3aa.com^
-||96c50eb804.com^
 ||96kso.online^
 ||9704.5clo0xmbf.com^
 ||971bf5ec60.com^
@@ -4860,7 +4859,6 @@
 ||a29167.actonservice.com^
 ||a29170.actonservice.com^
 ||a29171.actonservice.com^
-||a29172073b.com^
 ||a29177.actonservice.com^
 ||a29192.actonservice.com^
 ||a29197.actonservice.com^
@@ -7908,7 +7906,6 @@
 ||accruefierceheartache.com^
 ||accscdn.m.taobao.com^
 ||accumula.actonservice.com^
-||accumulateneedlesstransition.com^
 ||accuracyswede.com^
 ||accuratecoal.com^
 ||accuratewistful.com^
@@ -15396,6 +15393,7 @@
 ||atmtaoda.com^
 ||ato.mx^
 ||ato.tooopen.com^
+||atodiler.com^
 ||atom-log.3.cn^
 ||atom.warnermedia.com^
 ||atomex.net^
@@ -15473,7 +15471,6 @@
 ||attritioncombustible.com^
 ||atttkaapqvh.com^
 ||atumanera.burgerking.com.mx^
-||atvnoxqraqlrmh.com^
 ||atwola.com^
 ||atwqyor.cn^
 ||aty.sohu.com^
@@ -16553,6 +16550,7 @@
 ||bam-bam-slam.com^
 ||bambarmedia.com^
 ||bambee.actonservice.com^
+||bamtinseefta.xyz^
 ||ban.alukah.net^
 ||ban.bhol.co.il^
 ||ban.mirorgazma.ru^
@@ -17803,7 +17801,6 @@
 ||billboardmileage.com^
 ||billiardsdripping.com^
 ||billiardsnotealertness.com^
-||billiardsreedagreed.com^
 ||billiardsseasick.com^
 ||billiardssequelsticky.com^
 ||billionstarads.com^
@@ -19287,6 +19284,7 @@
 ||builtinproceeding.com^
 ||builtrussism.top^
 ||bujerdaz.com^
+||bujlmitd.icu^
 ||bujz.top^
 ||bukash2jf8jfpw09.com^
 ||bukshiunchair.shop^
@@ -22055,6 +22053,7 @@
 ||climatedetaindes.com^
 ||climbingsmuggle.com^
 ||clinkeasiestopponent.com^
+||clintonchewet.com^
 ||clintsflawed.click^
 ||clip.aomg5bzv7.com^
 ||clipartonline.info^
@@ -23633,7 +23632,6 @@
 ||cosmo202.top^
 ||cosouy.xyz^
 ||costaquire.com^
-||costarchamfer.com^
 ||costarg.com^
 ||costco-adbutler.com^
 ||costhandbookfolder.com^
@@ -24090,6 +24088,7 @@
 ||creatives.inmotionhosting.com^
 ||creatives.livejasmin.com^
 ||creatives.sunmedia.tv^
+||creatives.wetransfer.net^
 ||creatives.x2lt.com^
 ||creativesumo.com^
 ||creativeteam.it^
@@ -25919,7 +25918,6 @@
 ||d5z42oph1suk.cloudfront.net^
 ||d6.mobaders.com^
 ||d6030fe5c6.com^
-||d613466cf9.com^
 ||d61dd0cad8.edeaa80ace.com^
 ||d63784ea7f.cbd2dd06ba.com^
 ||d63a3au5lqmtu.cloudfront.net^
@@ -26728,6 +26726,7 @@
 ||datadog-service.mvfglobal.com^
 ||datadome.maisonsdumonde.com^
 ||datafiletechnologies.actonservice.com^
+||dataflow.biliapi.com^
 ||datajsext.com^
 ||datalayer.orange.fr^
 ||datanoticias.prisasd.com^
@@ -27643,7 +27642,6 @@
 ||dfck9uqiatqhh.cloudfront.net^
 ||dfd55780d6.com^
 ||dfdgfruitie.xyz^
-||dfec4f079e.com^
 ||dfejqmh.cn^
 ||dffa09cade.com^
 ||dffpxg.targus.com^
@@ -34732,7 +34730,6 @@
 ||fringesdurocs.com^
 ||friskthimbleliver.com^
 ||fristminyas.com^
-||fritterfainest.com^
 ||frivolous-copy.pro^
 ||frizzannoyance.com^
 ||frntzz.xyz^
@@ -37157,6 +37154,7 @@
 ||gonoushauw.net^
 ||gontent.powzers.lol^
 ||goo-access-analytics.appspot.com^
+||goobakocaup.com^
 ||goobefirumaupt.net^
 ||goobreamed.com^
 ||goocivede.com^
@@ -37660,6 +37658,7 @@
 ||growthbuddy.app^
 ||growthmodemarketing.actonservice.com^
 ||growthpic.weishi.qq.com^
+||grpc.biliapi.net^
 ||grphfzutw.xyz^
 ||grqjpukbyvypq.xyz^
 ||grs.dbankcloud.com^
@@ -39596,6 +39595,7 @@
 ||htrurb.xyz^
 ||httpdns-push.heytapmobile.com^
 ||httpdns.bcelive.com^
+||httpdns.bilivideo.com^
 ||httpdns.ocloud.oppomobile.com^
 ||httpool.com^
 ||httpring.qq.com^
@@ -39767,6 +39767,7 @@
 ||hwa.his.huawei.com^
 ||hwateru.top^
 ||hwderdk.com^
+||hweisiu.top^
 ||hwerilxu.top^
 ||hweriou.top^
 ||hwfmynim.com^
@@ -40048,7 +40049,6 @@
 ||icaubf.casamundo.de^
 ||iccjkn.icu^
 ||icdirect.com^
-||icelandkemps.com^
 ||icelessbogles.com^
 ||iceocean.shop^
 ||iceprogs.ru^
@@ -43665,6 +43665,7 @@
 ||jgidskia.top^
 ||jgjyxf.xyz^
 ||jglgjz.xyz^
+||jgltbxlougpg.xyz^
 ||jgmywh.icu^
 ||jgntjtyf.icu^
 ||jgqaainj.buzz^
@@ -51715,6 +51716,7 @@
 ||memorizematch.com^
 ||menacehabit.com^
 ||menacing-awareness.pro^
+||menacing-feature.pro^
 ||mendedrefuel.com^
 ||menews.org^
 ||menispirfly.com^
@@ -55817,6 +55819,7 @@
 ||nfctoroxi.xyz^
 ||nffxqi.jorgebischoff.com.br^
 ||nfgxadlbfzuy.click^
+||nfjdxtfpclfh.com^
 ||nfkd2ug8d9.com^
 ||nfldgbt.xyz^
 ||nflxjp.residences-immobilier.com^
@@ -59708,7 +59711,6 @@
 ||pekseerdune.xyz^
 ||pelageforgers.com^
 ||pelamydlours.com^
-||pelepedants.click^
 ||pelliancalmato.com^
 ||pemskb.unitedcinemas.jp^
 ||pemsrv.com^
@@ -61771,6 +61773,7 @@
 ||productionprinting.ricoh.ch^
 ||productionprinting.ricoh.co.uk^
 ||productionprinting.ricoh.ie^
+||productive-chemical.pro^
 ||productivity-s.yale.com^
 ||products.forddirectdealers.com^
 ||products.gobankingrates.com^
@@ -61813,6 +61816,7 @@
 ||profit.edc.ca^
 ||profitablecpmgate.com^
 ||profitablecpmnetwork.com^
+||profitablecpmrate.com^
 ||profitablecreativeformat.com^
 ||profitabledisplaycontent.com^
 ||profitabledisplayformat.com^
@@ -63710,7 +63714,6 @@
 ||rahxfus.com^
 ||raideeshaili.net^
 ||raigroashoan.net^
-||raiijqfhnshes.com^
 ||raijigrip.com^
 ||raikijausa.net^
 ||railroadfatherenlargement.com^
@@ -66206,7 +66209,6 @@
 ||ryllae.com^
 ||rymhet.posudamart.ru^
 ||ryminos.com^
-||rypltcelpr.com^
 ||ryqgdrh.icu^
 ||ryremovement.com^
 ||ryrmvbnpmhphkx.com^
@@ -80738,6 +80740,7 @@
 ||tonicdivedfounded.com^
 ||tonicneighbouring.com^
 ||toninjaska.com^
+||tonsilsuggestedtortoise.com^
 ||tonsilyearling.com^
 ||tontent.powv1deo.cc^
 ||tontent.powvideo.net^
@@ -83592,7 +83595,6 @@
 ||tradplusad.com^
 ||trads.io^
 ||traff01traff02.site^
-||traff10wap.com^
 ||traffdaq.com^
 ||trafffgen.rambler.ru^
 ||traffic-exchange.com^
@@ -85493,7 +85495,6 @@
 ||unifiedwfo.verintsystemsinc.com^
 ||unifilabs.actonservice.com^
 ||unifini.de^
-||uniformheartlesssneaking.com^
 ||uniformyeah.com^
 ||unimportant-pleasure.com^
 ||union*.365inews.com^
@@ -86704,6 +86705,7 @@
 ||vfphbh.xyz^
 ||vfthr.com^
 ||vftvbx.xyz^
+||vfuqivac.com^
 ||vfvad.top^
 ||vfvcxv.naturhaeuschen.de^
 ||vfvdsati.com^
@@ -89474,6 +89476,7 @@
 ||wrapper.lemde.fr^
 ||wrathful-alternative.com^
 ||wrathyblesmol.com^
+||wrdamoe.icu^
 ||wrdnaunq.com^
 ||wreaksyolkier.com^
 ||wreathabble.com^
@@ -91983,6 +91986,7 @@
 ||yoifwi.levi.com.ph^
 ||yoiku-sub.yoiku.support^
 ||yokeeroud.com^
+||yoksamhain.com^
 ||yolkhandledwheels.com^
 ||yolo.philipbjorge.com^
 ||yomedia.vn^
