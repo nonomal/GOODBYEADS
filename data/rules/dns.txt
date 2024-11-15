@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-14 20:41:49（北京时间）
+! Version: 2024-11-15 09:45:15（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93069
+! Total count: 93062
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2470,7 +2470,6 @@
 ||7604.5clo0xmbf.com^
 ||7606.5clo0xmbf.com^
 ||760ed2b57f.com^
-||763e24cc7e.com^
 ||76416dc840.com^
 ||7652.5clo0xmbf.com^
 ||7660e42567.edeb873154.com^
@@ -7720,6 +7719,7 @@
 ||absentlybiddingleopard.com^
 ||absentlygratefulcamomile.com^
 ||absentlyrindbulk.com^
+||absentmissingaccept.com^
 ||abservinean.com^
 ||absinfo.eagle.org^
 ||abskursin.com^
@@ -14600,7 +14600,6 @@
 ||aptare.actonservice.com^
 ||aptdiary.com^
 ||aptimorph.com^
-||aptin.live^
 ||aptitudesupposedlyaccountant.com^
 ||aptlycover.com^
 ||aptlydoubtful.com^
@@ -18521,7 +18520,6 @@
 ||bosscrystudious.com^
 ||bossdescendentrefer.com^
 ||bosselinorrummage.com^
-||bossemphasize.com^
 ||bossyinternal.pro^
 ||bostonwall.com^
 ||bostopago.com^
@@ -19445,6 +19443,7 @@
 ||buuftxcii.com^
 ||buvdkt.icu^
 ||buxbaumiaceae.sbs^
+||buxfmookn.com^
 ||buxfznnf.xyz^
 ||buyadvupfor24.com^
 ||buyeasy.by^
@@ -21141,6 +21140,7 @@
 ||chameleostudios.com^
 ||champagne.futurecdn.net^
 ||championads.midtc.com^
+||championshipcoma.com^
 ||chanalytics.merchantadvantage.com^
 ||chance.aomg5bzv7.com^
 ||chancecorny.com^
@@ -27705,7 +27705,6 @@
 ||dgxmvglp.com^
 ||dgynnj.koctas.com.tr^
 ||dgyrizngtcfck.cloudfront.net^
-||dgyvvhsefor.xyz^
 ||dgztiz.conrad.se^
 ||dh0c1bz67fuho.cloudfront.net^
 ||dh0uktvqfaomb.cloudfront.net^
@@ -30066,7 +30065,6 @@
 ||ebetoni.com^
 ||ebfudo.underarmour.cl^
 ||ebgagg.pink.rs^
-||ebgdasxqg.com^
 ||ebgfyn.zenden.ru^
 ||ebgwdon.cn^
 ||ebhjhw.bonprix.es^
@@ -34213,6 +34211,7 @@
 ||foomaque.net^
 ||foomjy.teacollection.com^
 ||foone.com.br^
+||foonerne.com^
 ||fooptoat.com^
 ||foostoug.com^
 ||foot.wiki^
@@ -36355,6 +36354,7 @@
 ||glounugeepse.xyz^
 ||gloupa.com^
 ||glouseer.net^
+||glousoonomsy.xyz^
 ||gloussowu.xyz^
 ||gloustoa.net^
 ||gloutanacard.com^
@@ -38004,6 +38004,7 @@
 ||gyydua.dakine.com^
 ||gz.apigw.tencentcs.com^
 ||gzbcuy.mamarella.com^
+||gzfsqrc.icu^
 ||gzglmoczfzf.com^
 ||gzifhovadhf.com^
 ||gzihfaatdohk.com^
@@ -40013,7 +40014,6 @@
 ||ib.snssdk.com^
 ||ibaglhc.icu^
 ||ibamolecular.actonservice.com^
-||ibanslurp.com^
 ||ibbmfq.decameron.com^
 ||ibbmly.moneymetals.com^
 ||ibd-as-api.iq.com^
@@ -40071,7 +40071,6 @@
 ||icmakp.united-arrows.tw^
 ||ico.re^
 ||icoktb.onygo.com^
-||iconadserver.com^
 ||iconcardinal.com^
 ||iconmediapixel.com^
 ||iconnode.com^
@@ -44338,6 +44337,7 @@
 ||jwamnd.com^
 ||jwatera.top^
 ||jwcnjv.xlmoto.eu^
+||jweisia.top^
 ||jweqai.amen.fr^
 ||jwerilxa.top^
 ||jwerioa.top^
@@ -45831,6 +45831,7 @@
 ||lastwise.com^
 ||latam.thomsonreuters.com^
 ||latchwaitress.com^
+||late-anxiety.com^
 ||latedateship.live^
 ||latest-news.pro^
 ||latestsocial.com^
@@ -46422,7 +46423,6 @@
 ||limitlessascertain.com^
 ||limitssimultaneous.com^
 ||limneraminic.click^
-||limoiditches.top^
 ||limone.iltrovatore.it^
 ||limoners.com^
 ||limopf.top^
@@ -48468,7 +48468,6 @@
 ||lpfsex.fabiboutique.com^
 ||lpg02.com^
 ||lpipua.kcar.com^
-||lplkjuxadehxy.xyz^
 ||lpmcr1h7z.com^
 ||lpmotortest.com^
 ||lpmugcevks.com^
@@ -56670,7 +56669,6 @@
 ||nxwniq.aboutyou.ie^
 ||nxxkxr.xyz^
 ||nxymehwu.com^
-||ny.foonerne.com^
 ||ny77jj.washingtonpost.com^
 ||nyadmcncserve-05y06a.com^
 ||nyadra.com^
@@ -58587,6 +58585,7 @@
 ||outrigger-a.outrigger.com^
 ||outrotomr.com^
 ||outseeltor.com^
+||outseethoozet.net^
 ||outsetnormalwaited.com^
 ||outseylor.com^
 ||outshroomishan.com^
@@ -63179,7 +63178,6 @@
 ||qouxkn.natuurhuisje.nl^
 ||qovua60gue.tubewolf.com^
 ||qowncyf.com^
-||qoxxpyuohbm.com^
 ||qoygsv.born2be.pl^
 ||qozveo.com^
 ||qp-kkhdfspt.space^
@@ -63877,7 +63875,6 @@
 ||rawoarsy.com^
 ||rawqel.com^
 ||raxetyrw.xyz^
-||raxflydrdy.xyz^
 ||rayageglagah.shop^
 ||rayajmp.icu^
 ||raylnk.com^
@@ -65149,6 +65146,7 @@
 ||rhombicgormand.top^
 ||rhombicsomeday.com^
 ||rhouseoyopers.info^
+||rhoxbneasg.xyz^
 ||rhoxnc.studentuniverse.com^
 ||rhrim.com^
 ||rhsorga.com^
@@ -67225,7 +67223,6 @@
 ||sandysuspicions.com^
 ||sanggauchelys.shop^
 ||sanggilregard.com^
-||sangleysoldo.com^
 ||sanhpaox.xyz^
 ||sanitarysustain.com^
 ||sanjay44.xyz^
@@ -74187,7 +74184,6 @@
 ||spider.kearneyjaycees.com^
 ||spider.scottw.com^
 ||spider.storiesofchang.com^
-||spignutgoggan.com^
 ||spigte.shopee.tw^
 ||spike-plant.valorbuff.com^
 ||spikearsonembroider.com^
@@ -74815,7 +74811,6 @@
 ||ssltest.soundrussian.com^
 ||ssltest2.branch.io^
 ||ssmile.dentsplysirona.com^
-||ssmlwyrhqbblfar.com^
 ||ssmr.nuro.jp^
 ||ssmr.so-net.ne.jp^
 ||ssmr.sonynetwork.co.jp^
@@ -79380,7 +79375,6 @@
 ||techsupport.balluff.com^
 ||tecominchisel.com^
 ||tecuil.com^
-||tecunalupine.com^
 ||teczbq.amicashop.com^
 ||ted.dailymail.co.uk^
 ||tedhilarlymcken.org^
@@ -80209,7 +80203,6 @@
 ||timeforagreement.com^
 ||timejs.game.163.com^
 ||timelymongol.com^
-||timelyunpale.life^
 ||timeone.pro^
 ||timesroadmapwed.com^
 ||timestech.in/wp-content/uploads/pum^
@@ -84945,6 +84938,7 @@
 ||uaoaig.xyz^
 ||uapi.ads.heytapmobi.com^
 ||uaqcui.tennis-point.fr^
+||uaqdgrfr.icu^
 ||uarating.com^
 ||uarrdg.landsofamerica.com^
 ||uasmdd.icaniwill.no^
@@ -85339,6 +85333,7 @@
 ||umrstfl.cn^
 ||umrvmb.net.anwalt.de^
 ||umsns.com^
+||umtchdhkrx.com^
 ||umtudo.com^
 ||umtzwr.adidas.co.kr^
 ||umumallowecouldl.info^
@@ -86765,7 +86760,6 @@
 ||viaclefachan.com^
 ||viadata.store^
 ||viaexploudtor.com^
-||viajacakpuesi.top^
 ||viamariller.com^
 ||vianadserver.com^
 ||viandryochavo.com^
@@ -91416,7 +91410,6 @@
 ||xuugnuits.com^
 ||xuxwvh.xyz^
 ||xuyanlong1.cn^
-||xuycohsuenyqk.com^
 ||xuymgm.hostgator.mx^
 ||xuzeez.com^
 ||xuzsdn.xyz^
