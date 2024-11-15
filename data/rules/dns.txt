@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-15 09:45:15（北京时间）
+! Version: 2024-11-15 20:41:31（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93062
+! Total count: 93056
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2336,7 +2336,6 @@
 ||6c68a5f122.c8e7b8a04b.com^
 ||6c7b3cb9ad.63912b9175.com^
 ||6ca9278a53.com^
-||6cb6696a46.com^
 ||6ce02869b9.com^
 ||6cf0e7801e8cd.clicknplay.to^
 ||6d3002c602.1d0ec98437.com^
@@ -2399,7 +2398,6 @@
 ||7080.5clo0xmbf.com^
 ||70b25fad84.ecaecc3e17.com^
 ||70b4723db6.com^
-||70c4d70a16.com^
 ||70d4a0bb45.e82ae52eec.com^
 ||71-177.net.jumia.ma^
 ||71.am^
@@ -10995,6 +10993,7 @@
 ||aggressivedifficulty.com^
 ||aggressivefrequentneckquirky.com^
 ||aghppuhixd.com^
+||agi-static.indiatimes.com^
 ||agilaujoa.net^
 ||agilemedia.jp^
 ||agilespatter.com^
@@ -11302,7 +11301,6 @@
 ||ajtxoo.academiaassai.com.br^
 ||ajvjpupava.com^
 ||ajvnragtua.com^
-||ajvtuntouxwan.com^
 ||ajvzis.triumph.com^
 ||ajxx98.online^
 ||ajybgc.xyz^
@@ -15164,7 +15162,6 @@
 ||assets.oupe.es^
 ||assets.spectrumhealthlakeland.org^
 ||assets.taghtia.com^
-||assets1.exgfnetwork.com^
 ||assets2.aainsurance.co.nz^
 ||assets2.aami.com.au^
 ||assets2.apia.com.au^
@@ -15387,7 +15384,6 @@
 ||atmetagrossan.com^
 ||atmewtwochan.com^
 ||atmnjcinews.pro^
-||atmospherefragmentiris.com^
 ||atmosphericurinebra.com^
 ||atmtaoda.com^
 ||ato.mx^
@@ -15425,6 +15421,7 @@
 ||atslowpokechan.com^
 ||atsmetrics.adobe.com^
 ||atsmobile.actonservice.com^
+||atsod.launch.liveramp.com^
 ||attacarbo.com^
 ||attachedkneel.com^
 ||attaindisableneedlework.com^
@@ -15440,7 +15437,6 @@
 ||attendingpets.com^
 ||attentioniau.com^
 ||attentionsoursmerchant.com^
-||attentive-bad.com^
 ||attenuatenovelty.com^
 ||attepigom.com^
 ||attestationaudience.com^
@@ -16950,7 +16946,6 @@
 ||bclicks.lyst.com^
 ||bclikeqt.com^
 ||bcloudhost.com^
-||bcnlmgaxg.com^
 ||bcob.charlotte.edu^
 ||bcob.uncc.edu^
 ||bcomniture.focus.de^
@@ -17317,7 +17312,6 @@
 ||beizi.biz^
 ||bejirachir.com^
 ||bejolteonor.com^
-||bejzmuqrxifxn.com^
 ||beklefkiom.com^
 ||beklinkor.com^
 ||bekmhvbb.xyz^
@@ -19118,7 +19112,6 @@
 ||bruntstabulae.com^
 ||bruny.net.anwalt.de^
 ||bruscharogers.top^
-||brushedwifedifferently.com^
 ||brutalmathematics.com^
 ||brutishlylifevoicing.com^
 ||brutvncv.top^
@@ -19313,7 +19306,6 @@
 ||bulrev.com^
 ||bulserv.com^
 ||bultaika.net^
-||bultongpocoson.com^
 ||bultowtutulus.top^
 ||buluo.qq.com^
 ||bulyiel.com^
@@ -26743,7 +26735,6 @@
 ||date2day.pro^
 ||date4sex.pro^
 ||dateddeed.com^
-||dateing.club^
 ||daten.union-investment.de^
 ||datesnsluts.com^
 ||datessuppressed.com^
@@ -30665,6 +30656,7 @@
 ||ekwzxay.com^
 ||ekxyrwvoegb.xyz^
 ||ekykse.xyz^
+||ekzmk.icu^
 ||ekzzed.icu^
 ||el.quizlet.com^
 ||eladove.com^
@@ -32983,6 +32975,7 @@
 ||fahmta.polishexpress.co.uk^
 ||fahmta.racefans.net^
 ||fahmta.theaa.com^
+||fail.adr.ec^
 ||failedmengodless.com^
 ||failingaroused.com^
 ||failjav11.fun^
@@ -34605,7 +34598,6 @@
 ||frayedpause.com^
 ||frayforms.com^
 ||frbdzc.goguynet.jp^
-||frbmcpyeeuqqpf.com^
 ||frbmdx.fwrd.com^
 ||frc.redcross.fi^
 ||frdjs-2.co^
@@ -37667,7 +37659,6 @@
 ||grtexch.com^
 ||grthhr.xyz^
 ||grtyj.com^
-||grubbysplay.com^
 ||grubsnuchale.com^
 ||grucchebarmfel.click^
 ||grucmost.xyz^
@@ -45402,6 +45393,7 @@
 ||kwbpge.jra-van.jp^
 ||kwdflqos.com^
 ||kwedzcq.com^
+||kweisid.top^
 ||kwerilxd.top^
 ||kweriod.top^
 ||kwgqaqf.icu^
@@ -48755,7 +48747,6 @@
 ||lx2rv.com^
 ||lx5.homeporntuber.com^
 ||lxiaho.lesfurets.com^
-||lxirblfoocw.com^
 ||lxkzcss.xyz^
 ||lxlpoydodf.com^
 ||lxlx6p7y.arrow.com^
@@ -56763,6 +56754,7 @@
 ||o68c.sfr.fr^
 ||o6b8iq9faurknd3p.k45z7tagm.com^
 ||o8.hyatt.com^
+||o8zoz.icu^
 ||o911o.com^
 ||oa.frowllutetia.com^
 ||oaajylbosyndpjl.com^
@@ -59662,7 +59654,6 @@
 ||pecifyspacing.com^
 ||peckrespectfully.com^
 ||pectasefrisker.com^
-||pectinsgirrock.com^
 ||pectosealvia.click^
 ||pedangaishons.com^
 ||pedestalturner.com^
@@ -66259,6 +66250,7 @@
 ||s.agava.ru^
 ||s.airgoat.com^
 ||s.allbootdisks.com^
+||s.amazon-adsystem.com^
 ||s.americanblinds.com^
 ||s.ameriprisestats.com^
 ||s.asvsm.com^
@@ -67764,6 +67756,7 @@
 ||sdjkbcjksbdsvv.com^
 ||sdjthl.tvguide.dk^
 ||sdjvbsjbvas.com^
+||sdk-04.moengage.com^
 ||sdk-ab-config.qquanquan.com^
 ||sdk-cache.video.ptqy.gitv.tv^
 ||sdk-cdn.optimove.net^
@@ -74556,7 +74549,6 @@
 ||ssa.tlc.com^
 ||ssac.suning.com^
 ||ssb.ah499.com^
-||ssbadcymiuncmw.com^
 ||ssc.alhurra.com^
 ||ssc.amerikaninsesi.org^
 ||ssc.amerikaovozi.com^
@@ -78136,6 +78128,7 @@
 ||t.a3cloud.net^
 ||t.actemra.com^
 ||t.adbr.io^
+||t.adii.se^
 ||t.adlpo.com^
 ||t.adx.opera.com^
 ||t.afry.com^
@@ -86463,6 +86456,7 @@
 ||vcommission.com^
 ||vcs.kensington.my^
 ||vcs.snssdk.com^
+||vcs.zijieapi.com^
 ||vcsjbnzmgjs.com^
 ||vctcajeme.tech^
 ||vcugbgu.cn^
