@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-16 09:42:48（北京时间）
+! Version: 2024-11-16 20:38:48（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93054
+! Total count: 93062
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -12,7 +12,6 @@
 ||0-02.net^
 ||0.0.0.1^
 ||0.101tubeporn.com^
-||0.code.cotsta.ru^
 ||0.cosmicnewspulse.com^
 ||0.myikas.com^
 ||0.net.easyjet.com^
@@ -1568,7 +1567,6 @@
 ||3f85d85a52.699bfcf9d9.com^
 ||3faf5a6d97.b3b4e76625.com^
 ||3fb4026cec.ffbd26c481.com^
-||3fba1b901c.com^
 ||3fc0ebfea0.com^
 ||3fcce9277a.5029bb74f2.com^
 ||3fwlr7frbb.pro^
@@ -2178,7 +2176,6 @@
 ||6221881285.7378a03ff8.com^
 ||6232.5clo0xmbf.com^
 ||6247.bestinterestings.com^
-||6257028645.com^
 ||6279.seponews.com^
 ||6299ffe8d6.25073bb296.com^
 ||629de87520.f983cf2155.com^
@@ -7295,7 +7292,6 @@
 ||aakashapp.byjus.com^
 ||aaknmt.icu^
 ||aaktao.entel.cl^
-||aalures.com^
 ||aamcompany.actonservice.com^
 ||aametrics.aktia.fi^
 ||aamt.msnbc.com^
@@ -7970,6 +7966,7 @@
 ||ackcdn.net^
 ||ackeysulfid.top^
 ||acknowledgecalculated.com^
+||aclemonliner.com^
 ||aclickads.com^
 ||aclktrkr.com^
 ||aclog.itmedia.co.jp^
@@ -10030,7 +10027,6 @@
 ||adserver.sharewareonline.com^
 ||adserver.sniffies.com^
 ||adserver.sonicplug.com^
-||adserver.spankaway.com^
 ||adserver.startnow.com^
 ||adserver.theonering.net^
 ||adserver.trangphim.net^
@@ -10810,7 +10806,6 @@
 ||affiliatestonybet.com^
 ||affiliatetracking.com^
 ||affiliatetracking.net^
-||affiliatetxt.nextmediaweb.com^
 ||affiliatewindow.com^
 ||affiliation-france.com^
 ||affiliation.porn.fr^
@@ -15388,6 +15383,7 @@
 ||ato.mx^
 ||ato.tooopen.com^
 ||atodiler.com^
+||atollanaboly.com^
 ||atom-log.3.cn^
 ||atom.warnermedia.com^
 ||atomex.net^
@@ -16359,6 +16355,7 @@
 ||babbnrs.com^
 ||babes-mansion.s3.amazonaws.com^
 ||bablace.com^
+||bablohfleshes.com^
 ||baboon.ideapotential.com^
 ||baboon.namegen.app^
 ||baboon.naxon.dev^
@@ -20279,6 +20276,7 @@
 ||cassetteflask.com^
 ||cassettelancefriday.com^
 ||cassettesandwicholive.com^
+||cassinamawger.top^
 ||cast.net.anwalt.de^
 ||casterpretic.com^
 ||castify-trk.playitviral.com^
@@ -22383,7 +22381,6 @@
 ||cntxtfl.com^
 ||cnvmhzt.cn^
 ||cnxddc.lodenfrey.com^
-||cnxkhmtoa.com^
 ||cnxlskkkebks.xyz^
 ||cnzz.com^
 ||cnzz.trafficmanager.net^
@@ -27222,6 +27219,7 @@
 ||definedbootnervous.com^
 ||definitial.com^
 ||deflowcuraras.com^
+||deforcediau.com^
 ||defpush.com^
 ||defybrick.com^
 ||defygravity.convio.com^
@@ -27249,7 +27247,6 @@
 ||delascalles.com^
 ||delayedlocust.com^
 ||delayedmall.pro^
-||delecpuzz.com^
 ||delete-me-2.branchcustom.xyz^
 ||delete-me.branchcustom.xyz^
 ||delete.atea.fi^
@@ -28163,6 +28160,7 @@
 ||disastrousdetestablegoody.com^
 ||disastrousfinal.pro^
 ||disbeliefenvelopemeow.com^
+||disburymixy.shop^
 ||disccompose.com^
 ||discernibletickpang.com^
 ||dischargecompound.com^
@@ -32434,6 +32432,7 @@
 ||ewaterw.top^
 ||ewdxisdrc.com^
 ||eweconciliate.com^
+||eweisiw.top^
 ||ewerhodub.com^
 ||ewerilxw.top^
 ||eweriow.top^
@@ -34662,6 +34661,7 @@
 ||freezereraserelated.com^
 ||freezescrackly.com^
 ||freezpic.ru^
+||freezyquieten.com^
 ||fregtrsatnt.com^
 ||freightopen.com^
 ||freiodablazer.com^
@@ -43318,6 +43318,7 @@
 ||jandaqwe.com^
 ||jane1.top^
 ||jane2.top^
+||janemmf.com^
 ||janetsh.com^
 ||jangiddywashed.com^
 ||jangleachy.com^
@@ -48090,6 +48091,7 @@
 ||logs.amap.com^
 ||logs.animaapp.com^
 ||logs.browser-intake-datadoghq.eu^
+||logs.chatboost-cv.algoage.co.jp^
 ||logs.docnhanh.com.vn^
 ||logs.gaana.com^
 ||logs.gshopper.com^
@@ -49362,6 +49364,7 @@
 ||maniconclavis.com^
 ||manifefashiona.info^
 ||manipulativegraphic.com^
+||manitusbaclava.com^
 ||mannerconflict.com^
 ||manoeuvrestretchingpeer.com^
 ||manoirshrine.com^
@@ -51110,7 +51113,6 @@
 ||maxigamma.com^
 ||maxim.pub^
 ||maximtoaster.com^
-||maximumcash.com^
 ||maximumductpictorial.com^
 ||maximumingrow.com^
 ||maxonclick.com^
@@ -53926,7 +53928,6 @@
 ||mms.syracuse.com^
 ||mms.theroot.com^
 ||mmtdfxh.xyz^
-||mmtracking.com^
 ||mmulsx.comet.it^
 ||mmvideocdn.com^
 ||mmwebhandler.888.com^
@@ -58541,7 +58542,6 @@
 ||outhulem.net^
 ||outils.worldoo.info^
 ||outils2.worldoo.info^
-||outjutassurge.com^
 ||outkisslahuli.com^
 ||outlarvitarer.com^
 ||outlayomnipresentdream.com^
@@ -63000,6 +63000,7 @@
 ||qgerr.com^
 ||qgevavwyafjf.com^
 ||qgexkmi.com^
+||qgg7e.icu^
 ||qgidskiy.top^
 ||qgl27.xyz^
 ||qglinlrtdfc.com^
@@ -63829,6 +63830,7 @@
 ||ratings.lycos.com^
 ||rationallyagreement.com^
 ||ratioregarding.com^
+||rattersexpeded.com^
 ||rauceesh.com^
 ||raudoufoay.com^
 ||raufajoo.net^
@@ -69834,6 +69836,7 @@
 ||sketchyaggravation.com^
 ||sketchyrecycleimpose.com^
 ||sketchystairwell.com^
+||skewserer.com^
 ||skf.actonservice.com^
 ||skfda5.com^
 ||ski1.skiset.com^
@@ -73530,6 +73533,7 @@
 ||som.ringcentral.com^
 ||som.sears.com^
 ||som.vrbo.com^
+||somaskeefs.shop^
 ||sombes.com^
 ||somedaytrip.com^
 ||somehowlighter.com^
@@ -75976,6 +75980,7 @@
 ||stats.erikinthekitchen.com^
 ||stats.erlef.org^
 ||stats.esecured.net^
+||stats.etix.vn^
 ||stats.evenchilada.com^
 ||stats.executebig.org^
 ||stats.exploratv.ca^
@@ -78423,6 +78428,7 @@
 ||t.raptorsmartadvisor.com^
 ||t.regionsjob.com^
 ||t.rentcafe.com^
+||t.rentio.jp^
 ||t.restek.com^
 ||t.rheumatoidarthritis.com^
 ||t.richmondspiders.com^
@@ -78541,7 +78547,6 @@
 ||t3.a.market.xiaomi.com^
 ||t3.cdnpure.com^
 ||t3e.firstchoice.co.uk^
-||t3stdr1ve.com^
 ||t4e.sainsburys.co.uk^
 ||t4yv0sj9u8ja.shop^
 ||t570.wiltonbulletin.com^
@@ -79119,6 +79124,7 @@
 ||tatersbilobed.com^
 ||tationalhedgelnha.com^
 ||tatpek.com^
+||tatrack.thinkyeah.com^
 ||tatrck.com^
 ||tatsumi-sys.jp^
 ||tattepush.com^
@@ -79454,6 +79460,7 @@
 ||telemetry.urs.microsoft.com^
 ||telemetry.vtex.com^
 ||telemetry.webasto.com^
+||telemetry.zoom.us^
 ||telemetryverification.net^
 ||teleport.soom.la^
 ||teleproff.com^
@@ -80664,6 +80671,7 @@
 ||toffeeallergythrill.com^
 ||toffeebigot.com^
 ||toffeecollationsdogcollar.com^
+||toffiesoxgall.com^
 ||togenron.com^
 ||togetherballroom.com^
 ||toglooman.com^
@@ -84663,6 +84671,7 @@
 ||tw.promo.skf.com^
 ||tw.spiriteq.com^
 ||tw.wpu.sh^
+||twaitevirgal.com^
 ||twamjb.cn^
 ||twazzyoidwlfe.com^
 ||twch.femina.ch^
@@ -84989,7 +84998,6 @@
 ||ucdn.adgebra.co^
 ||ucdvze.gudrunsjoden.com^
 ||ucheephu.com^
-||uchmuk.com^
 ||ucjevgue.xyz^
 ||uckgqa.xyz^
 ||uclgnz.lunabazaar.com^
