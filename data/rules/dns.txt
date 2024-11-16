@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-15 20:41:31（北京时间）
+! Version: 2024-11-16 09:42:48（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93056
+! Total count: 93054
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2467,7 +2467,6 @@
 ||7601.833enmhob.com^
 ||7604.5clo0xmbf.com^
 ||7606.5clo0xmbf.com^
-||760ed2b57f.com^
 ||76416dc840.com^
 ||7652.5clo0xmbf.com^
 ||7660e42567.edeb873154.com^
@@ -7637,7 +7636,6 @@
 ||abluvdiscr.com^
 ||ablybeastssarcastic.com^
 ||ablyinviting.com^
-||ablynationality.com^
 ||abmail.info.amaro.com^
 ||abmail.peak.net^
 ||abmail.test.iheart.com^
@@ -11604,6 +11602,7 @@
 ||allocatelacking.com^
 ||allocationhistorianweekend.com^
 ||allodsubussu.com^
+||allorfrryz.com^
 ||allosponsor.com^
 ||allotnegate.com^
 ||allotshyoides.com^
@@ -16752,7 +16751,6 @@
 ||barnacle.natalieandmikeyb.com^
 ||barnacle.viewsource.io^
 ||barnaclecocoonjest.com^
-||barnacleoverdo.com^
 ||barnaclewiped.com^
 ||barnsalodial.top^
 ||baronsurrenderletter.com^
@@ -21899,6 +21897,7 @@
 ||click360v2-ingest.azurewebsites.net^
 ||click4free.info^
 ||clickadin.com^
+||clickadsource.com^
 ||clickadz.com^
 ||clickagents.com^
 ||clickagy.com^
@@ -30455,7 +30454,6 @@
 ||eespekw.com^
 ||eessoong.com^
 ||eessoost.net^
-||eetanvkljvam.com^
 ||eetlwsw.top^
 ||eetognauy.net^
 ||eetsooso.net^
@@ -36370,7 +36368,6 @@
 ||glugherg.net^
 ||glugreez.com^
 ||gluilyepacme.shop^
-||gluishcasas.com^
 ||glukropi.com^
 ||glumdrawer.com^
 ||glumtitu.net^
@@ -44950,7 +44947,6 @@
 ||kkualfvtaot.com^
 ||kkvesjzn.com^
 ||kkyjfdj.xyz^
-||kkyvmkxmunrk.com^
 ||kkznoe.autouncle.ch^
 ||kkznoe.autouncle.co.uk^
 ||kkznoe.autouncle.it^
@@ -45824,7 +45820,6 @@
 ||latam.thomsonreuters.com^
 ||latchwaitress.com^
 ||late-anxiety.com^
-||latedateship.live^
 ||latest-news.pro^
 ||latestsocial.com^
 ||latheendsmoo.com^
@@ -48659,7 +48654,6 @@
 ||lurker.olx.com.br^
 ||lurkfibberband.com^
 ||lurkgenerally.com^
-||luroman.com^
 ||luronews.com^
 ||lusaisso.com^
 ||luscioussensitivenesssavour.com^
@@ -54444,7 +54438,6 @@
 ||mowhamsterradiator.com^
 ||mowvra.idlookmall.com^
 ||moxtra.actonservice.com^
-||moyaculbute.com^
 ||mozgvya.com^
 ||mozime.com^
 ||mozoo.com^
@@ -55846,6 +55839,7 @@
 ||ngueja.2ememain.be^
 ||ngvcalslfbmtcjq.xyz^
 ||ngvjaijgybkss.com^
+||ngxzkaxf.icu^
 ||ngyxtr.ripcurl.com^
 ||nh.rimoseantdom.com^
 ||nhbprf.xyz^
@@ -63178,6 +63172,7 @@
 ||qpbtocrhhjnz.one^
 ||qpc4.visilab.ch^
 ||qpesok.xyz^
+||qphkuua.icu^
 ||qpielh.kfhi.or.kr^
 ||qpigoa.xyz^
 ||qpl9.destinia.dk^
@@ -73162,7 +73157,6 @@
 ||smoulderantler.com^
 ||smoulderdivedelegate.com^
 ||smoulderhangnail.com^
-||smousespuggy.com^
 ||smowtion.com^
 ||smp.tus.ac.jp^
 ||smpl.hit.ppdb.pl^
@@ -76969,6 +76963,7 @@
 ||stpmgo.com^
 ||stpmneaywgib.com^
 ||stq89.icu^
+||stqagmrylm.xyz^
 ||stquality.org^
 ||str.foodnetwork.ca^
 ||str.globalnews.ca^
@@ -77765,6 +77760,7 @@
 ||sweetpacks.com^
 ||sweetromance.life^
 ||swegospright.click^
+||sweisib.top^
 ||swelen.com^
 ||swellingconsultation.com^
 ||swellknife.com^
@@ -77925,6 +77921,7 @@
 ||sykfmgu.com^
 ||sykzow.xyz^
 ||syllableliking.com^
+||syllabusbastardchunk.com^
 ||syllabusimperfect.com^
 ||syllabuspillowcasebake.com^
 ||sylmyar.pw^
@@ -86966,7 +86963,6 @@
 ||viipgcf.com^
 ||viiphciz.com^
 ||viipilo.com^
-||viiportal.com^
 ||viippugm.com^
 ||viipular.com^
 ||viipura.com^
@@ -87203,6 +87199,7 @@
 ||vlitag.com^
 ||vlive.qqvideo.tc.qq.com^
 ||vlkmcpnfo.com^
+||vlkvchof.com^
 ||vllsour.com^
 ||vllsuv.skatedeluxe.com^
 ||vlnk.me^
@@ -87551,7 +87548,6 @@
 ||vwiind.beautyforever.com^
 ||vwinagptucpa.com^
 ||vwioxxra.com^
-||vwiphqtpmxf.com^
 ||vwmjkl.icu^
 ||vwonwkaqvq-a.global.ssl.fastly.net^
 ||vwotiw.agazeta.com.br^
@@ -88813,6 +88809,7 @@
 ||whompothessy.com^
 ||whomspreadbeep.com^
 ||whomsudsikaxu.com^
+||whoobaumpairto.xyz^
 ||whoodiksaglels.net^
 ||whookrair.xyz^
 ||whookroo.com^
@@ -92956,6 +92953,7 @@
 ||zumfzaamdxaw.com^
 ||zumid.xyz^
 ||zumrieth.com^
+||zungiwhaigaunsi.net^
 ||zunsoach.com^
 ||zuoltlhh.com^
 ||zuowen.hydcd.com^
