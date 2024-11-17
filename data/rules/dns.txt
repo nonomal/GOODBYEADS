@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-17 09:49:26（北京时间）
+! Version: 2024-11-17 20:38:31（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93067
+! Total count: 93057
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1788,7 +1788,6 @@
 ||4b9281c316.2e754b57ca.com^
 ||4bad5cdf48.com^
 ||4beast.com^
-||4bed4d5afa.com^
 ||4bfx0u.com^
 ||4bqs.com^
 ||4c21b1a532.5165c0c080.com^
@@ -8691,7 +8690,6 @@
 ||adcel.vrvm.com^
 ||adcell.de^
 ||adcenter-api.cashwalk.co^
-||adcenter.mdf.se^
 ||adcenter.net^
 ||adcentriconline.com^
 ||adcentrum.net^
@@ -11405,7 +11403,6 @@
 ||albumobligationmorally.com^
 ||albumshrugnotoriety.com^
 ||alcatza.com^
-||alcegeoform.com^
 ||alchemeeten.com^
 ||alchemysocial.com^
 ||alcidkits.com^
@@ -19747,7 +19744,6 @@
 ||c4n.xxxbold.com^
 ||c4s.bionestraff.pro^
 ||c53b96fd6b.d03dbe8a1b.com^
-||c5694c3c56.com^
 ||c57bd95239.75cbb85265.com^
 ||c59049439d.68d6b65e65.com^
 ||c5cdfd1601.com^
@@ -20436,7 +20432,6 @@
 ||cc1794b51d.0127c96640.com^
 ||cc2.camcaps.io^
 ||cc6704bc32.com^
-||cc6e36085d.com^
 ||cc72fceb4f.com^
 ||cc8110e902.78343186b9.com^
 ||ccaa0e51d8.com^
@@ -21451,7 +21446,6 @@
 ||chroococcoid.sbs^
 ||chrooo.soccerandrugby.com^
 ||chrtds.xyz^
-||chrysidslaker.com^
 ||chrysostrck.com^
 ||chryvast.com^
 ||chsdwjes.xyz^
@@ -22332,7 +22326,6 @@
 ||cnebis.chocola.com^
 ||cnebis.eisai.jp^
 ||cnebis.i-no-science.com^
-||cnemisfugara.com^
 ||cngbpl.directliquidation.com^
 ||cngcpy.com^
 ||cnifdlaf.top^
@@ -27384,7 +27377,6 @@
 ||departjavgg124.fun^
 ||departmentcomplimentary.com^
 ||departmentscontinentalreveal.com^
-||departmentstestify.com^
 ||departtrouble.com^
 ||departurealtar.com^
 ||depechearshine.com^
@@ -30035,7 +30027,6 @@
 ||eb41b051d2.8bbcf84ce6.com^
 ||eb480dde95.com^
 ||eb6adebee4.04e0d8fb0f.com^
-||eb9d0cb548.com^
 ||ebannertraffic.com^
 ||ebayadvertising.com^
 ||ebb174824f.com^
@@ -63471,6 +63462,7 @@
 ||qwaapgxfahce.com^
 ||qwapi.apple.com^
 ||qwe0231141.bj.bcebos.com^
+||qweisiy.top^
 ||qwerfdx.com^
 ||qwerioy.top^
 ||qwfh39851jtfvkurf21hf.com^
@@ -67335,7 +67327,6 @@
 ||save.salary.com.au^
 ||save.smartsalary.com.au^
 ||savefromad.net^
-||savek.xyz^
 ||saveourspace.co^
 ||saveu5-normal-lq.zijieapi.com^
 ||savings.adp.ca^
@@ -67697,6 +67688,7 @@
 ||sda.seesaa.jp^
 ||sda.seksohub.com^
 ||sda.tamdiem247.com^
+||sdarot-il.org^
 ||sdarot.cc^
 ||sdata.avid.com^
 ||sdata.chelseafc.com^
@@ -84745,7 +84737,6 @@
 ||twtdkzg.com^
 ||twurseri.top^
 ||twvybupqup.xyz^
-||twyvergongs.com^
 ||twzui6.com^
 ||tx-ad.a.yximgs.com^
 ||tx-br-cdn.kwai.net.iberostar.com^
@@ -86928,7 +86919,6 @@
 ||viiahdlc.com^
 ||viialrka.com^
 ||viiaoqke.com^
-||viiatomicnumber.com^
 ||viiavjpe.com^
 ||viibest.com^
 ||viibngx.com^
@@ -87240,6 +87230,7 @@
 ||vmzqqmlpwwmazjnio.com^
 ||vn.finisbur.com^
 ||vn.jaygeepigs.com^
+||vnadsrv.com^
 ||vnadssb.com^
 ||vnbyclsboyoya.com^
 ||vndcrknbh.xyz^
@@ -89519,7 +89510,6 @@
 ||wsaidthemathe.info^
 ||wsandco.actonservice.com^
 ||wsapi.master.live^
-||wsapyqxybx.xyz^
 ||wscewc.xyz^
 ||wsdwbfs.cn^
 ||wsfc-t.topya.com^
