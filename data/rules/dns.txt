@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-17 20:38:31（北京时间）
+! Version: 2024-11-18 09:47:13（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93057
+! Total count: 93030
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2065,7 +2065,6 @@
 ||5brxi.icu^
 ||5btekl14.de^
 ||5c4ccd56c9.com^
-||5c530d2179.com^
 ||5c5991d906.9a857c6721.com^
 ||5cf8606941.com^
 ||5clo0xmbf.com^
@@ -8430,7 +8429,6 @@
 ||ad.rarure.com^
 ||ad.rejichoice.jp^
 ||ad.reklm.com^
-||ad.responsad1.space^
 ||ad.richmob.cn^
 ||ad.samsungadhub.com^
 ||ad.santa.lv^
@@ -9779,7 +9777,6 @@
 ||ads.shizmoo.com^
 ||ads.shopstyle.com^
 ||ads.sift.co.uk^
-||ads.smartclick.com^
 ||ads.soft32.com^
 ||ads.sohu.com^
 ||ads.sondakika.com^
@@ -14405,7 +14402,6 @@
 ||applicationsstereocanoe.com^
 ||appliedmeaningfulable.com^
 ||applifier.com^
-||applifysolutions.net^
 ||applink-test.chalknation.com^
 ||applink.aspiration.com^
 ||applink.batterii.com^
@@ -14486,7 +14482,6 @@
 ||appnow.sbs^
 ||appocean.media^
 ||appodeal.com^
-||appodealx.com^
 ||appoineditardwide.com^
 ||appointedbaseslogan.com^
 ||appointedchildorchestra.com^
@@ -15730,7 +15725,6 @@
 ||avitocars.ru^
 ||avjd014.com/*ad^
 ||avkktuywj.xyz^
-||avlcc.ajscdn.com^
 ||avloan3431.fun^
 ||avmonk3431.fun^
 ||avnet.actonservice.com^
@@ -18489,7 +18483,6 @@
 ||borrowedtransition.com^
 ||borrowingbalm.com^
 ||borrowjavgg124.fun^
-||borshtsantal.com^
 ||bort.busty-wife.com^
 ||borumis.com^
 ||borzjournal.ru^
@@ -18923,7 +18916,6 @@
 ||bridesargean.click^
 ||brideshieldstaircase.com^
 ||bridgearchly.com^
-||bridgeorganizationlad.com^
 ||bridgetrack.com^
 ||bridlealacrityleak.com^
 ||brief-tank.pro^
@@ -23492,7 +23484,6 @@
 ||cookingmeat.ru^
 ||cookingsorting.com^
 ||cooknfit.com^
-||cookoval.com^
 ||cool.gaygo.tv^
 ||cool.sunporno.com^
 ||cool.tubous.com^
@@ -30369,7 +30360,6 @@
 ||ee625e4b1d.com^
 ||ee64f14ecf.beccc1d245.com^
 ||ee6a35c1eeee.com^
-||ee717332bb.com^
 ||ee768d2e27.0f9be2e1ef.com^
 ||ee93.pandasuite.io^
 ||ee9ea5e3e4.a32fc87d2f.com^
@@ -30656,7 +30646,6 @@
 ||elconfidencialdigital.actonservice.com^
 ||elderlytown.com^
 ||eldestcontribution.com^
-||ele26126.jscrambler.com^
 ||eleavers.com^
 ||eleazarfilasse.shop^
 ||election.aomg5bzv7.com^
@@ -33699,7 +33688,6 @@
 ||filthnair.click^
 ||filthybudget.com^
 ||filthysignpod.com^
-||fimrg.ajscdn.com^
 ||fimserve.com^
 ||fimyxg.bloomberght.com^
 ||fimyxg.haberturk.com^
@@ -34364,7 +34352,6 @@
 ||forthright-car.pro^
 ||fortiesgaudy.top^
 ||fortitudeare.com^
-||fortnitechat.site^
 ||fortorterrar.com^
 ||fortpavilioncamomile.com^
 ||fortpush.com^
@@ -35285,7 +35272,6 @@
 ||gardeningseparatedudley.com^
 ||gardoult.com^
 ||gargantuan-menu.pro^
-||garibabalmily.com^
 ||gariguemancala.uno^
 ||garlandprotectedashtray.com^
 ||garlandshark.com^
@@ -35513,7 +35499,6 @@
 ||gelatinelighter.com^
 ||gelescu.cloud^
 ||gelhp.com^
-||gelopro.com^
 ||gemfowls.com^
 ||gemini.yahoo.com^
 ||gemius.hu^
@@ -37803,7 +37788,6 @@
 ||gueikw.xyz^
 ||guelvp.1111.com.tw^
 ||gueriteiodic.com^
-||guerregamming.com^
 ||guerrilla-links.com^
 ||guess.h.qhimg.com^
 ||guesswhatnews.com^
@@ -39643,7 +39627,6 @@
 ||humiliatemoot.com^
 ||hummingexam.com^
 ||hummockpenner.shop^
-||humoralbooms.top^
 ||humoralpurline.com^
 ||humorcartoes.com.sapo.pt^
 ||humortadelacartoes.com.sapo.pt^
@@ -40194,6 +40177,7 @@
 ||ifkzro.llbean.co.jp^
 ||ifleadhad.live^
 ||ifllwfs.com^
+||iflucav.icu^
 ||ifmccdn.icu^
 ||ifnyop.priceline.com^
 ||iforcircles-1.online^
@@ -40294,7 +40278,6 @@
 ||iicheewi.com^
 ||iifvcfwiqi.com^
 ||iigmlx.com^
-||iijttwfj.com^
 ||iincon.icu^
 ||iinzwyd.com^
 ||iionads.com^
@@ -45571,7 +45554,6 @@
 ||l3g3media.com^
 ||l3op.info^
 ||l45fciti2kxi.com^
-||l4rwlsdeac3u.com^
 ||l5eamr17d.com^
 ||l5kt1.icu^
 ||l6b587txj1.com^
@@ -48631,7 +48613,6 @@
 ||lungicko.net^
 ||lungingunified.com^
 ||lunio.net^
-||lunse.ajscdn.com^
 ||luofinality.com^
 ||luofk.xyz^
 ||lupininmiscook.shop^
@@ -51546,7 +51527,6 @@
 ||mediapays.info^
 ||mediapeartree.com^
 ||mediaplazza.com^
-||mediapostcommunication.net^
 ||mediapush1.com^
 ||mediasama.com^
 ||mediascale.de^
@@ -54697,7 +54677,6 @@
 ||mulberrydoubloons.com^
 ||mulberryresistoverwork.com^
 ||mulberrytoss.com^
-||mulderfujis.com^
 ||mule.caddyserver.com^
 ||mule.pricelessai.com^
 ||muleattackscrease.com^
@@ -56145,7 +56124,6 @@
 ||noopking.com^
 ||nooraunod.com^
 ||noowoochuveb.net^
-||noozoque.com^
 ||nope.arabxforum.com^
 ||nope.xn--mgbkt9eckr.net^
 ||nope.xn--ngbcrg3b.com^
@@ -58731,7 +58709,6 @@
 ||oxdejn.lavprisel.dk^
 ||oxen.hillcountrytexas.com^
 ||oxetoneagneaux.click^
-||oxeyesdresser.com^
 ||oxhoftarius.com^
 ||oxidemustard.com^
 ||oxidetoward.com^
@@ -58966,7 +58943,6 @@
 ||padspms.com^
 ||padstm.com^
 ||padtue.xyz^
-||padxeqsoh.com^
 ||paeastei.net^
 ||paehceman.com^
 ||paeppk.spar-mit.com^
@@ -60345,6 +60321,7 @@
 ||pixel.condenastdigital.com^
 ||pixel.convertize.io^
 ||pixel.cpex.cz^
+||pixel.dev.smartnews.com^
 ||pixel.digitalspy.co.uk^
 ||pixel.dmdi.pl^
 ||pixel.driveniq.com^
@@ -60383,6 +60360,7 @@
 ||pixel.s3xified.com^
 ||pixel.safe-installation.com^
 ||pixel.smartmedia.tj^
+||pixel.smartnews.com^
 ||pixel.sojern.com^
 ||pixel.sprinklr.com^
 ||pixel.staging.tree.com^
@@ -61810,7 +61788,6 @@
 ||proftrafficcounter.com^
 ||profusesupport.com^
 ||progaming.monster^
-||progenymuscular.com^
 ||progenyoverhear.com^
 ||progenyproduced.com^
 ||progmxs.com^
@@ -62383,7 +62360,6 @@
 ||pubstr.chemrxiv.org^
 ||pubtm.com^
 ||pubtrky.com^
-||pucabaleens.top^
 ||puczuxqijadg.com^
 ||puddingdefeated.com^
 ||puddleincidentally.com^
@@ -62443,7 +62419,6 @@
 ||punosy.best^
 ||punosy.com^
 ||punystudio.pro^
-||puplasjfcsdj.com^
 ||puppyderisiverear.com^
 ||pupspu.com^
 ||pupur.net^
@@ -82646,7 +82621,6 @@
 ||tracker.financialcontent.com^
 ||tracker.gamedock.io^
 ||tracker.gamemonkey.org^
-||tracker.gigaphim.com^
 ||tracker.gitee.com^
 ||tracker.gleanview.com^
 ||tracker.grupanya.com^
@@ -84668,6 +84642,7 @@
 ||tweedygirly.com^
 ||tweetdeck.net.anwalt.de^
 ||tweezesmalanga.com^
+||tweisii.top^
 ||twelfthcomprehendgrape.com^
 ||twelfthdistasteful.com^
 ||twelvemissionjury.com^
@@ -85630,7 +85605,6 @@
 ||uo.tubaronunheler.com^
 ||uoblij.farmaline.be^
 ||uod2quk646.com^
-||uoddgbkk.com^
 ||uoeeiqgiib.xyz^
 ||uoetderxqnv.com^
 ||uofcdl.lagos.com^
@@ -87820,7 +87794,6 @@
 ||wap001.bytravel.cn^
 ||wap1.aomg5bzv7.com^
 ||wap1.laogu.wang^
-||wapatoobethel.com^
 ||wapbaze.com^
 ||wapn1.flosports.tv^
 ||wapstart.ru^
@@ -89515,6 +89488,7 @@
 ||wsfc-t.topya.com^
 ||wsfc.topya.com^
 ||wsgayq.xyz^
+||wsgnihbh.icu^
 ||wsjlbbqemr23.com^
 ||wsmcdn.audioeye.com^
 ||wsmetrics.batch.com^
@@ -90884,7 +90858,6 @@
 ||xlviiirdr.com^
 ||xlviirdr.com^
 ||xlvirdr.com^
-||xlvul.ajscdn.com^
 ||xlvvy4msxr.coolinastore.com^
 ||xlwrdnrw.xyz^
 ||xlxehr.xyz^
