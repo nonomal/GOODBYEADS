@@ -44,13 +44,13 @@ DNS拦截规则数量: 93302
 <ul>
 
 - **[拦截规则（Github）](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt)**
-- **[拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt)**
+- **[拦截规则(Ghproxy-国内加速)](https://ghp.ci/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt)**
 - **[DNS拦截规则（Github）](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt)**
-- **[DNS拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt)**
+- **[DNS拦截规则(Ghproxy-国内加速)](https://ghp.ci/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt)**
 - **[Qx规则（Github）](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/qx.list)**
-- **[Qx规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/qx.list)**
+- **[Qx规则(Ghproxy-国内加速)](https://ghp.ci/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/qx.list)**
 - **[白名单（Github）](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt)**
-- **[白名单(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt)**
+- **[白名单(Ghproxy-国内加速)](https://ghp.ci/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt)**
 
 </ul>
 </details>
