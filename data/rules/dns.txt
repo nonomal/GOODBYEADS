@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-19 17:57:14（北京时间）
+! Version: 2024-11-19 20:42:53（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93302
+! Total count: 93304
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -26807,6 +26807,7 @@
 ||datatechdrift.com^
 ||datatechone.com^
 ||datatechonert.com^
+||datazap.online^
 ||date-till-late.us^
 ||date2024.com^
 ||date2day.pro^
@@ -59123,6 +59124,7 @@
 ||pabgey.siepomaga.pl^
 ||pac.thescottishsun.co.uk^
 ||pac.thesun.co.uk^
+||pac.thetimes.com^
 ||pacaio.match.qq.com^
 ||pacaka.conxxx.pro^
 ||pacekami.com^
@@ -67748,6 +67750,7 @@
 ||sciencepoints.com^
 ||scientific-doubt.com^
 ||scientificdimly.com^
+||scihuns.com^
 ||scispg.smu.edu.sg^
 ||scisselfungus.com^
 ||scissorsstitchdegrade.com^
@@ -85751,7 +85754,6 @@
 ||unleash.livepix.gg^
 ||unlesscooler.com^
 ||unlikelymoscow.com^
-||unlinedmake.pro^
 ||unlockads.com^
 ||unlockecstasyapparatus.com^
 ||unlockmaddenhooray.com^
