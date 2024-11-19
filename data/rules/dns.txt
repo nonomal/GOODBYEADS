@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-18 20:44:14（北京时间）
+! Version: 2024-11-19 09:45:10（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93297
+! Total count: 93301
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -15772,6 +15772,7 @@
 ||avgads.space^
 ||avgive3431.fun^
 ||avhduwvirosl.com^
+||avhjzemp.com^
 ||avhtaapxml.com^
 ||avhxnasqeo.com^
 ||aviatedrasure.top^
@@ -16959,7 +16960,6 @@
 ||bbyfsfo.cn^
 ||bc-news.net^
 ||bc.coupons.com^
-||bc.manwaysprod.com^
 ||bc.marfeelcache.com^
 ||bc.nhk.jp^
 ||bc.qunar.com^
@@ -17498,6 +17498,7 @@
 ||besmeargleor.com^
 ||bespakerubbles.com^
 ||bespyscania.com^
+||best-girls-around.com^
 ||best-lucky-cat.xyz^
 ||best-offer-for-you.com^
 ||best-prize.life^
@@ -17693,7 +17694,6 @@
 ||bgupcq.westfalia.de^
 ||bh-test.groc.press^
 ||bh.groc.press^
-||bh.twifoilperoxyl.com^
 ||bh3.net^
 ||bhabhiporn.pro^
 ||bhakte.com^
@@ -19512,7 +19512,6 @@
 ||buzz.vocus.com^
 ||buzzard.donotresearch.net^
 ||buzzard.ficabo.com.au^
-||buzzard.nimble.team^
 ||buzzardcraizey.com^
 ||buzzcity.net^
 ||buzzdancing.com^
@@ -20359,7 +20358,6 @@
 ||cat.sprucely.net^
 ||cat.thisminute.app^
 ||cat.tinylittlebusinesses.com^
-||cat.weddingsabroad.com^
 ||cat11.gimmeporn.xyz^
 ||catalog.fjwhcbsh.com^
 ||catalogs.printplace.com^
@@ -22160,7 +22158,6 @@
 ||clmbtech.com^
 ||clmcam.xyz^
 ||clmkwi.xyz^
-||cln.willyporn.com^
 ||clnbze.dziennikbaltycki.pl^
 ||clnbze.dzienniklodzki.pl^
 ||clnbze.dziennikpolski24.pl^
@@ -24544,6 +24541,7 @@
 ||cupulaeveinal.top^
 ||curacaocrafty.top^
 ||curated.fieldtest.cc^
+||curatekrait.com^
 ||curatorberiber.click^
 ||cure.trueface.org^
 ||curesdf.top^
@@ -29473,7 +29471,6 @@
 ||dtyry4ejybx0.cloudfront.net^
 ||dtzrrz.green-japan.com^
 ||du.jd.com^
-||du.jubhahbalize.com^
 ||du01z5hhojprz.cloudfront.net^
 ||du0pud0sdlmzf.cloudfront.net^
 ||du1.bbdj.com^
@@ -29822,7 +29819,6 @@
 ||e.qq.com^
 ||e.quizlet.com^
 ||e.replacementdevicelawsuit.com^
-||e.seematurevideos.com^
 ||e.sexbule.xxx^
 ||e.sexygirlscontact.com^
 ||e.shop.app^
@@ -30515,7 +30511,6 @@
 ||eekrogrameety.net^
 ||eeksoabo.com^
 ||eel.aware7.de^
-||eel.beekeeperstudio.io^
 ||eel.ieo.do^
 ||eel.transistor.fm^
 ||eeleekso.com^
@@ -32636,6 +32631,7 @@
 ||exemptjav128.fun^
 ||exertionbesiege.com^
 ||exfjpw.com^
+||exgjhawccb.com^
 ||exhaleveteranbasketball.com^
 ||exhaustfirstlytearing.com^
 ||exhauststreak.com^
@@ -32979,7 +32975,6 @@
 ||f63a76c33b.e3efa413cc.com^
 ||f679bab577.ffd8c0e0ac.com^
 ||f6b458ade2.0740d1e3bf.com^
-||f6d49ce515.32abd54344.com^
 ||f6e52dce4f.eefa308edc.com^
 ||f70d00bbcf.614c5b2887.com^
 ||f75726ff72.4b7140e260.com^
@@ -37251,6 +37246,7 @@
 ||gombotrubu.com^
 ||gomerchant.groupon.com^
 ||gomnlt.com^
+||gomucreu.com^
 ||gonairoomsoo.xyz^
 ||gonakedowing.com^
 ||gone.pronhub.fun^
@@ -37457,6 +37453,7 @@
 ||gqmuky.kaigonohonne.com^
 ||gqqxum.mannys.com.au^
 ||gqraqz.e-domizil.de^
+||gquwuefddojikxo.xyz^
 ||gqwwshbdd1.fun^
 ||gr-business.vodafone.com^
 ||gr-go.experian.com^
@@ -37675,6 +37672,7 @@
 ||grislyrooing.click^
 ||gristleupanaya.com^
 ||gritaware.com^
+||gritoils.com^
 ||grixaghe.xyz^
 ||grizzled-reality.pro^
 ||grizzlers30.fun^
@@ -40025,6 +40023,7 @@
 ||i-reklama.sk^
 ||i-staging.villa.ge^
 ||i-stream.pl^
+||i-svzgrtibs.rocks^
 ||i-vengo.com^
 ||i.airtel.in^
 ||i.americanblinds.com^
@@ -42551,6 +42550,7 @@
 ||insistballisticclone.com^
 ||insistent-worker.com^
 ||insistinestimable.com^
+||insistpeerbeef.com^
 ||insitepromotion.com^
 ||insitez.blob.core.windows.net^
 ||insnative.com^
@@ -44521,6 +44521,7 @@
 ||jy08.shop^
 ||jy09.shop^
 ||jy147a.com^
+||jybaekajjmqrz.top^
 ||jybnuw.mudah.my^
 ||jycrjkuspyv.fun^
 ||jyewkb.icu^
@@ -54456,6 +54457,7 @@
 ||moonvids.online^
 ||moonvids.space^
 ||moopsazijop.com^
+||mooptoasinudy.net^
 ||mooroore.xyz^
 ||moose.cloverlearning.com^
 ||mootermedia.com^
@@ -54683,7 +54685,6 @@
 ||mqzoid.vintorte.com^
 ||mr-rank.de^
 ||mr.homedepot.ca^
-||mr.pudgilygrazes.com^
 ||mr2cnjuh34jb.com^
 ||mraozo.xyz^
 ||mraza2dosa.com^
@@ -58712,6 +58713,7 @@
 ||outlapdawn.live^
 ||outlarvitarer.com^
 ||outlayomnipresentdream.com^
+||outlayreliancevine.com^
 ||outlineappearbar.com^
 ||outloginequity.com^
 ||outlookabsorb.com^
@@ -58858,6 +58860,7 @@
 ||owbroinothiermol.xyz^
 ||owcdilxy.xyz^
 ||oweeiyw.icu^
+||oweisik.top^
 ||owen.prolitteris.ch^
 ||owenexposure.com^
 ||oweriok.top^
@@ -65672,7 +65675,6 @@
 ||rook.clarify.io^
 ||rook.flowlens.com^
 ||rook.grithix.com^
-||rook.sameerhazari.com^
 ||rookechew.com^
 ||rookinews.com^
 ||rookretired.com^
@@ -66526,7 +66528,6 @@
 ||s.freelanceratecalculator.com^
 ||s.freeporncave.com^
 ||s.frida.vse42.ru^
-||s.fuxporn.vip^
 ||s.gdt.qq.com^
 ||s.glimesh.tv^
 ||s.goat.com^
@@ -66552,7 +66553,6 @@
 ||s.inspectelement.co^
 ||s.isdspeed.qq.com^
 ||s.isoporno.com^
-||s.joypornyou.cc^
 ||s.justblinds.com^
 ||s.kenh14.vn^
 ||s.krivo.buzz^
@@ -73476,6 +73476,7 @@
 ||snitswaspshaft.com^
 ||snjfasp.com^
 ||snlpclc.com^
+||snnmgdt.icu^
 ||sno1.snowrental.com^
 ||snobdilemma.com^
 ||snoobi.com^
@@ -74518,6 +74519,7 @@
 ||spuezain.com^
 ||spulyiecooboo.website^
 ||spuncomplaintsapartment.com^
+||spunorientation.com^
 ||spuppeh.com^
 ||spurproteinopaque.com^
 ||spurryalgoid.top^
@@ -76936,6 +76938,7 @@
 ||steeplederivedinattentive.com^
 ||steeplesaturday.com^
 ||steepto.com^
+||steepuleltou.xyz^
 ||steeringsunshine.com^
 ||steerseejoa.com^
 ||steesamax.com^
@@ -79949,6 +79952,7 @@
 ||th.micheryfrugal.com^
 ||th1sib3stway.com^
 ||th2mbxzqe.com^
+||thacreks.com^
 ||thaculse.net^
 ||thagrals.net^
 ||thagroum.net^
@@ -81268,7 +81272,6 @@
 ||tq-eu.optimalscreen2.online^
 ||tq-eu.setlitescmode-2.online^
 ||tq-eu.startbrws-2.online^
-||tq-eu.startbrws-3.online^
 ||tq-eu.startbrws-4.online^
 ||tq-eu.starvalue-3.online^
 ||tq-eu.starvalue-4.online^
@@ -84536,7 +84539,6 @@
 ||trout.batzo.net^
 ||trout.openfpl.com^
 ||trout.travelmassive.com^
-||trout.unicornplatform.com^
 ||troutgorgets.com^
 ||trovemanured.guru^
 ||trowanesteeler.com^
@@ -85748,6 +85750,7 @@
 ||unleash.livepix.gg^
 ||unlesscooler.com^
 ||unlikelymoscow.com^
+||unlinedmake.pro^
 ||unlockads.com^
 ||unlockecstasyapparatus.com^
 ||unlockmaddenhooray.com^
@@ -85858,7 +85861,6 @@
 ||unwritmirific.com^
 ||unynwld.com^
 ||unyzea.aboutyou.sk^
-||uo.tubaronunheler.com^
 ||uoblij.farmaline.be^
 ||uod2quk646.com^
 ||uoeeiqgiib.xyz^
@@ -87481,7 +87483,6 @@
 ||vntsm.io^
 ||vnuuh.icu^
 ||vnzwxk.e-bebek.com^
-||vo.mofettecalmed.com^
 ||vo.turbocap.net^
 ||voagloupt.net^
 ||voapozol.com^
@@ -89648,6 +89649,7 @@
 ||wpcjyxwdsu.xyz^
 ||wpe-client02-vm4.net.mydays.de^
 ||wpfc.ml^
+||wpfly-sbpkrd.icu^
 ||wpgobx.feber.se^
 ||wpgobx.marcusoscarsson.se^
 ||wph2.destinia.us^
@@ -89817,6 +89819,7 @@
 ||wttd.madeleine.fr^
 ||wttd.madeleine.gr^
 ||wttuuyd.cn^
+||wtyankriwnza.com^
 ||wtyusie.top^
 ||wu.energiddehisce.com^
 ||wu.sixthsskene.com^
@@ -91282,7 +91285,6 @@
 ||xml-v4.skycommission.com^
 ||xml-v4.staradsmedia.com^
 ||xml-v4.startbrws-2.online^
-||xml-v4.startbrws-3.online^
 ||xml-v4.startbrws-4.online^
 ||xml-v4.starvalue-3.online^
 ||xml-v4.starvalue-4.online^
@@ -92358,6 +92360,7 @@
 ||yr9n47004g.com^
 ||yrarhzuq.xyz^
 ||yrbnfoys.com^
+||yrccils0spqnkc3.xyz^
 ||yrepmy.jochen-schweizer.de^
 ||yretx.cn^
 ||yrhnw7h63.com^
@@ -92611,6 +92614,7 @@
 ||z89yxner8h.datsumou-beauty-times.com^
 ||z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me^
 ||z91f4.top^
+||z9uvpwarkk1mnpf.xyz^
 ||za-go.experian.com^
 ||za.agiay.vn^
 ||za.baomoi.com^
