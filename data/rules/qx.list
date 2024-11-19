@@ -26654,7 +26654,6 @@ DOMAIN,data.rewards.riteaid.com,reject
 DOMAIN,data.ricaud.com,reject
 DOMAIN,data.rmsocio.realmadrid.com,reject
 DOMAIN,data.sec.intl.miui.com,reject
-DOMAIN,data.sec.miui.com,reject
 DOMAIN,data.securemetrics-apple.com,reject
 DOMAIN,data.segugio.it,reject
 DOMAIN,data.service.aware.com.au,reject
@@ -48936,7 +48935,6 @@ DOMAIN,m.bugly.qq.com,reject
 DOMAIN,m.bumrungrad1378.com,reject
 DOMAIN,m.carte-gr.total.fr,reject
 DOMAIN,m.communications.ihmvcu.org,reject
-DOMAIN,m.ctrip.com,reject
 DOMAIN,m.d11.io,reject
 DOMAIN,m.d8qu.com,reject
 DOMAIN,m.dagym-manager.com,reject
@@ -53676,7 +53674,6 @@ DOMAIN,minnow.phasemedical.com,reject
 DOMAIN,minnow.tapas-software.net,reject
 DOMAIN,minorcrown.com,reject
 DOMAIN,minorityspasmodiccommissioner.com,reject
-DOMAIN,minorshort.weixin.qq.com,reject
 DOMAIN,minotaur107.com,reject
 DOMAIN,minsaith.xyz,reject
 DOMAIN,minstats.xyz,reject
@@ -82680,7 +82677,6 @@ DOMAIN,tracker.520call.me,reject
 DOMAIN,tracker.adbinead.com,reject
 DOMAIN,tracker.affiliate.iqbroker.com,reject
 DOMAIN,tracker.affirm.com,reject
-DOMAIN,tracker.ai.xiaomi.com,reject
 DOMAIN,tracker.anandtech.com,reject
 DOMAIN,tracker.anime47.com,reject
 DOMAIN,tracker.au.zitcha.app,reject
@@ -85371,9 +85367,7 @@ DOMAIN,umdlbn.globetrotter.de,reject
 DOMAIN,umdpva.gakumado.mynavi.jp,reject
 DOMAIN,umebella.com,reject
 DOMAIN,umekana.ru,reject
-DOMAIN,umengacs.m.taobao.com,reject
 DOMAIN,umengcloud.com,reject
-DOMAIN,umengjmacs.m.taobao.com,reject
 DOMAIN,umentrandings.xyz,reject
 DOMAIN,umescomymanda.info,reject
 DOMAIN,umexalim.com,reject
@@ -89184,7 +89178,6 @@ DOMAIN,wl-analytics.tsp.li,reject
 DOMAIN,wl-cornholio.com,reject
 DOMAIN,wl-pixel.index.digital,reject
 DOMAIN,wl.bl.frequentvalues.com.au,reject
-DOMAIN,wl.jd.com,reject
 DOMAIN,wl.uqwjdhgv.top,reject
 DOMAIN,wl.yna.co.kr,reject
 DOMAIN,wlafx4trk.com,reject
@@ -92071,7 +92064,6 @@ DOMAIN,youborafds01.com,reject
 DOMAIN,youboranqs01.com,reject
 DOMAIN,youdguide.com,reject
 DOMAIN,yougotacheck.com,reject
-DOMAIN,youku-acs.m.taobao.com,reject
 DOMAIN,youlamedia.com,reject
 DOMAIN,youlouk.com,reject
 DOMAIN,youmi.net,reject
