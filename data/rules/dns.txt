@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-19 09:45:10（北京时间）
+! Version: 2024-11-19 17:36:52（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93301
+! Total count: 93302
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1564,6 +1564,7 @@
 ||3dsemulator.info^
 ||3dviolet.com^
 ||3e0ea78cd5.1f63b94163.com^
+||3e2a26326d.com^
 ||3e5097336a.aaa45e90eb.com^
 ||3e6072834f.com^
 ||3e7dd00231.com^
@@ -1878,6 +1879,7 @@
 ||4qdx69gg2d.com^
 ||4rabettraff.com^
 ||4sqt6jq.de^
+||4t6u.icu^
 ||4u69.com^
 ||4ur.click^
 ||4ureyesonly.com^
@@ -33604,7 +33606,6 @@
 ||fhcdbufjnjcev.com^
 ||fhdnds.mrmarvis.com^
 ||fhdwtku.com^
-||fheifdoexntqn.com^
 ||fhepiqajsdap.com^
 ||fhgh9sd.com^
 ||fhisladyloveh.xyz^
@@ -37968,6 +37969,7 @@
 ||gullyending.com^
 ||gulpacidize.click^
 ||gulsyangtao.guru^
+||gumanews.com^
 ||gumbolersgthb.com^
 ||gumcongest.com^
 ||gumgum.com^
@@ -61406,7 +61408,6 @@
 ||post-log.pushwoosh.com^
 ||post-redirecting.com^
 ||post.carte-gr.total.fr^
-||post.rmbn.ru^
 ||postalfranticallyfriendship.com^
 ||postaoz.xyz^
 ||postback.info^
