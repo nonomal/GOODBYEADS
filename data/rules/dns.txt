@@ -2,7 +2,7 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-20 09:43:56（北京时间）
+! Version: 2024-11-20 20:42:24（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 93341
 ||*.diwodiwo.xyz^
@@ -743,6 +743,7 @@
 ||1bliq.io^
 ||1bm3n8sld.de^
 ||1bpmtrvkqkj.pettoonies.com^
+||1buo.icu^
 ||1buu1.penyouw.com^
 ||1bw7etm93lf.www.woodbrass.com^
 ||1c447fc5b7.com^
@@ -2074,7 +2075,6 @@
 ||5a17a6699e.e19533834e.com^
 ||5a6c114183.com^
 ||5a8bf1770a.1b32caa655.com^
-||5a9b48f0db.com^
 ||5a9b74f2cd.com^
 ||5aa383d56d.com^
 ||5ac52612c3.aba7348092.com^
@@ -13280,11 +13280,13 @@
 ||ao.pioncomm.net^
 ||ao.tolydigital.net^
 ||ao1118kas.top^
+||ao1120kas.top^
 ||aoakss.com^
 ||aoalmfwinbsstec23.com^
 ||aoao11111iis.top^
 ||aoao11120iis.top^
 ||aoao11121iis.top^
+||aoao11201iis.top^
 ||aobtwv.icu^
 ||aod.echovisuals.com^
 ||aod4.societegenerale.fr^
@@ -17151,7 +17153,6 @@
 ||beacon.cdnma.com^
 ||beacon.digima.com^
 ||beacon.dropbox.com^
-||beacon.ehow.com^
 ||beacon.errorception.com^
 ||beacon.flow.io^
 ||beacon.gu-web.net^
@@ -19953,7 +19954,6 @@
 ||caiwauchegee.net^
 ||caizutoh.xyz^
 ||cajanggaun.top^
-||cajhnhsuv.xyz^
 ||cakangautchus.net^
 ||cakesdenyconventional.com^
 ||cakesinventory.com^
@@ -33546,6 +33546,7 @@
 ||fetidgossipleaflets.com^
 ||fetinhapinhedt.com^
 ||feuageepitoke.com^
+||feubgzfx.icu^
 ||feudalmalletconsulate.com^
 ||feudalplastic.com^
 ||feuingcrche.com^
@@ -34870,7 +34871,6 @@
 ||frothadditions.com^
 ||frothirenews.top^
 ||froughyprovine.click^
-||frownyrustle.com^
 ||frowzlynecklet.top^
 ||frqbff.hedleyandbennett.com^
 ||frstlead.com^
@@ -36444,6 +36444,7 @@
 ||glomtipagrou.xyz^
 ||glonsophe.com^
 ||gloodsie.com^
+||glooftezoad.net^
 ||gloogeed.xyz^
 ||glooghalty.net^
 ||gloogruk.com^
@@ -45858,7 +45859,6 @@
 ||lakequincy.com^
 ||lakerspreferences.gleague.nba.com^
 ||lakerspreferences.nba.com^
-||lakeviewcondostaug.com^
 ||lakmus.xyz^
 ||lakvandula.com^
 ||lalabaos1020.top^
@@ -48855,6 +48855,7 @@
 ||lutachechu.pro^
 ||lutoorgourgi.com^
 ||lutrbr.xyz^
+||lutrineextant.com^
 ||luumhi.whatonearthcatalog.com^
 ||luuming.com^
 ||luuonz.motoblouz.com^
@@ -49463,6 +49464,7 @@
 ||makethebusiness.com^
 ||makeupenumerate.com^
 ||makhchyqsrpq.com^
+||makhzanpopulin.com^
 ||making.party^
 ||makingnude.com^
 ||makqsd.icu^
@@ -61879,7 +61881,6 @@
 ||prnzxf.glamira.se^
 ||pro-adblocker.com^
 ||pro-advert.de^
-||pro-advertising.com^
 ||pro-market.net^
 ||pro-pro-go.com^
 ||pro-suprport-act.com^
@@ -64724,6 +64725,7 @@
 ||remarksnicermasterpiece.com^
 ||remaxmetro369.myre.io^
 ||remaysky.com^
+||rembi.lv^
 ||remedyabruptness.com^
 ||remembercompetitioninexplicable.com^
 ||rememberdeterminedmerger.com^
@@ -65459,6 +65461,7 @@
 ||riskhector.com^
 ||riskymuzzlebiopsy.com^
 ||riundo.bonprix.no^
+||rivacathood.com^
 ||rivalpout.com^
 ||rivatedqualizebruisi.info^
 ||rivdxb.xyz^
@@ -69884,6 +69887,7 @@
 ||sincenturypro.org^
 ||sinceregarden.sincere-garden.jp^
 ||sincerelyseverelyminimum.com^
+||sinderpalaced.top^
 ||sinfo.awrostamani.com^
 ||sinfo.dtcidev.co^
 ||sing-tracker.com^
@@ -70144,7 +70148,6 @@
 ||slacdn.com^
 ||slackb.com^
 ||slahpxqb6wto.com^
-||slakepondus.com^
 ||slamscreechmilestone.com^
 ||slamvolcano.com^
 ||slandernetgymnasium.com^
@@ -78464,7 +78467,6 @@
 ||t.collinscenterforthearts.com^
 ||t.cometlytrack.com^
 ||t.comms.thetimes.co.uk^
-||t.cotsta.ru^
 ||t.counter.dev^
 ||t.cozone.com^
 ||t.csurams.com^
@@ -91077,7 +91079,6 @@
 ||xitongku.cc^
 ||xitvce.webtretho.com^
 ||xiuksf.worten.es^
-||xiusebf1.com^
 ||xiuska.top^
 ||xiwusn9982.top^
 ||xixil.cn^
@@ -93319,7 +93320,6 @@
 ||zyiis.net^
 ||zylizz.xyz^
 ||zylytavo.com^
-||zymasescassius.com^
 ||zymessuppl.top^
 ||zymjzwyyjyvb.top^
 ||zyns.com^
