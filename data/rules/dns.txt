@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-21 09:43:51（北京时间）
+! Version: 2024-11-21 20:43:05（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93373
+! Total count: 93370
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -822,6 +822,7 @@
 ||1j02claf9p.pro^
 ||1j2n061x3td.www.digi.no^
 ||1j771bhgi.de^
+||1jok.icu^
 ||1jpbh5iht.de^
 ||1jsskipuf8sd.com^
 ||1jutu5nnx.com^
@@ -1747,7 +1748,6 @@
 ||468.vologdainfo.ru^
 ||4690y10pvpq8.com^
 ||46bd8e62a2.com^
-||46d236df2c.com^
 ||46d24c436e.4a9517991d.com^
 ||46f4vjo86.com^
 ||46rtpw.ru^
@@ -13289,6 +13289,7 @@
 ||aoao11120iis.top^
 ||aoao11121iis.top^
 ||aoao11201iis.top^
+||aoao11211iis.top^
 ||aobtwv.icu^
 ||aod.echovisuals.com^
 ||aod4.societegenerale.fr^
@@ -14987,7 +14988,6 @@
 ||asandcomemu.info^
 ||asap-systems.actonservice.com^
 ||asbaloney.com^
-||asbgdfxrau.com^
 ||asbulbasaura.com^
 ||asbutiseemedli.com^
 ||asc.asc-net.com^
@@ -22715,7 +22715,6 @@
 ||collector.xhamsterporno.mx^
 ||collector.xhofficial.com^
 ||collector.xhwide1.com^
-||collector1.sooplive.co.kr^
 ||collector1.xhamster.com^
 ||collector2c.zhihuishu.com^
 ||collector5.zipy.ai^
@@ -29869,7 +29868,6 @@
 ||e20d8e38992b.o3n.io^
 ||e218cdc27d.com^
 ||e246.pandasuite.io^
-||e2572292c5.com^
 ||e25a8247b5.357dbd24e2.com^
 ||e2729890e0.com^
 ||e275260174.05ae41c3fc.com^
@@ -32379,6 +32377,7 @@
 ||events.betterhelp.com^
 ||events.blackboard.com^
 ||events.brightline.tv^
+||events.bsky.app^
 ||events.btw.so^
 ||events.busuu.com^
 ||events.cardsmobile.ru^
@@ -32645,7 +32644,6 @@
 ||execution-ci360.rai.it^
 ||executionago.com^
 ||executivetumult.com^
-||exed0wnload1.com^
 ||exelator.com^
 ||exelbid.com^
 ||exemplarif.com^
@@ -32919,7 +32917,6 @@
 ||f021b63d67.2463624e63.com^
 ||f029332141.com^
 ||f02b61sgc617.es.themoneytizer.com^
-||f02fa5826c.com^
 ||f05afeecf9.e2fa67be2a.com^
 ||f07neg4p.de^
 ||f092680893.com^
@@ -39916,6 +39913,7 @@
 ||hwateru.top^
 ||hwderdk.com^
 ||hweisiu.top^
+||hweizau.top^
 ||hwerilxu.top^
 ||hweriou.top^
 ||hwfmynim.com^
@@ -48873,6 +48871,7 @@
 ||lutrineextant.com^
 ||luumhi.whatonearthcatalog.com^
 ||luuming.com^
+||luunels.com^
 ||luuonz.motoblouz.com^
 ||luvaihoo.com^
 ||luwcp.online^
@@ -49069,7 +49068,6 @@
 ||m.bumrungrad1378.com^
 ||m.carte-gr.total.fr^
 ||m.communications.ihmvcu.org^
-||m.ctrip.com^
 ||m.d11.io^
 ||m.d8qu.com^
 ||m.dagym-manager.com^
@@ -53863,7 +53861,6 @@
 ||misc.wcd.qq.com^
 ||miscalculatesuccessiverelish.com^
 ||miscellaneousheartachehunter.com^
-||miscemassed.com^
 ||mischiefrealizationbraces.com^
 ||miserablefocus.com^
 ||miserdiscourteousromance.com^
@@ -55318,7 +55315,6 @@
 ||n0gge40o.de^
 ||n0h56.site^
 ||n0v1cdn.com^
-||n1307adserv.xyz^
 ||n152adserv.com^
 ||n1g459ky7y.com^
 ||n1major.com^
@@ -60661,6 +60657,7 @@
 ||pj.uptraceforlore.com^
 ||pjagilteei.com^
 ||pjaihds.icu^
+||pjb9gv9.xyz^
 ||pjbncv.ode.co.kr^
 ||pjcijbv.icu^
 ||pjdthz.xyz^
@@ -63135,6 +63132,7 @@
 ||qceyjl.cellularoutfitter.com^
 ||qceyyxauc.xyz^
 ||qcgtoz.cwjobs.co.uk^
+||qcixkb1.xyz^
 ||qckeumrwft.xyz^
 ||qcmxuy.hardloop.de^
 ||qcohkm.xyz^
@@ -77312,7 +77310,6 @@
 ||streakattempt.com^
 ||stream-all.com^
 ||stream-log.dditscdn.com^
-||stream.9now.com.au^
 ||stream.corporatefinanceinstitute.com^
 ||stream.snssdk.com^
 ||stream.spongead.com^
@@ -86099,7 +86096,6 @@
 ||urbanjazzsecretion.com^
 ||urbanproxy.eu^
 ||urechar.com^
-||uredy.top^
 ||urehgr.halekulani.com^
 ||urekamedia.com^
 ||ureoaw.netthandelen.no^
@@ -86312,6 +86308,7 @@
 ||utgckq.reductionrevolution.com.au^
 ||uthorner.info^
 ||uthounie.com^
+||utics.nodejibi.in^
 ||util-*.simply-hentai.com^
 ||util.aomg5bzv7.com^
 ||utilitypresent.com^
