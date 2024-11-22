@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-22 09:45:12（北京时间）
+! Version: 2024-11-22 20:41:56（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93398
+! Total count: 93395
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1381,6 +1381,7 @@
 ||31def61c3.de^
 ||31o0jl63.de^
 ||31seconds.net^
+||31up.icu^
 ||31v1scl527hm.shop^
 ||31vcgicj50zg.top^
 ||32.huanqiu.com^
@@ -1570,7 +1571,6 @@
 ||3e2a26326d.com^
 ||3e5097336a.aaa45e90eb.com^
 ||3e6072834f.com^
-||3e7dd00231.com^
 ||3e8359d812.f9f62da9a0.com^
 ||3e8d78fb90.com^
 ||3e950d4353.com^
@@ -13284,6 +13284,7 @@
 ||ao.tolydigital.net^
 ||ao1118kas.top^
 ||ao1120kas.top^
+||ao1122kas.top^
 ||aoakss.com^
 ||aoalmfwinbsstec23.com^
 ||aoao11111iis.top^
@@ -14580,6 +14581,7 @@
 ||approvelongestrepel.com^
 ||approvewordingcashier.com^
 ||approximatecaloriegallon.com^
+||apps-pbd.ctraffic.io^
 ||apps-test.spectrum-member.com^
 ||apps.airmeet.com^
 ||apps.ayopop.id^
@@ -15813,7 +15815,6 @@
 ||avorgy3431.fun^
 ||avouchamazeddownload.com^
 ||avowdelicacydried.com^
-||avoyudvajqpgcjw.com^
 ||avp.labanquepostale.fr^
 ||avpayments.com^
 ||avplwte.xyz^
@@ -16144,7 +16145,6 @@
 ||ayurxhjnnxlonk.com^
 ||aywgucxmh.com^
 ||aywivflptwd.com^
-||ayyfqqbt.com^
 ||ayyjenjkbnrya.top^
 ||ayyjenjqlrbya.top^
 ||ayzylwqazaemj.top^
@@ -23639,7 +23639,6 @@
 ||corcztpc.xyz^
 ||cordclck.cc^
 ||cordinghology.info^
-||corditespicous.com^
 ||core-apps.b-cdn.net^
 ||core.airbridge.io^
 ||core.dimatter.ai^
@@ -27365,7 +27364,6 @@
 ||delightedplash.com^
 ||delightedprawn.com^
 ||delightful-page.pro^
-||delightfulhour.com^
 ||delightfulmachine.pro^
 ||delightspiritedtroop.com^
 ||deligrassdull.com^
@@ -34100,7 +34098,6 @@
 ||flingo.tv^
 ||flintdepreciate.com^
 ||flipendangered.com^
-||flipexplain.com^
 ||flipool.com^
 ||flippantguilt.com^
 ||flipt.actonservice.com^
@@ -44519,6 +44516,7 @@
 ||jwatera.top^
 ||jwcnjv.xlmoto.eu^
 ||jweisia.top^
+||jweizaa.top^
 ||jweqai.amen.fr^
 ||jwerilxa.top^
 ||jwerioa.top^
@@ -58880,7 +58878,6 @@
 ||overponyfollower.com^
 ||overratedlively.com^
 ||overreactperverse.com^
-||overseagyassa.com^
 ||overseasearchopped.com^
 ||overseasinfringementsaucepan.com^
 ||overseauspider.yuanshen.com^
