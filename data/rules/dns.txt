@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-23 09:41:21（北京时间）
+! Version: 2024-11-23 20:38:50（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93410
+! Total count: 93415
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1846,7 +1846,6 @@
 ||4e943b0889.598f0ce32f.com^
 ||4ed196b502.com^
 ||4ed5560812.com^
-||4ever.cc^
 ||4f116d9efd.com^
 ||4f1fca8377.2ea4fb5aea.com^
 ||4f2sm1y1ss.com^
@@ -2222,6 +2221,7 @@
 ||63912b9175.com^
 ||6393.833enmhob.com^
 ||6395.5clo0xmbf.com^
+||639c909d45.com^
 ||63r2vxacp0pr.com^
 ||63voy9ciyi14.com^
 ||640186f930.04de88565b.com^
@@ -9028,7 +9028,6 @@
 ||adimpact.com^
 ||adincube.com^
 ||adinfo.support^
-||adinfo.tango.me^
 ||adinfuse.com^
 ||adingo.jp^
 ||adinjector.net^
@@ -11404,7 +11403,6 @@
 ||akutapro.com^
 ||akv2-br-cdn.kwai.net.iberostar.com^
 ||akvqulocj.com^
-||akyldpjmlh.com^
 ||akzdrh.catofashions.com^
 ||al-adtech.com^
 ||al-smetrics.vizio.com^
@@ -23713,6 +23711,7 @@
 ||cotemaison.np6.com^
 ||coticoffee.com^
 ||cottersguayabi.click^
+||cottoidearldom.com^
 ||cottoncabbage.com^
 ||cottondivorcefootprint.com^
 ||cotwcpcjcrjfj.xyz^
@@ -29303,6 +29302,7 @@
 ||dreuaxk.icu^
 ||drewitecossic.com^
 ||dreyeli.info^
+||dreyntbynames.top^
 ||drf8e429z5jzt.cloudfront.net^
 ||drfaultlessplays.com^
 ||drfdisvc.walmart.com^
@@ -29548,7 +29548,6 @@
 ||dukingdraon.com^
 ||dukirliaon.com^
 ||duksomsy.com^
-||dulatiosa.com^
 ||dulativergs.com^
 ||dulcityawakes.click^
 ||duleonon.com^
@@ -29872,7 +29871,6 @@
 ||e1zin.icu^
 ||e2.resources.foxtel.com.au^
 ||e20d8e38992b.o3n.io^
-||e218cdc27d.com^
 ||e246.pandasuite.io^
 ||e25a8247b5.357dbd24e2.com^
 ||e2729890e0.com^
@@ -31852,6 +31850,7 @@
 ||epwa.europarl.europa.eu^
 ||epxfjcb.xyz^
 ||epxprfk.xyz^
+||epylliafending.com^
 ||eq-beacon.stream.co.jp^
 ||eq-player-log.cdnext.stream.ne.jp^
 ||eq.af31f.site^
@@ -32166,7 +32165,6 @@
 ||eufunding.ukri.org^
 ||eugeniekleig.com^
 ||euizhltcd6ih.com^
-||euklnsxcgkx.com^
 ||eukova.com^
 ||eulal-cnr.com^
 ||eule1.pmu.fr^
@@ -36387,6 +36385,7 @@
 ||glideimpulseregulate.com^
 ||glidelamppost.com^
 ||gligheew.xyz^
+||gligoubsed.com^
 ||glimpaid.net^
 ||glimpsedrastic.com^
 ||glimpsemankind.com^
@@ -36498,6 +36497,7 @@
 ||gloustoa.net^
 ||gloutanacard.com^
 ||gloutchi.com^
+||glouvugnirsy.net^
 ||glouxaih.net^
 ||glouxalt.net^
 ||glouzokrache.com^
@@ -36616,6 +36616,7 @@
 ||go-srv.com^
 ||go-stage.oracle.com^
 ||go-staging.qantaswellbeing.com^
+||go-static.info^
 ||go-test.bigspring.io^
 ||go-test.goflux.de^
 ||go-test.homepass.com^
@@ -37222,7 +37223,6 @@
 ||gocertiport.pearsonvue.com^
 ||gocheewimtie.xyz^
 ||gocolow.com^
-||gocp.stroeermediabrands.de^
 ||gocuxy.baycrews.jp^
 ||god.vsee.me^
 ||godacepic.com^
@@ -37381,6 +37381,7 @@
 ||gosoeos2314.tsmt5revp.com^
 ||gosoftwarenow.com^
 ||gosoo.steeelm.xyz^
+||gosrv.cl^
 ||gossipcase.com^
 ||gossipfinestanalogy.com^
 ||gossipinvest.com^
@@ -43383,6 +43384,7 @@
 ||ixrzwf.decathlon.be^
 ||ixsgoy.getpenta.com^
 ||ixstng.cn^
+||ixtbiwi-jf.world^
 ||ixtzad.fetch.co.uk^
 ||ixwereksbeforeb.info^
 ||ixwloxw.com^
@@ -45249,7 +45251,6 @@
 ||knjybs.luminis-films.com^
 ||knlqeu.jewlr.com^
 ||knlrfijhvch.com^
-||knmjurnu.com^
 ||knockoutantipathy.com^
 ||knopnf.asambeauty.com^
 ||knorzj.wearfigs.com^
@@ -47767,6 +47768,7 @@
 ||lmavci.eloquii.com^
 ||lmbsy.qq.com^
 ||lmdfmd.com^
+||lmeegwxcasdyo.com^
 ||lmeniu.timberland.com.au^
 ||lmepbq.com^
 ||lmgenf.ludwigbeck.de^
@@ -49586,6 +49588,7 @@
 ||maniasensiblecompound.com^
 ||maniatoile.com^
 ||maniconclavis.com^
+||maniconfiscal.top^
 ||manifefashiona.info^
 ||manipulativegraphic.com^
 ||manitusbaclava.com^
@@ -51863,7 +51866,6 @@
 ||meetingcoffeenostrils.com^
 ||meetingrailroad.com^
 ||meetings.gaylordhotels.com^
-||meetmagsuit.live^
 ||meetwebclub.com^
 ||meewireg.com^
 ||meezauch.net^
@@ -53751,7 +53753,6 @@
 ||mikka.app^
 ||mikop.xyz^
 ||miksoalroobs.net^
-||milacrechiack.com^
 ||mildcauliflower.com^
 ||mildjav11.fun^
 ||mildlydoucely.com^
@@ -59365,6 +59366,7 @@
 ||paintejuke.com^
 ||paintersusainc.actonservice.com^
 ||paintwandering.com^
+||paintydevelela.org^
 ||paipsuto.com^
 ||pairin.actonservice.com^
 ||paishoonain.net^
@@ -60281,7 +60283,6 @@
 ||phokukse.com^
 ||pholrock.net^
 ||phomoach.net^
-||phone-analyzer.com^
 ||phoneapplicationlabs.top^
 ||phoneboothsabledomesticated.com^
 ||phonetrack.hukumkaikka.in^
@@ -64148,6 +64149,7 @@
 ||rblgfyvwse.com^
 ||rbncmx.chopperexchange.com^
 ||rbnt.org^
+||rboyqkyrwrvkq.top^
 ||rbqcg6g.de^
 ||rbrightscarletcl.info^
 ||rbrmhz.xyz^
@@ -64185,7 +64187,6 @@
 ||rcqtck.dsquared2.com^
 ||rcqwmwxdvnt.com^
 ||rcraveoisanikc.com^
-||rcsvoavhk.com^
 ||rcudsw.ths-net.jp^
 ||rcvlink.com^
 ||rcvlinks.com^
@@ -73507,7 +73508,6 @@
 ||smuengage.smu.edu.sg^
 ||smuggeralapa.com^
 ||smugismanaxon.com^
-||smushbirrs.com^
 ||smwvlc.intermixonline.com^
 ||smxflvz.cn^
 ||smxmlr.shimojima.jp^
@@ -77328,6 +77328,7 @@
 ||strandedprobable.com^
 ||strangelyfaintestgreenhouse.com^
 ||strangineer.info^
+||strangineersalyl.org^
 ||strangledisposalfox.com^
 ||strapi.clickjogos.com.br^
 ||strastconversity.com^
@@ -78061,6 +78062,7 @@
 ||sweetromance.life^
 ||swegospright.click^
 ||sweisib.top^
+||sweizab.top^
 ||swelen.com^
 ||swellingconsultation.com^
 ||swellknife.com^
@@ -85012,6 +85014,7 @@
 ||twentydruggeddumb.com^
 ||twerilxi.top^
 ||twerioi.top^
+||twewmykfe.com^
 ||twi-hjritecl.world^
 ||twigwisp.com^
 ||twilightsuburbmill.com^
@@ -85444,7 +85447,6 @@
 ||ugmarketing.smu.edu.sg^
 ||ugolue.xyz^
 ||ugopkl.com^
-||ugovddwesgdpd.com^
 ||ugpibtpk.xyz^
 ||ugqvsuqmfvdmla.com^
 ||ugrarvy.com^
@@ -87244,6 +87246,7 @@
 ||viewyentreat.guru^
 ||vigilantprinciple.pro^
 ||vigorouslyflamboyant.com^
+||vigorouslymicrophone.com^
 ||vigourmotorcyclepriority.com^
 ||vigsole.com^
 ||vihqpr.xyz^
@@ -89199,6 +89202,7 @@
 ||why3.inseec.education^
 ||whyl-laz-i-264.site^
 ||wi.cohereseugene.com^
+||wi1f.icu^
 ||wiar9wff0ma9.ping.t3.gg^
 ||wibtntmvox.com^
 ||wichauru.xyz^
@@ -91058,6 +91062,7 @@
 ||xertive.com^
 ||xeryt111.fun^
 ||xetlugupyug.com^
+||xevaix.com^
 ||xevbjycybvb.xyz^
 ||xevzdl.xyz^
 ||xewihp.bayut.com^
