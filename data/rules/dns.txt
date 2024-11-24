@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-23 20:38:50（北京时间）
+! Version: 2024-11-24 09:50:12（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93415
+! Total count: 93402
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2950,7 +2950,6 @@
 ||9307.l5eamr17d.com^
 ||9321.5clo0xmbf.com^
 ||933aee6e12.3e6072834f.com^
-||933af389e0.com^
 ||934tgg.sosqboh85.com^
 ||935ft4j96.com^
 ||93692zubo66936.com^
@@ -7433,7 +7432,6 @@
 ||abastur.ubmmexico.com^
 ||abattoirpleatsprinkle.com^
 ||abazelfan.com^
-||abbanreddy.com^
 ||abberantdiscussion.com^
 ||abberantdoggie.com^
 ||abberantextending.com^
@@ -13499,6 +13497,7 @@
 ||api.primecaster.net^
 ||api.pubfinity.com^
 ||api.revenuads.com^
+||api.rvere.com^
 ||api.ryanyao.design^
 ||api.sa.hismarttv.com^
 ||api.shafttraffic.com^
@@ -14870,7 +14869,6 @@
 ||aroundridicule.com^
 ||arousedimitateplane.com^
 ||arphzc.woodica.pl^
-||arqhfhgoekhtsqn.com^
 ||arquilavaan.com^
 ||arqvm.cn^
 ||arrangeaffectedtables.com^
@@ -17551,6 +17549,7 @@
 ||bestevermotorie.com^
 ||bestexp1.com^
 ||bestfreecounterstat.com^
+||bestfuckapps.com^
 ||bestfunnyads.com^
 ||bestialvehemence.com^
 ||bestill.help.no^
@@ -17598,7 +17597,6 @@
 ||betjoltiktor.com^
 ||betklefkior.com^
 ||betmasquerainchan.com^
-||betncxdeodlclc.com^
 ||betnidorinoan.net^
 ||betnoctowlor.com^
 ||betotodilea.com^
@@ -17783,7 +17781,6 @@
 ||bidgear.com^
 ||bidgx.com^
 ||bidiology.com^
-||bidjora.com^
 ||bidmyadz.com^
 ||bidmyqps.xyz^
 ||bids.concert.io^
@@ -20401,7 +20398,6 @@
 ||catshark.janetalexandersson.com^
 ||catshark.jimmyaldape.dev^
 ||catshark.spur.design^
-||catsnthing.com^
 ||catsnthings.fun^
 ||catsunrunjam.com^
 ||cattell.loanzify.app^
@@ -20458,7 +20454,6 @@
 ||cb.momistmatico.com^
 ||cb054d7b93.1d06891ad5.com^
 ||cb07f20af1.8de5d7e235.com^
-||cb15484c44.com^
 ||cb1d14ec96.c38f521ff4.com^
 ||cb4265700a.4ed196b502.com^
 ||cb61190372.com^
@@ -20490,7 +20485,6 @@
 ||cbthkumwa96.shop^
 ||cbttnmo.xyz^
 ||cbudbs.tirendo.de^
-||cbunxhbrfbkkt.com^
 ||cbuvhv.desertcart.ae^
 ||cbyhoe.xyz^
 ||cbyqzt.xy^
@@ -22990,7 +22984,6 @@
 ||comradeorientalfinance.com^
 ||comscore.com^
 ||comsprague.com^
-||comsysnet.com^
 ||comtelitalia.alcatel-lucent.com^
 ||comunicacao.edpcomunicacao.com.br^
 ||comunicacion.usj.es^
@@ -26010,7 +26003,6 @@
 ||d712.theinformation.com^
 ||d761erxl2qywg.cloudfront.net^
 ||d7644a4674.d53d0454c1.com^
-||d787d0e334.com^
 ||d78eee025b.com^
 ||d7a13b77bf.11f65cf2f1.com^
 ||d7c0fb1c13.8681b3fc64.com^
@@ -26269,7 +26261,6 @@
 ||dashedheroncapricorn.com^
 ||dashersbatfish.guru^
 ||dashgreen.online^
-||dashingdirt.com^
 ||daslethv.com^
 ||dasljfoq.top^
 ||daslkdlqk.top^
@@ -26840,7 +26831,6 @@
 ||datherap.xyz^
 ||dating-banners.com^
 ||dating-roo3.site^
-||dating.service2u.shop^
 ||dating2cloud.org^
 ||datingcentral.top^
 ||datingero.com^
@@ -29452,6 +29442,7 @@
 ||dt.beyla.site^
 ||dt.vnecdn.com^
 ||dt.xfyun.cn^
+||dt0j.icu^
 ||dt3y1f1i1disy.cloudfront.net^
 ||dt4ever.com^
 ||dt51.net^
@@ -32552,6 +32543,7 @@
 ||ewdxisdrc.com^
 ||eweconciliate.com^
 ||eweisiw.top^
+||eweizaw.top^
 ||ewerhodub.com^
 ||ewerilxw.top^
 ||eweriow.top^
@@ -32786,6 +32778,7 @@
 ||express-submit.de^
 ||expressalike.com^
 ||expressingblossomjudicious.com^
+||expressmealdelivery.shop^
 ||expressproducer.com^
 ||exptlgooney.com^
 ||expulsionfluffysea.com^
@@ -34203,7 +34196,6 @@
 ||flymob.com^
 ||flyte.aomg5bzv7.com^
 ||flytechb.com^
-||flytierchurred.space^
 ||flytonearstation.com^
 ||flznib.weblio.jp^
 ||fm-analytics-api.pocketfm.com^
@@ -38227,7 +38219,6 @@
 ||hadsokz.com^
 ||hadtwobr.info^
 ||hadute.xyz^
-||haewoyaty.com^
 ||haffnetworkmm.com^
 ||hafisague.com^
 ||hafonmadp.com^
@@ -40530,7 +40521,6 @@
 ||ikcieontapp.com^
 ||ikdxfh.jollyroom.se^
 ||ikengoti.com^
-||ikhgeiukyucl.com^
 ||ikiif.com^
 ||ikisahil.az/images/banner^
 ||ikjnbvf.de^
@@ -42632,7 +42622,6 @@
 ||installer.betterinstaller.com^
 ||installfree.pro^
 ||installnow.pro^
-||installpack.net^
 ||installscolumnist.com^
 ||installslocalweep.com^
 ||installtracker.com^
@@ -45208,7 +45197,6 @@
 ||kms-pc.com^
 ||kms-tool.com^
 ||kmsauto.info^
-||kmsofficial.org^
 ||kmspi.co^
 ||kmspico-official.org^
 ||kmspico.io^
@@ -47563,6 +47551,7 @@
 ||liopah.top^
 ||liosix.mtvuutiset.fi^
 ||lioyfmp.cn^
+||lipheak.com^
 ||lipidicchaoush.com^
 ||lipqkoxzy.com^
 ||liqikxqpx.com^
@@ -55162,7 +55151,6 @@
 ||myakiu.trendhim.ch^
 ||myapp.branch.rocks^
 ||mybad.fr^
-||mybenne.com^
 ||mybestclick.net^
 ||mybestdc.com^
 ||mybestnewz.com^
@@ -64485,7 +64473,6 @@
 ||redirection.one^
 ||redirectlinker.com^
 ||redirects.us^
-||redirsense.com^
 ||redistedi.com^
 ||redlion.actonservice.com^
 ||rednegationswoop.com^
@@ -79131,7 +79118,6 @@
 ||taprtopcldfb.co^
 ||tapsell.ir^
 ||tapsense.com^
-||tapulsads.ru^
 ||tapwhigwy.com^
 ||tarafnagging.com^
 ||tarantula.emotionalbaking.com^
@@ -81338,6 +81324,7 @@
 ||tpe.theparticipanteffect.com^
 ||tpfrro.justlease.nl^
 ||tphcrjth.xyz^
+||tpi-app.herokuapp.com^
 ||tpmedia-reactads.com^
 ||tpmedia.online^
 ||tpmexb.vans.co.nz^
@@ -83940,7 +83927,6 @@
 ||trafficswarm.com^
 ||traffictraders.com^
 ||trafficz.com^
-||trafficz.net^
 ||traffikw.com^
 ||traffiq.com^
 ||traffmgnt.com^
@@ -87311,7 +87297,6 @@
 ||viistroy.com^
 ||viisupport.com^
 ||viitgb.com^
-||viitjcfx.com^
 ||viitqvjx.com^
 ||viiucwwa.com^
 ||viiudkje.com^
@@ -91007,6 +90992,7 @@
 ||xcowuheclvwryh.com^
 ||xcqbbcqpl.xyz^
 ||xcuffrzha.com^
+||xcwdcynb.icu^
 ||xcxbqohm.xyz^
 ||xcypgd.icu^
 ||xd.meritedyaws.com^
@@ -91156,7 +91142,6 @@
 ||xixil.cn^
 ||xizanzhi.com^
 ||xiznql.laredoute.it^
-||xizopiwhu.com^
 ||xj.buskinoutgoer.com^
 ||xj.gdt.qq.com^
 ||xjappzvz.xyz^
@@ -91966,6 +91951,7 @@
 ||ybf1o.online^
 ||ybgsyd.osharewalker.co.jp^
 ||ybhyziittfg.com^
+||ybnksajy.com^
 ||ybrbdft.xyz^
 ||ybriifs.com^
 ||ybrrvck.xyz^
@@ -92819,6 +92805,7 @@
 ||zbxtcwi.xyz^
 ||zca31.com^
 ||zcaadfl.com^
+||zcaappcthktx.com^
 ||zcbsft.thedoublef.com^
 ||zcck60eqyw.world^
 ||zcfhi.cn.com^
