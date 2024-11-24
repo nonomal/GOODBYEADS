@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-24 09:50:12（北京时间）
+! Version: 2024-11-24 20:38:45（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93402
+! Total count: 93399
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -777,7 +777,6 @@
 ||1e8ba62c4c.3e8d78fb90.com^
 ||1e90.pandasuite.io^
 ||1e9a9a2d5c.7116c9673e.com^
-||1ecfd63507.com^
 ||1ed2497413.4f528af8ae.com^
 ||1ejaculationinterne.com^
 ||1empiredirect.com^
@@ -2553,7 +2552,6 @@
 ||7822.5clo0xmbf.com^
 ||78387c2566.com^
 ||7838d6a4aa.48e455384a.com^
-||783bcdb896.com^
 ||784.56ovido.site^
 ||7864.5clo0xmbf.com^
 ||7868d5c036.com^
@@ -2980,7 +2978,6 @@
 ||95b1e00252.com^
 ||95b7dcf274.6ca9278a53.com^
 ||95cc0b96cf.f84add7c62.com^
-||95cf5beb64.com^
 ||95d04d0751.22ad426520.com^
 ||95d127d868.com^
 ||95ppq87g.de^
@@ -14879,7 +14876,6 @@
 ||arraysurvivalcarla.com^
 ||arrearscourtyard.com^
 ||arrearsdecember.com^
-||arrearssturdyenthusiasm.com^
 ||arrearstreatyexamples.com^
 ||arrestjav182.fun^
 ||arriedstro.work^
@@ -16148,6 +16144,7 @@
 ||az.koipatolipper.com^
 ||az.nzn.io^
 ||az43064.vo.msecnd.net^
+||az5i.icu^
 ||az693360.vo.msecnd.net^
 ||az697jylm.cc^
 ||az6a8nmuz5vbrgd2.exasrv.com^
@@ -20996,7 +20993,6 @@
 ||cellspsoatic.com^
 ||cellstats.mako.co.il^
 ||celsiusours.com^
-||celtisbiliary.com^
 ||celtra.com^
 ||celxkpdir.com^
 ||cematuran.com^
@@ -33042,7 +33038,6 @@
 ||faciledegree.com^
 ||facileravagebased.com^
 ||faciliatefightpierre.com^
-||facilitategrandfather.com^
 ||facilitatevoluntarily.com^
 ||facilitycompetition.com^
 ||facilityearlyimminent.com^
@@ -33671,6 +33666,7 @@
 ||fierymint.com^
 ||fierysolemncow.com^
 ||fieslobwg.com^
+||fiezaits.com^
 ||fifesmahdism.com^
 ||figgq.com^
 ||fight.offtherecord.com^
@@ -36016,7 +36012,9 @@
 ||gettrf.org^
 ||gettripiron.live^
 ||gettunable.affinityblue.com^
+||getui.cn^
 ||getui.com^
+||getui.net^
 ||getvideoz.click^
 ||getxml.org^
 ||getxmlisi.com^
@@ -40399,6 +40397,7 @@
 ||igbfwa.com^
 ||igc0.destinia.at^
 ||igcsjgmsisjiow.xyz^
+||igexin.com^
 ||igexlg.weltbild.de^
 ||igfjkh.vw.com.tr^
 ||iggbky.xyz^
@@ -45381,7 +45380,6 @@
 ||kpjuilkzfi.com^
 ||kpmose.xyz^
 ||kpmsoq.xyz^
-||kprwiewrtqjubh.com^
 ||kpshx.douguo.com^
 ||kpyerxzn.xyz^
 ||kq.myrtolbanzai.com^
@@ -54427,7 +54425,6 @@
 ||money.aomg5bzv7.com^
 ||money.clerkie.io^
 ||money4exit.de^
-||moneyerniels.com^
 ||moneymaiker.ru^
 ||moneymak3rstrack.com^
 ||moneymakercdn.com^
@@ -65459,7 +65456,6 @@
 ||rikakza.xyz^
 ||rileimply.com^
 ||rilelogicbuy.com^
-||rillowfoggier.com^
 ||riluaneth.com^
 ||riluwt.voxcinemas.com^
 ||rimefatling.com^
@@ -70069,7 +70065,6 @@
 ||sjremetrics.java.com^
 ||sjryno.fullyloadedchew.com^
 ||sjsabb.com^
-||sjsdyjihprrxtc.com^
 ||sjtactic.com^
 ||sjyzsm.danjohn.com^
 ||sk-batteryimport.m-shop.me^
@@ -89990,6 +89985,7 @@
 ||wwarvlorkeww.top^
 ||wwbsll.nissen.co.jp^
 ||wweisie.top^
+||wweizae.top^
 ||wwerioe.top^
 ||wwfx.xyz^
 ||wwhnjrg.com^
@@ -92330,6 +92326,7 @@
 ||yoomanies.com^
 ||yopard.com^
 ||yoptaejrj2kkf8nj09.com^
+||yoqqiev.top^
 ||yoredi.com^
 ||yoshatia.com^
 ||yotta.scrolller.com^
