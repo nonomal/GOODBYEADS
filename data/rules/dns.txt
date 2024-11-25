@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-24 20:38:45（北京时间）
+! Version: 2024-11-25 09:46:53（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93399
+! Total count: 93394
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1172,7 +1172,6 @@
 ||2a4722f5ee.com^
 ||2a4snhmtm.de^
 ||2a6d9e5059.com^
-||2a9f8fc03a.com^
 ||2aa1110514.69d11079bf.com^
 ||2aa6f9qgrh9.acc.evservice.nl^
 ||2adf1530a3.com^
@@ -10849,6 +10848,7 @@
 ||affiliatestonybet.com^
 ||affiliatetracking.com^
 ||affiliatetracking.net^
+||affiliatetxt.nextmediaweb.com^
 ||affiliatewindow.com^
 ||affiliation-france.com^
 ||affiliation.porn.fr^
@@ -11279,6 +11279,7 @@
 ||aiwyrroueafcs.com^
 ||aixcdn.com^
 ||aixuntupian.oss-cn-hongkong.aliyuncs.com^
+||aizhantj.com^
 ||aj.stomalhobble.com^
 ||aj1047.online^
 ||aj1070.online^
@@ -16498,8 +16499,6 @@
 ||baglaubs.com^
 ||bagsonsale.online^
 ||baguioattalea.com^
-||bagzeaqrzcsqsq.com^
-||bahamasexcitor.com^
 ||bahmemohod.com^
 ||bahom.cloud^
 ||bahrpo.dint.co.kr^
@@ -17808,7 +17807,6 @@
 ||bigclicks.com^
 ||bigcustomernetwork.actonservice.com^
 ||bigdata.clarin.com^
-||bigdata.ssp.samsung.com^
 ||bigeagle.biz^
 ||bigelowcleaning.com^
 ||bigfootpausers.click^
@@ -25516,6 +25514,7 @@
 ||d2m785nxw66jui.cloudfront.net^
 ||d2mgk3zfd02vd2.cloudfront.net^
 ||d2mic0r0bo3i6z.cloudfront.net^
+||d2moz0h55szev9.cloudfront.net^
 ||d2mqdhonc9glku.cloudfront.net^
 ||d2muzdhs7lpmo0.cloudfront.net^
 ||d2mw3lu2jj5laf.cloudfront.net^
@@ -27963,6 +27962,7 @@
 ||digital.opsbase.com^
 ||digital.setpointis.com^
 ||digital2cloud.com^
+||digitaladv.despar.it^
 ||digitaldsp.com^
 ||digitalmarketing.gogsg.com^
 ||digitalmarketing.smu.edu.sg^
@@ -30071,7 +30071,6 @@
 ||earthworm.makethemdebate.com^
 ||earthworm.mxdvl.com^
 ||earthworm.robbevanpetegem.be^
-||earthycopy.com^
 ||earwig.architecturesofhiding.com^
 ||eas.almamedia.fi^
 ||eas696r.xyz^
@@ -35658,7 +35657,6 @@
 ||gemfowls.com^
 ||gemini.yahoo.com^
 ||gemius.hu^
-||gemmykaraoke.com^
 ||gemsbucks25.fun^
 ||gemtun.ctnewsjunkie.com^
 ||gen-ref.com^
@@ -42440,7 +42438,6 @@
 ||inlog01.hket.com^
 ||inlugiar.com^
 ||inmespritr.com^
-||inmewa.com^
 ||inmhh.com^
 ||inminuner.com^
 ||inmobi.cn^
@@ -44769,7 +44766,6 @@
 ||kaxlfq.testingwithtestcafe.com^
 ||kaydonus.promo.skf.com^
 ||kayoesfervor.com^
-||kayosjataka.com^
 ||kbadguhvqig.xyz^
 ||kbadkxocv.com^
 ||kbao7755.de^
@@ -46103,7 +46099,6 @@
 ||lbv5.mperf.com^
 ||lby2kd27c.com^
 ||lc.nodoseamylic.com^
-||lcbgqqjeblw.com^
 ||lcd.aivote.com^
 ||lcdsyj.daily.co.jp^
 ||lcefsf.icu^
@@ -48687,7 +48682,6 @@
 ||lqclick.com^
 ||lqcngjecijy.rocks^
 ||lqdeyv.thepopcornfactory.com^
-||lqdpuxyyhuq.com^
 ||lqklml.amikado.com^
 ||lqopyc.beermachines.ru^
 ||lqpzdi.coppel.com^
@@ -54500,7 +54494,6 @@
 ||moomenog.com^
 ||moon.ibytecdn.cn^
 ||moonads.net^
-||moonashare.live^
 ||mooncklick.com^
 ||moonheappyr.com^
 ||moonicorn.network^
@@ -57219,7 +57212,6 @@
 ||octopus.evobend.com^
 ||octopus.hans-hornberger.de^
 ||octopus.katrinebrandborg.dk^
-||octopusnewsmagazine.com^
 ||octopuspop.com^
 ||octotracking.com^
 ||ocular.dealabs.com^
@@ -63276,6 +63268,7 @@
 ||qibqiwczoojw.com^
 ||qickazzmoaxv.com^
 ||qidmhohammat.com^
+||qidzwhfp.icu^
 ||qifake.com^
 ||qifbmk.rodinnebaleni.cz^
 ||qiji1.jdwx.info^
@@ -63718,6 +63711,7 @@
 ||qwapi.apple.com^
 ||qwe0231141.bj.bcebos.com^
 ||qweisiy.top^
+||qweizay.top^
 ||qwerfdx.com^
 ||qwerioy.top^
 ||qwfh39851jtfvkurf21hf.com^
@@ -65701,6 +65695,7 @@
 ||rogligh.ehrydnmdoe.com^
 ||roguehideevening.com^
 ||rogueschedule.com^
+||roi.ediscom.it^
 ||roi.soulapp.cn^
 ||roia.biz^
 ||roiapp.net^
@@ -85564,6 +85559,7 @@
 ||ul8seok7w5al.com^
 ||ulaiwhiw.xyz^
 ||ulathana.com^
+||uldaens.com^
 ||uldlikukemyfueu.com^
 ||uldmakefeagr.info^
 ||uldtqa.weekendmaxmara.com^
@@ -85709,7 +85705,6 @@
 ||undercoverwaterfront.com^
 ||underdog.media^
 ||undere.com^
-||underemlen.com^
 ||undergoneentitled.com^
 ||undergroundbrows.com^
 ||underminesprout.com^
