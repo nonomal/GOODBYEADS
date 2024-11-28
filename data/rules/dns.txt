@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-28 09:47:03（北京时间）
+! Version: 2024-11-28 20:44:56（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 92371
+! Total count: 92401
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -13530,6 +13530,7 @@
 ||apl.headlines.pw^
 ||apllogistics.actonservice.com^
 ||aplobv.xexymix.com^
+||aplombwealden.shop^
 ||apm-log-upload-os.hoyoverse.com^
 ||apm.tnet.nl^
 ||apnpr.com^
@@ -15222,6 +15223,7 @@
 ||ast2ya4ee8wtnax.com^
 ||astaicheedie.com^
 ||astarboka.com^
+||astasiacalamar.top^
 ||astat.bugly.qq.com^
 ||astat.nikkei.co.jp^
 ||astat.nikkei.com^
@@ -16440,6 +16442,7 @@
 ||baglaubs.com^
 ||bagsonsale.online^
 ||baguioattalea.com^
+||bahaismlenaean.shop^
 ||bahmemohod.com^
 ||bahom.cloud^
 ||bahrpo.dint.co.kr^
@@ -19444,6 +19447,7 @@
 ||bwspqc.bloomonline.jp^
 ||bwstatistics.sapoapps.vn^
 ||bwtcilgll.com^
+||bwtpaygvgunxx.com^
 ||bwujxl.yoga-lava.com^
 ||bwurserv.top^
 ||bwuwirv.cn^
@@ -34387,6 +34391,7 @@
 ||fqtjp.one^
 ||fqtljn.xyz^
 ||fquqhe.com^
+||fquyv.one^
 ||fqxnlh.kgcshop.co.kr^
 ||fr-go.experian.com^
 ||fr.adpinfo.com^
@@ -34572,6 +34577,7 @@
 ||froughyprovine.click^
 ||frowzeveronal.com^
 ||frowzlynecklet.top^
+||frpa-vpdpwc.icu^
 ||frqbff.hedleyandbennett.com^
 ||frstlead.com^
 ||frtnqps358.shop^
@@ -37122,6 +37128,7 @@
 ||gpqkeq.xyz^
 ||gpr.hu^
 ||gpsecureads.com^
+||gpseyeykuwgn.rocks^
 ||gpsqnl.delsey.com^
 ||gpt.tubetruck.com^
 ||gpukye.holabirdsports.com^
@@ -37272,6 +37279,7 @@
 ||greckoaghoate.net^
 ||grecmaru.com^
 ||gredinatib.org^
+||gredritchupsa.net^
 ||gredroug.net^
 ||greebomtie.com^
 ||greececountryfurious.com^
@@ -37898,6 +37906,7 @@
 ||haithalaneroid.com^
 ||haitingshospi.info^
 ||haixomz.xyz^
+||haizedaufi.net^
 ||hajecurie.shop^
 ||hajilijnemo.com^
 ||hajoopteg.com^
@@ -39079,6 +39088,7 @@
 ||horizononline.actonservice.com^
 ||horizontallyclenchretro.com^
 ||horizontallycourtyard.com^
+||horizontallypolluteembroider.com^
 ||horizontallywept.com^
 ||hormosdebris.com^
 ||hornet.amandaheal.com.au^
@@ -39910,6 +39920,7 @@
 ||iditero.top^
 ||idkom.com^
 ||idl.pl^
+||idleslowish.shop^
 ||idlishwastine.com^
 ||idlqzb.puntoscolombia.com^
 ||idm.api.autohome.com.cn^
@@ -42651,6 +42662,7 @@
 ||irmbyu.xyz^
 ||irmsolutions.choicepoint.com^
 ||irmyckddtm.com^
+||irnmh.fun^
 ||iro.iperceptions.com^
 ||ironcladtrouble.com^
 ||ironicaldried.com^
@@ -43304,6 +43316,7 @@
 ||jeerouse.xyz^
 ||jeersoddisprove.com^
 ||jeeryzest.com^
+||jeesaupt.com^
 ||jeestauglahity.net^
 ||jeetyetmedia.com^
 ||jeewoo.xctd.me^
@@ -44225,6 +44238,7 @@
 ||kafka.aomg5bzv7.com^
 ||kafuzcxr.xyz^
 ||kafwmyknby.com^
+||kagnaimsoa.net^
 ||kagnejule.xyz^
 ||kagodiwij.site^
 ||kagrooxa.net^
@@ -48971,6 +48985,7 @@
 ||making.party^
 ||makingnude.com^
 ||makqsd.icu^
+||makujugalny.com^
 ||makumva.all-usanomination.com^
 ||malakonirgun.com^
 ||malatiswirled.com^
@@ -55495,6 +55510,7 @@
 ||ni8.lafuma.com^
 ||niatapray.com^
 ||niblewren.co^
+||niblicfabrics.shop^
 ||nicatethebene.info^
 ||nice-mw.com^
 ||nice.tranny.one^
@@ -55967,6 +55983,7 @@
 ||noxiousinvestor.com^
 ||noxiousrecklesssuspected.com^
 ||nozirelower.top^
+||nozoakamsaun.net^
 ||nozzorli.com^
 ||nparallel.actonservice.com^
 ||npbtnl.xyz^
@@ -57750,6 +57767,7 @@
 ||oracle-netsuite-com-796203850.p04.elqsandbox.com^
 ||oracle.marketingcube.com.au^
 ||oracletechnology.arrow.com^
+||oraheadyguinner.org^
 ||oralmaliciousmonday.com^
 ||oralsproxied.com^
 ||oranegfodnd.com^
@@ -60534,6 +60552,7 @@
 ||pognamta.net^
 ||pogothere.xyz^
 ||pogyreflush.com^
+||pohaunsairdeph.net^
 ||pohsoneche.info^
 ||poi3d.space^
 ||poiejdhmkjcnd.top^
@@ -61743,6 +61762,7 @@
 ||ptaishisteb.com^
 ||ptaishux.com^
 ||ptaissud.com^
+||ptaitossaukang.net^
 ||ptaixout.net^
 ||ptalribs.xyz^
 ||ptamselrou.com^
@@ -64849,6 +64869,7 @@
 ||rnmd.net^
 ||rnnlfpaxjar.xyz^
 ||rnnstu.rentbeforeowning.com^
+||rnodydenknowl.org^
 ||rnotraff.com^
 ||rnpkxgfp.xyz^
 ||rnrycry.com^
@@ -65638,6 +65659,7 @@
 ||rwhneg.breaking-news.jp^
 ||rwlnfq.alindashop.ro^
 ||rwohdj.motocard.com^
+||rwpgtlurfllti.com^
 ||rwpuqm.underarmour.es^
 ||rwrkeqci.xyz^
 ||rwrnkb.lifelongcollectibles.com^
@@ -69158,6 +69180,7 @@
 ||sinsoftoaco.net^
 ||sinsoftu.com^
 ||sinterfumescomy.org^
+||sinusshough.top^
 ||sinwebads.com^
 ||sioa.chewy.com^
 ||sionscormation.org^
@@ -79548,6 +79571,7 @@
 ||ticketpantomimevirus.com^
 ||tickets.gs-warriors.com^
 ||tickets.smu.edu^
+||ticketsfrustratingrobe.com^
 ||ticketsrubbingroundabout.com^
 ||ticketswinning.com^
 ||ticklefell.com^
@@ -82984,6 +83008,7 @@
 ||trackvoluum.com^
 ||trackwilltrk.com^
 ||trackwin.net^
+||tracliakoshers.shop^
 ||tracot.com^
 ||tractorfoolproofstandard.com^
 ||tractssla.life^
@@ -84636,6 +84661,7 @@
 ||ukg6sq48dy4zd6gn.edge41.testandtarget.omniture.com^
 ||ukgfniu.cn^
 ||ukgfxw.satofull.jp^
+||ukgzavrhc.com^
 ||uki2.secureforms.mcafee.com^
 ||ukindwouldmeu.com^
 ||ukitert.top^
@@ -84829,6 +84855,7 @@
 ||undiesthumb.com^
 ||undm.qibulo.com^
 ||undom.net^
+||undoneabated.shop^
 ||undooptimisticsuction.com^
 ||undressregionaladdiction.com^
 ||undubirprourass.com^
@@ -90890,6 +90917,7 @@
 ||y6zqw.boyspornpics.com^
 ||y738.nhregister.com^
 ||y752.milfordmirror.com^
+||y7ts.icu^
 ||y820.darientimes.com^
 ||y8hxgv9m.kobetsu.co.jp^
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me^
@@ -91510,6 +91538,7 @@
 ||yu0123456.com^
 ||yuanmengbi.com^
 ||yuanpinghengkangfuyouxiangongsi.top^
+||yuanzunxs1.com^
 ||yuarra.pluto.ro^
 ||yuayku.xyz^
 ||yuearanceofam.info^
@@ -91697,6 +91726,7 @@
 ||z89yxner8h.datsumou-beauty-times.com^
 ||z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me^
 ||z91f4.top^
+||z9k7.icu^
 ||z9uvpwarkk1mnpf.xyz^
 ||za-go.experian.com^
 ||za.agiay.vn^
