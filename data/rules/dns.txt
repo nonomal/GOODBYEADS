@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-28 20:44:56（北京时间）
+! Version: 2024-11-29 09:46:50（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 92401
+! Total count: 92426
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -10589,6 +10589,7 @@
 ||adwareremovergold.com^
 ||adway.org^
 ||adwhirl.com^
+||adwile.com^
 ||adwin.geenstijl.nl^
 ||adwmab.card-db.com^
 ||adworldnetwork.com^
@@ -10849,6 +10850,7 @@
 ||affiliatestonybet.com^
 ||affiliatetracking.com^
 ||affiliatetracking.net^
+||affiliatetxt.nextmediaweb.com^
 ||affiliatewindow.com^
 ||affiliation-france.com^
 ||affiliation.porn.fr^
@@ -12437,6 +12439,7 @@
 ||analytics.gvim.mobi^
 ||analytics.hambleden-capital.com^
 ||analytics.hapo.vn^
+||analytics.hardlightgames.com^
 ||analytics.hardrock.com^
 ||analytics.hashnode.com^
 ||analytics.haworth.com^
@@ -18190,6 +18193,7 @@
 ||bmkz57b79pxk.com^
 ||bmlcuby.com^
 ||bmly.impots.gouv.fr^
+||bmmwa.info^
 ||bmnbyn.icu^
 ||bmnbzt.pool-systems.de^
 ||bmnr.pw^
@@ -19829,6 +19833,7 @@
 ||caistireew.net^
 ||caitoasece.com^
 ||caiwauchegee.net^
+||caizaipt.net^
 ||caizutoh.xyz^
 ||cakangautchus.net^
 ||cakesdenyconventional.com^
@@ -20070,6 +20075,7 @@
 ||carambo.la^
 ||caravancomplimentenabled.com^
 ||caravanfried.com^
+||caravanremarried.com^
 ||caravelvirent.com^
 ||carbon.aomg5bzv7.com^
 ||carbonads.com^
@@ -24367,6 +24373,7 @@
 ||culture.aomg5bzv7.com^
 ||culture.intermedes.com^
 ||culture.pandasuite.io^
+||cumbersomeduty.pro^
 ||cumbersomesteedominous.com^
 ||cumfunply.live^
 ||cunealfume.shop^
@@ -24581,7 +24588,6 @@
 ||cxlvlbx.xyz^
 ||cxm.ingeniux.com^
 ||cxmolk.com^
-||cxpublic.com^
 ||cxrfns.gu-global.com^
 ||cxrptu.danland.dk^
 ||cxsaev.stratiaskin.com^
@@ -25355,6 +25361,7 @@
 ||d2m785nxw66jui.cloudfront.net^
 ||d2mgk3zfd02vd2.cloudfront.net^
 ||d2mic0r0bo3i6z.cloudfront.net^
+||d2moz0h55szev9.cloudfront.net^
 ||d2mqdhonc9glku.cloudfront.net^
 ||d2muzdhs7lpmo0.cloudfront.net^
 ||d2mw3lu2jj5laf.cloudfront.net^
@@ -27786,6 +27793,7 @@
 ||digital.opsbase.com^
 ||digital.setpointis.com^
 ||digital2cloud.com^
+||digitaladv.despar.it^
 ||digitaldsp.com^
 ||digitalmarketing.gogsg.com^
 ||digitalmarketing.smu.edu.sg^
@@ -29930,6 +29938,7 @@
 ||eb6adebee4.04e0d8fb0f.com^
 ||ebannertraffic.com^
 ||ebayadvertising.com^
+||ebayrtm.com^
 ||ebb174824f.com^
 ||ebb32c7f0d.7b6d8b978c.com^
 ||ebbde6ffe5.com^
@@ -37286,6 +37295,7 @@
 ||greecewizards.com^
 ||greedcocoatouchy.com^
 ||greedrum.net^
+||greedyfire.com^
 ||greeftougivy.com^
 ||greekmankind.com^
 ||greekroo.xyz^
@@ -38195,6 +38205,7 @@
 ||hd2.3g.qq.com^
 ||hdacode.com^
 ||hdaidj.cn^
+||hdamcsu.top^
 ||hdapp1003-a.akamaihd.net^
 ||hdapp1008-a.akamaihd.net^
 ||hdat.xyz^
@@ -38408,6 +38419,7 @@
 ||henwilkson.com^
 ||heoidln.com^
 ||heparlorne.org^
+||hephungoomsapoo.net^
 ||hepk-gmwitvk.world^
 ||hepsaign.com^
 ||heptix.net^
@@ -39460,6 +39472,7 @@
 ||humremjobvipfun.com^
 ||humro.site^
 ||humsoolt.net^
+||hunchbackconebelfry.com^
 ||hunchbackrussiancalculated.com^
 ||hunchmotherhooddefine.com^
 ||hunchnorthstarts.com^
@@ -40022,6 +40035,7 @@
 ||ig.missuitfuffit.com^
 ||ig.nadex.com^
 ||ig0nr8hhhb.com^
+||igabcgnh.icu^
 ||igainareputaon.info^
 ||igaming-warp-service.io^
 ||igbfwa.com^
@@ -43744,6 +43758,7 @@
 ||joudotee.com^
 ||jouj-equar.one^
 ||joukaglie.com^
+||joupheewuci.net^
 ||journey.cisco.com^
 ||journeys.journeyed.com^
 ||jouteetu.net^
@@ -44397,6 +44412,7 @@
 ||keejasezeehi.xyz^
 ||keemuhoagou.com^
 ||keen-slip.com^
+||keenmagwife.live^
 ||keenmosquitosadly.com^
 ||keephoamoaph.com^
 ||keepinfit.net^
@@ -44518,6 +44534,7 @@
 ||kgqxzw.blue-tomato.com^
 ||kgqzgj.rougegorge.com^
 ||kgubus.xyz^
+||kgvvvgxtvi.rocks^
 ||kgyhxdh.com^
 ||kgymoc.xyz^
 ||kh-bkcvqxc.online^
@@ -45669,6 +45686,7 @@
 ||ldinry.drinks.ch^
 ||ldipsuml.top^
 ||ldjcteyoq.com^
+||ldjudcpc-qxm.icu^
 ||ldmeukeuktyoue.com^
 ||ldnlyap.com^
 ||ldorlv.seiban.co.jp^
@@ -48466,6 +48484,7 @@
 ||lxoemc.tuttocitta.it^
 ||lxpbdp.xyz^
 ||lxqcgj.com^
+||lxqjy-obtr.love^
 ||lxrjghuhrdor.com^
 ||lxryhx.xyz^
 ||lxstat.com^
@@ -56336,6 +56355,7 @@
 ||nzurlmq.com^
 ||nzuwat.miliboo.it^
 ||nzzvvf.goldengoose.com^
+||o-jmzsoafs.global^
 ||o-mvlwdxr.icu^
 ||o-oo.ooo^
 ||o.027eat.com^
@@ -56757,6 +56777,7 @@
 ||ofqopmnpia.com^
 ||ofqvca.xyz^
 ||ofrapidashr.com^
+||ofredirect.com^
 ||ofrhyhornan.com^
 ||ofseedotom.com^
 ||ofslakotha.com^
@@ -61235,6 +61256,7 @@
 ||privilegedvitaminimpassable.com^
 ||privilegeinjurefidelity.com^
 ||privilegest.com^
+||prizefrenzy.top^
 ||prizegrantedrevision.com^
 ||prizel.com^
 ||prizesforyou.com^
@@ -62712,6 +62734,7 @@
 ||qoubliy.top^
 ||qouvxliy.top^
 ||qouxkn.natuurhuisje.nl^
+||qovith.com^
 ||qovua60gue.tubewolf.com^
 ||qowncyf.com^
 ||qoygsv.born2be.pl^
@@ -66440,6 +66463,7 @@
 ||saishook.com^
 ||saiticcording.com^
 ||saiwhute.com^
+||saizih.com^
 ||sajewhee.xyz^
 ||sakcerl.ehrydnmdoe.com^
 ||sakguz.icu^
@@ -76638,6 +76662,7 @@
 ||study.vu.edu.au^
 ||stuff.aomg5bzv7.com^
 ||stuff.wikiporno.org^
+||stuffedbeforehand.com^
 ||stuffedprofessional.com^
 ||stuffinglimefuzzy.com^
 ||stuffintolerableillicit.com^
