@@ -843,3 +843,4 @@ wkings.blog##.di7ubns5b2nz
 tuniu.com##.web_envelope_mod, .tuniu-assist-hide, .show
 vacations.ctrip.com##.side_function
 ||push-ads-cn.heytapmobi.com^
+haokan.baidu.com##.tieba-pause-ad-container
