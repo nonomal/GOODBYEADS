@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-11-30 20:39:41（北京时间）
+! Version: 2024-12-01 10:02:08（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 92701
+! Total count: 92710
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -8366,6 +8366,7 @@
 ||ad.dline.com.tr^
 ||ad.domainfactory.de^
 ||ad.donanimhaber.com^
+||ad.doubleclick.net^
 ||ad.dslr-forum.de^
 ||ad.e-dpe.jp^
 ||ad.edugram.com^
@@ -8738,6 +8739,7 @@
 ||adc-js.nine.com.au^
 ||adc-teasers.com^
 ||adc.9news.com.au^
+||adc.hpplay.cn^
 ||adc.nine.com.au^
 ||adc.xxxlshop.de^
 ||adcaffe.com^
@@ -8748,6 +8750,7 @@
 ||adcastplus.net^
 ||adcde.com^
 ||adcdn.goo.ne.jp^
+||adcdn.hpplay.cn^
 ||adcdn.tencentmusic.com^
 ||adcdnx.com^
 ||adcel.co^
@@ -10024,6 +10027,10 @@
 ||adsdk.vrvm.com^
 ||adsdk.yandex.ru^
 ||adsdot.ph^
+||adse.test.ximalaya.com^
+||adse.wsa.ximalaya.com^
+||adse.ximalaya.com^
+||adsebs.ximalaya.com^
 ||adsee.jp^
 ||adsemirate.com^
 ||adsend.de^
@@ -10742,6 +10749,7 @@
 ||af2e7c6814.d78eee025b.com^
 ||af5b2ff170.e3aa58c849.com^
 ||af6149c8d9.9d2cca15e4.com^
+||af6s.icu^
 ||af9dc9.xyz^
 ||afahivar.com^
 ||afahivar.coom^
@@ -11253,7 +11261,6 @@
 ||aircuity.actonservice.com^
 ||airdilute.com^
 ||airdoamoord.com^
-||airdrop-manager.ru^
 ||airefcoinc.actonservice.com^
 ||airflow.shortestgoodnews.com^
 ||airflow.tsmt5revp.com^
@@ -13277,6 +13284,7 @@
 ||ao1120kas.top^
 ||ao1122kas.top^
 ||ao1123kas.top^
+||ao1201kas.top^
 ||aoakss.com^
 ||aoalmfwinbsstec23.com^
 ||aoao11111iis.top^
@@ -18963,6 +18971,7 @@
 ||brinstascooter.eccocar.com^
 ||brioletredeyes.com^
 ||brioscoot.eccocar.com^
+||brircel.com^
 ||briskeagle.io^
 ||briskpelican.io^
 ||bristlemarinade.com^
@@ -19269,7 +19278,6 @@
 ||bujlmitd.icu^
 ||bujz.top^
 ||bukshiunchair.shop^
-||bukwnlpk4k.ru^
 ||bulbofficial.com^
 ||bulbousloth.shop^
 ||bulcqmteuc.com^
@@ -30315,7 +30323,6 @@
 ||edrevenuedur.xyz^
 ||edriving.actonservice.com^
 ||edstevermotorie.com^
-||edstrastconversity.org^
 ||edthechildrenandthe.info^
 ||edtheparllase.com^
 ||edtotigainare.info^
@@ -32505,6 +32512,7 @@
 ||exi8ef83z9.com^
 ||exilelink.com^
 ||exilepracticableresignation.com^
+||exilesgalei.shop^
 ||eximdigital.com^
 ||eximius.epoise.com^
 ||exinariuminix.info^
@@ -38414,6 +38422,7 @@
 ||heavenproxy.com^
 ||heavespectaclescoefficient.com^
 ||heavyuniversecandy.com^
+||hebenonwidegab.top^
 ||hebiichigo.com^
 ||hectorfeminine.com^
 ||hectorobedient.com^
@@ -43339,6 +43348,7 @@
 ||jcr3.onlyyouhotels.com^
 ||jcreje.com^
 ||jcrnbnw.com^
+||jcwlsofn.icu^
 ||jcyjly.com^
 ||jczunp.xyz^
 ||jd-mail.co.uk^
@@ -43527,7 +43537,6 @@
 ||jfp6.destinia.de^
 ||jfpltp.eyeforfashion.pl^
 ||jfyecc.machineseeker.com^
-||jfzn9fnvjr.ru^
 ||jg.aomg5bzv7.com^
 ||jg0c.sfr.fr^
 ||jg1.trypicz.com^
@@ -48693,7 +48702,6 @@
 ||lzoasvofvzw.com^
 ||lzp.plus^
 ||lzrhay.farmaciasoccavo.it^
-||lzrikate.com^
 ||lzrljv.tradera.com^
 ||lzuc.sfr.fr^
 ||lzukrobrykk.com^
@@ -57554,6 +57562,7 @@
 ||onepstr.com^
 ||onerousgreeted.com^
 ||oneselfindicaterequest.com^
+||oneselfoxide.com^
 ||onesocailse.com^
 ||onesourcebackground.actonservice.com^
 ||onespot-tracking.herokuapp.com^
@@ -66995,7 +67004,6 @@
 ||sarcinedewlike.com^
 ||sarcodrix.com^
 ||sardineforgiven.com^
-||sarfoman.co.in^
 ||sarinfalun.com^
 ||sarrowgrivois.com^
 ||sartolutus.com^
@@ -67425,6 +67433,7 @@
 ||sda.seesaa.jp^
 ||sda.seksohub.com^
 ||sda.tamdiem247.com^
+||sdamcsb.top^
 ||sdarot-il.org^
 ||sdarot-tv.org^
 ||sdarot.cc^
@@ -78880,6 +78889,7 @@
 ||tbudz.co.in^
 ||tbvjrd.gocase.com.br^
 ||tbxyuwctmt.com^
+||tbydnpeykunahn.com^
 ||tc-clicks.com^
 ||tc-log.mattel163.com^
 ||tc.europcar.com.au^
@@ -87898,8 +87908,6 @@
 ||web1.51.la^
 ||web2.deja.com^
 ||web2.perkinelmer.com^
-||web3-analytic.ru^
-||web3-api-v10.ru^
 ||web3-api-v2.cc^
 ||web3.perkinelmer.com^
 ||web8.perkinelmer.com^
@@ -91727,6 +91735,7 @@
 ||youtubesave.org^
 ||youxi.kugou.com^
 ||yovoads.com^
+||yowlnibble.shop^
 ||yoxeha.afloral.com^
 ||yoyadsdom.com^
 ||yoyausones.com^
