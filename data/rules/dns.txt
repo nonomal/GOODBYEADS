@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-01 10:02:08（北京时间）
+! Version: 2024-12-01 20:40:47（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 92710
+! Total count: 92709
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -5010,6 +5010,7 @@
 ||a2put.chinaz.com^
 ||a2sex.com^
 ||a2tw6yoodsag.com^
+||a2wx.icu^
 ||a2zgroup.in^
 ||a3.hotpornfile.org^
 ||a3.jandan.net^
@@ -9082,7 +9083,6 @@
 ||adkaora.space^
 ||adkernel.com^
 ||adkfilter.mybestclick.net^
-||adkgeoaajx.com^
 ||adklimages.com^
 ||adkwai.com^
 ||adl-hunter.com^
@@ -13292,6 +13292,7 @@
 ||aoao11121iis.top^
 ||aoao11201iis.top^
 ||aoao11211iis.top^
+||aoao12011iis.top^
 ||aobtwv.icu^
 ||aod.echovisuals.com^
 ||aod4.societegenerale.fr^
@@ -15522,7 +15523,6 @@
 ||au2m8.com^
 ||aubaigeep.com^
 ||auboalro.xyz^
-||aubsehog.net^
 ||auburn9819.com^
 ||aucaikse.com^
 ||auchoahy.net^
@@ -16946,7 +16946,6 @@
 ||bc7b02847f.95b1e00252.com^
 ||bc84617c73.com^
 ||bc930c99b5.77cdc6d130.com^
-||bca286d743.com^
 ||bcaakxxuf.com^
 ||bcanl.bca-autoveiling.nl^
 ||bcc-ltd.actonservice.com^
@@ -17464,7 +17463,6 @@
 ||besandileom.com^
 ||besc.baidustatic.com^
 ||beseechpill.com^
-||beshestoly.com^
 ||besidesparties.com^
 ||besmeargleor.com^
 ||bespakerubbles.com^
@@ -19223,7 +19221,6 @@
 ||bubbly-condition.pro^
 ||bubblyzucchini.com^
 ||bubrintta.com^
-||bubxwyufndf.com^
 ||buckanimateretired.com^
 ||buckeyekantars.com^
 ||buckumoore.com^
@@ -19683,7 +19680,6 @@
 ||c03ff6b001.78733f9c3c.com^
 ||c0594.com^
 ||c05ua.icu^
-||c083e24088.com^
 ||c0ae703671.com^
 ||c0cd2idcl5.com^
 ||c0d05e4183.59aa4e4c1c.com^
@@ -19814,6 +19810,7 @@
 ||caajol.icu^
 ||caamcs.julipet.it^
 ||caapp.levi.com^
+||caaqot.com^
 ||cab367ba55.44e29c19ac.com^
 ||cabbagesemestergeoffrey.com^
 ||cabbingdandled.com^
@@ -29780,6 +29777,7 @@
 ||e841afabc8.com^
 ||e84d68b6e3.9bf9309f6f.com^
 ||e8a209dc96.ab0a4bc0ae.com^
+||e8d7.icu^
 ||e8e6fc48d4.c2dbb597b0.com^
 ||e9313b99fb.49f411f93f.com^
 ||e94eae9daf.a72467ec08.com^
@@ -30014,6 +30012,7 @@
 ||eb480dde95.com^
 ||eb6adebee4.04e0d8fb0f.com^
 ||ebannertraffic.com^
+||ebayadservices.com^
 ||ebayadvertising.com^
 ||ebayrtm.com^
 ||ebb174824f.com^
@@ -30245,6 +30244,7 @@
 ||edaightutaitlastwe.info^
 ||edalloverwiththinl.info^
 ||edallthroughthe.info^
+||edamcsw.top^
 ||edavbu.vittz.co.kr^
 ||edbehindforhewa.info^
 ||edbritingsynt.info^
@@ -31962,7 +31962,6 @@
 ||etrack.ext.arubainstanton.com^
 ||etrack.ext.arubanetworks.com^
 ||etrack.ext.hpe.com^
-||etracker.p3p.repl.co^
 ||etrader.kalahari.com^
 ||etrader.kalahari.net^
 ||etroytj33.fun^
@@ -33030,7 +33029,6 @@
 ||faramkaqxoh.com^
 ||farbankthy.live^
 ||farceurincurve.com^
-||farceurrelast.shop^
 ||fardasub.xyz^
 ||farewell457.fun^
 ||farflungwelcome.pro^
@@ -39901,6 +39899,7 @@
 ||iadctest.qwapi.com^
 ||iadnet.com^
 ||iads.staticscdn.net^
+||iads.unity3d.com^
 ||iads.vision^
 ||iads.xinmin.cn^
 ||iadsdk.apple.com^
@@ -51437,6 +51436,7 @@
 ||mediatext.com^
 ||mediation-tracking.prd.mz.internal.unity3d.com^
 ||mediation.mwmadnetworks.com^
+||mediation.unity3d.com^
 ||mediative.ca^
 ||mediative.com^
 ||mediator.imgsmail.ru^
@@ -88778,7 +88778,6 @@
 ||wlog.ifdo.co.kr^
 ||wlog.kuaishou.com^
 ||wlog.tmon.co.kr^
-||wlopjtrlnvmjs.com^
 ||wlp3.aegon.es^
 ||wlptux.habitaclia.com^
 ||wlqtte.misterspex.at^
