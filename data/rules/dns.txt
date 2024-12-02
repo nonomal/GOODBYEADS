@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-01 20:40:47（北京时间）
+! Version: 2024-12-02 09:50:41（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 92709
+! Total count: 92707
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -12015,7 +12015,6 @@
 ||ampower.me^
 ||amptrack-dailymail-co-uk.cdn.ampproject.org^
 ||ampxchange.com^
-||amqfjkhzn.com^
 ||amradmin.5173.com^
 ||amre.work^
 ||ams-pageview-public.s3.amazonaws.com^
@@ -21479,6 +21478,7 @@
 ||cicada.wordvested.org^
 ||cicamica.xyz^
 ||cideparenhem.com^
+||cidhmxxb.icu^
 ||cidreeth.com^
 ||cidrulj.com^
 ||ciedpso.com^
@@ -22371,7 +22371,6 @@
 ||coachingminceur.go2cloud.org^
 ||coactedtoe.top^
 ||coads.akipress.org^
-||coafogle.com^
 ||coagrohos.com^
 ||coalbandmanicure.com^
 ||coalitionfits.com^
@@ -25169,7 +25168,6 @@
 ||d1wc0ojltqk24g.cloudfront.net^
 ||d1wd81rzdci3ru.cloudfront.net^
 ||d1wi563t0137vz.cloudfront.net^
-||d1wix2gc2cgqis.cloudfront.net^
 ||d1wjj8n9m51z7v.cloudfront.net^
 ||d1wjz6mrey9f5v.cloudfront.net^
 ||d1wv5x2u0qrvjw.cloudfront.net^
@@ -32087,7 +32085,6 @@
 ||eusvnhgypltw.life^
 ||eutonyaxolotl.shop^
 ||eutradepeopl.top^
-||euukauopyxmn.com^
 ||euvtoaw.com^
 ||euz.net^
 ||ev-dating.com^
@@ -39098,7 +39095,6 @@
 ||holmicnebbish.com^
 ||holsfellen.shop^
 ||holspostcardhat.com^
-||holychaptersbaker.com^
 ||holyskier.com^
 ||homagertereus.click^
 ||home.edm.globalsources.com^
@@ -56175,7 +56171,6 @@
 ||npkkpknlwaslhtp.xyz^
 ||nplahh.xyz^
 ||nplden.legionathletics.com^
-||npmpecd.com^
 ||npnpxoz.xyz^
 ||npnzfri.xyz^
 ||npprvby.com^
@@ -61124,7 +61119,6 @@
 ||ppvpmrt.xyz^
 ||ppxscy1.cn^
 ||ppyflc.uniformnext.com^
-||ppyouejtosplvi.com^
 ||pq-mzfusgpzt.xyz^
 ||pq.carlingquerent.com^
 ||pqcixi.sparco-official.com^
@@ -67315,6 +67309,7 @@
 ||scode.randomhouse.com^
 ||scoev.cn^
 ||scoldak.com^
+||sconat.com^
 ||sconnectstats.mckesson.com^
 ||scontent-atl3-2.xx.fbcdn.net.iberostar.com^
 ||scontent-cdg4-1.xx.fbcdn.net.iberostar.com^
@@ -84357,6 +84352,7 @@
 ||tv7oehyiet9c7dnw.833enmhob.com^
 ||tvc.biphim.club^
 ||tvcoag.brw.pl^
+||tvfeel.cc^
 ||tvgkatu.icu^
 ||tvgxhvredn.xyz^
 ||tvkaimh.com^
@@ -87677,6 +87673,7 @@
 ||wcwkcus.top^
 ||wdadad.cn^
 ||wdakda.cn^
+||wdamcse.top^
 ||wdavrzv.com^
 ||wdcigo.xyz^
 ||wddnff.bonprix.cz^
@@ -92304,6 +92301,7 @@
 ||zinovu.com^
 ||zintext.com^
 ||zio.xcar.com.cn^
+||zio8.icu^
 ||zion-telemetry-nonprod.api.cnn.io^
 ||zion-telemetry.api.cnn.io^
 ||zion.api.cnn.io^
