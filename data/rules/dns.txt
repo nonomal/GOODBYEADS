@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-03 09:48:44（北京时间）
+! Version: 2024-12-03 20:44:12（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 92823
+! Total count: 92820
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -18183,7 +18183,6 @@
 ||blue.ktla.com^
 ||blue.nbc4i.com^
 ||blue99703.com^
-||blueadvertise.com^
 ||blueberryastronomy.com^
 ||blueberrydanelarger.com^
 ||blueberrywaistcoat.com^
@@ -32873,7 +32872,6 @@
 ||f58x48lpn.com^
 ||f59408d48d.com^
 ||f5biz.com^
-||f5e03754b3.com^
 ||f5w.prettytube.net^
 ||f5zv2.icu^
 ||f61c404e56.b6eeaf2d00.com^
@@ -39018,7 +39016,6 @@
 ||hkljed.xyz^
 ||hknoq.cn^
 ||hkpeghqu.icu^
-||hkreiyjqdec.xyz^
 ||hkrpg-log-upload-os.hoyoverse.com^
 ||hkrpg-log-upload.mihoyo.com^
 ||hkrytf.xyz^
@@ -49209,7 +49206,6 @@
 ||makemyvids.com^
 ||makethebusiness.com^
 ||makeupenumerate.com^
-||makhchyqsrpq.com^
 ||makhzanpopulin.com^
 ||making.party^
 ||makingnude.com^
@@ -57773,7 +57769,6 @@
 ||ookresit.net^
 ||ookris.oferty-kredytowe.pl^
 ||ookroush.com^
-||ooliticcabbler.com^
 ||ooloptou.net^
 ||oolseeshir.xyz^
 ||oolsoudsoo.xyz^
@@ -62519,6 +62514,7 @@
 ||pv.xcar.com.cn^
 ||pv.zhiding.cn^
 ||pvclouds.com^
+||pvdbkr.com^
 ||pvfbav.sportler.com^
 ||pvhjkzo.xyz^
 ||pviasld.icu^
@@ -62660,6 +62656,7 @@
 ||q0losid.com^
 ||q1-tdsge.com^
 ||q1.yyxwzx.com^
+||q1bp.icu^
 ||q1gel.icu^
 ||q1ixd.top^
 ||q1mediahydraplatform.com^
@@ -69108,7 +69105,6 @@
 ||shell-recharge.tupinambaenergia.com.br^
 ||sheltermilligrammillions.com^
 ||shelveflang.click^
-||shelvessawwort.com^
 ||shemalemodelstube.com/fun^
 ||shemalesofhentai.com^
 ||shenajou.com^
@@ -69132,7 +69128,6 @@
 ||shhh.lol^
 ||shhoix0fuonj0hz6.net.fidor.de^
 ||shiaflsteaw.com^
-||shibaglybu.com^
 ||shieldbarbecueconcession.com^
 ||shieldspecificationedible.com^
 ||shiepvfjd.xyz^
@@ -79579,6 +79574,7 @@
 ||thanmounted.com^
 ||thanosofcos5.com^
 ||thanot.com^
+||thaqne.com^
 ||thaqyl.mediamarkt.nl^
 ||tharbadir.com^
 ||thargookroge.net^
@@ -84816,6 +84812,7 @@
 ||uctutu3789.xyz^
 ||ud.luniertithers.com^
 ||udalmancozen.com^
+||udamcst.top^
 ||udarem.com^
 ||udb3n.icu^
 ||udbaa.com^
