@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-04 09:49:12（北京时间）
+! Version: 2024-12-04 20:45:10（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 92818
+! Total count: 92810
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -918,6 +918,7 @@
 ||1xlite-503779.top^
 ||1xlite-522762.top^
 ||1xzf53lo.xyz^
+||1yj.icu^
 ||1zone1.free.fr^
 ||2.bortanews.com^
 ||2.haoxue360.com^
@@ -1589,7 +1590,6 @@
 ||3d871ef919.e1dcd571c0.com^
 ||3date.de^
 ||3dbluerayplayer.com^
-||3df9f27128.com^
 ||3dfcff2ec15099df0a24ad2cee74f21a.com^
 ||3dh9y.com^
 ||3dm.3dimensional.com^
@@ -2304,7 +2304,6 @@
 ||66308888.com^
 ||665166e5a9.com^
 ||6651tp.com^
-||6660003.com^
 ||6662a5efa0.com^
 ||666579.xyz^
 ||6669667.com^
@@ -2692,7 +2691,6 @@
 ||7ng6v3lu3c.execute-api.us-east-1.amazonaws.com^
 ||7nt9p4d4.de^
 ||7q1z79gxsi.global.ssl.fastly.net^
-||7rjln8orgh.com^
 ||7vnkf.online^
 ||7vviw.cyou^
 ||7wind.ru^
@@ -3066,7 +3064,6 @@
 ||9823.79j68qav2.com^
 ||9830.k45z7tagm.com^
 ||9831tb.com^
-||984335278d.com^
 ||9845.4puuqeh41.com^
 ||9857064.hello.spriggy.com.au^
 ||9857064.notice.spriggy.com.au^
@@ -11401,7 +11398,6 @@
 ||akentaspectsof.com^
 ||akgnwd.tocris.com^
 ||akijk.life^
-||akikegbdiutg.com^
 ||akilifox.com^
 ||akinrevenueexcited.com^
 ||akinwrecking.com^
@@ -14667,7 +14663,6 @@
 ||appzeyland.com^
 ||apqcjj.celford.com^
 ||apqmxf.curama.jp^
-||aprelite.com^
 ||apress.efscle.com^
 ||aprilineffective.com^
 ||apritvun.com^
@@ -15911,7 +15906,6 @@
 ||awmdelivery.com^
 ||awmocpqihh.com^
 ||awmonitor.com^
-||awmoydgfsfnim.com^
 ||awmplus.com^
 ||awmserve.com^
 ||awnexus.com^
@@ -19387,7 +19381,6 @@
 ||burkhahemoid.com^
 ||burlapretorted.com^
 ||burlyenthronebye.com^
-||burnetsyeaned.shop^
 ||burningpushing.info^
 ||burnswhite.actonservice.com^
 ||burntarcherydecompose.com^
@@ -25922,6 +25915,7 @@
 ||d5db478dde.com^
 ||d5em5plenp2k5.cloudfront.net^
 ||d5onopbfw009h.cloudfront.net^
+||d5r.icu^
 ||d5wxfe8ietrpg.cloudfront.net^
 ||d5z42oph1suk.cloudfront.net^
 ||d6.mobaders.com^
@@ -34120,6 +34114,7 @@
 ||fnyaynma.com^
 ||fnzuymy.com^
 ||fo.sackerskips.com^
+||fo0.icu^
 ||foaglaid.xyz^
 ||foagrucheedauza.net^
 ||foakiwhazoja.com^
@@ -39840,7 +39835,6 @@
 ||hyuwkbu.top^
 ||hyxvec.michaelpage.co.jp^
 ||hyybul.kaskus.co.id^
-||hyygsqsqmn.com^
 ||hyzoneshilpit.com^
 ||hz.shouyoutv.com^
 ||hz9x6ka2t5gka7wa6c0wp0shmkaw7xj5x8vaydg0aqp6gjat5x.com^
@@ -45861,6 +45855,7 @@
 ||lcxxwxo.com^
 ||lcztnn.asics-trading.co.jp^
 ||ld.stengskelped.com^
+||ldamcsl.top^
 ||ldbqxwbqdz.com^
 ||ldckmk.divarese.com.tr^
 ||ldedallover.info^
@@ -51204,7 +51199,6 @@
 ||mdjdpyrt.xyz^
 ||mdm.hibinobi-mandom.jp^
 ||mdmuky.xyz^
-||mdnvumxufd.com^
 ||mdoirsw.com^
 ||mdokua.shiseido.co.jp^
 ||mdoshbx.top^
@@ -56477,6 +56471,7 @@
 ||nutsinmid.live^
 ||nuttedmoireed.shop^
 ||nuttishstromb.shop^
+||nuvaioqds.com^
 ||nuvi.actonservice.com^
 ||nuxwlc.cn^
 ||nuyibu.pieper.de^
@@ -57250,6 +57245,7 @@
 ||olpmni.acer.com^
 ||olpv.onlylady.com^
 ||olq18dx1t.com^
+||olqead.com^
 ||olqsty.izipizi.com^
 ||olroyk.ardene.com^
 ||olspyo.laredoute.co.uk^
@@ -60849,7 +60845,6 @@
 ||poisonencouragement.com^
 ||poisonousamazing.com^
 ||pojdnf.xyz^
-||pojfcgertyqp.com^
 ||pojulo.com^
 ||pokaroad.net^
 ||poke88.com^
@@ -67632,7 +67627,6 @@
 ||se.aomg5bzv7.com^
 ||se.aspireetopee.com^
 ||se.netpartnering.com^
-||se05.biz^
 ||seaboblit.com^
 ||seadform.net^
 ||seafoodclickwaited.com^
@@ -79977,7 +79971,6 @@
 ||tignuget.net^
 ||tihdjd.xyz^
 ||tiiepofl.xyz^
-||tikibihu.com^
 ||tiksoopta.net^
 ||tiktakz.xyz^
 ||tiktok-ads.hara.vn^
@@ -83705,7 +83698,6 @@
 ||triumph.actonservice.com^
 ||triumphalstrandedpancake.com^
 ||triumphantplace.com^
-||trivvetmidterm.com^
 ||trix.net^
 ||trj.valuecommerce.com^
 ||trjs2.mediafin.be^
