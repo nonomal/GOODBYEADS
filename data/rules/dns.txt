@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-03 20:44:12（北京时间）
+! Version: 2024-12-04 09:49:12（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 92820
+! Total count: 92818
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -198,7 +198,6 @@
 ||0778.833enmhob.com^
 ||07a1624bd7.com^
 ||07b3.pandasuite.io^
-||07c6b39b80.com^
 ||07de571526.e04f630ca8.com^
 ||07dy.cc^
 ||08088.top^
@@ -244,7 +243,6 @@
 ||0bb68b4c4a.a65768f777.com^
 ||0bcb1fbd02.e9d13e3e01.com^
 ||0byv9mgbn0.com^
-||0c15ee8124.com^
 ||0c4c531c62.743fa12700.com^
 ||0c550a5031.d9db994995.com^
 ||0c73bb2de3.7e5f2028a6.com^
@@ -1119,7 +1117,6 @@
 ||2560.fd.mobile.tv.sms13.de^
 ||25662zubo23739.com^
 ||2568.seponews.com^
-||256bb4a81a.com^
 ||2574.5clo0xmbf.com^
 ||2576.5clo0xmbf.com^
 ||258482fdb7.0d076be0f4.com^
@@ -1542,7 +1539,6 @@
 ||38711532a0.com^
 ||3887.5clo0xmbf.com^
 ||3889082.dev.att.llabs.io^
-||3897e90a2e.com^
 ||38bw0.space^
 ||38dbfd540c.com^
 ||38ds89f8.de^
@@ -9530,6 +9526,7 @@
 ||ads-media.gameforge.com^
 ||ads-partners.coupang.com^
 ||ads-platform.zalo.me^
+||ads-query.luizalabs.com^
 ||ads-resources.waze.com^
 ||ads-router-noneu.truecaller.com^
 ||ads-sdk.mattel163.com^
@@ -12435,6 +12432,7 @@
 ||analytics.faceitanalytics.com^
 ||analytics.fap.bar^
 ||analytics.faprika.net^
+||analytics.fatmedia.io^
 ||analytics.favcy.com^
 ||analytics.fcgtalent.fi^
 ||analytics.ferguson.com^
@@ -15205,7 +15203,6 @@
 ||assassinationsteal.com^
 ||assaultmolecularjim.com^
 ||assbwaaqtaqx.com^
-||asseizeenl.com^
 ||assembleservers.com^
 ||assertedclosureseaman.com^
 ||assertedelevateratio.com^
@@ -17669,7 +17666,6 @@
 ||bgdgpbpm.xyz^
 ||bgecvddelzg.com^
 ||bgeg1.fun^
-||bgejgulprscgv.com^
 ||bgevqy.moschino.com^
 ||bgfmvc.amandalindroth.com^
 ||bgg.baidu.com^
@@ -22939,6 +22935,7 @@
 ||conative.network^
 ||concealedcredulous.com^
 ||concealmentbrainpower.com^
+||concealmentmimic.com^
 ||concedederaserskyline.com^
 ||conceitedfedapple.com^
 ||conceivedtowards.com^
@@ -38220,6 +38217,7 @@
 ||harvester.hbpl.co.uk^
 ||harvester.hnonline.sk^
 ||harzpzbsr.com^
+||hasdarot.info^
 ||hasdjksndjk.com^
 ||hasdrs.com^
 ||hash-hash-tag.com^
@@ -39130,7 +39128,6 @@
 ||hoickedfoamer.top^
 ||hoickpinyons.com^
 ||hokarsoud.com^
-||hokerlywaffies.com^
 ||hokkaidobank.rapi.jp^
 ||hoktrips.com^
 ||hokuspokus.tarnkappe.info^
@@ -48563,6 +48560,7 @@
 ||lumtjt.plumbingonline.ca^
 ||lumtogle.net^
 ||lumupu.xyz^
+||lumvkebr.icu^
 ||lumxts.com^
 ||luncheonbeehive.com^
 ||lunchvenomous.com^
@@ -51428,6 +51426,7 @@
 ||media-412.com^
 ||media-adrunner.mycomputer.com^
 ||media-ads.zaloapp.com^
+||media-advcycle.imgsmail.ru^
 ||media-atl3-1.cdn.whatsapp.net.iberostar.com^
 ||media-cdg4-1.cdn.whatsapp.net.iberostar.com^
 ||media-ext.wanarun.net^
@@ -55668,6 +55667,7 @@
 ||newt.jordin.eu^
 ||newt.masonwear.co^
 ||newt1.adultworld.com^
+||newtabextension.com^
 ||newtabtv.com^
 ||newtest.wunderman-email.cjm.adobe.com^
 ||newthuads.com^
@@ -56891,6 +56891,7 @@
 ||ocypetediplont.shop^
 ||oda.markitondemand.com^
 ||odalrevaursartu.net^
+||odamcsk.top^
 ||odb.outbrain.com^
 ||odc.1und1.de^
 ||odc.wunderground.com^
@@ -57814,6 +57815,7 @@
 ||op01.biz^
 ||op02.biz^
 ||op05.biz^
+||op3xdork.xyz^
 ||opabsolr.top^
 ||opalmetely.com^
 ||opbdps.bonprix.fi^
@@ -61464,7 +61466,6 @@
 ||primeleech.com^
 ||primetime.net^
 ||primevalstork.com^
-||primsieridleys.com^
 ||primusad.com^
 ||princesinistervirus.com^
 ||princessdazzlepeacefully.com^
@@ -67488,6 +67489,7 @@
 ||scrollisolation.com^
 ||scrollye.com^
 ||scrootruncal.shop^
+||scroscoi.com^
 ||scru.cn^
 ||scrubheiress.com^
 ||scruboutdoorsoffensive.com^
@@ -84185,7 +84187,6 @@
 ||truthhascudgel.com^
 ||truthvexedben.com^
 ||trutvnci.top^
-||truvatoenin.com^
 ||trvdp.com^
 ||trvonu.k-manga.jp^
 ||trvxbd.xyz^
@@ -86685,7 +86686,6 @@
 ||viiaoqke.com^
 ||viiavjpe.com^
 ||viibest.com^
-||viibngx.com^
 ||viicqujz.com^
 ||viicxwec.com^
 ||viicylmb.com^
@@ -86913,7 +86913,6 @@
 ||vizofnwufqme.com^
 ||vizoredcheerly.com^
 ||vizpwsh.com^
-||vizvaz.com^
 ||vjdciu.com^
 ||vjharl.xyz^
 ||vjjgpt.diamond.jp^
@@ -91218,7 +91217,6 @@
 ||xx-umomfzqik.today^
 ||xx.billaesopus.com^
 ||xx.foetorsnudisms.com^
-||xx12.xyz^
 ||xx3691b.com^
 ||xxccdshj.com^
 ||xxdfexbwv.top^
