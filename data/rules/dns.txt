@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-05 09:49:07（北京时间）
+! Version: 2024-12-05 20:45:03（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 92836
+! Total count: 92832
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -552,7 +552,6 @@
 ||1455.seponews.com^
 ||1472.79j68qav2.com^
 ||147cd49082.05e11c9f6f.com^
-||147d72d01e.com^
 ||1480.79j68qav2.com^
 ||148dfe140d0f3d5e.com^
 ||149.bestinterestings.com^
@@ -1129,7 +1128,6 @@
 ||25obpfr.de^
 ||25serve.yourporngod.com^
 ||260c0346d4.2a4722f5ee.com^
-||2615bff79f.com^
 ||2619374464.com^
 ||2620.5clo0xmbf.com^
 ||2639iqjkl.de^
@@ -1442,7 +1440,6 @@
 ||333d629107.ee625e4b1d.com^
 ||3347.wolf-gordon.com^
 ||3347.wolfgordon.com^
-||33508a34c3.com^
 ||3364.seponews.com^
 ||3367.4puuqeh41.com^
 ||3376.5clo0xmbf.com^
@@ -1884,6 +1881,7 @@
 ||4fxjozeu7dwn.shop^
 ||4g0b1inr.de^
 ||4hfchest5kdnfnut.com^
+||4i1.icu^
 ||4iazoa.xyz^
 ||4imk5.online^
 ||4ir17.icu^
@@ -2225,7 +2223,6 @@
 ||6179b859b8.com^
 ||6185ca4d40.e0e5bc8f81.com^
 ||61c3d331bf.com^
-||61c6379963.com^
 ||61serve.everydayporn.co^
 ||61t2ll6yy.com^
 ||61zdn1c9.skin^
@@ -2454,7 +2451,6 @@
 ||704g8xh7qfzx.www.intercity.technology^
 ||7080.5clo0xmbf.com^
 ||70b25fad84.ecaecc3e17.com^
-||70b4723db6.com^
 ||70d4a0bb45.e82ae52eec.com^
 ||71-177.net.jumia.ma^
 ||71.am^
@@ -2629,7 +2625,6 @@
 ||7amz.com^
 ||7anfpatlo8lwmb.com^
 ||7app.top^
-||7b494b2884.com^
 ||7b7b5ab4d0.2066401308.com^
 ||7b936.v.fwmrm.net^
 ||7b9de.v.fwmrm.net^
@@ -2697,7 +2692,6 @@
 ||7wrxo2xh.iriscreative.co^
 ||7xi9g1.com1.z0.glb.clouddn.com^
 ||7xsf3h.com1.z0.glb.clouddn.com^
-||7y7.us^
 ||8.y2sysv81v.com^
 ||8003.l5eamr17d.com^
 ||80055404.vtt^
@@ -2718,7 +2712,6 @@
 ||8124.5clo0xmbf.com^
 ||8131.qizhihaotian.cn^
 ||8133.5clo0xmbf.com^
-||81410d9609.com^
 ||81438456aa.com^
 ||8147563.1954.bk.com^
 ||8147563.thekingdom.bk.com^
@@ -9474,7 +9467,6 @@
 ||adrokt.com^
 ||adrolays.de^
 ||adrotate.de^
-||adrotator.se^
 ||adrotic.girlonthenet.com^
 ||adrs.sdo.com^
 ||adrta.com^
@@ -11390,7 +11382,6 @@
 ||akariyer.com^
 ||akaroafrypan.com^
 ||akatracking.esearchvision.com^
-||akbuwfkgeuq.com^
 ||akcr.free.fr^
 ||akdbr.com^
 ||akeedser.com^
@@ -17054,7 +17045,6 @@
 ||bdcore-apr-lb.bda.ndmdhs.com^
 ||bdcpro*.techweb.com.cn^
 ||bddb2d2561.62b81f5af3.com^
-||bdds.jeuxvideo.com^
 ||bde.beformance.com^
 ||bderbn.foxtrot.com.ua^
 ||bdfjw.cn^
@@ -21356,6 +21346,7 @@
 ||chinchilla.68keys.io^
 ||chineseprovisionfeisty.com^
 ||chioneflake.com^
+||chioursorspolia.com^
 ||chipheeshimseg.net^
 ||chipleader.com^
 ||chipmanksmochus.com^
@@ -28531,7 +28522,6 @@
 ||dlh1.hilton.com^
 ||dlh8c15zw7vfn.cloudfront.net^
 ||dlied6.qq.com^
-||dlikohbdcxqs.xyz^
 ||dlink-staging.blueapron.com^
 ||dlink.blueapron.com^
 ||dlink.hsdyn.com^
@@ -31714,6 +31704,7 @@
 ||epicalyx3452.fun^
 ||epicgameads.com^
 ||epicgolive.rainresources.com^
+||epilinserts.com^
 ||epimetheus.navigator.web.de^
 ||epipialbeheira.com^
 ||epiv.cardlytics.com^
@@ -33468,7 +33459,6 @@
 ||fgk-jheepn.site^
 ||fglrgt.ruggable.com^
 ||fgmaal.u-canshop.jp^
-||fgmbannewbrih.xyz^
 ||fgn-plausible.serverable.com^
 ||fgn.cdn.serverable.com/common/images/nfr2ie0nd1s9^
 ||fgnfpnae.icu^
@@ -34629,7 +34619,6 @@
 ||freefrog.site^
 ||freefromads.com^
 ||freefromads.pro^
-||freehornygirls.com^
 ||freelancebeheld.com^
 ||freelancepicketpeople.com^
 ||freelancerarity.com^
@@ -34789,6 +34778,7 @@
 ||fsz1.franziskasager.de^
 ||fsznjdg.com^
 ||ft.groc.press^
+||ftajryaltna.com^
 ||ftaysn.meinekette.de^
 ||ftblltrck.com^
 ||ftd.agency^
@@ -35168,6 +35158,7 @@
 ||gaietyexhalerucksack.com^
 ||gaihoumauwha.com^
 ||gaijiglo.net^
+||gaimauroogrou.net^
 ||gaimoupy.net^
 ||gainjav12.fun^
 ||gainoilcash.live^
@@ -37706,7 +37697,6 @@
 ||gtgvze.chintai.net^
 ||gth112.com^
 ||gtitcah.com^
-||gtjhpdhs.com^
 ||gtm-server.healthline.com^
 ||gtm-sst.crowdin.com^
 ||gtm.actic.se^
@@ -39388,7 +39378,6 @@
 ||howploymope.com^
 ||howtosimplified.com^
 ||hoxdotye.icu^
-||hoxha.nieuwspaal.network^
 ||hoyaga.xyz^
 ||hp1mufjhk.com^
 ||hp8g6.icu^
@@ -48917,6 +48906,7 @@
 ||m6500.top^
 ||m6690.top^
 ||m6c4t9vmqarj.www.cefirates.com^
+||m6d.icu^
 ||m6j37.xyz^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
 ||m73lae5cpmgrv38.com^
@@ -51203,6 +51193,7 @@
 ||md.tvzhe.com^
 ||mda.zadn.vn^
 ||mdadx.com^
+||mdamcsx.top^
 ||mddsp.info^
 ||mdeitwdqy.xyz^
 ||mdevstat.qqlive.qq.com^
@@ -55858,6 +55849,7 @@
 ||nitrokod.com^
 ||nitrous-analytics.s3.amazonaws.com^
 ||niubixxx.com^
+||niveausatan.shop^
 ||niwluvepisj.site^
 ||niwooghu.com^
 ||nixbsprhupgor.com^
@@ -56709,6 +56701,7 @@
 ||oapsoulreen.net^
 ||oapyrzde.xyz^
 ||oaqrui.xyz^
+||oaraiwephoursou.net^
 ||oardilin.com^
 ||oarouwousti.com^
 ||oarsparttimeparent.com^
@@ -57821,6 +57814,7 @@
 ||ootchoft.com^
 ||ooublik.top^
 ||oouiqi.xyz^
+||oovoonganeegry.xyz^
 ||oowhoaphick.com^
 ||ooxobsaupta.com^
 ||op.aomg5bzv7.com^
@@ -61489,6 +61483,7 @@
 ||principledecliner.info^
 ||principlessilas.com^
 ||pringed.space^
+||prinksdammit.com^
 ||prinksoncotic.com^
 ||printaugment.com^
 ||printerswear.com^
@@ -63528,6 +63523,7 @@
 ||raeoaxqxhvtxe.xyz^
 ||raffleinsanity.com^
 ||rafflisle.com^
+||rafikfangas.com^
 ||rafvertizing.crazygames.com^
 ||ragapa.com^
 ||rageagainstthesoap.com^
@@ -63605,7 +63601,6 @@
 ||rangformer.com^
 ||ranggallop.com^
 ||rank-master.com^
-||rank-master.de^
 ||rankchamp.de^
 ||rankhit.china.com^
 ||ranking-charts.de^
@@ -80716,6 +80711,7 @@
 ||totalwownews.com^
 ||totemcash.com^
 ||totentacruelor.com^
+||totersoutpay.com^
 ||totlnkbn.com^
 ||totlnkcl.com^
 ||toto.pandasuite.io^
@@ -84346,7 +84342,6 @@
 ||tubeplant.com^
 ||tubeprime.com^
 ||tubepure.com^
-||tuberate.com^
 ||tuberay.com^
 ||tuberis.com^
 ||tubestrap.com^
@@ -87730,7 +87725,6 @@
 ||wbcygu.wardow.com^
 ||wbdds.com^
 ||wbdds.fr.ign.com^
-||wbdds.lebonguide.com^
 ||wbdds.villaschweppes.com^
 ||wbdqwpu.com^
 ||wbgafrr.icu^
@@ -88870,6 +88864,7 @@
 ||wkuuuj.byther.kr^
 ||wkvpvglcjsagi.xyz^
 ||wkwqljwykoamr.top^
+||wkwqljwykorov.top^
 ||wkybwa.xyz^
 ||wkympu.agnesb.co.jp^
 ||wkywrc.cn^
@@ -92451,6 +92446,7 @@
 ||zireemilsoude.net^
 ||zirkiterocklay.com^
 ||zisboombah.net^
+||zishezetchadsi.net^
 ||zisr3w3i2csfa76m.edge41.testandtarget.omniture.com^
 ||zisu.cn.com^
 ||zitaptugo.com^
