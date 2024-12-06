@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-06 09:47:54（北京时间）
+! Version: 2024-12-06 20:43:49（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 92838
+! Total count: 92819
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1230,7 +1230,6 @@
 ||2d5e92979c.3622911ae3.com^
 ||2d6g0ag5l.de^
 ||2d91ee1fa3.7a53b9303c.com^
-||2da69cc358.com^
 ||2de65ef3dd.com^
 ||2e2vuogr9z3eh2yb.bestinterestings.com^
 ||2e30f1d69a.55320fa45d.com^
@@ -10784,7 +10783,6 @@
 ||aff.bstatic.com^
 ||aff.trackinglibrary.prodperfect.com^
 ||aff1xstavka.com^
-||aff2.linksht.online^
 ||affa8.hikkoshi-master.com^
 ||affabilitydisciple.com^
 ||affableindigestionstruggling.com^
@@ -10970,7 +10968,6 @@
 ||africaewgrhdtb.com^
 ||africafr.promo.skf.com^
 ||africawin.com^
-||afrouupefqqrg.com^
 ||afs.googlesyndication.com^
 ||afshanthough.pro^
 ||afterdownload.com^
@@ -15742,7 +15739,6 @@
 ||avbang3431.fun^
 ||avbtkz.locknlockmall.com^
 ||avbulb3431.fun^
-||avdcnvhpylwywn.com^
 ||avdebt3431.fun^
 ||ave-caesar-mas.modivo.io^
 ||avecmessougnauy.net^
@@ -15774,7 +15770,6 @@
 ||aviodg.eu^
 ||avitocars.ru^
 ||avjd014.com/*ad^
-||avjywldfaa.xyz^
 ||avkktuywj.xyz^
 ||avloan3431.fun^
 ||avmonk3431.fun^
@@ -32891,7 +32886,6 @@
 ||f9755640df.5eef1ed9ac.com^
 ||f97c68bed0.0a10a1bb7b.com^
 ||f9d3dca725.b291310c77.com^
-||fa3f4c916c.com^
 ||fa61d27a15.c6ec2f3763.com^
 ||fa77756437.com^
 ||faaqgje.icu^
@@ -33065,7 +33059,6 @@
 ||faro-collector-prod-*.grafana.net^
 ||farteniuson.com^
 ||fartherpensionerassure.com^
-||fartit.com^
 ||fartmoda.com^
 ||farwine.com^
 ||fascespro.com^
@@ -36299,7 +36292,6 @@
 ||gloriousmemory.pro^
 ||glorsugn.net^
 ||glossydollyknock.com^
-||glottisuproute.com^
 ||glouftarussa.xyz^
 ||gloufteglouw.com^
 ||gloumoonees.net^
@@ -36399,7 +36391,6 @@
 ||gnfqtz.smartphoto.se^
 ||gnh2.destinia.lv^
 ||gnjaifthgesd.com^
-||gnjnodev.com^
 ||gnkvyn.freeportstore.com^
 ||gnnkrz.josbank.com^
 ||gnnnzxuzv.com^
@@ -37366,7 +37357,6 @@
 ||granseerdissee.net^
 ||grantedorphan.com^
 ||grantedpigsunborn.com^
-||granteedrycoal.com^
 ||grantinsanemerriment.com^
 ||grapeshot.co.uk^
 ||graphnitriot.com^
@@ -38978,6 +38968,7 @@
 ||hjdha.cn^
 ||hjgcdi.farmacybeauty.com^
 ||hjgkdv.fiverr.com^
+||hjimtyu.top^
 ||hjjshv.xyz^
 ||hjkhxfh.360doc.cn^
 ||hjklq.com^
@@ -39740,7 +39731,6 @@
 ||hxaubnrfgxke.xyz^
 ||hxbgxi.seikousa.com^
 ||hxbt.alading123.com^
-||hxehinsocq.com^
 ||hxiabp.colins.com.tr^
 ||hxlkiufngwbcxri.com^
 ||hxmssa.wordans.nl^
@@ -40265,6 +40255,7 @@
 ||ii.gdt.qq.com^
 ||ii.woolensulking.com^
 ||ii1.chajiaotong.com^
+||ii3.icu^
 ||ii9g0qj9.de^
 ||iia1.pikacn.com^
 ||iiajtl.zeit.de^
@@ -42643,6 +42634,7 @@
 ||inwraptsekane.com^
 ||inx-corp.actonservice.com^
 ||inyoketuber.com^
+||inzut.com^
 ||io.fapnado.xxx^
 ||io.fapnow.xxx^
 ||io.narrative.io^
@@ -43550,7 +43542,6 @@
 ||jetlwsa.top^
 ||jetm-tech.net^
 ||jetordinarilysouvenirs.com^
-||jetos.com^
 ||jetseparation.com^
 ||jetti.site^
 ||jetx.info^
@@ -44197,7 +44188,6 @@
 ||jullyambery.net^
 ||julolecalve.website^
 ||julrdr.com^
-||jultscax.xyz^
 ||julyhadchose.com^
 ||julyouncecat.com^
 ||jumbln.com^
@@ -53651,7 +53641,6 @@
 ||mittyswidden.top^
 ||mitv.tracking.intl.miui.com^
 ||mity4sxoi.asfgeaa.lat^
-||mityneedn.com^
 ||miui-fxcse.avlyun.com^
 ||miuo.cloud^
 ||mivibsegnuhaub.xyz^
@@ -54159,7 +54148,6 @@
 ||monkquestion.com^
 ||monksfoodcremate.com^
 ||monnionyusdrum.com^
-||monocleindues.guru^
 ||monopolydecreaserelationship.com^
 ||monorail-edge.shopifysvc.com^
 ||monsetting.toutiao.com^
@@ -54442,7 +54430,6 @@
 ||mrdzuibek.com^
 ||mre6.destinia.ma^
 ||mremlogjam.com^
-||mrface.com^
 ||mrgreekroad.com^
 ||mrgrekeroad.com^
 ||mri.iradimed.com^
@@ -55629,7 +55616,6 @@
 ||newsbeala.com^
 ||newscadence.com^
 ||newscode.me^
-||newsfeed.support^
 ||newsfeedscroller.com^
 ||newsflash.elliemae.com^
 ||newsformuse.com^
@@ -58334,6 +58320,7 @@
 ||ougrauty.com^
 ||ougribot.net^
 ||ouhastay.net^
+||ouiokaq.top^
 ||oujouniw.com^
 ||ouk7.grantalexander.com^
 ||ouknowsaidthea.info^
@@ -58496,7 +58483,6 @@
 ||overcrowdsillyturret.com^
 ||overdates.com^
 ||overdonealthough.com^
-||overely.com^
 ||overestimateoption.com^
 ||overgalladean.com^
 ||overgotsnecker.com^
@@ -64061,7 +64047,6 @@
 ||redthreadmarketing.actonservice.com^
 ||redtram.com^
 ||reducediscord.com^
-||reductionslapsensation.com^
 ||redundancymail.com^
 ||redvector.actonservice.com^
 ||redvil.co.in^
@@ -65905,7 +65890,6 @@
 ||runingamgladt.com^
 ||runmixed.com^
 ||runningdestructioncleanliness.com^
-||runoj.click^
 ||runpuredead.live^
 ||runtnc.net^
 ||runwaff.com^
@@ -66715,7 +66699,6 @@
 ||safemy-ios.com^
 ||safenick.com^
 ||safepass.citizen.com^
-||saferedd.com^
 ||safestcontentgate.com^
 ||safestgatetocontent.com^
 ||safestsniffingconfessed.com^
@@ -79558,7 +79541,6 @@
 ||tgwfaz.icu^
 ||th-go.experian.com^
 ||th.micheryfrugal.com^
-||th1sib3stway.com^
 ||th2mbxzqe.com^
 ||thacreks.com^
 ||thaculse.net^
@@ -84727,6 +84709,7 @@
 ||u5ps5.icu^
 ||u652.myplainview.com^
 ||u68t5.icu^
+||u6u.icu^
 ||u78s.top^
 ||u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me^
 ||u803vs7fuhn5w9p5.k45ki53dq.com^
@@ -85198,7 +85181,6 @@
 ||uncastnork.com^
 ||uncertainimprovementsspelling.com^
 ||unchealthcare.hrm.healthgrades.com^
-||uncivicgentle.com^
 ||uncleffaan.com^
 ||unclesnewspaper.com^
 ||uncletroublescircumference.com^
@@ -86741,7 +86723,6 @@
 ||viippugm.com^
 ||viipular.com^
 ||viipura.com^
-||viipxuah.com^
 ||viiqqou.com^
 ||viiqvmfb.com^
 ||viiqxpnb.com^
