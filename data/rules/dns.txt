@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-07 09:46:53（北京时间）
+! Version: 2024-12-07 20:40:19（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 92966
+! Total count: 92974
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1914,6 +1914,7 @@
 ||4q87v.icu^
 ||4qdx69gg2d.com^
 ||4rabettraff.com^
+||4sq.icu^
 ||4sqt6jq.de^
 ||4t6u.icu^
 ||4u69.com^
@@ -22389,6 +22390,7 @@
 ||cns-service.actonservice.com^
 ||cnsecurity.actonservice.com^
 ||cnstats.cdev.eu^
+||cnstrc.com^
 ||cnt.3dmy.net^
 ||cnt.affiliate.fc2.com^
 ||cnt.alawar.com^
@@ -32945,6 +32947,7 @@
 ||f7ae2f1035.2defeeb8b2.com^
 ||f7ds.liberation.fr^
 ||f7fe0.cyou^
+||f7j.icu^
 ||f8260adbf8558d6.com^
 ||f8260e364f.9a08103287.com^
 ||f83d8a9867.com^
@@ -43784,6 +43787,7 @@
 ||jjcwq.site^
 ||jjcypx.vrai.com^
 ||jjdciu.justspices.de^
+||jjimtya.top^
 ||jjmrmeovo.world^
 ||jjpp.lmtjapi.com^
 ||jjqsdll.com^
@@ -45249,6 +45253,7 @@
 ||krill.far.site^
 ||krill.spoonrage.com^
 ||krill.swiss-uke.ch^
+||krinkred.com^
 ||kriptoparahaber.care^
 ||kristechwire.actonservice.com^
 ||krisydark.com^
@@ -69012,6 +69017,7 @@
 ||shangwenchao4.cn^
 ||shanorin.com^
 ||shanvezhu.com^
+||shaorgs.cn^
 ||shapedhomicidalalbert.com^
 ||shapelcounset.xyz^
 ||shaperswhorts.shop^
@@ -86636,6 +86642,7 @@
 ||vgs-collect-keeper.apps.verygood.systems^
 ||vgxbpf.xyz^
 ||vgzytn.xyz^
+||vh8.icu^
 ||vhans.siege-corp.com^
 ||vhdbohe.com^
 ||vhducnso.com^
@@ -92542,6 +92549,7 @@
 ||zihogchfaan.com^
 ||zijaipse.com^
 ||zikazx.bouwmaat.nl^
+||zikeke7.com^
 ||zikpwr.com^
 ||zikroarg.com^
 ||zilchesmoated.com^
