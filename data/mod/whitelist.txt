@@ -48,3 +48,5 @@
 @@||m.ctrip.com^
 !华为账号登录
 @@||oauth-login-drcn.platform.dbankcloud.com^
+!c5饰品交易平台
+@@||img.zbt.com*/market-$script
