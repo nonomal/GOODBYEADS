@@ -1,6 +1,7 @@
 !网易
 @@||cstaticdun.126.net^
 @@||dl.reg.163.com^
+@@||webzjcaptcha.reg.163.com^
 !QQ音乐PC端登录
 @@||c.y.qq.com^
 !小爱音箱配网
