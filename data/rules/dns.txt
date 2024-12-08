@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-07 20:40:19（北京时间）
+! Version: 2024-12-08 09:55:39（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 92974
+! Total count: 93007
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1185,6 +1185,7 @@
 ||299bf6b4b4.9a55672b0c.com^
 ||299dcc6f32.d37914770f.com^
 ||29apfjmg2.de^
+||29b124c44a.com^
 ||29e73076ca.49d4db4864.com^
 ||29f37d2f17.com^
 ||29s55bf2.de^
@@ -13112,6 +13113,7 @@
 ||animoseelegy.top^
 ||animositycandiedcalmly.com^
 ||aninter.net^
+||anisoinmetrize.top^
 ||anjdwmq.xyz^
 ||anjneia.xyz^
 ||ankczwr.icu^
@@ -15502,6 +15504,7 @@
 ||attachedkneel.com^
 ||attaindisableneedlework.com^
 ||attarpantoon.click^
+||attelaoe.com^
 ||attemptinert.com^
 ||attemptingstray.com^
 ||attemptsbetween.com^
@@ -18529,6 +18532,7 @@
 ||boreusorgans.top^
 ||borhaj.com^
 ||boringbegglanced.com^
+||boringoccasion.pro^
 ||bornanguava.click^
 ||bornebeautify.com^
 ||bororango.com^
@@ -19329,6 +19333,7 @@
 ||bulletinmoonoral.com^
 ||bulletinwarmingtattoo.com^
 ||bulletproxy.ch^
+||bullfeeding.com^
 ||bullionglidingscuttle.com^
 ||bullionyield.com^
 ||bullyhempbacked.com^
@@ -21415,6 +21420,7 @@
 ||chocolatesingconservative.com^
 ||chocolatine.apexlegendsstatus.com^
 ||choconart.com^
+||chodraihooksar.com^
 ||choiceencounterjackson.com^
 ||chokedsmelt.com^
 ||chokeweaknessheat.com^
@@ -21501,6 +21507,7 @@
 ||chunmiaosh.com^
 ||chupl.icu^
 ||chuptuwais.com^
+||churauwoch.com^
 ||churchalexis.com^
 ||churchkhela.site^
 ||churchyardalludeaccumulate.com^
@@ -22043,6 +22050,7 @@
 ||clicmanager.fr^
 ||clictrck.com^
 ||clicvortex.com^
+||cliegacklianons.com^
 ||cliencywast.top^
 ||client-analytics.braintreegateway.com^
 ||client-analytics.mts.ru^
@@ -29371,6 +29379,7 @@
 ||dsnextgen.com^
 ||dsnymrk0k4p3v.cloudfront.net^
 ||dsoodbye.xyz^
+||dsoxgdjv.icu^
 ||dsoxjxin5jji.controlconceptsusa.com^
 ||dsp-x.jd.com^
 ||dsp.adcountymedia.com^
@@ -31870,6 +31879,7 @@
 ||ergjohl.com^
 ||ergrbp.hobidunya.com^
 ||eringosdye.com^
+||erkteplkjs.com^
 ||erlkingvenules.top^
 ||erluankuan.com^
 ||erm5aranwt7hucs.com^
@@ -37535,6 +37545,7 @@
 ||greenplasticdua.com^
 ||greenrecru.info^
 ||greepseedrobouk.net^
+||greerogloo.net^
 ||greeter.me^
 ||greetham.net^
 ||greetpanda.org^
@@ -42486,6 +42497,7 @@
 ||installer.betterinstaller.com^
 ||installfree.pro^
 ||installnow.pro^
+||installpack.net^
 ||installscolumnist.com^
 ||installslocalweep.com^
 ||installtracker.com^
@@ -43558,6 +43570,7 @@
 ||jdzmqj.thousandtrails.com^
 ||je.guancheoutwait.com^
 ||je.limnalhomo.com^
+||jealousstarw.shop^
 ||jealousupholdpleaded.com^
 ||jealousyingeniouspaths.com^
 ||jealousyscreamrepaired.com^
@@ -44502,6 +44515,7 @@
 ||kabakamarbles.top^
 ||kabarnaira.com^
 ||kabokc.webuy.com^
+||kabudckn.com^
 ||kacukrunitsoo.net^
 ||kadam.net^
 ||kaden.netoff.co.jp^
@@ -44941,6 +44955,7 @@
 ||kjdfho.eidaihouse.com^
 ||kjdsfjisdfjr23.azurewebsites.net^
 ||kjeqga.xyz^
+||kjimtyd.top^
 ||kjipko.xyz^
 ||kjjjusb.xyz^
 ||kjjuuy.icaniwill.fi^
@@ -45021,6 +45036,7 @@
 ||km-kryxqvt.site^
 ||km.rightanswers.com^
 ||km14hkusz.com^
+||kmbjerbaafdn.global^
 ||kmgzyug.com^
 ||kmisln.com^
 ||kmlpgjh.xyz^
@@ -46375,6 +46391,7 @@
 ||lightenintimacy.com^
 ||lighterthinnerstronger.fiber-line.com^
 ||lightfoot.top^
+||lightimpregnable.com^
 ||lightningbarrelwretch.com^
 ||lightningcast.net^
 ||lightningly.co^
@@ -47413,6 +47430,7 @@
 ||littlegirlies.org^
 ||littleworthjuvenile.com^
 ||lituatetoea.digital^
+||litukydteamw.com^
 ||litvp.com^
 ||litznards.com^
 ||liuhui111.top^
@@ -48723,6 +48741,7 @@
 ||lv.myapks.com^
 ||lv5hj.top^
 ||lv6od3a4sz12.www.logology.co^
+||lv9qr0g0.xyz^
 ||lveodaz.icu^
 ||lvhcqaku.com^
 ||lvidqa.unisportstore.de^
@@ -49272,6 +49291,7 @@
 ||majoagna.com^
 ||major-video.click^
 ||major.dvanadva.ru^
+||majorcharacter.com^
 ||majordistinguishedguide.com^
 ||majorhalfmoon.com^
 ||majoriklink.com^
@@ -53585,6 +53605,7 @@
 ||mimicbeeralb.com^
 ||mimicdivineconstable.com^
 ||mimicromax.com^
+||mimicvrows.com^
 ||mimilcnf.pro^
 ||mimosaavior.top^
 ||mimsossopet.com^
@@ -56466,6 +56487,7 @@
 ||nszeybs.com^
 ||nta1vb6cdlrl.com^
 ||ntdhfhpr-o.rocks^
+||ntedbycathyhou.com^
 ||nthaitingsh.com^
 ||nthldc.europcar.co.uk^
 ||ntiutox.icu^
@@ -57062,6 +57084,7 @@
 ||offergate-games-download1.com^
 ||offergate-software20.com^
 ||offergate-software6.com^
+||offergate.pro^
 ||offergo.net^
 ||offerimage.com^
 ||offerlink.co^
@@ -57914,6 +57937,7 @@
 ||oouiqi.xyz^
 ||oovoonganeegry.xyz^
 ||oowhoaphick.com^
+||oowkzpjo-o.click^
 ||ooxobsaupta.com^
 ||op.aomg5bzv7.com^
 ||op.ssp.qq.com^
@@ -61373,6 +61397,7 @@
 ||prawnrespiratorgrim.com^
 ||prayercertificatecompletion.com^
 ||prchecker.info^
+||prckxbflfaryfau.com^
 ||prd-collector-anon.ex.co^
 ||prd-collector-anon.playbuzz.com^
 ||prd-collector-platform.ex.co^
@@ -62082,6 +62107,7 @@
 ||psoansumt.net^
 ||psoasusteech.net^
 ||psockapa.net^
+||psoftautha.com^
 ||psohemsinso.xyz^
 ||psomsoorsa.com^
 ||psomtenga.net^
@@ -62995,6 +63021,7 @@
 ||qifbmk.rodinnebaleni.cz^
 ||qiji1.jdwx.info^
 ||qimcqs.hometogo.dk^
+||qimnubohcapb.com^
 ||qingolor.com^
 ||qinjgh.icu^
 ||qinvaris.com^
@@ -66929,6 +66956,7 @@
 ||sam.msn.com^
 ||samage-bility.icu^
 ||samarketing.sedgwick.com^
+||samarradeafer.top^
 ||samc.frankly.ch^
 ||samc.swisscanto.com^
 ||samc.zkb.ch^
@@ -76857,6 +76885,7 @@
 ||stoopeddemandsquint.com^
 ||stoopedsignbookkeeper.com^
 ||stoopfalse.com^
+||stoopsaipee.com^
 ||stoopsellers.com^
 ||stoorgel.com^
 ||stoorgouxy.com^
@@ -80414,6 +80443,7 @@
 ||tkrconnector.com^
 ||tkrecorder.aotter.net^
 ||tktracker.aotter.net^
+||tktujhhc.com^
 ||tkvied.levi.com.my^
 ||tkvxdj.cars.com^
 ||tkykzv.polisorb.com^
@@ -82577,6 +82607,7 @@
 ||tracker.citicsinfo.com^
 ||tracker.cncenter.cz^
 ||tracker.comagic.ru^
+||tracker.curama.jp^
 ||tracker.dcdn.baidu.com^
 ||tracker.decomworld.com^
 ||tracker.digitalcamp.co.kr^
@@ -85404,6 +85435,7 @@
 ||unhealthywelcome.pro^
 ||unhhsrraf.com^
 ||unhoaryawonder.com^
+||unhoodikhwan.shop^
 ||uni.okane-reco-plus.com^
 ||unibots.in^
 ||unicainstrumentacao.com.br^
@@ -86953,6 +86985,7 @@
 ||viralnewsobserver.com^
 ||viralnewssystems.com^
 ||viralstrangers.com^
+||vireshrill.top^
 ||virgalocust.shop^
 ||virgenomisms.shop^
 ||virgindisguisearguments.com^
