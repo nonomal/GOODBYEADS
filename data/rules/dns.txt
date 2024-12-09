@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-09 09:52:23（北京时间）
+! Version: 2024-12-09 20:47:07（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93351
+! Total count: 93354
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1342,6 +1342,7 @@
 ||2u3v4w5x6y.com^
 ||2ucz3ymr1.com^
 ||2wink.com.au^
+||2wt.icu^
 ||2x2mfeed.com^
 ||2xs4eumlc.com^
 ||2ydian.com^
@@ -60192,6 +60193,7 @@
 ||phaiksul.net^
 ||phaimsebsils.net^
 ||phaimseksa.com^
+||phainoirs.com^
 ||phaipaun.net^
 ||phaisoaz.com^
 ||phaitaghy.com^
@@ -89334,6 +89336,7 @@
 ||wj.faqirsborne.com^
 ||wj.jiancai365.cn^
 ||wjct3s8at.com^
+||wjimtye.top^
 ||wjoxqd.com^
 ||wjssvg.descentekorea.co.kr^
 ||wjtekf.vidaxl.bg^
