@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-10 09:50:32（北京时间）
+! Version: 2024-12-10 20:46:16（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93089
+! Total count: 93099
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2454,7 +2454,6 @@
 ||6server.com^
 ||6slb0.cyou^
 ||6snjvxkawrtolv2x.pro^
-||6stuff.com^
 ||6swu.cpa-france.org^
 ||6ujk8x9soxhm.com^
 ||6v41p4bsq.com^
@@ -12863,6 +12862,7 @@
 ||analytics.tomato.gg^
 ||analytics.tondach.pl^
 ||analytics.top10-charts.com^
+||analytics.topseotoolkit.com^
 ||analytics.totalprosports.com^
 ||analytics.tout.com^
 ||analytics.toyotaforklift.com^
@@ -17673,7 +17673,6 @@
 ||bfjszxzfvf.com^
 ||bflgokbupydgr.xyz^
 ||bflybplr.xyz^
-||bfmasjrbtgy.com^
 ||bfmio.com^
 ||bfnsnehjbkewk.com^
 ||bfntkv.icon.co.cr^
@@ -27085,7 +27084,6 @@
 ||ddmuiijrdvv0s.cloudfront.net^
 ||ddnahc.mesbagages.com^
 ||ddndbjuseqi.com^
-||ddns.info^
 ||ddns.name^
 ||ddnzpr.xyz^
 ||ddome-tag.blablacar.com^
@@ -28311,6 +28309,7 @@
 ||discussedpliant.com^
 ||discussingmaze.com^
 ||disdainsneeze.com^
+||disdeinrechar.top^
 ||diseaseexternal.com^
 ||diseaseplaitrye.com^
 ||disembarkappendix.com^
@@ -34130,6 +34129,7 @@
 ||fluidintolerablespectacular.com^
 ||fluingdulotic.com^
 ||flukepopped.com^
+||flungsnibble.com^
 ||fluoricfatback.com^
 ||fluqualificationlarge.com^
 ||flurry.cachefly.net^
@@ -37615,6 +37615,7 @@
 ||grgnsht.nzxt.com^
 ||gribseep.net^
 ||gridder.co^
+||gridedloamily.top^
 ||gridline.cn^
 ||gridrelay27.co^
 ||grievethereafter.com^
@@ -39907,6 +39908,7 @@
 ||hygar.com^
 ||hygeistagua.com^
 ||hygiena.actonservice.com^
+||hygricurceole.com^
 ||hygromycin-b-50mg-ml-solution.com^
 ||hyhy2.fun^
 ||hyibby.lampen24.be^
@@ -48248,6 +48250,7 @@
 ||longmansuchcesu.info^
 ||longmusic.com^
 ||lontent.powzerz.lol^
+||loobilysubdebs.com^
 ||loobmf.hardloop.fr^
 ||loodauni.com^
 ||loohiwez.net^
@@ -49385,6 +49388,7 @@
 ||malljazz.com^
 ||malnutritionbedroomtruly.com^
 ||malnutritionvisibilitybailiff.com^
+||malokgr.com^
 ||malopebarcas.click^
 ||malowbowohefle.info^
 ||maltcontaining.com^
@@ -59997,7 +60001,6 @@
 ||phaitaghy.com^
 ||phaivaju.com^
 ||phallicbedsore.com^
-||phallicuncut.com^
 ||phamsacm.net^
 ||phanquang.vn^
 ||phantomattestationzillion.com^
@@ -60892,6 +60895,7 @@
 ||plumberwolves.com^
 ||plumbfullybeehive.com^
 ||plumbsplash.com^
+||plummychewer.com^
 ||plumpcontrol.pro^
 ||plumpdianafraud.com^
 ||plumpdisobeyastronomy.com^
@@ -65204,6 +65208,7 @@
 ||ridirre.com^
 ||ridleward.info^
 ||ridmilestone.com^
+||riemutmh.com^
 ||riffingwiener.com^
 ||rifjhukaqoh.com^
 ||rifjynxoj-k.vip^
@@ -73484,7 +73489,6 @@
 ||solicitud.pacifico.com.pe^
 ||solidlyrotches.guru^
 ||solidscape.actonservice.com^
-||solipedsnarls.com^
 ||solispartner.com^
 ||solitudearbitrary.com^
 ||solitudeelection.com^
@@ -76928,6 +76932,7 @@
 ||stnt.sky.de^
 ||stoachaigog.com^
 ||stoadivap.com^
+||stoaglauksargoo.xyz^
 ||stoagnejums.net^
 ||stoagouruzostee.net^
 ||stoaphalti.com^
@@ -77740,6 +77745,7 @@
 ||swad332.fun^
 ||swagtraffcom.com^
 ||swailcoigns.com^
+||swailssourer.com^
 ||swalessidi.com^
 ||swaljol72dgv.controlconceptsusa.com^
 ||swallow.axiom.co^
@@ -78710,6 +78716,7 @@
 ||tagrec.sphdigital.com^
 ||tagroors.com^
 ||tagrua.xyz^
+||tagruglegni.net^
 ||tags.air1.com^
 ||tags.aljazeera.com^
 ||tags.aljazeera.net^
@@ -80315,6 +80322,7 @@
 ||tjbhng.hemington.com.tr^
 ||tjfbh.icu^
 ||tjfot.com^
+||tjimtyi.top^
 ||tjitde.dodo.it^
 ||tjj.com^
 ||tjk-njk.com^
@@ -87106,6 +87114,7 @@
 ||visitbox.de^
 ||visitcrispgrass.com^
 ||visitedquarrelsomemeant.com^
+||visiterpoints.com^
 ||visithaunting.com^
 ||visitingheedlessexamine.com^
 ||visitingpurrplight.com^
@@ -89559,6 +89568,7 @@
 ||wt.vhb.de^
 ||wt.viagogo.net^
 ||wt20trk.com^
+||wt6.icu^
 ||wtbevents.pricespider.com^
 ||wtcysmm.com^
 ||wtdpkq.tausendkind.de^
