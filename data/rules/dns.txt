@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-11 09:48:57（北京时间）
+! Version: 2024-12-11 20:45:35（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93109
+! Total count: 93120
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -174,7 +174,6 @@
 ||05b29ae553.e68a481d7d.com^
 ||05e11c9f6f.com^
 ||05f80459be.910de7044f.com^
-||05fbc08eac.com^
 ||05pg9z.com^
 ||0600.34gwl8v1a.com^
 ||060f670359.77cae4574b.com^
@@ -2853,7 +2852,6 @@
 ||888xx222kk.com^
 ||88a4ea2203.2080db6d61.com^
 ||88ae72dc45.5ed55e7208.com^
-||88cff7936f.com^
 ||88d7b6aa44fb8eb.com^
 ||88eq7spm.de^
 ||88lajs4.com^
@@ -8837,6 +8835,7 @@
 ||add26333d7.6064695105.com^
 ||addapptr.com^
 ||addata.exxen.com^
+||addata.jd.com^
 ||addata.mediacategory.com^
 ||adddumbestbarrow.com^
 ||addefenderplus.info^
@@ -10582,7 +10581,6 @@
 ||advertnetworks.com^
 ||advertpay.net^
 ||advertpro.sitepoint.com^
-||advertpro.ya.com^
 ||advertserve.com^
 ||advertstream.com^
 ||adverttulimited.biz^
@@ -10660,7 +10658,6 @@
 ||adx-exchange.toast.com^
 ||adx-open-service.youku.com^
 ||adx-os.anythinktech.com^
-||adx-tk.rayjump.com^
 ||adx.36kr.com^
 ||adx.ads.heytapmobi.com^
 ||adx.ads.oppomobile.com^
@@ -13565,6 +13562,7 @@
 ||api.subiz.xyz^
 ||api.telemetry.watchabc.go.com^
 ||api.tf4srv.com^
+||api.touch-moblie.com^
 ||api.trafficfactory.com^
 ||api.trueaudience.io^
 ||api.us.hismarttv.com^
@@ -14463,6 +14461,7 @@
 ||apparound.actonservice.com^
 ||appbravebeaten.com^
 ||appcdn01.xyz^
+||appcfg.v.qq.com^
 ||appchannel.html5.qq.com^
 ||appclick.net^
 ||appcloud.appyreward.com^
@@ -15205,6 +15204,7 @@
 ||asparaguspallorspoken.com^
 ||asparaguspopcorn.com^
 ||aspartos.com^
+||aspect-upush.umeng.com^
 ||aspectreinforce.com^
 ||aspectsofcukorp.com^
 ||aspenpalette.com^
@@ -20492,6 +20492,7 @@
 ||ccaa0e51d8.com^
 ||ccaahdancza.com^
 ||ccaas.avaya.com^
+||ccc-x.jd.com^
 ||ccc.aqualink.tokyo^
 ||ccc.x.jd.com^
 ||ccccc66kkkkk.com^
@@ -23390,7 +23391,6 @@
 ||content.hurix.com^
 ||content.ingbank.pl^
 ||content.investresolve.com^
-||content.joinaxxess.com^
 ||content.juniper.net^
 ||content.kleinezeitung.at^
 ||content.linesight.com^
@@ -33394,6 +33394,7 @@
 ||fedsit.com^
 ||fedykr.com^
 ||feed-ads.com^
+||feed-image.baidu.com^
 ||feed-xml.com^
 ||feed.clickmenia.com^
 ||feedads.feedblitz.com^
@@ -34815,6 +34816,7 @@
 ||frompilis.com^
 ||front.optimonk.com^
 ||frontcognizance.com^
+||frontend-perf-service.e.kuaishou.com^
 ||fronthlpr.com^
 ||frontier100-toutiao-lf.fqnovel.com^
 ||frontierconsul02.tsunagaru-office.com^
@@ -35081,6 +35083,7 @@
 ||fxclub.org^
 ||fxdepo.com^
 ||fxfezg.bodylab24.de^
+||fxgate.baidu.com^
 ||fxgkktj.icu^
 ||fxipca.americanexpress.ca^
 ||fxipreferral.americanexpress.com^
@@ -44700,6 +44703,7 @@
 ||kd.eland.kr^
 ||kdamcsd.top^
 ||kdarje.garten-und-freizeit.de^
+||kde.qq.com^
 ||kdeh.cn^
 ||kdgjsf.com^
 ||kdh095.cn^
@@ -45056,6 +45060,7 @@
 ||klikadvertising.com^
 ||kliks.nl^
 ||kliksaya.com^
+||klink.volceapplog.com^
 ||klipmart.com^
 ||kliqz.com^
 ||klixfeed.com^
@@ -46371,7 +46376,6 @@
 ||lhtnuop.xyz^
 ||lhtzfn.xyz^
 ||lhukudauwklhd.xyz^
-||lhzbdvm.com^
 ||lhzulh.tribeamrapali.com^
 ||li.blogtrottr.com^
 ||li.rtl2.de^
@@ -47801,6 +47805,7 @@
 ||log-pq.shopfully.cloud^
 ||log-report.com^
 ||log-sdk.gifshow.com^
+||log-sdk.ksapisrv.com^
 ||log-sg.bytegsdk.com^
 ||log-stats.weathercn.com^
 ||log-tb.isnssdk.com^
@@ -47809,6 +47814,8 @@
 ||log-upload.mihoyo.com^
 ||log-v4-insight.kaizenplatform.net^
 ||log-va-us-looki.capcutapi.com^
+||log-verify.dutils.com^
+||log-verify.hiaiabc.com^
 ||log-verify.mob.com^
 ||log-video.baotintuc.vn^
 ||log-vietnamplus-vn.cdn.ampproject.org^
@@ -48693,6 +48700,7 @@
 ||luegnh.sneakercage.gr^
 ||luggagebuttonlocum.com^
 ||luhhcodutax.com^
+||luimg.baidu.com^
 ||luisardo.com^
 ||lujaqg.e-blooming.com^
 ||lujcig.modaforyou.pl^
@@ -55076,7 +55084,6 @@
 ||mylot.com^
 ||mylust.com/assets/script.js^
 ||mymahuxv.xyz^
-||mymap.icu^
 ||mymap.quest^
 ||mymassive.pics^
 ||mymembermatchmagic.life^
@@ -55239,6 +55246,7 @@
 ||nadelle.wantsext.me^
 ||nadruphoordy.xyz^
 ||nads.io^
+||nadvideo2.baidu.com^
 ||naewynn.com^
 ||nafmxc.1083.fr^
 ||naforeshow.org^
@@ -57339,6 +57347,7 @@
 ||oj.lesbianbliss.com^
 ||oj2q8.montecarlosbm.book-secure.com^
 ||ojapanelm.xyz^
+||ojimtyk.top^
 ||ojkduzbm.com^
 ||ojlsxt.pigment.co.kr^
 ||ojm4.palladiumhotelgroup.com^
@@ -58042,7 +58051,6 @@
 ||open.isnssdk.com^
 ||open.kidu.com^
 ||open.kuaishouzt.com^
-||open.kwaishouzt.com^
 ||open.kwaizt.com^
 ||open.majelan.com^
 ||open.melomm.com^
@@ -58050,6 +58058,7 @@
 ||open.novamoney.com^
 ||open.oneplus.net^
 ||open.snssdk.com.bytedns.net^
+||open.snssdk.com^
 ||open.speeko.co^
 ||open.swapu.app^
 ||open.theinnercircle.co^
@@ -69823,7 +69832,6 @@
 ||sixcombatberries.com^
 ||sixfoldmarkeb.click^
 ||sixft-apart.com^
-||sixpurpart.com^
 ||sixsigmatraffic.com^
 ||sixuzxwdajpl.com^
 ||siyaukq.com^
@@ -77619,6 +77627,7 @@
 ||suxoxmnwolun.com^
 ||suxqvc.pinksisly.com^
 ||suydnc.wwf.it^
+||suzalsln.com^
 ||suzanne.pro^
 ||suzbcnh.com^
 ||suzoqz.icu^
@@ -84529,6 +84538,7 @@
 ||ttbm.com^
 ||ttcu-union.actonservice.com^
 ||ttdpxh.xyz^
+||tteferty33.fun^
 ||ttfpil.2dehands.be^
 ||ttgbnmk.top^
 ||ttgmjfgldgv9ed10.com^
@@ -85845,6 +85855,7 @@
 ||urafur.clubeo.com^
 ||ural.aomg5bzv7.com^
 ||uranismunshore.com^
+||uranus.jd.com^
 ||urauvipsidu.com^
 ||urbanairship.com^
 ||urbanjazzsecretion.com^
@@ -88034,6 +88045,7 @@
 ||wcnhhqqueu.com^
 ||wco.crownpeak.com^
 ||wcoaswaxkrt.com^
+||wcp.taobao.com^
 ||wcpltnaoivwob.xyz^
 ||wcqtgwsxur.xyz^
 ||wcs.naver.com^
@@ -92016,7 +92028,6 @@
 ||yogacomplyfuel.com^
 ||yogaprimarilyformation.com^
 ||yogar2ti8nf09.com^
-||yogiscabiai.com^
 ||yogolp.beststl.com^
 ||yohavemix.live^
 ||yohnoirs.com^
