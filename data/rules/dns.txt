@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-10 20:46:16（北京时间）
+! Version: 2024-12-11 09:48:57（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93099
+! Total count: 93109
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1188,7 +1188,6 @@
 ||29apfjmg2.de^
 ||29b124c44a.com^
 ||29e73076ca.49d4db4864.com^
-||29f37d2f17.com^
 ||29s55bf2.de^
 ||29vpnmv4q.com^
 ||2a1b1657c6.com^
@@ -8617,7 +8616,6 @@
 ||ad1.udn.com^
 ||ad123.ynet.com^
 ||ad1data.com^
-||ad1e220ebc.com^
 ||ad1rtb.com^
 ||ad2.ettoday.net^
 ||ad2.iinfo.cz^
@@ -11849,6 +11847,7 @@
 ||altitudehighjackhonorary.com^
 ||altitudeweetonsil.com^
 ||altn.actonservice.com^
+||altolsqy.com^
 ||altopd.com^
 ||altowriestwispy.com^
 ||altpubli.com^
@@ -12078,6 +12077,7 @@
 ||amuletcontext.com^
 ||amunfezanttor.com^
 ||amung.us^
+||amunlhntxou.com^
 ||amused-ground.com^
 ||amuseer.com^
 ||amusementchillyforce.com^
@@ -19140,7 +19140,6 @@
 ||brshareandrent.eccocar.com^
 ||brsmovecity.eccocar.com^
 ||brsolenelocation.eccocar.com^
-||brsrvr.com^
 ||brt.studylabs.cn^
 ||brtelefurgo.eccocar.com^
 ||brtimove.eccocar.com^
@@ -20886,6 +20885,7 @@
 ||cdnpublicidad.milenio.com^
 ||cdnquality.com^
 ||cdnrl.com^
+||cdns.brsrvr.com^
 ||cdnspace.io^
 ||cdnstats-a.akamaihd.net^
 ||cdnstoremedia.com^
@@ -21177,6 +21177,7 @@
 ||chambersthanweed.com^
 ||chameleostudios.com^
 ||champagne.futurecdn.net^
+||champerwatts.com^
 ||championads.midtc.com^
 ||championshipcoma.com^
 ||chanalytics.merchantadvantage.com^
@@ -22905,6 +22906,7 @@
 ||compare.meteoservice.ru^
 ||compareddiagram.com^
 ||comparedsilas.com^
+||comparepoisonous.com^
 ||compareproprietary.com^
 ||compassenergyservices.com^
 ||compassionatebarrowpine.com^
@@ -32286,6 +32288,7 @@
 ||event.instiengage.com^
 ||event.jma.or.jp^
 ||event.lib.visumo.io^
+||event.newsbreak.com^
 ||event.ortec.com^
 ||event.platform.autotrader.com.au^
 ||event.platform.tunein.com^
@@ -33242,6 +33245,7 @@
 ||favorite-option.pro^
 ||favourablerecenthazardous.com^
 ||favousjanapan.top^
+||fawhotoads.net^
 ||fawnnaresh.com^
 ||faxffjo.com^
 ||faxqaaawyb.com^
@@ -33596,7 +33600,6 @@
 ||fhtfnb.xyz^
 ||fhv00rxa2.com^
 ||fhvzrr.xyz^
-||fhwwnvsx.xyz^
 ||fhyazslzuaw.com^
 ||fhzgeqk.com^
 ||fi.on-channel.com^
@@ -33969,6 +33972,7 @@
 ||fkesfg.com^
 ||fkeupa.bett1.de^
 ||fkhxlz.xyz^
+||fkjdiefz.icu^
 ||fkjsjwbs.xyz^
 ||fklgndklbngg.com^
 ||fkllodaa.com^
@@ -34505,7 +34509,6 @@
 ||foulfurnished.com^
 ||foundationhemispherebossy.com^
 ||foundationhorny.com^
-||foundchoked.com^
 ||foundtr.com^
 ||foupeethaija.com^
 ||fourier.taobao.com^
@@ -35100,6 +35103,7 @@
 ||fxreferral.americanexpress.com^
 ||fxsdex.longvadon.com^
 ||fxstyle.net^
+||fxsvifnkts.com^
 ||fy60.icu^
 ||fyber.com^
 ||fyblppngxdt.com^
@@ -39570,6 +39574,7 @@
 ||hrczhdv.com^
 ||hrenbjkdas.com^
 ||hrfdulynyo.xyz^
+||hrihfiocc.com^
 ||hrjctx.xyz^
 ||hrm.healthgrades.com^
 ||hrmdw8da.net^
@@ -40324,7 +40329,6 @@
 ||igaming-warp-service.io^
 ||igbfwa.com^
 ||igc0.destinia.at^
-||igcsjgmsisjiow.xyz^
 ||igexin.com^
 ||igexlg.weltbild.de^
 ||igfjkh.vw.com.tr^
@@ -42409,7 +42413,6 @@
 ||inquiryclank.com^
 ||inquisition.goguardian.com^
 ||inrhyhorntor.com^
-||inringtone.com^
 ||inrotomr.com^
 ||inrsfubuavjii.xyz^
 ||ins.connatix.com^
@@ -43256,6 +43259,7 @@
 ||iwhzhi.packstyle.jp^
 ||iwl2d7pa4yx1.www.logology.co^
 ||iwlnpw.claudiepierlot.com^
+||iwmavidtg.com^
 ||iwmigu.xyz^
 ||iwmjsk.jw.com.au^
 ||iwouhoft.com^
@@ -47862,6 +47866,7 @@
 ||log.collectaction.com^
 ||log.cookieyes.com^
 ||log.cpex.cz^
+||log.daibieunhandan.vn^
 ||log.daidoanket.vn^
 ||log.dance^
 ||log.dantocmiennui.vn^
@@ -48788,6 +48793,7 @@
 ||lv5hj.top^
 ||lv6od3a4sz12.www.logology.co^
 ||lv9qr0g0.xyz^
+||lvbaeugc.com^
 ||lveodaz.icu^
 ||lvhcqaku.com^
 ||lvidqa.unisportstore.de^
@@ -53585,7 +53591,6 @@
 ||midgerelativelyhoax.com^
 ||midgetdeliveringsmartly.com^
 ||midgetincidentally.com^
-||midgetmaying.com^
 ||midistortrix.com^
 ||midlandfeisty.com^
 ||midlk.online^
@@ -55849,7 +55854,6 @@
 ||newzmaker.me^
 ||nex.163.com^
 ||nexaapptwp.top^
-||nexac.com^
 ||nexage.com^
 ||next-done.website^
 ||nextclickadv.com^
@@ -60387,7 +60391,9 @@
 ||pix.telekom.de^
 ||pixazza.com^
 ||pixel-a.basis.net^
+||pixel-config.reddit.com^
 ||pixel-eu.jggegj-rtbix.top^
+||pixel-static.spotify.com^
 ||pixel-tracker.com^
 ||pixel.1und1.de^
 ||pixel.4pcdn.de^
@@ -63449,7 +63455,6 @@
 ||quilkinhulking.shop^
 ||quillergassier.com^
 ||quinceimaging.actonservice.com^
-||quinelarumored.com^
 ||quinst.com^
 ||quintag.com^
 ||quintessential-telephone.pro^
@@ -65474,6 +65479,7 @@
 ||rofant.com^
 ||rofitstefukhatexc.com^
 ||rofmjd.xyz^
+||rofxiufqch.com^
 ||roger.aomg5bzv7.com^
 ||rogligh.ehrydnmdoe.com^
 ||roguehideevening.com^
@@ -66273,6 +66279,7 @@
 ||s-adobeanalytics.vice.com^
 ||s-adx.op-mobile.opera.com^
 ||s-adzone.com^
+||s-logperf.vnexpress.net^
 ||s-odx.oleads.com^
 ||s-omniture.yell.com^
 ||s-onetag.com^
@@ -75177,6 +75184,7 @@
 ||stadac.mobilapp.io^
 ||stadig.ifeng.com^
 ||staerlcmplks.xyz^
+||staffdisgustedducked.com^
 ||staffdollar.com^
 ||stage.aomg5bzv7.com^
 ||stageapplink.reki.tv^
@@ -79961,7 +79969,6 @@
 ||thetrafficstat.net^
 ||thetrendytales.com^
 ||thetreuntalle.com^
-||theupgradedata.com^
 ||theusualsuspects.biz^
 ||theusualsuspectz.biz^
 ||thevpxjtfbxuuj.com^
@@ -84952,7 +84959,6 @@
 ||u47.pnc.com^
 ||u4ccj.icu^
 ||u55011.com^
-||u566.chron.com^
 ||u578.wlwt.com^
 ||u595sebqih.com^
 ||u5lxh1y1pgxy.shop^
@@ -85147,6 +85153,7 @@
 ||ufqzrk.espritshop.ch^
 ||ufsmcn.blackspade.com.tr^
 ||uftcfo.xyz^
+||ufvxiyewsyi.com^
 ||ufwsfi.magasins-u.com^
 ||ufz.doesxyz.com^
 ||ufzanvc.com^
@@ -85248,6 +85255,7 @@
 ||ujappzvz.xyz^
 ||ujautifuleed.xyz^
 ||ujbhri.pharmamarket.nl^
+||ujimtyt.top^
 ||ujlwwo.lehner-versand.ch^
 ||ujmkqrnhfio.com^
 ||ujovcb.cn^
@@ -87520,6 +87528,7 @@
 ||vupoupay.com^
 ||vupsnx.xyz^
 ||vupteerairs.net^
+||vuqcteyi.com^
 ||vuqufo.uno^
 ||vursoofte.net^
 ||vutjnt.xyz^
@@ -90604,6 +90613,7 @@
 ||x2y22.fun^
 ||x3-policy-maker.goguardian.com^
 ||x3-predictor.goguardian.com^
+||x4d.icu^
 ||x4pollyxxpush.com^
 ||x4q4g2zy7.com^
 ||x6.yakiuchi.com^
@@ -91411,6 +91421,7 @@
 ||xu.chimerscoshing.com^
 ||xu2.com^
 ||xu27r.com^
+||xu6.icu^
 ||xuakn.icu^
 ||xubcnzfex.com^
 ||xuc.monteleone.fr^
@@ -93101,5 +93112,4 @@
 ||zzqyxd.smartpozyczka.pl^
 ||zzsqqx.shopjapan.co.jp^
 ||zztxfj.xyz^
-||zzux.com^
 ||zzyjpmh.com^
