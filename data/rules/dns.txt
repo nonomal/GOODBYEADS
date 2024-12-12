@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-12 09:48:39（北京时间）
+! Version: 2024-12-12 20:46:00（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93143
+! Total count: 93136
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -85,7 +85,6 @@
 ||0190.seponews.com^
 ||01916a3ce8.8b1e836a75.com^
 ||0193.4puuqeh41.com^
-||019a6180a6.com^
 ||01apple.com^
 ||01counter.com^
 ||01jud3v55z.com^
@@ -1915,7 +1914,6 @@
 ||4pussies.com^
 ||4puuqeh41.com^
 ||4q87v.icu^
-||4qdx69gg2d.com^
 ||4rabettraff.com^
 ||4sq.icu^
 ||4sqt6jq.de^
@@ -17989,6 +17987,7 @@
 ||bjdqbl.nippn-kenko.net^
 ||bjfbac.hyundaivaudreuil.com^
 ||bjhhbox.xyz^
+||bjimtyv.top^
 ||bjiuck.com^
 ||bjjkuoxidr.xyz^
 ||bjmantis.net^
@@ -24907,6 +24906,7 @@
 ||d08l9a634.com^
 ||d0bd7cb761.1c10feefc0.com^
 ||d0ce8193a8.04b6001ba9.com^
+||d0m.icu^
 ||d0main.ru^
 ||d1.1ppt.com^
 ||d1.3158.cn^
@@ -31500,7 +31500,6 @@
 ||enews.alfaromeo.it^
 ||enews.learninga-z.com^
 ||enews10.yxlady.net^
-||enfantbroll.top^
 ||enftvgnkylijcp.xyz^
 ||engage-emea.jll.com^
 ||engage.3m.co.cr^
@@ -32435,7 +32434,6 @@
 ||events.shareably.net^
 ||events.sk.ht^
 ||events.splash-screen.net^
-||events.split.io^
 ||events.squarespace.com^
 ||events.storifyme.com^
 ||events.swiftlycontent.net^
@@ -38844,7 +38842,6 @@
 ||hhausq.top^
 ||hhbxcs.tylko.com^
 ||hhbypdoecp.com^
-||hhdjcabafaejaibaaaeg.world^
 ||hhffks967.shop^
 ||hhffnu135.shop^
 ||hhglobal.actonservice.com^
@@ -49065,7 +49062,6 @@
 ||m2t.actonservice.com^
 ||m2track.co^
 ||m32.media^
-||m367.michigansthumb.com^
 ||m3ds.subarumetropolitain.com^
 ||m3i0v745b.com^
 ||m3uef4b38brmbntdzx.franchiseplus.nl^
@@ -51222,7 +51218,6 @@
 ||maxigamma.com^
 ||maxim.pub^
 ||maximtoaster.com^
-||maximumcash.com^
 ||maximumductpictorial.com^
 ||maximumingrow.com^
 ||maxonclick.com^
@@ -84991,7 +84986,6 @@
 ||u5lxh1y1pgxy.shop^
 ||u5ps5.icu^
 ||u652.myplainview.com^
-||u660.theheraldreview.com^
 ||u68t5.icu^
 ||u6u.icu^
 ||u78s.top^
@@ -87115,7 +87109,6 @@
 ||virginitystudentsperson.com^
 ||virginyoungestrust.com^
 ||virleth.com^
-||virnews.club^
 ||virtuallythanksgivinganchovy.com^
 ||virtualroecrisis.com^
 ||virtue1266.fun^
@@ -89139,7 +89132,6 @@
 ||wkabios.icu^
 ||wkamwqkbaomev.top^
 ||wkblbmrdkox.com^
-||wkcjokdcdtn.com^
 ||wkclick.baidu.com^
 ||wkctj.baidu.com^
 ||wkcwtmsbrmbka.com^
@@ -91344,6 +91336,7 @@
 ||xnxx.com/cams^
 ||xoalt.com^
 ||xoarmpftxu.com^
+||xoceonsl.com^
 ||xogtrmjz.xyz^
 ||xoilactv123.gdn^
 ||xoilactvcj.cc^
