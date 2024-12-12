@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-11 20:45:35（北京时间）
+! Version: 2024-12-12 09:48:39（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93120
+! Total count: 93143
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2202,7 +2202,6 @@
 ||5xd3jfwl9e8v.com^
 ||5xp6lcaoz.com^
 ||5y9nfpes.52pk.com^
-||5yfi7sy.com^
 ||5z0d3.cyou^
 ||5z2oy.icu^
 ||6-partner.com^
@@ -2250,6 +2249,7 @@
 ||6279.seponews.com^
 ||6299ffe8d6.25073bb296.com^
 ||629de87520.f983cf2155.com^
+||62a77005fb.com^
 ||62b81f5af3.com^
 ||62ca04e27a.com^
 ||62h45d14.shrweea.lat^
@@ -3114,7 +3114,6 @@
 ||999bb222ww.com^
 ||999db.cn^
 ||999fb.cn^
-||999webdesign.com^
 ||999xx333kk.com^
 ||999xx999kk.com^
 ||999zz333zz.com^
@@ -5917,6 +5916,7 @@
 ||a776647af1.4b526a61a7.com^
 ||a788d8a3de.7411603f57.com^
 ||a7a2789124.com^
+||a7c.icu^
 ||a7dfd3c64a.84f101d1bb.com^
 ||a7e.monnierfreres.de^
 ||a8-22.hana-yume.net^
@@ -10905,7 +10905,6 @@
 ||affiliatestonybet.com^
 ||affiliatetracking.com^
 ||affiliatetracking.net^
-||affiliatetxt.nextmediaweb.com^
 ||affiliatewindow.com^
 ||affiliation-france.com^
 ||affiliation.porn.fr^
@@ -16416,6 +16415,7 @@
 ||b90.yahoo.co.jp^
 ||b91.yahoo.co.jp^
 ||b92.yahoo.co.jp^
+||b932.wesh.com^
 ||b97.yahoo.co.jp^
 ||b99.yahoo.co.jp^
 ||b99d6ab38b.d15a035f27.com^
@@ -17781,7 +17781,6 @@
 ||bidehunter.com^
 ||bidfhimuqwij.com^
 ||bidforclicks.com^
-||bidgear-syndication.com^
 ||bidgear.com^
 ||bidgx.com^
 ||bidiology.com^
@@ -21716,6 +21715,7 @@
 ||claimedinvestcharitable.com^
 ||claimedthwartweak.com^
 ||clairekabobs.com^
+||clairpixum.com^
 ||clam.figmachina.com^
 ||clam.mglaman.dev^
 ||clampalarmlightning.com^
@@ -22454,7 +22454,6 @@
 ||co5457chu.com^
 ||co5n3nerm6arapo7ny.com^
 ||coachingminceur.go2cloud.org^
-||coactedtoe.top^
 ||coads.akipress.org^
 ||coagrohos.com^
 ||coalbandmanicure.com^
@@ -28990,6 +28989,7 @@
 ||doruffletr.com^
 ||dosagebreakfast.com^
 ||dosamurottom.com^
+||dosawes.com^
 ||doscarredwi.org^
 ||dosconsiderate.com^
 ||doseadraa.com^
@@ -29671,7 +29671,6 @@
 ||dx6uy6q3udhkj.cloudfront.net^
 ||dx7.sosporntube.com^
 ||dxaop.bcbsla.com^
-||dxayhotdj.xyz^
 ||dxe2.heip.fr^
 ||dxeldq.madeindesign.com^
 ||dxfidr.xyz^
@@ -31485,7 +31484,6 @@
 ||endorsesmelly.com^
 ||endowmentoverhangutmost.com^
 ||endream.buzz^
-||endshiptigrina.com^
 ||endurancetransmitted.com^
 ||enduresopens.com^
 ||endwaysdsname.com^
@@ -32975,11 +32973,13 @@
 ||f679bab577.ffd8c0e0ac.com^
 ||f6b458ade2.0740d1e3bf.com^
 ||f6e52dce4f.eefa308edc.com^
+||f703.twincities.com^
 ||f70d00bbcf.614c5b2887.com^
 ||f75726ff72.4b7140e260.com^
 ||f769af9bbc.a6e8080fb1.com^
 ||f775.thehour.com^
 ||f780f.space^
+||f793.inc.com^
 ||f794d2f9d9.com^
 ||f7ae2f1035.2defeeb8b2.com^
 ||f7ds.liberation.fr^
@@ -45661,6 +45661,7 @@
 ||l.ykimg.com^
 ||l.your.md^
 ||l0-secure.videohub.tv^
+||l029.recordpatriot.com^
 ||l0ix1.site^
 ||l1native.com^
 ||l1vec4ms.com^
@@ -45793,6 +45794,7 @@
 ||lamprey.carolcassar.com^
 ||lamprey.seagyndavis.com^
 ||lampshademirror.com^
+||lamrissmyol.com^
 ||lamthong.net^
 ||lan.landing.ni.com^
 ||lancaster.aomg5bzv7.com^
@@ -47569,6 +47571,7 @@
 ||ljbrbz.xyz^
 ||ljdofz.xyz^
 ||ljhbhy.cn^
+||ljimtyl.top^
 ||ljlvftvryjowdm.xyz^
 ||ljnhkytpgez.com^
 ||ljnrjt.xyz^
@@ -48764,6 +48767,7 @@
 ||lust-burning.rest^
 ||lust-goddess.buzz^
 ||lustasserted.com^
+||lusupodum.com^
 ||lutachechu.pro^
 ||lutoorgourgi.com^
 ||lutrbr.xyz^
@@ -49061,6 +49065,7 @@
 ||m2t.actonservice.com^
 ||m2track.co^
 ||m32.media^
+||m367.michigansthumb.com^
 ||m3ds.subarumetropolitain.com^
 ||m3i0v745b.com^
 ||m3uef4b38brmbntdzx.franchiseplus.nl^
@@ -49077,6 +49082,7 @@
 ||m6d.icu^
 ||m6j37.xyz^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
+||m700.bigrapidsnews.com^
 ||m73lae5cpmgrv38.com^
 ||m7i1k.fun^
 ||m81jmqmn.ru^
@@ -52048,6 +52054,7 @@
 ||metrics-ieeexplore.ieee.org^
 ||metrics-logger.spot.im^
 ||metrics-now.experian.com^
+||metrics-prod.suno.com^
 ||metrics-target.siriusxm.com^
 ||metrics.1800contacts.com^
 ||metrics.24hourfitness.com^
@@ -54281,6 +54288,8 @@
 ||momowa.momoshop.com.tw^
 ||momyjw.jobninja.com^
 ||momzersatorii.top^
+||mon-boot.capcutapi.com^
+||mon-va-us-looki.capcutapi.com^
 ||mon.byteoversea.com^
 ||mon.domdog.io^
 ||mon.ingservices.nl^
@@ -55137,6 +55146,7 @@
 ||mythings.com^
 ||mytiris.com^
 ||mytop-in.net^
+||mytop.live.vkvideo.ru^
 ||myunderthfe.info^
 ||myunion1.qm120.com^
 ||myunion1.tupians.com^
@@ -55552,6 +55562,7 @@
 ||neighrewarn.click^
 ||neitherpennylack.com^
 ||nekgtz.bluestoneperennials.com^
+||neldatsy.com^
 ||nelhon.com^
 ||nellads.com^
 ||nellmeeten.com^
@@ -56555,7 +56566,6 @@
 ||nta1vb6cdlrl.com^
 ||ntdhfhpr-o.rocks^
 ||ntedbycathyhou.com^
-||nthaitingsh.com^
 ||nthldc.europcar.co.uk^
 ||ntiutox.icu^
 ||ntlcgevw-u.one^
@@ -61855,6 +61865,7 @@
 ||professtrespass.com^
 ||proffering.xyz^
 ||proffiliatesinc.actonservice.com^
+||profile-api.amplitude.com^
 ||profile.marketone.com^
 ||profiler-collector.wshareit.com^
 ||profiling.afry.com^
@@ -62042,6 +62053,7 @@
 ||protectorincorporatehush.com^
 ||protectyourdevices.com^
 ||proteinfrivolousfertilised.com^
+||proteininnovationpioneer.com^
 ||protestgrove.com^
 ||proto2ad.durasite.net^
 ||protoawe.com^
@@ -63504,6 +63516,7 @@
 ||qutejo.xyz^
 ||qutsgp.calif.cc^
 ||quwkke.xyz^
+||quwsncrlcwjpj.com^
 ||quxsiraqxla.com^
 ||quxwpwcwmmx.xyz^
 ||quyerj.northstyle.com^
@@ -64014,6 +64027,7 @@
 ||rdsddand.com^
 ||rdsgick.icu^
 ||rdtk.io^
+||rdtlnutu.com^
 ||rdtracer.com^
 ||rdtrck2.com^
 ||rdvxxx.crushj.com^
@@ -78588,6 +78602,7 @@
 ||t.xtubetv.net^
 ||t.y8.com^
 ||t.zhipin.com^
+||t002.myjournalcourier.com^
 ||t002.ottcn.com^
 ||t0gju20fq34i.com^
 ||t0ikowg7jg.serverlesslaravelcourse.com^
@@ -80240,6 +80255,7 @@
 ||tiksoopta.net^
 ||tiktakz.xyz^
 ||tiktok-ads.hara.vn^
+||tiktok.tray.com.br^
 ||tilanalytics.timesinternet.in^
 ||tilesmuzarab.com^
 ||tillertag-a.akamaihd.net^
@@ -83638,6 +83654,7 @@
 ||tradertimerz.media^
 ||tradeshow.edm.globalsources.com^
 ||tradeshows.aem.org^
+||trading-ad.net^
 ||trading21s.com^
 ||tradingpancreasdevice.com^
 ||traditionallyenquired.com^
@@ -84974,12 +84991,14 @@
 ||u5lxh1y1pgxy.shop^
 ||u5ps5.icu^
 ||u652.myplainview.com^
+||u660.theheraldreview.com^
 ||u68t5.icu^
 ||u6u.icu^
 ||u78s.top^
 ||u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me^
 ||u803vs7fuhn5w9p5.k45ki53dq.com^
 ||u833ij.com^
+||u896.weekand.com^
 ||u927.sfgate.com^
 ||u939.colgate.com^
 ||u999.wcvb.com^
@@ -86267,6 +86286,7 @@
 ||v.strosin.biz^
 ||v.topya.com^
 ||v040419.badjojo.com^
+||v063.4029tv.com^
 ||v066.wxii12.com^
 ||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
 ||v1-ad.video.yximgs.com^
@@ -86309,6 +86329,7 @@
 ||v6ii.gdt.qq.com^
 ||v6rxv5coo5.com^
 ||v785.online^
+||v812.lakecountystar.com^
 ||v9banners-com.cdn.ampproject.org^
 ||v9banners.com^
 ||va.aielheyrat.com^
@@ -87876,7 +87897,6 @@
 ||warmanmamelon.com^
 ||warmerdisembark.com^
 ||warmupstenuti.shop^
-||warning.support^
 ||warnmessage.com^
 ||warnothnayword.shop^
 ||warrantpiece.com^
@@ -91610,6 +91630,7 @@
 ||y2sysv81v.com^
 ||y341i.xyz^
 ||y43wd34.dagobert33.xyz^
+||y494.wdsu.com^
 ||y4e04gql5o1b.www.nookgaming.com^
 ||y66xvgo5i.chuimg.com^
 ||y6zqw.boyspornpics.com^
@@ -92179,6 +92200,7 @@
 ||yqigli.tourlane.de^
 ||yqlxkzs.cn^
 ||yqlxwb.icu^
+||yqlzccxn.icu^
 ||yqmxfz.com^
 ||yqorwz.weisshaus.at^
 ||yqqhbd.yotsuyaotsuka.com^
@@ -92425,6 +92447,7 @@
 ||z1.o8h7d.cn^
 ||z1.pclady.com.cn^
 ||z1hihu.xmcimg.com^
+||z210.manisteenews.com^
 ||z211.yourconroenews.com^
 ||z3617cz9ep.fitness.tappbrothers.com^
 ||z3p9f.xyz^
