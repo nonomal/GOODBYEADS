@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-13 09:49:57（北京时间）
+! Version: 2024-12-13 20:43:57（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93230
+! Total count: 93226
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2587,7 +2587,6 @@
 ||77b0619134.fc29334d79.com^
 ||77bd7b02a8.com^
 ||77bf977ba9.com^
-||77c4175fc7.com^
 ||77cdc6d130.com^
 ||77d0835301.775cf6f1ae.com^
 ||77e0708efa.com^
@@ -2908,6 +2907,7 @@
 ||8ea2468d09.com^
 ||8ec9b7706a.com^
 ||8ehhtsv9bo7i.monkeylearn.com^
+||8et.icu^
 ||8exx9qtuojv1.shop^
 ||8ezc.sfr.fr^
 ||8f2b4c98e7.com^
@@ -20534,7 +20534,6 @@
 ||ccryxqgqf.com^
 ||ccs.umeng.com^
 ||ccsshn137.shop^
-||ccsybqmwexbht.com^
 ||cctrkom.creditcards.com^
 ||cctv.adsunion.com^
 ||ccwxma.xyz^
@@ -24444,6 +24443,7 @@
 ||cthbini.xyz^
 ||ctiegx.kagu-wakuwaku.com^
 ||ctiimage.actonservice.com^
+||ctimiyf.top^
 ||ctiotjobkfu.com^
 ||ctjfdn.sandals.com^
 ||ctkjiysyepxwrv.xyz^
@@ -27163,7 +27163,6 @@
 ||debonairdust.com^
 ||debonairtree.com^
 ||debonerscroop.top^
-||debouchbittie.com^
 ||debrisstern.com^
 ||debsoaftist.com^
 ||debtsbosom.com^
@@ -33352,7 +33351,6 @@
 ||fd2cd5c351.com^
 ||fd35bb45c8.f4823894ba.com^
 ||fd39024d2a.com^
-||fd3b334d49.com^
 ||fd4.eye.to^
 ||fd4115aecd.com^
 ||fd5orie8e.com^
@@ -38822,7 +38820,6 @@
 ||hexusads.fluent.ltd.uk^
 ||heyaxr.fashiondays.bg^
 ||heybarnacle.com^
-||heybedrid.com^
 ||heycompassion.com^
 ||heycryptic.com^
 ||heyzap.com^
@@ -68960,7 +68957,6 @@
 ||services.releasepoint.com^
 ||services.sdiapi.com^
 ||services.wetek.com^
-||services.zam.com^
 ||servicesrc.org^
 ||servicetechtracker.com^
 ||servicing.business.hsbc.com^
@@ -83976,6 +83972,7 @@
 ||treepullmerriment.com^
 ||treferty33.fun^
 ||trehtnoas.com^
+||treimphens.com^
 ||trek.powtoon.com^
 ||trekachy.com^
 ||trekblue.com^
@@ -87585,7 +87582,6 @@
 ||vst.dfn-network.pro^
 ||vst.sibnet.ru^
 ||vst.videolink.host^
-||vst.videolink.site^
 ||vstat.borderlessbd.com^
 ||vstat.rtr-vesti.ru^
 ||vstats.me^
