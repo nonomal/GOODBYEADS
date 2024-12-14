@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-14 09:45:25（北京时间）
+! Version: 2024-12-14 20:40:12（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93238
+! Total count: 93239
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -32864,7 +32864,6 @@
 ||eymiwj.promotor.ro^
 ||eymiwj.prosport.ro^
 ||eymqcj.lineonline.it^
-||eynecauk.com^
 ||eynol.xyz^
 ||eynpauoatsdawde.com^
 ||eyoxkuhco.com^
@@ -39183,7 +39182,6 @@
 ||hleouh.feelunique.com^
 ||hlhyzh.fann.cz^
 ||hljmdaz.com^
-||hlkertma.com^
 ||hlmiq.com^
 ||hlms.ecologie.gouv.fr^
 ||hlogger.heraldcorp.com^
@@ -43172,6 +43170,7 @@
 ||ithocawauthaglu.net^
 ||ithoughtsustache.info^
 ||iththinleldedallov.info^
+||itimiyo.top^
 ||itineraryborn.com^
 ||itinerarymonarchy.com^
 ||itjcqlp.icu^
@@ -49131,7 +49130,6 @@
 ||m6d.icu^
 ||m6j37.xyz^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
-||m700.bigrapidsnews.com^
 ||m73lae5cpmgrv38.com^
 ||m7i1k.fun^
 ||m81jmqmn.ru^
@@ -63253,6 +63251,7 @@
 ||qm-g.actonservice.com^
 ||qm.redbull.com^
 ||qm.veldtwalk.com^
+||qm2.icu^
 ||qmaacxajsovk.com^
 ||qmahepzo.one^
 ||qmbdta.cn^
@@ -86694,6 +86693,7 @@
 ||veeqlly.com^
 ||veeredfunt.top^
 ||veezudeedou.net^
+||vegaingi.com^
 ||vegetablesparrotplus.com^
 ||vegetationadmirable.com^
 ||vegetationartcocoa.com^
@@ -91565,6 +91565,7 @@
 ||xunzbx.mon-abri-de-jardin.com^
 ||xuoizbtl.xyz^
 ||xuojhr.mobly.com.br^
+||xupalace.org^
 ||xuqza.com^
 ||xutolr.mainichikirei.jp^
 ||xutolr.mantan-web.jp^
