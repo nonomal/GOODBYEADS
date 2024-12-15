@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-15 09:55:32（北京时间）
+! Version: 2024-12-15 20:40:39（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93209
+! Total count: 93180
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1542,7 +1542,6 @@
 ||383e3851cf.0115b2b799.com^
 ||3854704790.com^
 ||3867.5clo0xmbf.com^
-||38711532a0.com^
 ||3887.5clo0xmbf.com^
 ||3889082.dev.att.llabs.io^
 ||38bw0.space^
@@ -1876,7 +1875,6 @@
 ||4dsbanner.net^
 ||4dtrk.com^
 ||4e0622e316.com^
-||4e26d342b8.com^
 ||4e5aac7959.15f7a5a67a.com^
 ||4e645c7cf2.com^
 ||4e7042dd58.817dae10e1.com^
@@ -2066,7 +2064,6 @@
 ||563fe72ecf.ad2db78801.com^
 ||5657.l5eamr17d.com^
 ||5661c81449.com^
-||566680be11.com^
 ||566958a732.e0ad1f3ca8.com^
 ||5671.5clo0xmbf.com^
 ||5675.833enmhob.com^
@@ -2130,7 +2127,6 @@
 ||5b3fbababb.com^
 ||5b47115d66.77bd7b02a8.com^
 ||5b7cb7236e.com^
-||5ba9bf8065.com^
 ||5bdd71381c.com^
 ||5bf177fbac.938b97e5ba.com^
 ||5bf6d94b92.com^
@@ -5907,6 +5903,7 @@
 ||a5game.win^
 ||a5jogo.biz^
 ||a5jogo.club^
+||a5t.icu^
 ||a613.redbluffdailynews.com^
 ||a64x.com^
 ||a65768f777.com^
@@ -9981,7 +9978,6 @@
 ||ads.web.de^
 ||ads.webmasterpoint.org^
 ||ads.webme.com^
-||ads.websiteservices.com^
 ||ads.wetpussy.sexy^
 ||ads.whoishostingthis.com^
 ||ads.wiezoekje.nl^
@@ -12052,7 +12048,6 @@
 ||amkxihjuvo.com^
 ||aml.valuecommerce.com^
 ||amlumineona.com^
-||amlvbzvaejjnn.top^
 ||amlyyqjvjvber.top^
 ||amlyyqjvjvzmm.top^
 ||ammankeyan.com^
@@ -12140,7 +12135,6 @@
 ||amvbwleayvabj.top^
 ||amvbwleayvoba.top^
 ||amvtwk.thebottleclub.com^
-||amwaenayzjbqe.top^
 ||amwatching.com^
 ||amyfixesfelicity.com^
 ||amylsturkdom.com^
@@ -13585,7 +13579,6 @@
 ||api.installer.xiaomi.com^
 ||api.intensifier.de^
 ||api.iterable.com^
-||api.iterative.ly^
 ||api.itpub.cloud^
 ||api.jietuhb.com^
 ||api.june.so^
@@ -16617,7 +16610,6 @@
 ||baijs08.shop^
 ||baijs08.xyz^
 ||baijs09.shop^
-||bailershowk.top^
 ||baileybenedictionphony.com^
 ||bailihaiw.com^
 ||bailoaso.xyz^
@@ -17733,7 +17725,6 @@
 ||bfmio.com^
 ||bfnsnehjbkewk.com^
 ||bfntkv.icon.co.cr^
-||bfnuhejbcs.com^
 ||bfp.capitalone.com^
 ||bft5.destinia.fr^
 ||bfvlgp.appstory.co.kr^
@@ -19245,6 +19236,7 @@
 ||bsbmex.flaschenpost.ch^
 ||bsbrcdna.com^
 ||bserver.gp-guia.net^
+||bservr.com^
 ||bsgbd77l.de^
 ||bshr.ezodn.com^
 ||bshrdr.com^
@@ -19878,7 +19870,6 @@
 ||c73afb43bc.389867b0e2.com^
 ||c783.fastcompany.com^
 ||c78zf.xyz^
-||c796b67474.com^
 ||c7c9cb797a.1f6bf6f5a3.com^
 ||c7vw6cxy7.com^
 ||c8.net.ua^
@@ -20015,7 +20006,6 @@
 ||callalelel.info^
 ||calldesignna.actonservice.com^
 ||calledoccultimprovement.com^
-||callingfracture.com^
 ||callousannounced.com^
 ||callprintingdetailed.com^
 ||calls.uptownleads.com^
@@ -21484,7 +21474,6 @@
 ||choakaucmomt.com^
 ||choalsegroa.xyz^
 ||choamikr.com^
-||choanaatalaya.shop^
 ||choapeek.com^
 ||chockspunts.shop^
 ||chocolatesingconservative.com^
@@ -23104,7 +23093,6 @@
 ||config.appjolt.com^
 ||config.chsmarttv.com^
 ||config.jpush.cn^
-||config.safedk.com^
 ||config.unityads.unity3d.com^
 ||configurationluxuriantinclination.com^
 ||configure.adlermode.com^
@@ -23924,7 +23912,6 @@
 ||coyureviral.com^
 ||cozenedkwanza.top^
 ||cozeswracks.com^
-||cozringy.shop^
 ||cp.7y7.com^
 ||cp.cp.twendee.jp^
 ||cp.deltadentalwa.com^
@@ -27560,7 +27547,6 @@
 ||depressedchamber.com^
 ||depsabsootchut.net^
 ||deqik.com^
-||derateddeerdog.click^
 ||derateissuant.top^
 ||derevya2sh8ka09.com^
 ||deridenowadays.com^
@@ -28460,7 +28446,6 @@
 ||dissolvedessential.com^
 ||dissolvetimesuspicions.com^
 ||dist.belnk.com^
-||distainkusan.com^
 ||distancefilmingamateur.com^
 ||distancemedicalchristian.com^
 ||distant-handle.pro^
@@ -30064,7 +30049,6 @@
 ||ea011c4ae4.com^
 ||ea091c36b2.4f442e5c52.com^
 ||ea3999c26b.com^
-||ea8e52e061.com^
 ||eab41496ab.7335ffd8bc.com^
 ||eabids.com^
 ||eabithecon.xyz^
@@ -30851,7 +30835,6 @@
 ||electronics.tradeshow.globalsources.com^
 ||electronicsmissilethreaten.com^
 ||elegantmassoy.shop^
-||elektrapanicky.shop^
 ||elemea.xyz^
 ||elementary-travel.pro^
 ||elementcircumscriberotten.com^
@@ -31560,7 +31543,6 @@
 ||enews.alfaromeo.it^
 ||enews.learninga-z.com^
 ||enews10.yxlady.net^
-||enfieldlovey.shop^
 ||enftvgnkylijcp.xyz^
 ||engage-emea.jll.com^
 ||engage.3m.co.cr^
@@ -34024,7 +34006,6 @@
 ||fjortk.braun-hamburg.com^
 ||fjqcqdr.icu^
 ||fjuccm.uktsc.com^
-||fjuga.top^
 ||fjxstt.xyz^
 ||fk.janetsh.com^
 ||fkbkun.com^
@@ -36626,7 +36607,6 @@
 ||go-v4.savethereef.xyz^
 ||go-v4.splashandsunshine.com^
 ||go.17app.co^
-||go.17r.pro^
 ||go.4010.ru^
 ||go.4sq.com^
 ||go.accredible.com^
@@ -38193,7 +38173,6 @@
 ||ha723.icu^
 ||haamumvxavsxwac.xyz^
 ||habirimodioli.com^
-||habitsorwell.top^
 ||habitualexecute.com^
 ||habovethecit.info^
 ||habovethecity.info^
@@ -40530,7 +40509,6 @@
 ||ikwzrix.com^
 ||il.promo.skf.com^
 ||ilajaing.com^
-||ilamaviii.shop^
 ||ilaterdeallyig.info^
 ||ilaterdeallyighab.info^
 ||ilead.itrack.it^
@@ -43689,7 +43667,6 @@
 ||jeannenoises.com^
 ||jeanspurrcleopatra.com^
 ||jebhnmggi.xyz^
-||jebusiraffler.shop^
 ||jeccmq.wehkamp.nl^
 ||jechusou.com^
 ||jecoglegru.com^
@@ -45436,6 +45413,7 @@
 ||ktdcoy.lyst.it^
 ||kthjuw.lyst.com.au^
 ||ktikpuruxasq.com^
+||ktimiyd.top^
 ||ktkjmp.com^
 ||ktkvcpqyh.xyz^
 ||ktnwxhjv.xyz^
@@ -58685,7 +58663,6 @@
 ||outgratingknack.com^
 ||outheelrelict.com^
 ||outhulem.net^
-||outils.worldoo.info^
 ||outils2.worldoo.info^
 ||outkisslahuli.com^
 ||outlapdawn.live^
@@ -69668,6 +69645,7 @@
 ||sicilywring.com^
 ||sicklybates.com^
 ||sicklypercussivecoordinate.com^
+||siconoi.com^
 ||sicouthautso.net^
 ||sid.nordstrom.com^
 ||sidanarchy.net^
@@ -73924,7 +73902,6 @@
 ||sonnerie.net^
 ||sonnyadvertise.com^
 ||sonobi.com^
-||sonoressombre.shop^
 ||sontent.powzers.lol^
 ||sonumal.com^
 ||sonybivstatic-a.akamaihd.net^
@@ -80799,7 +80776,6 @@
 ||toffeeallergythrill.com^
 ||toffeebigot.com^
 ||toffeecollationsdogcollar.com^
-||tofterbaths.shop^
 ||togenron.com^
 ||togetherballroom.com^
 ||toglooman.com^
@@ -81229,7 +81205,6 @@
 ||tqrjlqt.com^
 ||tqtedm.kosmetik.at^
 ||tqtqvb.xyz^
-||tqtratosehb.com^
 ||tquspo.com^
 ||tquvbfl.com^
 ||tqvacq.intrend.it^
@@ -82539,7 +82514,6 @@
 ||track.ferrari.com^
 ||track.ferraridealers.com^
 ||track.financialfairness.org.uk^
-||track.fluffyfalcon.com^
 ||track.fxstreet.com^
 ||track.gaconnector.com^
 ||track.gawker.com^
@@ -85523,7 +85497,6 @@
 ||unblock2303.xyz^
 ||unblock2304.xyz^
 ||unbloodied.sbs^
-||unboxmegrel.click^
 ||unbunearyan.com^
 ||unbuttonfootprintssoftened.com^
 ||uncalmgermane.top^
@@ -87123,7 +87096,6 @@
 ||vindicosuite.com^
 ||vindictivegrabnautical.com^
 ||vinegardaring.com^
-||vinfdv6b4j.com^
 ||vingartistictaste.com^
 ||vinosedermol.com^
 ||vinsgcs.com^
@@ -89646,7 +89618,6 @@
 ||wstats.gameblog.fr^
 ||wstats.slashed.cloud^
 ||wstyruafypihv.xyz^
-||wsujgqntuchl.com^
 ||wsuqzu.armani.com^
 ||wswxsk.xyz^
 ||wsyfsg.xyz^
@@ -91421,6 +91392,7 @@
 ||xpdronhu.xyz^
 ||xpffkbpq.xyz^
 ||xphcrjth.xyz^
+||xpicj0.icu^
 ||xpicj6.cc^
 ||xpicj8.cc^
 ||xpj08.oss-cn-beijing.aliyuncs.com^
@@ -92509,7 +92481,6 @@
 ||z1.o8h7d.cn^
 ||z1.pclady.com.cn^
 ||z1hihu.xmcimg.com^
-||z210.manisteenews.com^
 ||z211.yourconroenews.com^
 ||z216.times-standard.com^
 ||z3617cz9ep.fitness.tappbrothers.com^
