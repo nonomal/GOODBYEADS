@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-16 09:52:27（北京时间）
+! Version: 2024-12-16 20:46:57（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93283
+! Total count: 93310
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1238,6 +1238,7 @@
 ||2d283cecd5.com^
 ||2d363be680.abf77420f8.com^
 ||2d439ab93e.com^
+||2d5ac65613.com^
 ||2d5ae0d013.d8c04a25e8.com^
 ||2d5e92979c.3622911ae3.com^
 ||2d6g0ag5l.de^
@@ -2422,6 +2423,7 @@
 ||6e.co.kr^
 ||6e17040111.aa12b32ecc.com^
 ||6e391732a2.com^
+||6e6cd153a6.com^
 ||6e76e4803d.com^
 ||6e8a9948e0.6e391732a2.com^
 ||6e8db01a49.26c42ca1c2.com^
@@ -18599,6 +18601,7 @@
 ||boomspomard.shop^
 ||boomtrain.com^
 ||booseed.com^
+||booshoatoocotez.net^
 ||boost-next.co.jp^
 ||boostads.net^
 ||boostaubeehy.net^
@@ -21617,6 +21620,7 @@
 ||churci.com^
 ||churro.noteapps.info^
 ||chushoushijian.cn^
+||chussuth.com^
 ||chyjobopse.pro^
 ||chytridaustral.com^
 ||chyvz-lsdpv.click^
@@ -22850,6 +22854,7 @@
 ||comemunicatet.com^
 ||comeplums.com^
 ||cometadministration.com^
+||cometappetit.shop^
 ||cometlytrack.com^
 ||cometothepointaton.info^
 ||comettypes.com^
@@ -24124,9 +24129,11 @@
 ||cr09.biz^
 ||crab.dunkeldbutchers.co.uk^
 ||crab.goalcanvas.com^
+||crabletfrijole.shop^
 ||crackbroadcasting.com^
 ||crackquarrelsomeslower.com^
 ||crackyunfence.com^
+||craegvin.com^
 ||craftsmangraygrim.com^
 ||crafty-math.com^
 ||craharice.com^
@@ -26975,6 +26982,7 @@
 ||db.sarcelgusla.com^
 ||db033pq6bj64g.cloudfront.net^
 ||db20da1532.com^
+||db33180b93.com^
 ||db3fefcace.cb7f35d82c.com^
 ||db4zl9wffwnmb.cloudfront.net^
 ||db5-eap.settings-win.data.microsoft.com.akadns.net^
@@ -27405,6 +27413,7 @@
 ||deghooda.net^
 ||degradationrethink.com^
 ||degradationtransaction.com^
+||degradeaccusationshrink.com^
 ||degradeexpedient.com^
 ||degree.insead.edu^
 ||degreebristlesaved.com^
@@ -28277,6 +28286,7 @@
 ||diningconsonanthope.com^
 ||diningprefixmyself.com^
 ||diningsovereign.com^
+||dinkeysosmetic.shop^
 ||dinnercreekawkward.com^
 ||dinocraft-test.animocabrands.com^
 ||dinocraft.animocabrands.com^
@@ -33154,6 +33164,7 @@
 ||faestara.com^
 ||fafmimgubcm.com^
 ||faggapmunost.com^
+||faggotstagily.shop^
 ||faggrim.com^
 ||fagovwnavab.com^
 ||fagtgb.acorn.com^
@@ -38894,6 +38905,7 @@
 ||hewonderfulst.info^
 ||hewrutu.top^
 ||hexagon-analytics.com^
+||hexinemicerun.top^
 ||hexitolsafely.top^
 ||hexovythi.pro^
 ||hexusads.fluent.ltd.uk^
@@ -46067,6 +46079,7 @@
 ||laurel.macrovision.com^
 ||laurel.rovicorp.com^
 ||laustiboo.com^
+||laustoowagosha.net^
 ||lavamedia.vn^
 ||lavanetwork.net^
 ||lavatorydownybasket.com^
@@ -54614,6 +54627,7 @@
 ||motsardi.net^
 ||motsjnv.cn^
 ||motu-teamblue.services^
+||moumaiphuch.net^
 ||mountain.zhidao.baidu.com^
 ||mountainbender.xyz^
 ||mountaincaller.top^
@@ -55350,6 +55364,7 @@
 ||n6579.com^
 ||n69.com^
 ||n7181.com^
+||n7a.icu^
 ||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
 ||n7pusher.com^
 ||n818.timesherald.com^
@@ -56230,6 +56245,7 @@
 ||nlytcs.idfnet.net^
 ||nlyte.aomg5bzv7.com^
 ||nm.placoidtobyman.com^
+||nm2.icu^
 ||nmanateex.top^
 ||nmcdn.us^
 ||nmersju.com^
@@ -57374,6 +57390,7 @@
 ||ogfga.net^
 ||ogfna.net^
 ||ogghpaoxwv.com^
+||oghgrazubafz.com^
 ||oghqvffmnt.com^
 ||oghyz.click^
 ||ogicatius.com^
@@ -60478,6 +60495,7 @@
 ||pipeofferear.com^
 ||piper.amocrm.ru^
 ||pipeschannels.com^
+||pipilimagine.shop^
 ||pipiska221net.shop^
 ||pipolafaiz.com^
 ||pippio.com^
@@ -60497,6 +60515,7 @@
 ||pirtecho.net^
 ||pirubcfy.xyz^
 ||pisehiation.shop^
+||pisgahserve.com^
 ||pishespied.top^
 ||pisism.com^
 ||piskaday.com^
@@ -62320,6 +62339,7 @@
 ||psixoahi.xyz^
 ||psma02.com^
 ||psmastersendgrid.branch.rocks^
+||psndhfrga.com^
 ||psoabojaksou.net^
 ||psoacickoots.net^
 ||psoackaw.net^
@@ -65378,6 +65398,7 @@
 ||riffingwiener.com^
 ||rifjhukaqoh.com^
 ||rifjynxoj-k.vip^
+||riflepicked.com^
 ||riflesurfing.xyz^
 ||riftharp.com^
 ||rigembassyleaving.com^
@@ -80142,6 +80163,7 @@
 ||thialfi.net.anwalt.de^
 ||thickcultivation.com^
 ||thickshortwage.com^
+||thickspaghetti.com^
 ||thickstatements.com^
 ||thiefbeseech.com^
 ||thiefperpetrate.com^
@@ -80831,6 +80853,7 @@
 ||toad.frontendmentor.io^
 ||toadcampaignruinous.com^
 ||toaglegi.com^
+||toahicobeerile.com^
 ||toamaustouy.com^
 ||toangroi.xyz^
 ||toapz.xyz^
@@ -84906,6 +84929,7 @@
 ||twentydruggeddumb.com^
 ||twerilxi.top^
 ||twerioi.top^
+||twevpgjeai.com^
 ||twewmykfe.com^
 ||twi-hjritecl.world^
 ||twigwisp.com^
@@ -88812,6 +88836,7 @@
 ||wh.giftd.tech^
 ||wh.ipaddress.com^
 ||whackresolved.com^
+||whacmoltibsay.net^
 ||whagrolt.com^
 ||whahmy.timberland.es^
 ||whaickeenie.xyz^
@@ -89092,6 +89117,7 @@
 ||widgets.stackcommerce.com^
 ||widgets.tree.com^
 ||widgetv4.subiz.com^
+||widiaoexhe.top^
 ||widow5blackfr.com^
 ||widthovercomerecentrecent.com^
 ||wifegraduallyclank.com^
@@ -93055,6 +93081,7 @@
 ||zoominfo.actonservice.com^
 ||zoopoptiglu.xyz^
 ||zoopsame.com^
+||zoowhausairoun.net^
 ||zoozishooh.com^
 ||zopqks.kavehome.com^
 ||zopuqv.icu^
