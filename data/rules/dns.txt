@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-17 09:48:25（北京时间）
+! Version: 2024-12-17 20:45:39（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93321
+! Total count: 93325
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1906,6 +1906,7 @@
 ||4imk5.online^
 ||4ir17.icu^
 ||4jaehnfqizyx.controlconceptsusa.com^
+||4jc.icu^
 ||4jffu.cn^
 ||4ke5b4ila.codedge.de^
 ||4kggatl1p7ps.top^
@@ -63518,6 +63519,7 @@
 ||qtdkxs.travellink.dk^
 ||qtdopwuau.xyz^
 ||qtfnvf.ethika.com^
+||qtimiyy.top^
 ||qtj0.destinia.pl^
 ||qtkjqmxhmgspb.com^
 ||qtoidch.icu^
@@ -67889,6 +67891,7 @@
 ||screenshot.best^
 ||screenshots.goguardian.com^
 ||screensnaps.top^
+||screspoy.com^
 ||scribe.wongnai.com^
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
@@ -69037,6 +69040,7 @@
 ||service.bechtle.com^
 ||service.changhong.upgrade2.huan.tv^
 ||service.hcob-bank.de^
+||service.techzine.eu^
 ||service.trustpid.com^
 ||service.vmos.cn^
 ||service.vrp.com^
