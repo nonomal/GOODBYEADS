@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-16 20:46:57（北京时间）
+! Version: 2024-12-17 09:48:25（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93310
+! Total count: 93321
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -11113,6 +11113,7 @@
 ||ageaskedfurther.com^
 ||agedpagefat.live^
 ||agedradiant.com^
+||ageetsaimouphih.net^
 ||agency2.ru^
 ||agencyrearrangepasture.com^
 ||agendacomedian.com^
@@ -18987,7 +18988,6 @@
 ||brassstacker.com^
 ||brasthingut.com^
 ||brattieseries.com^
-||braun634.com^
 ||bravantrent.eccocar.com^
 ||bravespace.pro^
 ||bravetense.com^
@@ -21029,6 +21029,7 @@
 ||cec4c419f8.98ae3db271.com^
 ||ced.sascdn.com^
 ||cedeimprovise.com^
+||cedrt6.pro^
 ||cee1.iteye.com^
 ||ceebethoatha.com^
 ||ceebikoph.com^
@@ -22544,6 +22545,7 @@
 ||co.promo.skf.com^
 ||co5457chu.com^
 ||co5n3nerm6arapo7ny.com^
+||co932.coloradopolitics.com^
 ||coachingminceur.go2cloud.org^
 ||coads.akipress.org^
 ||coagrohos.com^
@@ -24999,6 +25001,7 @@
 ||d03ab571b4.com^
 ||d0556a9fe2.b0e610e078.com^
 ||d067641e02.com^
+||d077.gazette.com^
 ||d08l9a634.com^
 ||d0bd7cb761.1c10feefc0.com^
 ||d0ce8193a8.04b6001ba9.com^
@@ -25457,6 +25460,7 @@
 ||d24g87zbxr4yiz.cloudfront.net^
 ||d24iusj27nm1rd.cloudfront.net^
 ||d24rtvkqjwgutp.cloudfront.net^
+||d250.baltimoresun.com^
 ||d25ce885a1.com^
 ||d25dfknw9ghxs6.cloudfront.net^
 ||d25m254rjp3rii.cloudfront.net^
@@ -26059,6 +26063,7 @@
 ||d44501d9f7.com^
 ||d473c08307.com^
 ||d483501b04.com^
+||d485.capitalgazette.com^
 ||d49z64r3ud4kq.cloudfront.net^
 ||d4a814e73b.73b26699df.com^
 ||d4a998a9aa.e6c1ff5d1e.com^
@@ -31937,6 +31942,7 @@
 ||epu.sh^
 ||epushclick.com^
 ||eputysolomon.com^
+||epvjljye.com^
 ||epwa.europarl.europa.eu^
 ||epwefjppare.com^
 ||epxfjcb.xyz^
@@ -32102,6 +32108,7 @@
 ||especiallyspawn.com^
 ||espionagegardenerthicket.com^
 ||espionageomissionrobe.com^
+||espleestrick.com^
 ||espressoroom.openapp.link^
 ||espritensemble.com^
 ||espy.boehs.org^
@@ -40505,6 +40512,7 @@
 ||ihcrqa.sonnenklar.tv^
 ||ihcxue.xyz^
 ||ihdcnwbcmw.com^
+||ihearsoh.com^
 ||ihfwer.aboutyou.com^
 ||ihgluu.xyz^
 ||ihhqwaurke.com^
@@ -42662,7 +42670,6 @@
 ||installer.betterinstaller.com^
 ||installfree.pro^
 ||installnow.pro^
-||installpack.net^
 ||installscolumnist.com^
 ||installslocalweep.com^
 ||installtracker.com^
@@ -44533,6 +44540,7 @@
 ||justservingfiles.net^
 ||justwebads.com^
 ||jutyledu.pro^
+||juutckrt.icu^
 ||juzaugleed.com^
 ||juznlx.xyz^
 ||juzqsq.finanzcheck.de^
@@ -48017,6 +48025,7 @@
 ||log.daqi.com^
 ||log.dav.edu.vn^
 ||log.doanhnhan.vn^
+||log.documentmanagerpdfdocxlssale.live^
 ||log.down61.com^
 ||log.dpa.com^
 ||log.dramaboxdb.com^
@@ -55048,6 +55057,7 @@
 ||mvpqrydt.xyz^
 ||mvujvxc.com^
 ||mvvhwabeshu.xyz^
+||mvwitz.xyz^
 ||mvwslulukdlux.xyz^
 ||mw-ind.actonservice.com^
 ||mw.app.qq.com^
@@ -57299,7 +57309,6 @@
 ||offergate-games-download1.com^
 ||offergate-software20.com^
 ||offergate-software6.com^
-||offergate.pro^
 ||offergo.net^
 ||offerimage.com^
 ||offerlink.co^
@@ -77072,6 +77081,7 @@
 ||stighoazon.com^
 ||stighunge.net^
 ||stikinemammoth.shop^
+||stikroltiltoowi.net^
 ||stilaikr.com^
 ||stillfolder.com^
 ||stimaariraco.info^
@@ -85326,7 +85336,6 @@
 ||ufiidvv.icu^
 ||ufiledsit.com^
 ||ufiler-pro2.ru^
-||ufiler.pro^
 ||ufinkln.com^
 ||ufiuhnyydllpaed.com^
 ||ufjslit.top^
@@ -87885,6 +87894,7 @@
 ||w88.natgeo.pt^
 ||w88.natgeotv.com^
 ||w88.nationalgeographic.com^
+||w890.denvergazette.com^
 ||w94.1qlgi.top^
 ||w9g7dlhw3kaank.www.eldorado.gg^
 ||wa.and.co.uk^
@@ -90837,7 +90847,6 @@
 ||xaprio.net^
 ||xatech.com^
 ||xavitithnga.buzz^
-||xavronwave76.site^
 ||xawlop.com^
 ||xaxoro.com^
 ||xaxrtiahkft.com^
@@ -91809,6 +91818,7 @@
 ||yab-adimages.s3.amazonaws.com^
 ||yabidos.com^
 ||yabun.club^
+||yackvidette.com^
 ||yacurlik.com^
 ||yads.yahoo.co.jp^
 ||yadtbk.blacks.co.uk^
@@ -92593,6 +92603,7 @@
 ||yzzqza.vanillashu.co.kr^
 ||z-eaazoov.top^
 ||z.cdn.adpool.bet^
+||z.cdn.braun634.com^
 ||z.cdp-dev.cnn.com^
 ||z.grfyw.com^
 ||z.inlist.com^
