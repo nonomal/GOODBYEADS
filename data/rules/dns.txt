@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-18 20:42:41（北京时间）
+! Version: 2024-12-19 09:45:47（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 93271
+! Total count: 93276
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1921,6 +1921,7 @@
 ||4u69.com^
 ||4ur.click^
 ||4ureyesonly.com^
+||4we.icu^
 ||4webmasters.com^
 ||4wfe3.icu^
 ||4wheel.de^
@@ -21020,6 +21021,7 @@
 ||ceebethoatha.com^
 ||ceebikoph.com^
 ||ceechuwaukah.com^
+||ceefsyqotuagk.com^
 ||ceegriwuwoa.net^
 ||ceeheesa.com^
 ||ceekougy.net^
@@ -45175,6 +45177,7 @@
 ||klipmart.com^
 ||kliqz.com^
 ||klixfeed.com^
+||kljhsanvj.com^
 ||klkk66.fun^
 ||klktmc.parler.co.jp^
 ||klmainprost.com^
@@ -46277,6 +46280,7 @@
 ||leecompany.actonservice.com^
 ||leefosto.com^
 ||leegaroo.xyz^
+||leegreemula.net^
 ||leepephah.com^
 ||leeptoadeesh.net^
 ||leesaushoah.net^
@@ -58588,6 +58592,7 @@
 ||otheve.play.aiseet.atianqi.com^
 ||othisf.tagomago.pl^
 ||othstr.beacon.qq.com^
+||otimiyk.top^
 ||otingolston.com^
 ||otisephie.com^
 ||otisxx.sullyn.com^
