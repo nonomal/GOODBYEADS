@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-21 20:37:03（北京时间）
+! Version: 2024-12-22 09:46:34（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 91824
+! Total count: 91813
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2699,7 +2699,6 @@
 ||81ccd22355.d8bb72d31d.com^
 ||8208tp.com^
 ||821a5b6b9e.363caab0ae.com^
-||821e800dfd.com^
 ||8220.l5eamr17d.com^
 ||823d58dda1.3edcc83467.com^
 ||8252.79j68qav2.com^
@@ -11398,7 +11397,6 @@
 ||akariyer.com^
 ||akaroafrypan.com^
 ||akatracking.esearchvision.com^
-||akauoxrvqh.com^
 ||akcr.free.fr^
 ||akdbr.com^
 ||akeedser.com^
@@ -14777,7 +14775,6 @@
 ||aralomomolachan.com^
 ||araneidboruca.com^
 ||arbersunroof.com^
-||arbitrarysack.com^
 ||arbourrenewal.com^
 ||arbutterfreer.com^
 ||arc1.msn.com^
@@ -15890,7 +15887,6 @@
 ||awhoupsou.com^
 ||awistats.com^
 ||awjadlbwiawt.com^
-||awkbkkqmeealv.top^
 ||awklir.0506mall.com^
 ||awkwardsuperstition.com^
 ||awldcupu.com^
@@ -16483,7 +16479,6 @@
 ||bagjuxtapose.com^
 ||baglanbize.net^
 ||baglaubs.com^
-||bagsonsale.online^
 ||baguioattalea.com^
 ||bahaismlenaean.shop^
 ||bahmemohod.com^
@@ -23817,7 +23812,6 @@
 ||cpmstar.com^
 ||cpmterra.com^
 ||cpmtree.com^
-||cpndz.space^
 ||cpng.lol^
 ||cpngiubbcnq.love^
 ||cppm-kc2.net.jumia.ci^
@@ -27531,7 +27525,6 @@
 ||df.tanx.com^
 ||df.whalerkentia.com^
 ||df0pmigc8xs70.cloudfront.net^
-||df4a3bc10a.com^
 ||df63c9d77a.2619374464.com^
 ||df63x.xyz^
 ||df80k0z3fi8zg.cloudfront.net^
@@ -30426,6 +30419,7 @@
 ||egoi.site^
 ||egotizeoxgall.com^
 ||egpdbp6e.de^
+||egraglauvoathog.com^
 ||egret.brothers.studio^
 ||egret.chankaryik.com^
 ||egret.hairproject.ch^
@@ -30459,6 +30453,7 @@
 ||ehutzaug.life^
 ||ei-api.testlb-gwy.easyjet.com.edgekey.net.easyjet.com^
 ||ei1s7b.cn^
+||ei7.icu^
 ||eicyds.qoo10.jp^
 ||eidersalias.com^
 ||eidoscruster.com^
@@ -32633,7 +32628,6 @@
 ||f.xyu.tv^
 ||f021b63d67.2463624e63.com^
 ||f023.bostonherald.com^
-||f029332141.com^
 ||f02b61sgc617.es.themoneytizer.com^
 ||f05afeecf9.e2fa67be2a.com^
 ||f07neg4p.de^
@@ -33280,7 +33274,6 @@
 ||ffe390afd658c19dcbf707e0597b846d.de^
 ||fffbaeef93.b12f1b0346.com^
 ||fffbd1538e.com^
-||ffmtighrta.com^
 ||ffofcetgurwrd.com^
 ||ffr.actonservice.com^
 ||ffrmel.gerryweber.com^
@@ -33660,7 +33653,6 @@
 ||fistulewiretap.shop^
 ||fitcenterz.com^
 ||fitfuldemolitionbilliards.com^
-||fitmmhrkgwk.com^
 ||fitsazx.xyz^
 ||fitsjamescommunicated.com^
 ||fitssheashasvs.info^
@@ -35197,7 +35189,6 @@
 ||gbmfid.1mg.com^
 ||gbncqh.koneko-breeder.com^
 ||gbndash2.fun^
-||gbpkmltxpcsj.xyz^
 ||gbqgwes.icu^
 ||gbqofs.com^
 ||gbtracking.cubiq.com^
@@ -38975,7 +38966,6 @@
 ||hoomigri.com^
 ||hoood.info^
 ||hoopbeingsmigraine.com^
-||hoopeeps.xyz^
 ||hoopersnonpoet.com^
 ||hoophaub.com^
 ||hoophejod.com^
@@ -42525,6 +42515,7 @@
 ||iqveat.icu^
 ||iqyioj.harryanddavid.com^
 ||ir.mildlydoucely.com^
+||ir4.icu^
 ||irate1x.xyz^
 ||irbtwjy.com^
 ||irbysdeepcy.com^
@@ -42818,6 +42809,7 @@
 ||iwhejirurage.com^
 ||iwhoosty.com^
 ||iwhzhi.packstyle.jp^
+||iwilmio.top^
 ||iwl2d7pa4yx1.www.logology.co^
 ||iwlnpw.claudiepierlot.com^
 ||iwmavidtg.com^
@@ -45628,6 +45620,7 @@
 ||ledgeviewpartners.actonservice.com^
 ||ledhatbet.com^
 ||lednews.powerint.com^
+||ledollull.com^
 ||ledrapti.net^
 ||leebegruwech.com^
 ||leech.fuchsegg.at^
@@ -53775,7 +53768,6 @@
 ||moodlerooms.blackboard.com^
 ||moodokay.com^
 ||moodunitsmusic.com^
-||mooieplaatjes.bierdopje.com^
 ||mookie1.com^
 ||mooltanagra.top^
 ||moomenog.com^
@@ -60242,6 +60234,7 @@
 ||pnnpan.cv-library.co.uk^
 ||pnouting.com^
 ||pnovfl.karaca.com^
+||pnpbjt.icu^
 ||pnperf.com^
 ||pnq.babcoxmediainc.com^
 ||pnsqsv.com^
@@ -61483,7 +61476,6 @@
 ||pstt.mtb-news.de^
 ||psuaqpz.com^
 ||psuftoum.com^
-||psughooy.com^
 ||psumainy.xyz^
 ||psungaum.com^
 ||psunseewhu.com^
@@ -64761,7 +64753,6 @@
 ||rotatejavgg124.fun^
 ||rotateme.ru^
 ||rotateportion.com^
-||rotaterma.click^
 ||rotator.tradetracker.net^
 ||rothermophony.com^
 ||rotiqucdne.me.uk^
@@ -65781,7 +65772,6 @@
 ||s4.sb89347.com^
 ||s46849916.sc.origins.en25.com^
 ||s4e8.cascades.com^
-||s4elk8ir1exrkc.com^
 ||s5.charliehebdo.fr^
 ||s6.textlink.vn^
 ||s615419487.sc.origins.en25.com^
@@ -68264,6 +68254,7 @@
 ||shanorin.com^
 ||shanvezhu.com^
 ||shaorgs.cn^
+||shaotgs.cn^
 ||shapedhomicidalalbert.com^
 ||shapelcounset.xyz^
 ||shaperswhorts.shop^
@@ -73477,7 +73468,6 @@
 ||spyluhqarm.com^
 ||spysamesent.live^
 ||spytrack.tic.ru^
-||spywarenuker.com^
 ||sq.aomg5bzv7.com^
 ||sq.knobblecleach.com^
 ||sq.volvellurol.com^
@@ -83368,6 +83358,7 @@
 ||trombocrack.com^
 ||tron.bbw-porn-video.com^
 ||tronads.io^
+||tronkuks.com^
 ||troopsassistedstupidity.com^
 ||troopseruptionfootage.com^
 ||tropbikewall.art^
@@ -84821,7 +84812,6 @@
 ||urbanairship.com^
 ||urbanjazzsecretion.com^
 ||urbanproxy.eu^
-||ureagrume.com^
 ||urechar.com^
 ||urehgr.halekulani.com^
 ||urekamedia.com^
@@ -88124,7 +88114,6 @@
 ||wongahmalta.com^
 ||wonigiwurtounsu.xyz^
 ||wonnauseouswheel.com^
-||wonnedmorling.click^
 ||wonnerdirging.com^
 ||wooballast.com^
 ||woodbeesdainty.com^
