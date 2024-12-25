@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-25 09:38:46（北京时间）
+! Version: 2024-12-25 20:39:11（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 92092
+! Total count: 92101
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -10125,6 +10125,7 @@
 ||adservh.com^
 ||adservice.google.cn^
 ||adservice.google.com^
+||adservice.sigmob.cn^
 ||adservice.tohsoft.com^
 ||adservicemedia.dk^
 ||adserviceretry.kugou.com^
@@ -10714,7 +10715,6 @@
 ||aec-target.base.be^
 ||aec-target.telenet.be^
 ||aecid.santanderbank.com^
-||aecuzicmd.com^
 ||aedileundern.shop^
 ||aee4e77dc5.com^
 ||aeefpine.com^
@@ -18304,7 +18304,6 @@
 ||bnsmoi.valx.jp^
 ||bnutnr.landandfarm.com^
 ||bnvsjg.hometogo.de^
-||bnwffktyqjwrreh.xyz^
 ||bnzkua.trussardi.com.br^
 ||bo2ffe45ss4gie.com^
 ||boa.auaesthetics.com^
@@ -18630,6 +18629,7 @@
 ||bpt.webedia-group.com^
 ||bptracking.com^
 ||bpxbzps.xyz^
+||bpxxgkoj.icu^
 ||bpyerxzn.xyz^
 ||bqacmp.vidaxl.no^
 ||bqeuffmdobmpoe.xyz^
@@ -20482,6 +20482,7 @@
 ||cdn-cf.postitial.com^
 ||cdn-channels-pixel.ex.co^
 ||cdn-dynamic.optimonk.com^
+||cdn-gw-dv.vip^
 ||cdn-image.com^
 ||cdn-ketchapp.akamaized.net^
 ||cdn-partners-references.lesoir.be^
@@ -20514,6 +20515,7 @@
 ||cdn.affiliatable.io^
 ||cdn.afwpc.com^
 ||cdn.agajx.com^
+||cdn.aiclk.com^
 ||cdn.alcatza.com^
 ||cdn.alfasense.net^
 ||cdn.alistcloud.com^
@@ -23785,6 +23787,7 @@
 ||cpaokhfmaccu.com^
 ||cpaway.com^
 ||cpays.com^
+||cpc-service-square.aiclk.com^
 ||cpcmart.com^
 ||cpcstdploqqh.com^
 ||cpcvabi.com^
@@ -26828,6 +26831,7 @@
 ||dc.repsol.com^
 ||dc.repsol.es^
 ||dc.services.visualstudio.com^
+||dc.sigmob.cn^
 ||dc.stenaline.co.uk^
 ||dc.stenaline.com^
 ||dc.stenaline.cz^
@@ -27569,7 +27573,6 @@
 ||dexoucheekripsu.net^
 ||dexplatform.com^
 ||dexpredict.com^
-||dexrimewbp.com^
 ||dextersolutions.actonservice.com^
 ||deymalaise.com^
 ||deziloaghop.com^
@@ -33433,7 +33436,6 @@
 ||fierysolemncow.com^
 ||fieslobwg.com^
 ||fiezaits.com^
-||figgq.com^
 ||fight.offtherecord.com^
 ||fightingleatherconspicuous.com^
 ||fightmallowfiasco.com^
@@ -36263,6 +36265,7 @@
 ||gmrhzf.wolfermans.com^
 ||gms.greatschools.org^
 ||gmsllx.sorteonline.com.br^
+||gmso12251oka.top^
 ||gmthhftif.com^
 ||gmufag.e1.ru^
 ||gmufag.fontanka.ru^
@@ -42188,7 +42191,6 @@
 ||installer.betterinstaller.com^
 ||installfree.pro^
 ||installnow.pro^
-||installpack.net^
 ||installscolumnist.com^
 ||installslocalweep.com^
 ||installtracker.com^
@@ -47530,6 +47532,7 @@
 ||log.popin.cc^
 ||log.prezi.com^
 ||log.propermessage.io^
+||log.pullcenter.live^
 ||log.pvpgang.com^
 ||log.quora.com^
 ||log.qvb.qcloud.com^
@@ -47738,6 +47741,7 @@
 ||loglady.skypicker.com^
 ||logperf.vnexpress.net^
 ||logql.yahoo.co.jp^
+||logrcv.aiclk.com^
 ||logresempales.shop^
 ||logru.vietnamplus.vn^
 ||logs-api.shoprunner.com^
@@ -57821,6 +57825,7 @@
 ||ospreyorceins.com^
 ||osrepwsysp.com^
 ||osrxzucira.com^
+||oss.cdn.aiclk.com^
 ||ossfloetteor.com^
 ||ossgogoaton.com^
 ||osshydreigonan.com^
@@ -63055,6 +63060,7 @@
 ||r42tag.com^
 ||r451.jamanetwork.com^
 ||r4nds.absorba.com^
+||r4u.icu^
 ||r5.dir.bg^
 ||r566.timescall.com^
 ||r5apiliopolyxenes.com^
@@ -64378,6 +64384,7 @@
 ||reuniondepadres.unisabana.edu.co^
 ||reunitedglossybewildered.com^
 ||rev-stripe.com^
+||rev.aiclk.com^
 ||rev.frankspeech.com^
 ||rev.lapippa.com^
 ||rev2pub.com^
@@ -65800,7 +65807,6 @@
 ||s.pcapps.qq.com^
 ||s.pcmgr.qq.com^
 ||s.pemsrv.com^
-||s.pie.org^
 ||s.pixsrvcs.com^
 ||s.playa.to^
 ||s.porndub.us^
@@ -81547,6 +81553,7 @@
 ||trace.rememberapp.co.kr^
 ||trace.swaven.com^
 ||trace.zhiyan.tencent-cloud.net^
+||tracelog-debug.aiclk.com^
 ||tracelog-debug.qquanquan.com^
 ||tracelog.www.alibaba.com^
 ||tracepath.cc^
@@ -83968,6 +83975,7 @@
 ||twi-hjritecl.world^
 ||twigwisp.com^
 ||twilightsuburbmill.com^
+||twilmii.top^
 ||twin-iq.kickfire.com^
 ||twinadsrv.com^
 ||twinboutjuly.com^
@@ -84940,6 +84948,7 @@
 ||update.lejiao.tv^
 ||update.purina.com^
 ||update.tcsg.edu^
+||update0.aiclk.com^
 ||updateadvancedgreatlytheproduct.vip^
 ||updatecenter.qq.com^
 ||updatecompletelyfreetheproduct.vip^
@@ -85214,6 +85223,7 @@
 ||usonar.jp^
 ||usounoul.com^
 ||usp1.baidu.com^
+||usr-api.aiclk.com^
 ||usr.interactiveone.com^
 ||usrkrz.zdravcity.ru^
 ||ussco-dev.actonservice.com^
@@ -87098,7 +87108,6 @@
 ||wbcygu.wardow.com^
 ||wbdds.com^
 ||wbdds.fr.ign.com^
-||wbdds.villaschweppes.com^
 ||wbdqwpu.com^
 ||wbgafrr.icu^
 ||wbidder.online^
