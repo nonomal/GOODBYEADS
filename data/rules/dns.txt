@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-27 09:39:47（北京时间）
+! Version: 2024-12-27 20:39:15（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 91790
+! Total count: 91831
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -3475,7 +3475,6 @@
 ||a.qinghua5.com^
 ||a.qncye.net^
 ||a.qsjiajiao.com^
-||a.quangushi.com^
 ||a.qunzou.com^
 ||a.quora.com^
 ||a.r8lnet.com^
@@ -7522,6 +7521,7 @@
 ||abdedenneer.com^
 ||abdf9edb4b.5b8dba1dee.com^
 ||abdicatebirchcoolness.com^
+||abdicatefluke.com^
 ||abdicatehorrified.com^
 ||abdicatesyrupwhich.com^
 ||abdlnk.com^
@@ -7538,6 +7538,7 @@
 ||abedgobetweenbrittle.com^
 ||abedwest.com^
 ||abedwithdrawalautograph.com^
+||abedworthlesscure.com^
 ||abeighkenches.com^
 ||abelekidr.com^
 ||abelestheca.com^
@@ -7560,6 +7561,7 @@
 ||abjkfy.muuu.com^
 ||abjmkkowboymb.top^
 ||abjtuq.exoticca.com^
+||abjureragspecialize.com^
 ||abkdae.namshi.com^
 ||abkmbrf.com^
 ||abkobh.chobirich.com^
@@ -7839,6 +7841,7 @@
 ||absscw.vegis.ro^
 ||abstainreckonyawn.com^
 ||abstortvarna.com^
+||absurditycanal.com^
 ||absurdunite.com^
 ||abt.bauhaus.es^
 ||abt.bauhaus.info^
@@ -8002,6 +8005,7 @@
 ||accountssticking.com^
 ||accountswindy.com^
 ||accreditedquite.com^
+||accreteprocess.click^
 ||accruefierceheartache.com^
 ||accscdn.m.taobao.com^
 ||accumula.actonservice.com^
@@ -10125,6 +10129,7 @@
 ||adserver.friendfinder.com^
 ||adserver.goforandroid.com^
 ||adserver.icimedias.ca^
+||adserver.ilgazzettinovesuviano.com^
 ||adserver.infotorg.se^
 ||adserver.irishwebmasterforum.com^
 ||adserver.janes.com^
@@ -10611,6 +10616,7 @@
 ||advfeeds.com^
 ||advg.jp^
 ||advice-ads.s3.amazonaws.com^
+||adviceforemost.com^
 ||adview.cn^
 ||advil.waze.com^
 ||advinci.co^
@@ -11133,6 +11139,7 @@
 ||agmtrk.com^
 ||agnes.waz.de^
 ||agnrcrpwyyn.com^
+||agoholiday.com^
 ||agonesdeleted.click^
 ||agonyenginedrivermansion.com^
 ||agooxouy.net^
@@ -11639,6 +11646,7 @@
 ||alightbornbell.com^
 ||alightdrugwith.com^
 ||alightmiraculous.com^
+||alignmentflattery.com^
 ||alimama.alicdn.com^
 ||alime-pic.oss-cn-hangzhou.aliyuncs.com^
 ||alimonylaterdevious.com^
@@ -11702,6 +11710,7 @@
 ||alleron.andree.free.fr^
 ||alleviatedesignertheir.com^
 ||alleviatepracticableaddicted.com^
+||alleycranealoof.com^
 ||alleygoat.com^
 ||allfb8dremsiw09oiabhboolsebt29jhe3setn.com^
 ||allfreecounter.com^
@@ -13216,6 +13225,7 @@
 ||anothertuesdaypattern.com^
 ||anpptedtah.com^
 ||anpqbngtbvyyx.com^
+||anqnbzyvbkkan.top^
 ||ans.avast.com^
 ||ans.avast.ru^
 ||ans.milb.com^
@@ -13462,6 +13472,7 @@
 ||apfbrk.butorline.hu^
 ||apglinks.net^
 ||apharponloun.com^
+||aphasiacarrels.com^
 ||aphid.nihilnegativum.com^
 ||aphid.polarcop.com^
 ||aphid.smartjournal.no^
@@ -14722,6 +14733,7 @@
 ||apqmxf.curama.jp^
 ||apress.efscle.com^
 ||aprilineffective.com^
+||apritifka.click^
 ||apritvun.com^
 ||apromoweb.com^
 ||apronstrongly.com^
@@ -14880,6 +14892,7 @@
 ||arhnuin.xyz^
 ||aria.inhaabit.com^
 ||ariane.abtasty.com^
+||ariessifts.click^
 ||arigng.door.ac^
 ||arilsoaxie.xyz^
 ||arincol.arin-innovation.com^
@@ -14905,6 +14918,7 @@
 ||armadillo.superpeak.dk^
 ||armamentsummary.com^
 ||armarilltor.com^
+||armataangrily.shop^
 ||armedauditoriumclog.com^
 ||armedtidying.com^
 ||armhighlyexpress.com^
@@ -15713,6 +15727,7 @@
 ||autchoog.net^
 ||autchopord.net^
 ||auteboon.net^
+||autemismal.click^
 ||auth-em.hismarttv.com^
 ||auth-launcher-em.hismarttv.com^
 ||auth-launcher-na.hismarttv.com^
@@ -15838,6 +15853,7 @@
 ||avolvesoftware.actonservice.com^
 ||avorgy3431.fun^
 ||avouchamazeddownload.com^
+||avouchuramil.com^
 ||avowdelicacydried.com^
 ||avp.labanquepostale.fr^
 ||avpayments.com^
@@ -17320,6 +17336,7 @@
 ||befoulsusaunce.click^
 ||befyah.icu^
 ||begantotireo.xyz^
+||begetshowder.shop^
 ||beggarlymeatcan.com^
 ||beggingparagraph.com^
 ||beginfrightsuit.com^
@@ -17374,6 +17391,7 @@
 ||belengougha.com^
 ||belfrycaptured.com^
 ||belfrynonfiction.com^
+||belgianbesin.shop^
 ||belgium.wolterskluwer.com^
 ||belia-glp.com^
 ||belickitungchan.com^
@@ -18911,6 +18929,7 @@
 ||breedssupposedlypoetry.com^
 ||breedtagask.com^
 ||breezefraudulent.com^
+||brelawunbung.click^
 ||brespark.eccocar.com^
 ||brevityeconomy.com^
 ||brevnet.eccocar.com^
@@ -19477,6 +19496,7 @@
 ||bwbmyzvnjqrbk.top^
 ||bweriov.top^
 ||bwgmymp.com^
+||bwilmiv.top^
 ||bwj4.hrhibiza.com^
 ||bwjfnj.xyz^
 ||bwkpkx.projectxparis.com^
@@ -19905,6 +19925,7 @@
 ||camads.net^
 ||camagess.carte-gr.total.fr^
 ||camberchimp.com^
+||cambrelfasc.shop^
 ||cambridgeinadmissibleapathetic.com^
 ||cameesse.net^
 ||camel.gastro-plan.app^
@@ -22164,6 +22185,7 @@
 ||cltgtstor001.blob.core.windows.net^
 ||cltr.irlmail.org^
 ||cltxxq.cruises.united.com^
+||cluesdumpy.shop^
 ||cluethydash.com^
 ||cluewesterndisreputable.com^
 ||clumoutpomp.click^
@@ -22373,6 +22395,7 @@
 ||cobwebcomprehension.com^
 ||cobwebhauntedallot.com^
 ||cobwebzincdelicacy.com^
+||cocamathereon.shop^
 ||cockpitdcbaima.carte-gr.total.fr^
 ||cockroach.head4work.com.au^
 ||cockroach.no.mortgage^
@@ -23879,6 +23902,7 @@
 ||cpvadvertise.com^
 ||cpvfeed.50onred.com^
 ||cpvlabtrk.online^
+||cpvmkpqjbqyfh.com^
 ||cpwlctfk.xyz^
 ||cpx.golem.de^
 ||cpx.smind.si^
@@ -24343,6 +24367,7 @@
 ||ctyusif.top^
 ||cuaeblh.icu^
 ||cubchillysail.com^
+||cubcogons.click^
 ||cubeuptownpert.com^
 ||cubiboak.com^
 ||cubiclerunner.com^
@@ -27738,7 +27763,6 @@
 ||dialogueshipwreck.com^
 ||diamages.carte-gr.total.fr^
 ||diametersunglassesbranch.com^
-||diamideswitch.shop^
 ||dian.brecm.xyz^
 ||dianassb.com^
 ||dianomi.com^
@@ -32218,6 +32242,7 @@
 ||events.ubembed.com^
 ||events.verticurl.com^
 ||events.virtusize.jp^
+||events.watchtower.imdbtv.amazon.dev^
 ||events.webdock.io^
 ||events.whisk.com^
 ||events.yourcx.io^
@@ -34240,6 +34265,7 @@
 ||foundationhorny.com^
 ||foundtr.com^
 ||foupeethaija.com^
+||fourgonhuss.shop^
 ||fourier.taobao.com^
 ||fourmtagservices.appspot.com^
 ||fourteenthcongratulate.com^
@@ -36199,6 +36225,7 @@
 ||gmsllx.sorteonline.com.br^
 ||gmso12251oka.top^
 ||gmso12261oka.top^
+||gmso12271oka.top^
 ||gmthhftif.com^
 ||gmufag.e1.ru^
 ||gmufag.fontanka.ru^
@@ -37543,6 +37570,7 @@
 ||gtm.saumag.edu^
 ||gtm.skrz.cz^
 ||gtm.taginstall.com^
+||gtm.temu.com^
 ||gtm.thefeed.com^
 ||gtm.thermondo.de^
 ||gtm.tipranks.com^
@@ -37693,6 +37721,7 @@
 ||gw2cddpt2hao.asia^
 ||gw2cddpt2hao.cloud^
 ||gw2cddpt2hao.site^
+||gw8.icu^
 ||gwallet.com^
 ||gwbone-cpw.today^
 ||gwfcpecnwwtgn.xyz^
@@ -43875,6 +43904,7 @@
 ||just.playvici.com^
 ||justad.mobi^
 ||justapp.top^
+||justenantrum.com^
 ||justey.com^
 ||justgetitfaster.com^
 ||justificationjay.com^
@@ -47201,6 +47231,7 @@
 ||loftsbaacad.com^
 ||loftyeliteseparate.com^
 ||log-*.previewnetworks.com^
+||log-185a61e7.bendigobank.com.au^
 ||log-ads.r7.com^
 ||log-ana.h3z.jp^
 ||log-api-mn.huxiu.com^
@@ -54560,6 +54591,7 @@
 ||n7a.icu^
 ||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
 ||n818.timesherald.com^
+||n8u.icu^
 ||n9s74npl.de^
 ||na-pages.husqvarna.com^
 ||na.groupondata.com^
@@ -63507,6 +63539,7 @@
 ||referwhimperceasless.com^
 ||refia.xyz^
 ||refilmsbones.top^
+||refinescruelly.click^
 ||refingoon.com^
 ||reflectingwindowscheckbook.com^
 ||reflectionseldomnorth.com^
@@ -66818,6 +66851,7 @@
 ||scratchconsonant.com^
 ||scratchy-trick.com^
 ||scrawmthirds.com^
+||screddoit.com^
 ||screechcompany.com^
 ||screen.buzzvil.com^
 ||screenov.site^
@@ -67824,6 +67858,7 @@
 ||sentientfog.com^
 ||sentiment.icis.com^
 ||sentimenthailstonesubjective.com^
+||sentinelbi.com^
 ||sentinelp.com^
 ||sentry.eks.hoyoverse.com^
 ||sentry.mediacdn.vn^
@@ -68712,6 +68747,7 @@
 ||sieglinde22.xyz^
 ||sierradissolved.com^
 ||sierrasectormacaroni.com^
+||sievabaobab.click^
 ||sievynaw.space^
 ||siewca.topagrar.pl^
 ||siewmi.uncommongoods.com^
@@ -79537,6 +79573,7 @@
 ||tlfvj.cyou^
 ||tlingitlaisse.top^
 ||tlm.adp.ca^
+||tlmtr.org^
 ||tlootas.org^
 ||tlpfjgsstoytfm.com^
 ||tlpyft.xyz^
@@ -87217,6 +87254,7 @@
 ||webp2p.letv.com^
 ||webpinp.com^
 ||webpixel.smartmeapp.com^
+||webpsts.com^
 ||webpush.reachyield.com^
 ||webpush.resultsmedia.com^
 ||webpush.vn^
@@ -87334,6 +87372,7 @@
 ||weepingheartache.com^
 ||weepingpretext.com^
 ||weeprobbery.com^
+||weesatoothoamu.net^
 ||weethery.com^
 ||weevah2.top^
 ||weeweesozoned.com^
@@ -88424,6 +88463,7 @@
 ||wuliao.juqingba.cn^
 ||wumufama.com^
 ||wunishamjch.com^
+||wup-185a61e7.bendigobank.com.au^
 ||wuporg.com^
 ||wuresde.top^
 ||wurqaz.com^
@@ -91559,6 +91599,7 @@
 ||zombistinfuls.shop^
 ||zombyfairfax.com^
 ||zomcz.cyou^
+||zonalconvey.click^
 ||zone1.bestbdsm24.com^
 ||zone1.bestporn24.com^
 ||zonealta.com^
