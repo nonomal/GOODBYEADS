@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-26 20:40:11（北京时间）
+! Version: 2024-12-27 09:39:47（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 91788
+! Total count: 91790
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2155,6 +2155,7 @@
 ||5i8xkqjmqubv.top^
 ||5iaox.xyz^
 ||5icim50.de^
+||5ik.icu^
 ||5ivy3ikkt.com^
 ||5jgwflo4y935b8udrp.www.pmn-nerez.cz^
 ||5kstore.com^
@@ -3594,6 +3595,7 @@
 ||a1.bestopview.com^
 ||a1.bookapka.com^
 ||a1.consoletarget.com^
+||a1.cyyangqiguan.com^
 ||a1.firefoxchina.cn^
 ||a1.lshou.com^
 ||a1.q6u.com^
@@ -10753,7 +10755,6 @@
 ||aec-target.telenet.be^
 ||aecid.santanderbank.com^
 ||aedileundern.shop^
-||aee4e77dc5.com^
 ||aeefpine.com^
 ||aeeg5idiuenbi7erger.com^
 ||aeelookithdifyf.com^
@@ -11365,7 +11366,6 @@
 ||aixcdn.com^
 ||aixuntupian.oss-cn-hongkong.aliyuncs.com^
 ||aizglunbhfq.com^
-||aizhantj.com^
 ||aj1047.online^
 ||aj1070.online^
 ||aj1090.online^
@@ -34841,6 +34841,7 @@
 ||fzamtef.com^
 ||fzb5.laboratoire-giphar.fr^
 ||fzcbgedizbt.click^
+||fzdwtage.icu^
 ||fze8.carrefour-banque.fr^
 ||fzeidx.vidaxl.gr^
 ||fzexkf.drogaraia.com.br^
@@ -37308,7 +37309,6 @@
 ||greysummergo.biz^
 ||grf.easyhash.io^
 ||grfpr.com^
-||grfvngaqbcsw.com^
 ||grgnsht.nzxt.com^
 ||gribseep.net^
 ||gridder.co^
@@ -38984,7 +38984,6 @@
 ||hootravinedeface.com^
 ||hootsuite.branch.rocks^
 ||hoowuliz.com^
-||hop.boutique^
 ||hop.dttd.app^
 ||hopdream.com^
 ||hopedpluckcuisine.com^
@@ -48241,6 +48240,7 @@
 ||lweriol.top^
 ||lwgadm.com^
 ||lwh1.carrefour-banque.fr^
+||lwilmil.top^
 ||lwjje.com^
 ||lwjvyd.com^
 ||lwkvkd.maison-objet.com^
@@ -54778,6 +54778,7 @@
 ||ncubadmavfp.com^
 ||ncukankingwith.info^
 ||ncvsbz.bonds.com.au^
+||ncvwnp.icu^
 ||ncwabgl.com^
 ||ncx2.voyage-prive.it^
 ||ncxxek.donedeal.ie^
@@ -65923,6 +65924,7 @@
 ||saccess.hikaritv.net^
 ||sace.aaa.com^
 ||sacedoamte.net^
+||sachaits.com^
 ||sackbarngroups.com^
 ||sackeelroy.net^
 ||saclel.zotapay.com^
