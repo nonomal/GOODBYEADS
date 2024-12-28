@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-27 20:39:15（北京时间）
+! Version: 2024-12-28 09:37:33（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 91831
+! Total count: 91843
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1161,6 +1161,7 @@
 ||2989f3f0ff.com^
 ||299bf6b4b4.9a55672b0c.com^
 ||299dcc6f32.d37914770f.com^
+||29a7397be5.com^
 ||29apfjmg2.de^
 ||29b124c44a.com^
 ||29e73076ca.49d4db4864.com^
@@ -2141,6 +2142,7 @@
 ||5eef1ed9ac.com^
 ||5ejlo.xyz^
 ||5f1c44aaf7.9d603009eb.com^
+||5f631bb110.com^
 ||5f6dmzflgqso.com^
 ||5f6efdfc05.com^
 ||5f93004b68.com^
@@ -5901,6 +5903,7 @@
 ||a613.redbluffdailynews.com^
 ||a64x.com^
 ||a65768f777.com^
+||a67c5c438d.com^
 ||a6d1050c2f.0b7741a902.com^
 ||a6d71f6df6.0b5bd8c4a8.com^
 ||a6dc99d1a8.com^
@@ -18461,6 +18464,7 @@
 ||boob.sukaporn.com^
 ||boobutility.com^
 ||boodaisi.xyz^
+||boodiecawquaw.top^
 ||boogopee.com^
 ||book.aomg5bzv7.com^
 ||book.londonsoundacademy.com^
@@ -21321,6 +21325,7 @@
 ||chilicached.com^
 ||chillylanguish.com^
 ||chimerabellowstranger.com^
+||chimneydicier.com^
 ||chimneylouderflank.com^
 ||chimpanzee.designerdailyreport.com^
 ||chimpanzee.ines-papert.com^
@@ -28678,7 +28683,6 @@
 ||doajauhopi.xyz^
 ||doaltariaer.com^
 ||doanaiwa.com^
-||doaphaha.net^
 ||doapovauma.net^
 ||doappcloud.com^
 ||doastaib.xyz^
@@ -31146,6 +31150,7 @@
 ||embosknitos.com^
 ||embowerdatto.com^
 ||embracetrace.com^
+||embrawnseeping.top^
 ||embryo1266.fun^
 ||embtrk.com^
 ||embwmpt.com^
@@ -37861,6 +37866,7 @@
 ||hadtwobr.info^
 ||hadute.xyz^
 ||haffnetworkmm.com^
+||hafhwagagswy.com^
 ||hafisague.com^
 ||hafonmadp.com^
 ||hagdenlupulic.top^
@@ -38325,6 +38331,7 @@
 ||helic3oniusrcharithonia.com^
 ||helicopterskull.com^
 ||heliumwinebluff.com^
+||hellerraucous.top^
 ||hello.bpost.be^
 ||hello.bpost2.be^
 ||hello.controlmap.io^
@@ -44858,7 +44865,6 @@
 ||ktureukworekto.com^
 ||ktvjpmi.xyz^
 ||ktwwzqdx.xyz^
-||ktxpsxgvpqhdnpg.com^
 ||ktxvbcbfs.xyz^
 ||ktyusid.top^
 ||ktzvyiia.xyz^
@@ -47227,6 +47233,7 @@
 ||lodlww.carcon.co.jp^
 ||lofo3l15c674.platform.replai.io^
 ||loftempedur.net^
+||loftersvisaya.com^
 ||loftknowing.com^
 ||loftsbaacad.com^
 ||loftyeliteseparate.com^
@@ -47249,7 +47256,6 @@
 ||log-ird.outbrain.com^
 ||log-lb.skyperfectv.co.jp^
 ||log-marketing.jp^
-||log-music-data.line-apps.com^
 ||log-player.arte.tv^
 ||log-pq.shopfully.cloud^
 ||log-report.com^
@@ -54294,6 +54300,7 @@
 ||mwerilxx.top^
 ||mweriox.top^
 ||mwf7.montecarlowellness.com^
+||mwilmix.top^
 ||mwkusgotlzu.com^
 ||mwlle.com^
 ||mworkhovdiminat.info^
@@ -55597,6 +55604,7 @@
 ||nosebleedjumbleblissful.com^
 ||noseculretab.xyz^
 ||nosjew.glamira.de^
+||noslugut.com^
 ||nossairt.net^
 ||nossl.aafpfoundation.org^
 ||nossl.basco.com^
@@ -60188,6 +60196,7 @@
 ||plyizb.latour-lith.nl^
 ||plzblz.xyz^
 ||pm.boostintegrated.com^
+||pm.chetahtalc.com^
 ||pm.dailykos.com^
 ||pm.eu.viatrisconnect.com^
 ||pm.eu.viatrisconnect.de^
@@ -60925,6 +60934,7 @@
 ||principledecliner.info^
 ||principlessilas.com^
 ||pringed.space^
+||prinkergp.top^
 ||prinksdammit.com^
 ||prinksoncotic.com^
 ||printaugment.com^
@@ -64510,6 +64520,7 @@
 ||rkgbqn.icu^
 ||rkgwzfwjgk.com^
 ||rkl.draugas.lt^
+||rklzpo.com^
 ||rknwwtg.com^
 ||rkomf.com^
 ||rkoohcakrfu.com^
@@ -82981,6 +82992,7 @@
 ||triumphantplace.com^
 ||trix.net^
 ||trj.valuecommerce.com^
+||trjfoagf.icu^
 ||trjs2.mediafin.be^
 ||trjwraxkfkm.com^
 ||trk-aspernatur.com^
@@ -83499,6 +83511,7 @@
 ||tsbck.com^
 ||tsbkht.puritan.com^
 ||tsbmkf.zonnebrillen.com^
+||tsbrzz.icu^
 ||tsdfxv.xyz^
 ||tse.telerama.fr^
 ||tsedvc.aboutyou.ch^
@@ -84005,6 +84018,7 @@
 ||uaemarketing.sedgwick.com^
 ||uafkcvpvvelp.com^
 ||uafuzcxr.xyz^
+||uahosnnx.com^
 ||uaiosio.top^
 ||uaiqkjkw.com^
 ||uaiqp.top^
@@ -89559,7 +89573,6 @@
 ||xedpzh.xyz^
 ||xegluwate.com^
 ||xehodv.xyz^
-||xeiswhlfwiar.com^
 ||xejpzk.fram.fr^
 ||xekjzy.rinascente.it^
 ||xekmhvbb.xyz^
@@ -89628,7 +89641,6 @@
 ||xianliao.voto^
 ||xiaomi-dtv.m.cn.miaozhen.com^
 ||xiaopinwo.com^
-||xiaoshuo.wtzw.com^
 ||xiaoshuoyun.cn^
 ||xibspj.komehyo.jp^
 ||xiiepofl.xyz^
