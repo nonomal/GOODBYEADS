@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-28 09:37:33（北京时间）
+! Version: 2024-12-28 20:37:30（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 91843
+! Total count: 91845
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -20443,6 +20443,7 @@
 ||cchlhb.budgetsport.fi^
 ||cciqma.cosabella.com^
 ||ccjzuavqrh.com^
+||cclimif.top^
 ||cclink.carfax.com^
 ||ccmd.coveredca.com^
 ||ccmiocw.com^
@@ -33130,6 +33131,7 @@
 ||fdixsh.platypusshoes.com.au^
 ||fdkeip.azafashions.com^
 ||fdmmgwlcg.com^
+||fdolspwa.my^
 ||fdowic.hoiku.mynavi.jp^
 ||fdsur.com^
 ||fdswrgg.cn^
@@ -39669,7 +39671,6 @@
 ||i.upoker.net^
 ||i.viafoura.co^
 ||i.wideblacks.com^
-||i027m.top^
 ||i16-tb.isnssdk.com^
 ||i18n-pglstatp.com^
 ||i192.cosmicnewspulse.com^
@@ -43319,6 +43320,7 @@
 ||jhr.jacksonhealthcare.com^
 ||jhrewn.venezia.pl^
 ||jhsnshueyt.click^
+||jhu8u9.pro^
 ||jhulubwidas.com^
 ||jhwo.info^
 ||jhzwle.ryuryumall.jp^
@@ -56466,7 +56468,6 @@
 ||offergate-games-download1.com^
 ||offergate-software20.com^
 ||offergate-software6.com^
-||offergate.pro^
 ||offergo.net^
 ||offerimage.com^
 ||offerlink.co^
@@ -65302,7 +65303,6 @@
 ||runmixed.com^
 ||runnerbesiegerelative.com^
 ||runningdestructioncleanliness.com^
-||runoj.click^
 ||runpuredead.live^
 ||runtnc.net^
 ||runwaff.com^
@@ -72407,6 +72407,7 @@
 ||smwvlc.intermixonline.com^
 ||smxmlr.shimojima.jp^
 ||smy.iheart.com^
+||sn9.icu^
 ||snadsfit.com^
 ||snagbaudhulas.com^
 ||snaglighter.com^
@@ -74608,6 +74609,7 @@
 ||stat.play.zing.vn^
 ||stat.praceamzda.cz^
 ||stat.praetor-systems.cz^
+||stat.pravdafrance.com^
 ||stat.pravmir.ru^
 ||stat.prawo.pl^
 ||stat.profinfo.pl^
@@ -78547,6 +78549,7 @@
 ||telemetry.chrobinson.com^
 ||telemetry.commonspirit.org^
 ||telemetry.dematic.com^
+||telemetry.dzen.ru^
 ||telemetry.firez.one^
 ||telemetry.goodlifefitness.com^
 ||telemetry.jivosite.com^
@@ -84163,7 +84166,6 @@
 ||ufiidvv.icu^
 ||ufiledsit.com^
 ||ufiler-pro2.ru^
-||ufiler.pro^
 ||ufinkln.com^
 ||ufiuhnyydllpaed.com^
 ||ufjslit.top^
