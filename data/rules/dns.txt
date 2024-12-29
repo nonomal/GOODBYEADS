@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-28 20:37:30（北京时间）
+! Version: 2024-12-29 09:47:35（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 91845
+! Total count: 91854
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2302,6 +2302,7 @@
 ||66308888.com^
 ||665166e5a9.com^
 ||6651tp.com^
+||6657e4f5c2.com^
 ||6662a5efa0.com^
 ||666579.xyz^
 ||6669667.com^
@@ -2880,6 +2881,7 @@
 ||8cc5ff581a88.bitsngo.net^
 ||8cf530b4c4.7dfbef87b6.com^
 ||8cnd.com^
+||8cp.icu^
 ||8d4b.pandasuite.io^
 ||8d8039a1eb.f63777e43d.com^
 ||8d80fcb421.a700fb9c8d.com^
@@ -15071,7 +15073,6 @@
 ||ascc.javquick.com^
 ||asccdn.com^
 ||asce.xyz^
-||ascendeummedia.com^
 ||ascendintegratedmedia.actonservice.com^
 ||ascensionrelativestuck.com^
 ||ascensionunfinished.com^
@@ -17144,6 +17145,7 @@
 ||be1c6e25e9.ca6d30883b.com^
 ||be2ecc872f.d483501b04.com^
 ||be30660063.com^
+||be51586160.com^
 ||be57a605f2.da066d9560.com^
 ||be8b65475e.5aa383d56d.com^
 ||bea-s.dinghuoche.com^
@@ -18904,7 +18906,6 @@
 ||breadsincerely.com^
 ||breadthforensicsstriking.com^
 ||breadthneedle.com^
-||breakerfit.com^
 ||breakfastinvitingdetergent.com^
 ||breakfastsinew.com^
 ||breakingarable.com^
@@ -33092,6 +33093,7 @@
 ||fccc287c78.64580df84b.com^
 ||fccinteractive.com^
 ||fcd3a3a3aa.578d72001a.com^
+||fceedf7652.com^
 ||fcepahafyq.com^
 ||fcizcj.burlingtonfreepress.com^
 ||fckmedate.com^
@@ -38168,6 +38170,7 @@
 ||hcjpbc.radaronline.com^
 ||hcjpbc.usmagazine.com^
 ||hckjsc.kastner-oehler.at^
+||hclimiu.top^
 ||hclspy.gourmetencasa-tcm.com^
 ||hcmhqb.radpowerbikes.ca^
 ||hcpvkcznxj.com^
@@ -38356,6 +38359,7 @@
 ||hellominimshanging.com^
 ||helltraffic.com^
 ||helm.aomg5bzv7.com^
+||helmethomicidal.com^
 ||helmetregent.com^
 ||helmfireworkssauce.com^
 ||helmingcensers.shop^
@@ -39119,6 +39123,7 @@
 ||hotpornpro.com^
 ||hotrank.com.tw^
 ||hotspot.aomg5bzv7.com^
+||hottedholster.com^
 ||hottercensorbeaker.com^
 ||hotty.sweetadforu.cc^
 ||hotvideos4725.k3718qw08.com^
@@ -39891,6 +39896,7 @@
 ||iegwze.goldcar.es^
 ||ielmzzm.com^
 ||ieluqiqttdwv.com^
+||iemhotqk.com^
 ||iemiq.com^
 ||ientent.stre4mplay.one^
 ||ientrymail.com^
@@ -42431,7 +42437,6 @@
 ||iovia-pmj.com^
 ||iowanseck.com^
 ||ioxqdp.leatherology.com^
-||ioxwaebl.xyz^
 ||ioykmxa.icu^
 ||ip.chipestimate.com^
 ||ip.cliphunter.com^
@@ -43083,6 +43088,7 @@
 ||jbm6c54upkui.com^
 ||jbrlsr.com^
 ||jbtul.com^
+||jbvoejzamqjzl.top^
 ||jbwiujl.com^
 ||jbzmwqmqwowaz.top^
 ||jc1.dayfund.com.cn^
@@ -47443,7 +47449,6 @@
 ||log.seekda.com^
 ||log.sggp.org.vn^
 ||log.shortbread.analytics.console.aws.a2z.com^
-||log.shortbread.aws.dev^
 ||log.shufoo.net^
 ||log.sina.cn^
 ||log.smoney.vn^
@@ -54225,6 +54230,7 @@
 ||muriheem.net^
 ||murkybrashly.com^
 ||murkymouse.online^
+||murolwsi.com^
 ||murphydrying.com^
 ||musclesadmonishment.com^
 ||musclesprefacelie.com^
@@ -63055,6 +63061,7 @@
 ||rapfdf.xyz^
 ||raphanysteers.com^
 ||raphidewakener.com^
+||rapidfoxengine.com^
 ||rapidhits.net^
 ||rapidhunchback.com^
 ||rapidlylarrup.space^
@@ -63717,6 +63724,7 @@
 ||relevanceads.com^
 ||relevanti.com^
 ||relevanz10.de^
+||relgrads.com^
 ||reliable-track.com^
 ||reliable.elgas.com.au^
 ||reliableceaseswat.com^
@@ -64357,7 +64365,6 @@
 ||rhdcmp.maxcolchon.com^
 ||rhendam.com^
 ||rheneapfg.com^
-||rheosawdx.xyz^
 ||rhiaxplrolm.com^
 ||rhinioncappers.com^
 ||rhinoceros.codeagain.com^
@@ -65363,6 +65370,7 @@
 ||rvtwqp.winparts.se^
 ||rvv.emol.com^
 ||rvvmynjd.love^
+||rvxmlj.icu^
 ||rvz9.destinia.co.ro^
 ||rw.marchex.io^
 ||rwdito.carsguide.com.au^
@@ -73398,6 +73406,7 @@
 ||spoiledpresence.com^
 ||spoilmagicstandard.com^
 ||spoilphysiqueteenagers.com^
+||spokanchap.com^
 ||spokesperson254.fun^
 ||spondeekitling.top^
 ||spongecell.com^
@@ -75916,7 +75925,6 @@
 ||stealinggin.com^
 ||stealneitherfirearm.com^
 ||stealthlockers.com^
-||steamac.com^
 ||steamjaws.com^
 ||stedrits.xyz^
 ||steedgodful.com^
@@ -81428,7 +81436,6 @@
 ||track.biz.lguplus.com^
 ||track.bizjournals.com^
 ||track.brafiliados.com.br^
-||track.briskfile.com^
 ||track.btdmp.com^
 ||track.buybox.click^
 ||track.buyma.com^
@@ -85893,6 +85900,7 @@
 ||viiatomicnumber.com^
 ||viiavjpe.com^
 ||viibest.com^
+||viibmmqc.com^
 ||viicxwec.com^
 ||viicylmb.com^
 ||viiczfvm.com^
@@ -86118,6 +86126,7 @@
 ||vjpgm.space^
 ||vjugz.com^
 ||vjvj.vj24co.com^
+||vjzvgvgz.icu^
 ||vk-ads.ru^
 ||vkanalytics.net^
 ||vkbvny.ddanzi.com^
