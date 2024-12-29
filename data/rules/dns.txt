@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-29 09:47:35（北京时间）
+! Version: 2024-12-29 20:37:06（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 91854
+! Total count: 91879
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1646,6 +1646,7 @@
 ||3vp.icu^
 ||3wn3w3skxpym.round.t3.gg^
 ||3wr110.net^
+||3xl.icu^
 ||3zap7emt4.com^
 ||4.uyybde07w.com^
 ||4.wemakebestnews.com^
@@ -2316,6 +2317,7 @@
 ||666ppp888ppp.com^
 ||6677648.reddoorz.com^
 ||66a3413a7e.com^
+||66a5e92d66.com^
 ||66ac068b15.5500a1052e.com^
 ||66av.cc^
 ||66jo.societegenerale.fr^
@@ -15468,6 +15470,7 @@
 ||athostouco.com^
 ||athumiaspuing.click^
 ||athvicatfx.com^
+||athyimemediat.com^
 ||athyimemediates.info^
 ||ati-a1.946d001b783803c1.xhst.bbci.co.uk^
 ||ati.sazka.cz^
@@ -17381,6 +17384,7 @@
 ||beigelazinessdetected.com^
 ||beijing.buzhi5.com^
 ||beingajoyto.info^
+||beingajoytow.com^
 ||beingsjeanssent.com^
 ||beitandfalloni.com^
 ||beizi.biz^
@@ -19394,6 +19398,7 @@
 ||bursa.conxxx.pro^
 ||burstnet.com^
 ||burydwellingchristmas.com^
+||busedsoccage.shop^
 ||bushedcoldest.com^
 ||busherdebates.com^
 ||bushibousy.click^
@@ -31878,6 +31883,7 @@
 ||ethnicking.com^
 ||ethoamee.xyz^
 ||ethophipek.com^
+||ethylicestops.top^
 ||etingplansfo.buzz^
 ||etiquettegrapesdoleful.com^
 ||etisalatebill.net^
@@ -39201,6 +39207,7 @@
 ||hpcyk.com^
 ||hpeaxbmuh.com^
 ||hphtjv.orellfuessli.ch^
+||hpilzison-r.online^
 ||hpk42r7a.de^
 ||hplkcs.emp-shop.no^
 ||hplrqg.interflora.fr^
@@ -39789,6 +39796,7 @@
 ||ickersanthine.com^
 ||iclickcdn.com^
 ||iclicklw.com^
+||iclimio.top^
 ||iclnxqe.com^
 ||iclsas.com^
 ||icmakp.united-arrows.tw^
@@ -42136,6 +42144,7 @@
 ||installer.betterinstaller.com^
 ||installfree.pro^
 ||installnow.pro^
+||installpack.net^
 ||installscolumnist.com^
 ||installslocalweep.com^
 ||installtracker.com^
@@ -44080,6 +44089,7 @@
 ||k9gj.site^
 ||k9u.icu^
 ||kaacsi.belvilla.nl^
+||kaarheciqa.xyz^
 ||kaascypher.com^
 ||kabakamarbles.top^
 ||kabarnaira.com^
@@ -44552,6 +44562,7 @@
 ||kl.67it.com^
 ||kl.klasselotteriet.dk^
 ||klenhosnc.com^
+||klh3j19w.xyz^
 ||klhswcxt-o.icu^
 ||klhxyi.costakreuzfahrten.ch^
 ||klick.vn^
@@ -47039,6 +47050,7 @@
 ||ljdofz.xyz^
 ||ljhbhy.cn^
 ||ljimtyl.top^
+||ljjhfw34.fun^
 ||ljlvftvryjowdm.xyz^
 ||ljnhkytpgez.com^
 ||ljpbtjq.xyz^
@@ -50610,6 +50622,7 @@
 ||mato.clanto.cloud^
 ||matomo-cdn-bunny.ramsalt.com^
 ||matomo.a1.by^
+||matomo.akbal.dev^
 ||matomo.bantheme.xyz^
 ||matomo.clanto.cloud^
 ||matomo.cloudfront.similarweb.io^
@@ -51315,6 +51328,7 @@
 ||messengeridentifiers.com^
 ||messengerreinsomething.com^
 ||messsomehow.com^
+||messyadvance.com^
 ||messyfuck.com^
 ||messytube.com/pup^
 ||mestmoanful.shop^
@@ -55093,6 +55107,7 @@
 ||newrotatormarch23.bid^
 ||newrtbbid.com^
 ||news-back.org^
+||news-bbipasu.today^
 ||news-bit.com^
 ||news-buzz.cc^
 ||news-galuzo.cc^
@@ -55935,6 +55950,7 @@
 ||ntxviewsinterfu.info^
 ||ntygtomuj.com^
 ||nu.esri.nl^
+||nubileforward.com^
 ||nubseech.com^
 ||nucgsx.indestructibleshoes.com^
 ||nucleo.online^
@@ -56474,6 +56490,7 @@
 ||offergate-games-download1.com^
 ||offergate-software20.com^
 ||offergate-software6.com^
+||offergate.pro^
 ||offergo.net^
 ||offerimage.com^
 ||offerlink.co^
@@ -58519,6 +58536,7 @@
 ||palibs.tech^
 ||palibzh.tech^
 ||palikaralkamin.com^
+||palliwaklgz.com^
 ||pallorirony.com^
 ||palmcodliverblown.com^
 ||palmfulcultivateemergency.com^
@@ -59352,6 +59370,7 @@
 ||phionline.actonservice.com^
 ||phiriaxi.com^
 ||phitchoord.com^
+||phjsnwuzj.com^
 ||phjtxx.xyz^
 ||phk.nmkstcrt.xyz^
 ||phkucgq.com^
@@ -62420,6 +62439,7 @@
 ||qmiiln.tower.jp^
 ||qmlzcm.petshop.ru^
 ||qmoyfh.xcite.com.sa^
+||qmrelvezolbrv.top^
 ||qmtjvq.kuoni.ch^
 ||qmxbqwbprwavac.xyz^
 ||qmyzawzjkrrjb.top^
@@ -66904,6 +66924,7 @@
 ||scruboutdoorsoffensive.com^
 ||scrubsky.com^
 ||scrubswim.com^
+||scrugokl.com^
 ||scs.allsecur.nl^
 ||scs.arcteryx.com^
 ||scs.lacapitale.com^
@@ -67882,6 +67903,7 @@
 ||sentry.eks.hoyoverse.com^
 ||sentry.mediacdn.vn^
 ||sentry.music.163.com^
+||sentry.pnblab.com^
 ||sentry01.zerg.rambler.ru^
 ||seo-overview.com^
 ||seo.cloud.edu.vn^
@@ -69099,6 +69121,7 @@
 ||skunk.dwa.li^
 ||skunk.gameworkersolidarity.com^
 ||skunscold.top^
+||skvxbool.xyz^
 ||skxbbj.clasic.jp^
 ||sky.dunsuan.com^
 ||sky.ijhyugb.com^
@@ -73988,6 +74011,7 @@
 ||ssp.qc.coccoc.com^
 ||ssp.qq.com^
 ||ssp.rambler.ru^
+||ssp.rutube.ru^
 ||ssp.seznam.cz^
 ||ssp.zf313.com^
 ||sspapi-prd.samsungrs.com^
@@ -77765,7 +77789,6 @@
 ||tag.triboomedia.it^
 ||tag.voice.zetacx.net^
 ||tag.winister.app^
-||tag.yourupload.com^
 ||tag101.com^
 ||tagalodrome.com^
 ||tagcommander.laredoute.be^
@@ -84876,6 +84899,7 @@
 ||urgedhearted.com^
 ||urgentlyfeerobots.com^
 ||urgentprotections.com^
+||urhjoqudc.com^
 ||urimnugocfr.com^
 ||urinebladdernovember.com^
 ||urinousbiriba.com^
@@ -85941,7 +85965,6 @@
 ||viirift.com^
 ||viirkagt.com^
 ||viisupport.com^
-||viitjcfx.com^
 ||viitqvjx.com^
 ||viiucwwa.com^
 ||viivedun.com^
@@ -86503,6 +86526,7 @@
 ||vxcjoz.nextadvisor.com^
 ||vxcvd67.fun^
 ||vxdrfr.xyz^
+||vxfxkhzdaa.com^
 ||vxlpha.weddingpark.net^
 ||vxohkh.laboutiqueofficielle.com^
 ||vxorjza.com^
@@ -89391,6 +89415,7 @@
 ||wxsnsdythumb.wxs.qq.com^
 ||wxwsmt.matsmart.fi^
 ||wxymag.xyz^
+||wxzjxasvczjoh.com^
 ||wyaopp.lacoccinelle.net^
 ||wyeczfx.com^
 ||wyelmp.vidaxl.si^
