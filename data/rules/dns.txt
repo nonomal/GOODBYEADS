@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-12-29 20:37:06（北京时间）
+! Version: 2024-12-30 09:42:32（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 91879
+! Total count: 91875
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2427,6 +2427,7 @@
 ||6gute.icu^
 ||6hdw.site^
 ||6j296m8k.de^
+||6ku.icu^
 ||6nwp0r33a71m.app.dev.cardahealth.com^
 ||6oi7mfa1w.com^
 ||6ox.de^
@@ -3077,7 +3078,6 @@
 ||988576c00a.2b9957041a.com^
 ||9895.l5eamr17d.com^
 ||98ad3707e5.1fb9ef7e8a.com^
-||98f68cf54e.com^
 ||98wjse.top^
 ||9901.79j68qav2.com^
 ||990215.xyz^
@@ -8137,7 +8137,6 @@
 ||acquitfamouscavity.com^
 ||acquitjeans.com^
 ||acquitmidst.com^
-||acrasiatickles.com^
 ||acrebackcharacter.com^
 ||acrelicenseblown.com^
 ||acrepantherrecite.com^
@@ -9145,7 +9144,6 @@
 ||adkaora.space^
 ||adkernel.com^
 ||adkfilter.mybestclick.net^
-||adkgeoaajx.com^
 ||adklimages.com^
 ||adkwai.com^
 ||adl-hunter.com^
@@ -9762,7 +9760,6 @@
 ||ads.hollywood.com^
 ||ads.home.vn^
 ||ads.homedy.net^
-||ads.horyzon-media.com^
 ||ads.huan.tv^
 ||ads.huantest.com^
 ||ads.i-bidder.com^
@@ -10467,7 +10464,6 @@
 ||adukwai.com^
 ||adulateearring.com^
 ||adulateprofessnorth.com^
-||adulatevioletnoncommittal.com^
 ||aduld.click^
 ||adultadvertising.com^
 ||adultadvertising.net^
@@ -10996,6 +10992,7 @@
 ||afgzipohma.com^
 ||afhjxb.flaconi.de^
 ||afhleads.keurig.ca^
+||afi-thor.com^
 ||afi.biyou.web-marketing.ai^
 ||afi.iino.life^
 ||afi.school.web-marketing.ai^
@@ -13260,7 +13257,6 @@
 ||ant.prefinery.com^
 ||ant.september.digital^
 ||antananarbdivu.com^
-||antarcticdashedscuffle.com^
 ||antarcticfiery.com^
 ||antarcticoffended.com^
 ||antaresarcturus.com^
@@ -20511,7 +20507,6 @@
 ||cdn-cf.postitial.com^
 ||cdn-channels-pixel.ex.co^
 ||cdn-dynamic.optimonk.com^
-||cdn-gw-dv.vip^
 ||cdn-image.com^
 ||cdn-ketchapp.akamaized.net^
 ||cdn-partners-references.lesoir.be^
@@ -21007,7 +21002,6 @@
 ||cewrutf.top^
 ||cewukbger.work^
 ||cexofira.com^
-||cextootwcir.com^
 ||cexucetum.com^
 ||ceznscormatio.com^
 ||cezoachu.net^
@@ -22232,7 +22226,6 @@
 ||cm.nordvpn.com^
 ||cm.prodo.com^
 ||cmadserver.de^
-||cmap.alibaba.com^
 ||cmass.massmedian.co.jp^
 ||cmbestsrv.com^
 ||cmc.americanexpress.co.uk^
@@ -28097,7 +28090,6 @@
 ||dipxmakuja.com^
 ||dir.aomg5bzv7.com^
 ||dir.minigame.qq.com^
-||dirdlabella.com^
 ||dirdoophounu.net^
 ||direct-collect.dy-api.com^
 ||direct-collect.dy-api.eu^
@@ -30134,6 +30126,7 @@
 ||eclipse-adblocker.pro^
 ||eclkmpbn.com^
 ||eclkmpsa.com^
+||eclqhkyjqpcv.com^
 ||ecma.bdimg.com^
 ||ecmb.bdimg.com^
 ||ecn-analytics-nssl.emc.com^
@@ -33682,7 +33675,6 @@
 ||firkedpace.life^
 ||firmhurrieddetrimental.com^
 ||firmmaintenance.com^
-||firrectly.top^
 ||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||first-rate.com^
 ||firstlightera.com^
@@ -38937,7 +38929,6 @@
 ||hol.dir.tvsmiles.tv^
 ||hola.xebel.co^
 ||holahupa.com^
-||holbrooked.top^
 ||holdenthusiastichalt.com^
 ||holder.com.ua^
 ||holdhostel.space^
@@ -43109,6 +43100,7 @@
 ||jcfnbhqo.icu^
 ||jcimgi.bestcuckoo.co.kr^
 ||jciwztfj.com^
+||jclimia.top^
 ||jclrwjceymgec.com^
 ||jcm.jd.com^
 ||jcmonitor.xcar.com.cn^
@@ -43438,7 +43430,6 @@
 ||jlnyti.mugo.com.tr^
 ||jlovoiqtgarh.com^
 ||jltfqoxyhytayy.com^
-||jlvmfdwktmsa.com^
 ||jlxctoig.top^
 ||jlxsgk.com^
 ||jly24aw29n5m-a.akamaihd.net^
@@ -43829,6 +43820,7 @@
 ||jsqygwl.top^
 ||jsretra.com^
 ||jssearch.net^
+||jssejsnvdy.com^
 ||jswebcollects.kugou.com^
 ||jswlpe.modainpelle.com^
 ||jswww.net^
@@ -48176,7 +48168,6 @@
 ||luggagebuttonlocum.com^
 ||luhhcodutax.com^
 ||luimg.baidu.com^
-||luisardo.com^
 ||lujaqg.e-blooming.com^
 ||lujcig.modaforyou.pl^
 ||lukeaccesspopped.com^
@@ -53531,7 +53522,6 @@
 ||mobcardel.top^
 ||mobdel.com^
 ||mobdel2.com^
-||mobdrom.ru^
 ||mobexpectationofficially.com^
 ||mobfox.com^
 ||mobgold.com^
@@ -54152,6 +54142,7 @@
 ||mtnwxhjv.xyz^
 ||mto.cgv.vn^
 ||mtoxtg.tezenis.com^
+||mtptaewihgbzcq.com^
 ||mtr.fluor.com^
 ||mtrace.qq.com^
 ||mtracking.mhequipment.com^
@@ -56571,6 +56562,7 @@
 ||ogeeztf.com^
 ||ogercron.com^
 ||ogetherefwukoul.info^
+||ogfaqwwux.com^
 ||ogfba.net^
 ||ogfbb.net^
 ||ogfbc.net^
@@ -62116,6 +62108,7 @@
 ||pyrkxp.novafotograf.com^
 ||pyrroylceriums.com^
 ||pysfhgdpi.com^
+||pytexb.icu^
 ||python.casuallyprivate.com^
 ||python.jukejuke.app^
 ||pytxsn.najlacnejsisport.sk^
@@ -63453,6 +63446,7 @@
 ||recyclinganticipated.com^
 ||recyclingbees.com^
 ||recyclingproverbintroduce.com^
+||red-just-fit.click^
 ||red-shell.speedrun.com^
 ||red-track.xyz^
 ||redadisappoi.info^
@@ -73370,6 +73364,7 @@
 ||sphc.caring4cancer.com^
 ||spheredkapas.com^
 ||sphinx.aomg5bzv7.com^
+||spice-sugar.net^
 ||spiceethnic.com^
 ||spicy-combination.pro^
 ||spicy-effect.com^
@@ -75974,6 +75969,7 @@
 ||steinfqwe6782beck.com^
 ||steinsala.viessmann.lu^
 ||stel.telegraaf.nl^
+||stella-nova.click^
 ||stellar-dating2.fun^
 ||stellarmingle.store^
 ||stelsarg.net^
@@ -86800,7 +86796,6 @@
 ||warliketruck.com^
 ||warlockstallioniso.com^
 ||warlockstudent.com^
-||warlog.ru^
 ||warm-course.pro^
 ||warmerdisembark.com^
 ||warnmessage.com^
@@ -89393,7 +89388,6 @@
 ||wxa.wxs.qq.com^
 ||wxaaqr.plusdental.de^
 ||wxbaal.ecosa.com.hk^
-||wxcesylikgrypng.com^
 ||wxebye.aboutyou.hu^
 ||wxfdmri.xyz^
 ||wxgmca.orthofeet.com^
@@ -89524,6 +89518,7 @@
 ||xajibur.ru^
 ||xalienstreamx.com^
 ||xameleonads.com^
+||xamniksq.com^
 ||xamssp.icu^
 ||xanalytics.vip^
 ||xapads.com^
@@ -90215,6 +90210,7 @@
 ||xpyjyhny.xyz^
 ||xpzswr.shasa.com^
 ||xq1.net^
+||xqdbitceeeixnw.com^
 ||xqdwwj.medpeer.jp^
 ||xqeoitqw.site^
 ||xqjqripb.xyz^
