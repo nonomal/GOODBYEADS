@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-01 09:47:18（北京时间）
+! Version: 2025-01-01 20:39:22（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 92080
+! Total count: 92073
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1094,7 +1094,6 @@
 ||2310.4puuqeh41.com^
 ||231284.79j68qav2.com^
 ||2317.79j68qav2.com^
-||231dasda3dsd.aniyae.com^
 ||2324.5clo0xmbf.com^
 ||2325fdrf.fun^
 ||2342.5clo0xmbf.com^
@@ -2144,7 +2143,6 @@
 ||550a.com^
 ||551ba6c442.com^
 ||5538.5clo0xmbf.com^
-||553b8de985.com^
 ||55454ed59d.com^
 ||555bbb333bbb.com^
 ||555bbb555www.com^
@@ -2155,7 +2153,6 @@
 ||557632af6e.com^
 ||55766925.xyz^
 ||5581.4puuqeh41.com^
-||558ao12sqrok.top^
 ||5596.34gwl8v1a.com^
 ||55cc9d.xyz^
 ||55fa118139.2ffabf3b1d.com^
@@ -3078,6 +3075,7 @@
 ||8f2b4c98e7.com^
 ||8f30b5f042.58c526d99b.com^
 ||8feichai.com^
+||8fo.icu^
 ||8fvchzuz.myutilitydomain.com^
 ||8gold.com^
 ||8gra3.icu^
@@ -15977,7 +15975,6 @@
 ||avads.net^
 ||avai.actonservice.com^
 ||availablesyrup.com^
-||availroeamenity.com^
 ||avalancheofnews.com^
 ||avalanchers.com^
 ||avalere.actonservice.com^
@@ -24293,6 +24290,7 @@
 ||crew.zubie.com^
 ||crfjxfoe.xyz^
 ||cribbewildered.com^
+||cridotty.com^
 ||criesstarch.com^
 ||crigroik.com^
 ||crimblepitbird.shop^
@@ -28598,7 +28596,6 @@
 ||dkbicq.elektramat.nl^
 ||dkclxi.sitkagear.com^
 ||dkfqrsqg.com^
-||dkgmjvktmowcbtj.xyz^
 ||dkgp834o9n8xl.cloudfront.net^
 ||dkhffh.xyz^
 ||dkm6b5q0h53z4.cloudfront.net^
@@ -29058,6 +29055,7 @@
 ||doprinplupr.com^
 ||doptefoumsifee.xyz^
 ||doptik.ru^
+||dopub.site^
 ||doraikouor.com^
 ||dorangesource.alicdn.com^
 ||dore.new-indian-porn.com^
@@ -30736,7 +30734,6 @@
 ||eiimvmchepssb.xyz^
 ||eikegolehem.com^
 ||eikwax.marmot.com^
-||eilckjjhjtc.com^
 ||eimcqw.dickies.com^
 ||einrfh.justanswer.com^
 ||einstein.aomg5bzv7.com^
@@ -34506,7 +34503,6 @@
 ||foundationhorny.com^
 ||foundtr.com^
 ||foupeethaija.com^
-||fourgonhuss.shop^
 ||fourier.taobao.com^
 ||fourmtagservices.appspot.com^
 ||fourteenthcongratulate.com^
@@ -43152,7 +43148,6 @@
 ||ja2n2u30a6rgyd.com^
 ||jaabviwvh.com^
 ||jaadms.com^
-||jaaqbbqbst.com^
 ||jaavnacsdw.com^
 ||jab88.com^
 ||jackal.jakerunzer.com^
@@ -53312,7 +53307,6 @@
 ||mineraltip.com^
 ||minergate.com^
 ||minero.cc^
-||minerva.devices.a2z.com^
 ||mingleabstainsuccessor.com^
 ||mingledcommit.com^
 ||mingledcounterfeittitanic.com^
@@ -62436,6 +62430,7 @@
 ||qcgtoz.cwjobs.co.uk^
 ||qcixkb1.xyz^
 ||qckeumrwft.xyz^
+||qclimiy.top^
 ||qcmxuy.hardloop.de^
 ||qcohkm.xyz^
 ||qcppad.merrell.com^
@@ -68814,7 +68809,6 @@
 ||sholraidsoalro.net^
 ||shonetransmittedfaces.com^
 ||shonevegetable.com^
-||shoohinoab.com^
 ||shoojoudro.net^
 ||shoojouh.xyz^
 ||shookribux.net^
@@ -86832,7 +86826,6 @@
 ||w88.nationalgeographic.com^
 ||w890.denvergazette.com^
 ||w94.1qlgi.top^
-||w982.middletownpress.com^
 ||w9g7dlhw3kaank.www.eldorado.gg^
 ||wa.and.co.uk^
 ||wa.appsflyer.com^
