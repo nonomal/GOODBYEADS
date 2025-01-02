@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-02 09:39:06（北京时间）
+! Version: 2025-01-02 20:40:13（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99803
+! Total count: 99836
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -3429,6 +3429,7 @@
 ||1ts18.top^
 ||1ts19.top^
 ||1ttv.net^
+||1tv.icu^
 ||1unblock.com^
 ||1vin.lycheenews.com^
 ||1vsbt.4puuqeh41.com^
@@ -9019,6 +9020,7 @@
 ||7nt9p4d4.de^
 ||7q1z79gxsi.global.ssl.fastly.net^
 ||7rjln8orgh.com^
+||7search.com^
 ||7vin.lycheenews.com^
 ||7vnkf.online^
 ||7vviw.cyou^
@@ -9973,6 +9975,7 @@
 ||94ded8b16e.com^
 ||94lm.com^
 ||94n33.fun^
+||94x.icu^
 ||9500.tegronews.com^
 ||9504.reminews.com^
 ||9507.lookinews.com^
@@ -15820,6 +15823,7 @@
 ||adapi.yynetwk.com^
 ||adappi.co^
 ||adapt.tv^
+||adaptationdeployment.com^
 ||adaptationmargarineconstructive.com^
 ||adaptationreconsider.com^
 ||adaptationshookbeings.com^
@@ -16447,6 +16451,7 @@
 ||adnet.de^
 ||adnet.ru^
 ||adnetwork.net^
+||adnetwork.vn^
 ||adnetworkperformance.com^
 ||adnetwrk.com^
 ||adnews.maddog2000.de^
@@ -17831,6 +17836,7 @@
 ||adwhirl.com^
 ||adwile.com^
 ||adwin.geenstijl.nl^
+||adwitserver.com^
 ||adwmab.card-db.com^
 ||adworldnetwork.com^
 ||adworx.be^
@@ -18632,6 +18638,7 @@
 ||aknzmq.divvino.com.br^
 ||akpiug.rarecarat.com^
 ||akqktwdk.xyz^
+||aksao.com^
 ||aksb-a.akamaihd.net^
 ||aksleaj.com^
 ||aksonural.ru^
@@ -22318,6 +22325,7 @@
 ||ashot.txxx.com^
 ||ashoupsu.com^
 ||ashow.pcpop.com^
+||ashrafiaphacic.click^
 ||ashrivetgulped.com^
 ||ashtrayassist.com^
 ||ashturfchap.com^
@@ -22893,6 +22901,7 @@
 ||auth.be.sec.miui.com^
 ||auth.carte-gr.total.fr^
 ||authaptixoal.com^
+||authcaptcha.com^
 ||authentic3d.actonservice.com^
 ||authognu.com^
 ||authookroop.com^
@@ -27235,6 +27244,7 @@
 ||canidae.fidum.uk^
 ||cank.xyz^
 ||cannedrestrict.com^
+||cannetstoups.click^
 ||cannonclam.com^
 ||cannonkit.com^
 ||cannotmoreover.com^
@@ -27496,6 +27506,8 @@
 ||catshark.janetalexandersson.com^
 ||catshark.jimmyaldape.dev^
 ||catshark.spur.design^
+||catsnthing.com^
+||catsnthings.fun^
 ||catsunrunjam.com^
 ||cattell.loanzify.app^
 ||cattishfearfulbygone.com^
@@ -30164,6 +30176,7 @@
 ||config.appjolt.com^
 ||config.chsmarttv.com^
 ||config.jpush.cn^
+||config.safedk.com^
 ||config.unityads.unity3d.com^
 ||configurationluxuriantinclination.com^
 ||configure.adlermode.com^
@@ -36450,6 +36463,7 @@
 ||dryvit.actonservice.com^
 ||ds-aksb-a.akamaihd.net^
 ||ds.haaretz.co.il^
+||ds.macellan.online^
 ||ds.ruanwengfa.com^
 ||ds.webprojectslab.com^
 ||ds02gfqy6io6i.cloudfront.net^
@@ -44248,6 +44262,7 @@
 ||goesintakehaunt.com^
 ||gofenews.com^
 ||goforexvps.com^
+||gofun.info^
 ||gogaej.momastore.jp^
 ||gogglebox26.fun^
 ||gogglemessenger.com^
@@ -46830,6 +46845,7 @@
 ||hvac.solutions.jci.com^
 ||hvd-store.com^
 ||hvdt8.chimeratool.com^
+||hvkwmvpxvjo.xyz^
 ||hvooyieoei.com^
 ||hvpeme.petedge.com^
 ||hvrhgt.the-sun.com^
@@ -47203,6 +47219,7 @@
 ||idg1.idgarages.com^
 ||idgptg.esm-computer.de^
 ||idhad.com^
+||idhtm.bb.com.br^
 ||idiafix.com^
 ||idianw.warmteservice.nl^
 ||idickeo.top^
@@ -49496,6 +49513,7 @@
 ||installer.betterinstaller.com^
 ||installfree.pro^
 ||installnow.pro^
+||installpack.net^
 ||installscolumnist.com^
 ||installslocalweep.com^
 ||installtracker.com^
@@ -50146,6 +50164,7 @@
 ||iuc1.online^
 ||iuc1.space^
 ||iudleaky.shop^
+||iuhrglyo.xyz^
 ||iujeaa.menz-style.com^
 ||iumboa.xyz^
 ||iummqg.xyz^
@@ -60709,6 +60728,7 @@
 ||mjwnxc.julbie.com^
 ||mjxlfwvirjmt.com^
 ||mjzkws.marcovasco.fr^
+||mk-cdn.net^
 ||mk.appwebel.com^
 ||mk.convera.com^
 ||mkbbjtfp.xyz^
@@ -61714,6 +61734,7 @@
 ||mvchallenges.s3-website-eu-west-1.amazonaws.com^
 ||mvcngm.xyz^
 ||mvevgi.xyz^
+||mvfdsuoxufrngm.xyz^
 ||mvfmdfsvoq.com^
 ||mvirkw.xyz^
 ||mvjkbj.2-carat.net^
@@ -61762,6 +61783,7 @@
 ||mx2.happ.social^
 ||mx6.3pornhere.com^
 ||mxaserver.mxplay.com^
+||mxatooknlavb.com^
 ||mxcmwk.xyz^
 ||mxdzxd.mister-auto.com^
 ||mxgboxq.com^
@@ -62011,6 +62033,7 @@
 ||n0gge40o.de^
 ||n0h56.site^
 ||n0v1cdn.com^
+||n1307adserv.xyz^
 ||n152adserv.com^
 ||n1g459ky7y.com^
 ||n1major.com^
@@ -63910,6 +63933,7 @@
 ||offergate-games-download1.com^
 ||offergate-software20.com^
 ||offergate-software6.com^
+||offergate.pro^
 ||offergo.net^
 ||offerimage.com^
 ||offerlink.co^
@@ -64049,6 +64073,7 @@
 ||ohrdit.kfzteile24.de^
 ||ohrdsplu.com^
 ||ohsatum.info^
+||ohsexldhj.xyz^
 ||ohsyat.jdsports.it^
 ||ohtctjiuow.com^
 ||ohtdbl.mister-auto.es^
@@ -64138,6 +64163,7 @@
 ||okmentally.com^
 ||okmwfq.xyz^
 ||oko.net^
+||okpp01021.xyz^
 ||okpp12311.xyz^
 ||okrasbj6.de^
 ||oksiqv.styletread.com.au^
@@ -68934,6 +68960,7 @@
 ||pstt.mtb-news.de^
 ||psuaqpz.com^
 ||psuftoum.com^
+||psughooy.com^
 ||psumainy.xyz^
 ||psungaum.com^
 ||psunseewhu.com^
@@ -71227,7 +71254,6 @@
 ||remarksnicermasterpiece.com^
 ||remaxmetro369.myre.io^
 ||remaysky.com^
-||rembi.lv^
 ||remedyabruptness.com^
 ||remembercompetitioninexplicable.com^
 ||remembergirl.com^
@@ -84696,6 +84722,7 @@
 ||syllabusbastardchunk.com^
 ||syllabusimperfect.com^
 ||syllabuspillowcasebake.com^
+||sylmyar.pw^
 ||sylverlight.net^
 ||sylviapettah.com^
 ||sylwenys.pw^
@@ -86058,6 +86085,7 @@
 ||tearerernest.com^
 ||tearingsinnerprinciples.com^
 ||tearsskin.cfd^
+||teaser-goods.ru^
 ||teaserslamda.top^
 ||teaspoonbrave.com^
 ||teaspoondaffodilcould.com^
@@ -86218,6 +86246,7 @@
 ||temperrunnersdale.com^
 ||templa.xyz^
 ||templeoffendponder.com^
+||temporarympay.com^
 ||temporarytv.com^
 ||temptation.ad.nl^
 ||temsys.temsys.fr^
@@ -91717,6 +91746,7 @@
 ||ucjevgue.xyz^
 ||uckgqa.xyz^
 ||uclgnz.lunabazaar.com^
+||uclimit.top^
 ||ucmahi.lectiva.com^
 ||ucmetrics.hypovereinsbank.de^
 ||ucmetrics.unicredit.it^
@@ -94929,6 +94959,7 @@
 ||webp2p.letv.com^
 ||webpinp.com^
 ||webpixel.smartmeapp.com^
+||webpsts.com^
 ||webpush.adjux.com^
 ||webpush.pushub.net^
 ||webpush.reachyield.com^
@@ -98278,6 +98309,7 @@
 ||xxsmad2.com^
 ||xxsmad3.com^
 ||xxsmad4.com^
+||xxss6677.com^
 ||xxx.sdtraff.com^
 ||xxx21xl771.lycheenews.com^
 ||xxx321xl771.lycheenews.com^
@@ -99680,6 +99712,7 @@
 ||ztpdcg.stroilioro.com^
 ||ztqnls.lojasrenner.com.br^
 ||ztrack.online^
+||ztrck.me^
 ||ztsrv.com^
 ||zttgwpb.com^
 ||ztumuvofzbfe.com^
