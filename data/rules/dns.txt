@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-04 09:37:56（北京时间）
+! Version: 2025-01-04 20:38:09（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99553
+! Total count: 99556
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -16960,7 +16960,6 @@
 ||ads.multimania.lycos.fr^
 ||ads.museum.or.jp^
 ||ads.music.126.net^
-||ads.mxhnkn.pro^
 ||ads.mythad.com^
 ||ads.networksolutions.com^
 ||ads.newgrounds.com^
@@ -25348,6 +25347,7 @@
 ||bluecore-email.branch.rocks^
 ||bluedawning.com^
 ||blueinfo.marugroup.net^
+||blueingpoori.com^
 ||bluejay.edgesoftware.cloud^
 ||bluejay.fivefold.vc^
 ||bluejay.postmediagroup.com^
@@ -31756,6 +31756,7 @@
 ||cv.zephylrin-x.net^
 ||cv1.start-eo.jp^
 ||cv1.stefany.co.jp^
+||cv7.icu^
 ||cvastico.com^
 ||cvbjctqs.xyz^
 ||cvdfvdfv90.fun^
@@ -36465,6 +36466,7 @@
 ||dsoodbye.xyz^
 ||dsoxgdjv.icu^
 ||dsoxjxin5jji.controlconceptsusa.com^
+||dsp-api.moloco.com^
 ||dsp-x.jd.com^
 ||dsp.adcountymedia.com^
 ||dsp.ali213.net^
@@ -49445,7 +49447,6 @@
 ||installer.betterinstaller.com^
 ||installfree.pro^
 ||installnow.pro^
-||installpack.net^
 ||installscolumnist.com^
 ||installslocalweep.com^
 ||installtracker.com^
@@ -51231,6 +51232,7 @@
 ||junglehikingfence.com^
 ||juniorapplesconsonant.com^
 ||junivmr.com^
+||junkettypika.shop^
 ||junkieswudge.com^
 ||junkmildredsuffering.com^
 ||junkrat-tire.overbuff.com^
@@ -54386,6 +54388,7 @@
 ||llama.lobbly.com^
 ||llama.mallardbay.com^
 ||llbonxcqltulds.xyz^
+||llet787bww.com^
 ||lljultmdl.xyz^
 ||llkdiu.chacos.com^
 ||llksja.com^
@@ -58100,6 +58103,7 @@
 ||mckgmkh.icu^
 ||mckiey.thun.com^
 ||mclick.mobi^
+||mclimix.top^
 ||mcovipqaxq.com^
 ||mcp.tvinteractive.tv^
 ||mcppsh.com^
@@ -63782,7 +63786,6 @@
 ||offergate-games-download1.com^
 ||offergate-software20.com^
 ||offergate-software6.com^
-||offergate.pro^
 ||offergo.net^
 ||offerimage.com^
 ||offerlink.co^
@@ -69560,7 +69563,6 @@
 ||qctop.com^
 ||qctt24h.24h.com.vn^
 ||qcv5.blogtruyen.vn^
-||qcv5.blogtruyenmoi.com^
 ||qcvf.ifeng.com^
 ||qcxhwrm.com^
 ||qd.x4399.com^
@@ -79923,6 +79925,7 @@
 ||so1nv.xyz^
 ||so333o.com^
 ||so8.hyatt.com^
+||soacoujusoopsoo.xyz^
 ||soadaupaila.net^
 ||soadicithaiy.net^
 ||soaheeme.net^
@@ -85909,7 +85912,6 @@
 ||tearerernest.com^
 ||tearingsinnerprinciples.com^
 ||tearsskin.cfd^
-||teaser-goods.ru^
 ||teaserslamda.top^
 ||teaspoonbrave.com^
 ||teaspoondaffodilcould.com^
@@ -95099,6 +95101,7 @@
 ||whiceega.com^
 ||whichcandiedhandgrip.com^
 ||whidoutounseegn.xyz^
+||whidsugnoackili.net^
 ||whileinferioryourself.com^
 ||whilieesrogs.top^
 ||whilroacix.com^
