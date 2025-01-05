@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-05 09:46:40（北京时间）
+! Version: 2025-01-05 20:37:55（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99563
+! Total count: 99555
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -3406,7 +3406,6 @@
 ||1sfthtykuk.lycheenews.com^
 ||1sqfobn52.de^
 ||1stat.ru^
-||1stc6vz58kxw.top^
 ||1stparty.equifax.co.uk^
 ||1studio.net^
 ||1t2.alpin.de^
@@ -5949,7 +5948,6 @@
 ||3a17d27bf9.com^
 ||3a55f02d.xyz^
 ||3a6b4dc07c.com^
-||3a70c13dec.com^
 ||3a83d56524.db33180b93.com^
 ||3ac1b30a18.com^
 ||3ad2ae645c.com^
@@ -10122,7 +10120,6 @@
 ||9873.ogrt80r65.com^
 ||98738797.xyz^
 ||98765.pw^
-||987a70dd0c.com^
 ||9882.jemonews.com^
 ||9884.jemonews.com^
 ||9884.reminews.com^
@@ -17416,7 +17413,6 @@
 ||adspot.tfgapps.com^
 ||adspredictiv.com^
 ||adspsp.com^
-||adspublicidades.agency^
 ||adspy.hdthot.com^
 ||adspy.javrank.com^
 ||adspyglass.com^
@@ -22988,7 +22984,6 @@
 ||avloan3431.fun^
 ||avmonk3431.fun^
 ||avnet.actonservice.com^
-||avnnqftxioforfr.com^
 ||avoadsservices.com^
 ||avocado.laprovence.com^
 ||avocetdentary.shop^
@@ -25095,7 +25090,6 @@
 ||bitsspiral.com^
 ||bittenlacygreater.com^
 ||bitterborder.pro^
-||bitterbragging.com^
 ||bitterdefeatmid.com^
 ||bitterlynewspaperultrasound.com^
 ||bitternessjudicious.com^
@@ -26979,6 +26973,7 @@
 ||cache2.delvenetworks.com^
 ||cachegorilla.com^
 ||cachuadirked.top^
+||cachusrw.com^
 ||caclick.baidu.com^
 ||caclick.qq.com^
 ||cad.youku.com^
@@ -29425,6 +29420,7 @@
 ||cmrcustomer.americanexpress.es^
 ||cmrdr.com^
 ||cmrhvx.lojapegada.com.br^
+||cms-stats-view.vitrinabox.com^
 ||cms.aomg5bzv7.com^
 ||cms.hardloopaanbiedingen.nl^
 ||cms100.xyz^
@@ -36939,7 +36935,6 @@
 ||e8100325bc.com^
 ||e822e00470.com^
 ||e832c7596e.4db4f3ef2b.com^
-||e841afabc8.com^
 ||e84d68b6e3.9bf9309f6f.com^
 ||e8a209dc96.ab0a4bc0ae.com^
 ||e8d7.icu^
@@ -38439,6 +38434,7 @@
 ||en-gb.siemensplmevents.com^
 ||en-sg.siemensplmevents.com^
 ||en-us.coloplastcare.com^
+||en6.icu^
 ||enablement.vmware.com^
 ||enablis.actonservice.com^
 ||enactdubcompetitive.com^
@@ -43418,7 +43414,6 @@
 ||globwo.online^
 ||glochatuji.com^
 ||glochisprp.com^
-||glodretsa.net^
 ||glodsaccate.com^
 ||glofodazoass.com^
 ||gloghipusto.xyz^
@@ -44131,7 +44126,6 @@
 ||go2.ringcentral.com^
 ||go2affise.com^
 ||go2app.org^
-||go2click.online^
 ||go2jump.org^
 ||go2linktrack.com^
 ||go2media.org^
@@ -45532,6 +45526,7 @@
 ||hdxdhu.zumnorde.de^
 ||hdxpqgvqm.com^
 ||hdxyj.icu^
+||hdyurliu.top^
 ||hdywrwnvf-h.one^
 ||he7ll.com^
 ||headacheaim.com^
@@ -47301,6 +47296,7 @@
 ||igouthoatsord.net^
 ||igpkppknqeblj.com^
 ||igpr.actonservice.com^
+||igraard.xyz^
 ||igrid.org^
 ||iguana.cypressridge-pca.org^
 ||iguana.delbaoliveira.com^
@@ -49777,7 +49773,6 @@
 ||ipcheck.blogsys.jp^
 ||ipdmlm.yoriso.com^
 ||iperceptions.com^
-||ipfnumgrbbgdnjt.com^
 ||ipgeaif.blairmacintyre.me^
 ||ipgeolocation.abstractapi.com^
 ||iphaigra.xyz^
@@ -51767,7 +51762,6 @@
 ||kimberlyspa.actonservice.com^
 ||kimpowhu.net^
 ||kimsacka.net^
-||kinak.top^
 ||kinarilyhukelpfulin.com^
 ||kinbashful.com^
 ||kind-lecture.com^
@@ -62362,7 +62356,6 @@
 ||new-access802.net^
 ||new-incoming.email^
 ||new-new-years.com^
-||new-pressroom.com^
 ||new-programmatic.com^
 ||new17write.com^
 ||newads.bangbros.com^
@@ -65367,7 +65360,6 @@
 ||ovibospeseta.com^
 ||ovjagtxasv.com^
 ||ovjlccs.xyz^
-||ovldbsik.com^
 ||ovrsso.gemo.fr^
 ||ovsrhikuma.com^
 ||ovularlinkup.com^
@@ -68943,7 +68935,6 @@
 ||ptoupagreltop.net^
 ||ptoushoa.com^
 ||ptoutsexe.com^
-||ptp.stbm.it^
 ||ptp22.com^
 ||ptrenx.vidaxl.com.au^
 ||ptsc.shoplocal.com^
@@ -91553,6 +91544,7 @@
 ||uc9.suinidai.com.cn^
 ||ucaas.avaya.com^
 ||ucationinin.info^
+||ucavu.live^
 ||ucbedayxxqpyuo.xyz^
 ||ucconn.live^
 ||ucdn.adgebra.co^
