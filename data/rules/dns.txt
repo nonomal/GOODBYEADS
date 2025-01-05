@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-04 20:38:09（北京时间）
+! Version: 2025-01-05 09:46:40（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99556
+! Total count: 99563
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -8368,6 +8368,7 @@
 ||6vik.lycheenews.com^
 ||6vin.lycheenews.com^
 ||6w4ddqwxuy0r3rnq.l5eamr17d.com^
+||6w7.icu^
 ||6ynyejkv0j1s.app.tapmyback.com^
 ||6zfem.icu^
 ||6zy9yqe1ew.com^
@@ -18463,6 +18464,7 @@
 ||air-weigh.actonservice.com^
 ||airablebuboes.com^
 ||airairgu.com^
+||airakgyl.com^
 ||airartapt.site^
 ||airaujoog.com^
 ||airborneassaultshrink.com^
@@ -28007,6 +28009,7 @@
 ||cdwmpt.com^
 ||cdwmtt.com^
 ||cdybwjpa.xyz^
+||cdyurlif.top^
 ||ce.x-opt.io^
 ||ce26c78a4e.com^
 ||ce357c.xyz^
@@ -36466,7 +36469,6 @@
 ||dsoodbye.xyz^
 ||dsoxgdjv.icu^
 ||dsoxjxin5jji.controlconceptsusa.com^
-||dsp-api.moloco.com^
 ||dsp-x.jd.com^
 ||dsp.adcountymedia.com^
 ||dsp.ali213.net^
@@ -39313,6 +39315,7 @@
 ||event.toggle.qq.com^
 ||event.tradplusad.com^
 ||event.webcollage.net^
+||event.wondershare.com^
 ||event1.thermofisher.com^
 ||event1.thermoscientific.com^
 ||event3.thermofisher.com^
@@ -46551,6 +46554,7 @@
 ||hrenbjkdas.com^
 ||hrfdulynyo.xyz^
 ||hrihfiocc.com^
+||hrjciqyu.icu^
 ||hrjctx.xyz^
 ||hrm.healthgrades.com^
 ||hrmdw8da.net^
@@ -53128,6 +53132,7 @@
 ||lgad.cjpowercast.com.edgesuite.net^
 ||lgbdxo.azazie.com^
 ||lgepbups.xyz^
+||lgforbes.akamaized.net^
 ||lgidskil.top^
 ||lgjtvyurnivf.com^
 ||lgkocdi.icu^
@@ -54227,6 +54232,7 @@
 ||liquorelectric.com^
 ||liracdn.com^
 ||lirotroodles.com^
+||lirretsn.com^
 ||lishibu.com^
 ||liskpiculs.shop^
 ||list-ads.com^
@@ -62781,6 +62787,7 @@
 ||nmtracking.netflix.com^
 ||nmu3.destinia.be^
 ||nmxxvr.xyz^
+||nmzbrd.icu^
 ||nnfbxz.icu^
 ||nnhxjd.zielonalazienka.pl^
 ||nnightherefl.info^
@@ -69421,7 +69428,6 @@
 ||pyqfjx.medwing.com^
 ||pyrexar.actonservice.com^
 ||pyrincelewasgild.info^
-||pyriticpremie.com^
 ||pyrkxp.novafotograf.com^
 ||pyrroylceriums.com^
 ||pysfhgdpi.com^
@@ -74176,6 +74182,7 @@
 ||scissorsstitchdegrade.com^
 ||scissorwailed.com^
 ||scjlpq.navitime.co.jp^
+||scjtfh.xyz^
 ||sckjzfahoizclt.com^
 ||sckyf.com^
 ||scl6gc5l.site^
