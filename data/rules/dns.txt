@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-06 09:44:15（北京时间）
+! Version: 2025-01-06 20:41:40（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99557
+! Total count: 99554
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -3415,6 +3415,7 @@
 ||1tldshpte.lycheenews.com^
 ||1tldszhpte.lycheenews.com^
 ||1to1.bbva.com^
+||1tp.icu^
 ||1ts03.top^
 ||1ts07.top^
 ||1ts17.top^
@@ -10233,6 +10234,7 @@
 ||9d3464a212.eac77b4889.com^
 ||9d5ed16be3.2f2bef3deb.com^
 ||9d603009eb.com^
+||9d87b35397.com^
 ||9db1ac1992.9d8880ca57.com^
 ||9dccbda825.com^
 ||9dmnv9z0gtoh.com^
@@ -23457,7 +23459,6 @@
 ||b.unjs.com^
 ||b.vidmob.com^
 ||b.w3techs.com^
-||b.we-are-anon.com^
 ||b.whee.ly^
 ||b.workhere.com^
 ||b.xlineker.com^
@@ -27286,7 +27287,6 @@
 ||carelesssequel.com^
 ||carelesstableinevitably.com^
 ||carepay.gaf.com^
-||carespins.com^
 ||caressleazy.com^
 ||carfulsranquel.com^
 ||cargas.actonservice.com^
@@ -27611,7 +27611,6 @@
 ||cdceed.de^
 ||cdcs34.fun^
 ||cdctwm.com^
-||cdd027b638.com^
 ||cddtsecure.com^
 ||cdeatz.spartoo.it^
 ||cdfhidrk.xyz^
@@ -28208,7 +28207,6 @@
 ||cgicounter.onlinehome.de^
 ||cgicounter.puretec.de^
 ||cgidskif.top^
-||cgpdxpjlpdsr.com^
 ||cgphqnflgee.com^
 ||cgpnhjatakwqnjd.xyz^
 ||cgqkhc.trendyol.com^
@@ -34846,7 +34844,6 @@
 ||dgbwya.evyapshop.com^
 ||dgcollector.evidon.com^
 ||dgd.okiela.com^
-||dgddipgtebuy.com^
 ||dggaenaawxe8z.cloudfront.net^
 ||dgkmdia.com^
 ||dgkpzy.2ch2.net^
@@ -50508,6 +50505,7 @@
 ||jdrlfn.xyz^
 ||jdspvwgxbtcgkd.xyz^
 ||jdt8.net^
+||jdyurlia.top^
 ||jdzmqj.thousandtrails.com^
 ||jealousstarw.shop^
 ||jealousupholdpleaded.com^
@@ -55730,7 +55728,6 @@
 ||m-setup.net^
 ||m-t.topya.com^
 ||m-test.papertrail.io^
-||m-video.shop^
 ||m.1gr.cz^
 ||m.acmgloballab.com^
 ||m.ad.zhangyue.com^
@@ -74314,6 +74311,7 @@
 ||sda.seksohub.com^
 ||sda.tamdiem247.com^
 ||sdamcsb.top^
+||sdarot-il.org^
 ||sdarot-tv.org^
 ||sdarot.cc^
 ||sdata.avid.com^
@@ -96995,7 +96993,6 @@
 ||wxfdmri.xyz^
 ||wxgmca.orthofeet.com^
 ||wxhiojortldjyegtkx.bid^
-||wxhqjojokhsg.com^
 ||wximg.wxs.qq.com^
 ||wxmhau.xyz^
 ||wxmmji.xyz^
