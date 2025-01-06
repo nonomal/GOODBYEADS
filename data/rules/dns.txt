@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-05 20:37:55（北京时间）
+! Version: 2025-01-06 09:44:15（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99555
+! Total count: 99557
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -8806,7 +8806,6 @@
 ||77a5198c32.40209f514e.com^
 ||77b0619134.fc29334d79.com^
 ||77bd7b02a8.com^
-||77bf977ba9.com^
 ||77cdc6d130.com^
 ||77d0835301.775cf6f1ae.com^
 ||77e0708efa.com^
@@ -10481,7 +10480,6 @@
 ||a.jetti.site^
 ||a.jezer.site^
 ||a.jivem.site^
-||a.jurnalu.ru^
 ||a.kainpopoy.com^
 ||a.kambistory.ml^
 ||a.kantotin.net^
@@ -14367,7 +14365,6 @@
 ||a9529eca57.100b57dcae.com^
 ||a9643.actonservice.com^
 ||a9ae7df45f.com^
-||a9ce112bde.com^
 ||a9d82bb0c8.13c4491879.com^
 ||a9d8e7b6i5s.andgino.jp^
 ||a9e69f8da2.742ba1f9a9.com^
@@ -27834,6 +27831,7 @@
 ||cdn.ptomw.com^
 ||cdn.puyjjq.com^
 ||cdn.puysis.com^
+||cdn.q0losid.com^
 ||cdn.qc24h.com^
 ||cdn.qgerr.com^
 ||cdn.quagfa.com^
@@ -29661,6 +29659,7 @@
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
 ||collect-v6.51.la^
+||collect.4gtv.tv^
 ||collect.adplogger.no^
 ||collect.air1.com^
 ||collect.alipay.com^
@@ -45461,6 +45460,7 @@
 ||hcdnpe.iareduceri.ro^
 ||hcgbhq.com^
 ||hchlqx.ghbass.com^
+||hcirentgh.360doc.cn^
 ||hciwyv.icu^
 ||hcjarn.parfumsclub.de^
 ||hcjpbc.closerweekly.com^
@@ -46015,6 +46015,7 @@
 ||hit.ua^
 ||hit.webcentre.lycos.co.uk^
 ||hitachi-hightech-as.actonservice.com^
+||hitalsli.com^
 ||hitbip.com^
 ||hitbox.com^
 ||hitcents.com^
@@ -47193,6 +47194,7 @@
 ||idx.lat^
 ||idydlesswale.info^
 ||idyllteapots.com^
+||idyurlio.top^
 ||ie-business.vodafone.com^
 ||ie-go.experian.com^
 ||ie-mktg.vodafone.com^
@@ -50732,6 +50734,7 @@
 ||jjdciu.justspices.de^
 ||jjimtya.top^
 ||jjmrmeovo.world^
+||jjplaqyo.icu^
 ||jjpp.lmtjapi.com^
 ||jjthmis.com^
 ||jjvpbstg.com^
@@ -52807,6 +52810,7 @@
 ||lcsdk.3g.qq.com^
 ||lcsopa.onamae.com^
 ||lctfgw.evernew.ca^
+||lcvwdn.icu^
 ||lcwnlhy.com^
 ||lcwodl.bleulibellule.com^
 ||lcxxwxo.com^
@@ -54573,7 +54577,6 @@
 ||log-hl.snssdk.com^
 ||log-ird.outbrain.com^
 ||log-lb.skyperfectv.co.jp^
-||log-marketing.jp^
 ||log-player.arte.tv^
 ||log-pq.shopfully.cloud^
 ||log-report.com^
@@ -63756,7 +63759,6 @@
 ||oeubqjx.com^
 ||oevll.com^
 ||oewa.at^
-||oewabox.at^
 ||oewrutk.top^
 ||oexcmv.concent.co.jp^
 ||of-bo.com^
@@ -66693,7 +66695,6 @@
 ||phoneapplicationlabs.top^
 ||phoneboothsabledomesticated.com^
 ||phonetrack.hukumkaikka.in^
-||phonicsblitz.com^
 ||phoobsoalrie.com^
 ||phoognol.com^
 ||phoojeex.xyz^
@@ -70396,7 +70397,6 @@
 ||rapturemeddle.com^
 ||raqwjl.dienthoaigiakho.vn^
 ||rar-vpn.com^
-||rarestcandy.com^
 ||rarnational.raisingareader.org^
 ||rarrwcfe.com^
 ||rartengg.com^
@@ -72600,7 +72600,6 @@
 ||rtzbpsy.com^
 ||ru-go.experian.com^
 ||ru-ru.siemensplmevents.com^
-||ru-traffic.com^
 ||ruamupr.com^
 ||ruancq.xyz^
 ||rubberdescendantfootprints.com^
@@ -86838,6 +86837,7 @@
 ||tivatingotherem.info^
 ||tivetrainingukm.com^
 ||tivixv.nutribullet.com^
+||tixoilll.com^
 ||tiypa.com^
 ||tizer.medikforum.ru^
 ||tizerclik.com^
@@ -91455,6 +91455,7 @@
 ||u4ccj.icu^
 ||u542.dailycamera.com^
 ||u55011.com^
+||u57.icu^
 ||u578.wlwt.com^
 ||u595sebqih.com^
 ||u5lxh1y1pgxy.shop^
@@ -91486,6 +91487,7 @@
 ||uaemarketing.sedgwick.com^
 ||uafkcvpvvelp.com^
 ||uahosnnx.com^
+||uaid.vtwenty.com^
 ||uaiosio.top^
 ||uaiqkjkw.com^
 ||uaiqp.top^
