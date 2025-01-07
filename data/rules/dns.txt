@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-07 09:41:03（北京时间）
+! Version: 2025-01-07 20:41:24（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99966
+! Total count: 99964
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2061,7 +2061,6 @@
 ||0h3uds.com^
 ||0i.iqostaiwan.com^
 ||0i.sh-cdn.com^
-||0i.simply-hentai.com^
 ||0i0i0i0.com^
 ||0ijvby90.skin^
 ||0j91h.cyou^
@@ -8577,7 +8576,6 @@
 ||6e391732a2.com^
 ||6e5f34gf3f.lycheenews.com^
 ||6e6cd153a6.com^
-||6e76e4803d.com^
 ||6e8a9948e0.6e391732a2.com^
 ||6e8db01a49.26c42ca1c2.com^
 ||6ec5c9fcec.com^
@@ -9184,7 +9182,6 @@
 ||7931.selornews.com^
 ||7936.luronews.com^
 ||7938.sifenews.com^
-||79383a549a.com^
 ||7942.lootynews.com^
 ||7944.reminews.com^
 ||7944bcc817.com^
@@ -16597,7 +16594,6 @@
 ||adhudg.nec-lavie.jp^
 ||adhunter.media^
 ||adhvz.cn^
-||adhyqrjayve.com^
 ||adi*.cnool.net^
 ||adi.ni.com^
 ||adi.vcmedia.vn^
@@ -20948,6 +20944,7 @@
 ||aoqcqh.eavalyne.lt^
 ||aoqhfs.optikdodomu.cz^
 ||aortismbutyric.com^
+||aos01070ss.xyz^
 ||aoulpo.puccini.pl^
 ||aourgk.xyz^
 ||aozmpm.jwell.com^
@@ -40307,7 +40304,6 @@
 ||f0dcadf8bc.840c20b1c0.com^
 ||f0e0350829.891a559827.com^
 ||f0eba64ba6.com^
-||f0ff1f7caf.com^
 ||f0nn.oney.fr^
 ||f0rn0one.com^
 ||f1.06ps.com^
@@ -41294,7 +41290,6 @@
 ||find.api.micloud.xiaomi.net.iberostar.com^
 ||findanonymous.com^
 ||findbetterresults.com^
-||findcommerce.com^
 ||finder2024.com^
 ||findgreatnews.com^
 ||findingattending.com^
@@ -43503,6 +43498,7 @@
 ||ghdlry.greetz.nl^
 ||gheqien.com^
 ||gherkax.com^
+||gheslosy.com^
 ||ghettosteal.shop^
 ||ghgasdb365.shop^
 ||ghgasdt963.shop^
@@ -49852,6 +49848,7 @@
 ||installer.betterinstaller.com^
 ||installfree.pro^
 ||installnow.pro^
+||installpack.net^
 ||installscolumnist.com^
 ||installslocalweep.com^
 ||installtracker.com^
@@ -53189,6 +53186,7 @@
 ||lb.service01.email-allstate.com^
 ||lb.usemaxserver.de^
 ||lbc.lesbonscommerces.fr^
+||lbfuvlyp.icu^
 ||lbgfqn.onward.co.jp^
 ||lbgrwm.zolta.pl^
 ||lbjekygz.icu^
@@ -53705,7 +53703,6 @@
 ||lindasmensagens.online^
 ||line1-log.biligame.net^
 ||linearsubdued.com^
-||lines-metric.h16.ru^
 ||lines.superkot.com^
 ||lineside.networkrail.co.uk^
 ||lingamretene.com^
@@ -74827,6 +74824,7 @@
 ||sdtg.tjaard11.xyz^
 ||sdtsad.com^
 ||sdxtxvq.com^
+||sdyurlib.top^
 ||se-go.experian.com^
 ||se-se.siemensplmevents.com^
 ||se.aomg5bzv7.com^
@@ -82169,6 +82167,7 @@
 ||stairgoastoafa.net^
 ||stairtuy.com^
 ||stairwellobliterateburglar.com^
+||staivoiks.com^
 ||staiwhaup.com^
 ||staiwoob.xyz^
 ||staixemo.com^
@@ -84178,7 +84177,6 @@
 ||stt.tyro.com^
 ||stt.wawacity.onl^
 ||stt6.cfd^
-||stteeruptowind.com^
 ||stthykerewasn.com^
 ||stts.sgab-srfp.ch^
 ||stts.swisshranalytics.ch^
@@ -87257,6 +87255,7 @@
 ||tizerclik.com^
 ||tizergun.net^
 ||tizermy.net^
+||tizru.com^
 ||tj.21ic.com^
 ||tj.b.qq.com^
 ||tj.img4399.com^
@@ -98344,7 +98343,6 @@
 ||xs6po.icu^
 ||xscmzs.tenki.jp^
 ||xseedwealth.actonservice.com^
-||xserve.zapurl.cc^
 ||xskctff.com^
 ||xslmpq.ohou.se^
 ||xsrs.com^
