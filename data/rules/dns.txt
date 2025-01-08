@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-08 09:40:44（北京时间）
+! Version: 2025-01-08 20:41:19（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99535
+! Total count: 99542
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -4043,7 +4043,6 @@
 ||2594.reminews.com^
 ||2594d03911.639c909d45.com^
 ||2599.gofenews.com^
-||25eaeccf95.com^
 ||25f3eded03.6390becedf.com^
 ||25f853e885.d49ae3cc10.com^
 ||25ix8gm8ien.sandbox.panprices.com^
@@ -17441,7 +17440,6 @@
 ||ads.taptapnetworks.com^
 ||ads.terra.es^
 ||ads.the-saleroom.com^
-||ads.thegioitiepthi.vn^
 ||ads.themovienation.com^
 ||ads.thesaigontimes.vn^
 ||ads.thestar.com^
@@ -24982,7 +24980,6 @@
 ||besandileom.com^
 ||besc.baidustatic.com^
 ||beseechpill.com^
-||beshestoly.com^
 ||besidesparties.com^
 ||besmeargleor.com^
 ||bespakerubbles.com^
@@ -25450,6 +25447,7 @@
 ||bjimtyv.top^
 ||bjiuck.com^
 ||bjjkuoxidr.xyz^
+||bjjky.cfd^
 ||bjmantis.net^
 ||bjpsuk.fray-id.com^
 ||bjqnpe.i-office1.net^
@@ -25640,7 +25638,6 @@
 ||blowingparkish.click^
 ||blowlanternradical.com^
 ||blownsuperstitionabound.com^
-||blowscarcetown.com^
 ||blowsebarbers.shop^
 ||bloxplay.com^
 ||blrpbt.xyz^
@@ -26017,6 +26014,7 @@
 ||botb.rtl2.de^
 ||botdetection.hbrsd.com^
 ||bothererune.com^
+||bothoorgoamsab.net^
 ||bothpersonality.com^
 ||bothsemicolon.com^
 ||bothwest.pro^
@@ -27486,7 +27484,6 @@
 ||candiedguilty.com^
 ||candiedsquall.com^
 ||candleannihilationretrieval.com^
-||candlingtremble.com^
 ||candouraggravate.com^
 ||candy-network.com^
 ||candy.sees.com^
@@ -28335,6 +28332,7 @@
 ||ceemoptu.xyz^
 ||ceeqgwt.com^
 ||ceethipt.com^
+||ceetuweevozegu.xyz^
 ||ceewhooho.net^
 ||ceezepegleze.xyz^
 ||cef7cb85aa.com^
@@ -45146,6 +45144,7 @@
 ||guardiandigitalcomparison.co.uk^
 ||guardiannostrils.com^
 ||guardsslate.com^
+||guasarestant.com^
 ||gubsikroord.net^
 ||guchihyfa.pro^
 ||guckoash.net^
@@ -52219,6 +52218,7 @@
 ||koaneeto.xyz^
 ||koapsout.com^
 ||koapsuha.net^
+||koaptausoaco.net^
 ||koaptouw.com^
 ||koataigalupo.net^
 ||koauq.top^
@@ -52449,7 +52449,6 @@
 ||kutsouleghoar.net^
 ||kuurza.com^
 ||kuusay.yalispor.com.tr^
-||kuvlgavbtkuokj.xyz^
 ||kuvoansub.com^
 ||kuwaitmarketing.sedgwick.com^
 ||kuwhudsa.com^
@@ -58621,6 +58620,7 @@
 ||medicalcandid.com^
 ||medicalpossessionlint.com^
 ||medicationneglectedshared.com^
+||medinaossal.com^
 ||mediniku.viessmann.lt^
 ||mediocrecount.com^
 ||medisante.actonservice.com^
@@ -63942,6 +63942,7 @@
 ||offergate-games-download1.com^
 ||offergate-software20.com^
 ||offergate-software6.com^
+||offergate.pro^
 ||offergo.net^
 ||offerimage.com^
 ||offerlink.co^
@@ -65944,6 +65945,7 @@
 ||paiena.xyz^
 ||paiglumousty.net^
 ||paikoasa.tv^
+||painchnieves.com^
 ||painfullyconfession.com^
 ||painfullypenny.com^
 ||painkillercontrivanceelk.com^
@@ -66559,6 +66561,7 @@
 ||perch.stefangasser.com^
 ||percussivecloakfortunes.com^
 ||percussiverefrigeratorunderstandable.com^
+||perdurepeeve.com^
 ||pereliaastroid.com^
 ||perennialmythcooper.com^
 ||perennialsecondly.com^
@@ -66903,7 +66906,6 @@
 ||pi.ispot.tv^
 ||pi.technik3d.com^
 ||pi4.piczhq.com^
-||piads.vn^
 ||piaigyyigyghjmi.xyz^
 ||pianis.shop^
 ||piarecdn.com^
@@ -68296,7 +68298,6 @@
 ||prepositiondiscourteous.com^
 ||prepositionrumour.com^
 ||preppiesteamer.com^
-||preraldnz.com^
 ||prerogativeproblems.com^
 ||prerogativeslob.com^
 ||presage.io^
@@ -71735,6 +71736,7 @@
 ||revulsiondeportvague.com^
 ||revupads.com^
 ||rewaawoyamvky.top^
+||rewakenreaware.top^
 ||rewardjav128.fun^
 ||rewards-my.greateasternlife.com^
 ||rewards-sg.greateasternlife.com^
@@ -74247,6 +74249,7 @@
 ||scheduling.qualifi.hr^
 ||schinnerer.actonservice.com^
 ||schizorecooks.shop^
+||schizypdq.com^
 ||schjmp.com^
 ||schmalzgarniec.com^
 ||schochedueful.com^
@@ -76667,7 +76670,6 @@
 ||slobgrandmadryer.com^
 ||slockertummies.com^
 ||sloeri.com^
-||slonejulyh.xyz^
 ||slopeac.com^
 ||slopeaota.com^
 ||slopingunrein.com^
@@ -83837,6 +83839,7 @@
 ||stthykerewasn.com^
 ||stts.sgab-srfp.ch^
 ||stts.swisshranalytics.ch^
+||stubberjacens.com^
 ||stubbleupbriningbackground.com^
 ||stubbornembroiderytrifling.com^
 ||stubevirger.top^
@@ -85959,6 +85962,7 @@
 ||tearerernest.com^
 ||tearingsinnerprinciples.com^
 ||tearsskin.cfd^
+||teaser-goods.ru^
 ||teaserslamda.top^
 ||teaspoonbrave.com^
 ||teaspoondaffodilcould.com^
@@ -94975,6 +94979,7 @@
 ||wexevoom.net^
 ||wextap.com^
 ||wezbvq.heine-shop.nl^
+||wf7.icu^
 ||wfcs.lol^
 ||wffbdim.com^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
@@ -97011,6 +97016,7 @@
 ||wymymep.com^
 ||wynather.com^
 ||wynvalur.com^
+||wyrockraptest.shop^
 ||wysasys.com^
 ||wyuwkbe.top^
 ||wyvlljvbbjvvm.top^
@@ -98027,6 +98033,7 @@
 ||xx21xl771.lycheenews.com^
 ||xx3691b.com^
 ||xxaks01080sspao.xyz^
+||xxaks01081sspao.xyz^
 ||xxccdshj.com^
 ||xxdfexbwv.top^
 ||xxe2.com^
