@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-09 10:07:15（北京时间）
+! Version: 2025-01-09 20:41:18（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99551
+! Total count: 99554
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -7930,7 +7930,6 @@
 ||5e23859408.7868d5c036.com^
 ||5e24c893ea.bc1da16d64.com^
 ||5e37c0d1cf.772f4bba41.com^
-||5e4563e9d9.com^
 ||5e6ef8e03b.com^
 ||5e7c26314c.474b0fa000.com^
 ||5ea36e0eb5.com^
@@ -8480,7 +8479,6 @@
 ||688de7b3822de.com^
 ||6890.reminews.com^
 ||6899.4puuqeh41.com^
-||689c5de254.com^
 ||68amt53h.de^
 ||68aq8q352.com^
 ||68b956af2d.89df7388bf.com^
@@ -17923,6 +17921,7 @@
 ||adtimaserver.vn^
 ||adtival.com^
 ||adtlgc.com^
+||adtneosqnnitef.com^
 ||adtng.com^
 ||adtoadd.com^
 ||adtoll.com^
@@ -20812,7 +20811,6 @@
 ||anun.comicsarmy.com^
 ||anunciospatrocinados.com^
 ||anurybolded.shop^
-||anvilaboundpalpable.com^
 ||anwap.ru^
 ||anwhitepinafore.info^
 ||anxiousairliner.com^
@@ -23206,6 +23204,7 @@
 ||authaptixoal.com^
 ||authcaptcha.com^
 ||authentic3d.actonservice.com^
+||authoacmou.com^
 ||authognu.com^
 ||authookroop.com^
 ||authoritativedollars.com^
@@ -23826,7 +23825,6 @@
 ||b13.penzainform.ru^
 ||b194c1c862.com^
 ||b194c74947.41b5062d22.com^
-||b1a9bbebdb.com^
 ||b1d51fd3c4.com^
 ||b1dd039f40.com^
 ||b1f2e1a0a9.9a7e77df71.com^
@@ -23887,6 +23885,7 @@
 ||b6b381f428.9dcae3bd13.com^
 ||b6b6c55625.8a40179356.com^
 ||b6c215cd84.38e5270423.com^
+||b6cb78mf.cfd^
 ||b6f16b3cd2.com^
 ||b70456bf.xyz^
 ||b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online^
@@ -28897,6 +28896,7 @@
 ||chulhawakened.com^
 ||chullohagrode.com^
 ||chultoux.com^
+||chumealq.com^
 ||chumpaufte.xyz^
 ||chumsaft.com^
 ||chunmiaosh.com^
@@ -30049,6 +30049,7 @@
 ||collector.statowl.com^
 ||collector.superwall.me^
 ||collector.szlcsc.com^
+||collector.t-idr.com^
 ||collector.taoxh.life^
 ||collector.vhx.tv^
 ||collector.wawlabs.com^
@@ -30705,6 +30706,7 @@
 ||contagionwashingreduction.com^
 ||contagiousbookcasepants.com^
 ||containingwaitdivine.com^
+||containsreform.com^
 ||containssubordinatecologne.com^
 ||contalyze.com^
 ||contaminateconsessionconsession.com^
@@ -31714,7 +31716,6 @@
 ||csmads.gameclick.vn^
 ||csmetrics.wilton.com^
 ||csp-collector.appspot.com^
-||csp-report.marketing.aws.dev^
 ||csp-reporting.cloudflare.com^
 ||csp.secureserver.net^
 ||csp.yandex.net^
@@ -32522,6 +32523,7 @@
 ||d1ol7fsyj96wwo.cloudfront.net^
 ||d1on4urq8lvsb1.cloudfront.net^
 ||d1or04kku1mxl9.cloudfront.net^
+||d1ou8n65t6oyh4.cloudfront.net^
 ||d1oykxszdrgjgl.cloudfront.net^
 ||d1p0vowokmovqz.cloudfront.net^
 ||d1p3zboe6tz3yy.cloudfront.net^
@@ -39166,6 +39168,7 @@
 ||erb.tremblant.ca^
 ||erbiscusysexbu.info^
 ||ercoeteasacom.com^
+||ercoils.com^
 ||erdeallyighab.com^
 ||erdecisesgeorg.info^
 ||erebor.douban.com^
@@ -42180,7 +42183,6 @@
 ||ftblltrck.com^
 ||ftd.agency^
 ||ftdbtko.xyz^
-||ftdunmjs.com^
 ||ftfnews.actonservice.com^
 ||ftheusysianeduk.com^
 ||ftjcfx.com^
@@ -43750,6 +43752,7 @@
 ||gmpcyv.svinando.com^
 ||gmqvql.furnwise.co.uk^
 ||gmqyld.jacksonandperkins.com^
+||gmrfgejkhqfsr.com^
 ||gmrhzf.wolfermans.com^
 ||gms.greatschools.org^
 ||gmsllx.sorteonline.com.br^
@@ -46342,6 +46345,7 @@
 ||hjyfhi.misterspex.fi^
 ||hk-go.experian.com^
 ||hk.aomg5bzv7.com^
+||hk6vdj4z.click^
 ||hkaphqknkao.com^
 ||hkbumv.icu^
 ||hkfgsxpnaga.xyz^
@@ -50956,7 +50960,6 @@
 ||jkgeyo.urbanara.de^
 ||jkha742.xyz^
 ||jkizha.theshoecompany.ca^
-||jkkecgjdttoev.com^
 ||jklpy.com^
 ||jkls.life^
 ||jknarp.kakaku.com^
@@ -51540,7 +51543,6 @@
 ||jy147a.com^
 ||jy7.icu^
 ||jybaekajjmqrz.top^
-||jybavoxvofx.com^
 ||jybnuw.mudah.my^
 ||jycrjkuspyv.fun^
 ||jycrmvvyplmq.com^
@@ -61309,7 +61311,6 @@
 ||moreinfo.onnowdigital.com^
 ||moreinfo.powerpro360.com^
 ||moreinfo.sdmyers.com^
-||moreinfo.support^
 ||morenonfictiondiscontent.com^
 ||moreoverwheelbarrow.com^
 ||morestamping.com^
@@ -62567,7 +62568,6 @@
 ||news-jivera.com^
 ||news-l.play.ott.video.qq.com^
 ||news-mefuba.cc^
-||news-molixo.cc^
 ||news-place1.xyz^
 ||news-portals1.xyz^
 ||news-rojaxa.com^
@@ -63375,6 +63375,7 @@
 ||ntoftheusysianedt.info^
 ||ntoftheusysih.info^
 ||ntopcd.underarmour.nl^
+||ntowritingneewebfu.com^
 ||ntphyl.milan-jeunesse.com^
 ||ntpnfyga.icu^
 ||ntqtvdlnzhkoc.com^
@@ -63625,6 +63626,7 @@
 ||o68c.sfr.fr^
 ||o6b8iq9faurknd3p.k45z7tagm.com^
 ||o8.hyatt.com^
+||o8s.icu^
 ||o8zoz.icu^
 ||o911o.com^
 ||oaajylbosyndpjl.com^
@@ -70120,7 +70122,6 @@
 ||quicklymuseum.com^
 ||quicknewssurge.com^
 ||quickorange.com^
-||quickpasss.com^
 ||quickpcfixer.click^
 ||quickshare.cfd^
 ||quicksitting.com^
@@ -71752,7 +71753,6 @@
 ||rewsawanincreasei.com^
 ||rexadvert.xyz^
 ||rexbucks.com^
-||rexfwkxwhbscjqe.com^
 ||rexneedleinterfere.com^
 ||rexsrv.com^
 ||reydrj.kozaczek.pl^
@@ -83923,6 +83923,7 @@
 ||subjectslisted.com^
 ||submarinefortressacceptable.com^
 ||submarinestooped.com^
+||submarinesubdued.com^
 ||submissionheartyprior.com^
 ||submissionspurtgleamed.com^
 ||submissivejuice.com^
@@ -86820,6 +86821,7 @@
 ||tilttrk.com^
 ||tiltwin.com^
 ||tim.nextinpact.com^
+||timaariraconiansta.org^
 ||timberjavgg124.fun^
 ||timcityinfirmary.com^
 ||time4news.net^
@@ -93836,6 +93838,7 @@
 ||vriesziy.com^
 ||vrime.xyz^
 ||vrinqop.icu^
+||vrizead.com^
 ||vroomedbedroll.shop^
 ||vrplynsfcr.xyz^
 ||vrs.cz^
@@ -97133,7 +97136,6 @@
 ||xbbhwggj.icu^
 ||xbc8fsvo5w75wwx8.pro^
 ||xbfebqya.icu^
-||xbhbdvly.com^
 ||xbmady.daimaru-matsuzakaya.jp^
 ||xbooru.com/ex.js^
 ||xbooru.com/x^
@@ -98042,6 +98044,7 @@
 ||xx3691b.com^
 ||xxaks01080sspao.xyz^
 ||xxaks01081sspao.xyz^
+||xxaks01091sspao.xyz^
 ||xxccdshj.com^
 ||xxdfexbwv.top^
 ||xxe2.com^
