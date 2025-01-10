@@ -3324,7 +3324,6 @@ DOMAIN,1ckbfk08k.de,reject
 DOMAIN,1clic1don.fr,reject
 DOMAIN,1cros.net,reject
 DOMAIN,1ctc.sfr.fr,reject
-DOMAIN,1d0ec98437.com,reject
 DOMAIN,1d18dd4bc1.d5db478dde.com,reject
 DOMAIN,1d36243653.ef1dd1776c.com,reject
 DOMAIN,1d60ed7be0.c0699fd01b.com,reject
@@ -3890,7 +3889,6 @@ DOMAIN,23e023321c.c12c813990.com,reject
 DOMAIN,23f19b241e.f7050945a4.com,reject
 DOMAIN,23hssicm9.de,reject
 DOMAIN,24-sportnews.com,reject
-DOMAIN,24-xxx.biz,reject
 DOMAIN,24.935ft4j96.com,reject
 DOMAIN,24.eu,reject
 DOMAIN,24.y2sysv81v.com,reject
@@ -8550,7 +8548,6 @@ DOMAIN,6ce02869b9.com,reject
 DOMAIN,6cf0e7801e8cd.clicknplay.to,reject
 DOMAIN,6cs.icu,reject
 DOMAIN,6d39809b4a.com,reject
-DOMAIN,6d3f3332fd.com,reject
 DOMAIN,6de72955d8.com,reject
 DOMAIN,6df90c4978.0eade9dd8d.com,reject
 DOMAIN,6dmkbyxl8qsz9sic.wemakebestnews.com,reject
@@ -9146,7 +9143,6 @@ DOMAIN,78rkcgj4i8c6.www.cefirates.com,reject
 DOMAIN,79.guesswhatnews.com,reject
 DOMAIN,7901.reminews.com,reject
 DOMAIN,7904.jemonews.com,reject
-DOMAIN,790475b914.com,reject
 DOMAIN,7905.jemonews.com,reject
 DOMAIN,7913fb877d.15d113e19a.com,reject
 DOMAIN,7915.jemonews.com,reject
@@ -9838,7 +9834,6 @@ DOMAIN,8825.luronews.com,reject
 DOMAIN,8826.lookinews.com,reject
 DOMAIN,8828.luronews.com,reject
 DOMAIN,8828.sifenews.com,reject
-DOMAIN,882f53d76a.com,reject
 DOMAIN,8830.loopanews.com,reject
 DOMAIN,8835.gofenews.com,reject
 DOMAIN,88362zubo95838.com,reject
@@ -15322,7 +15317,6 @@ DOMAIN,absolutelysaunabuy.com,reject
 DOMAIN,absolutelytowns.com,reject
 DOMAIN,absolutepropositionmayonnaise.com,reject
 DOMAIN,absoluteroute.com,reject
-DOMAIN,absolutioncompulsivenoisy.com,reject
 DOMAIN,absolvedoggy.com,reject
 DOMAIN,absolveparticlesanti.com,reject
 DOMAIN,absolvewednesday.com,reject
@@ -16757,7 +16751,6 @@ DOMAIN,admissions.trios.com,reject
 DOMAIN,admit.mountsaintvincent.edu,reject
 DOMAIN,admitad-connect.com,reject
 DOMAIN,admitad.com,reject
-DOMAIN,admitboutiqueparagraph.com,reject
 DOMAIN,admithelperbusy.com,reject
 DOMAIN,admitpursued.com,reject
 DOMAIN,admixer.co.kr,reject
@@ -18168,7 +18161,6 @@ DOMAIN,adway.org,reject
 DOMAIN,adwhirl.com,reject
 DOMAIN,adwile.com,reject
 DOMAIN,adwin.geenstijl.nl,reject
-DOMAIN,adwitserver.com,reject
 DOMAIN,adwmab.card-db.com,reject
 DOMAIN,adworldnetwork.com,reject
 DOMAIN,adworx.be,reject
@@ -18632,6 +18624,7 @@ DOMAIN,agmtrk.com,reject
 DOMAIN,agnes.waz.de,reject
 DOMAIN,agnrcrpwyyn.com,reject
 DOMAIN,agoholiday.com,reject
+DOMAIN,agoniedlaissez.com,reject
 DOMAIN,agonyenginedrivermansion.com,reject
 DOMAIN,agooxouy.net,reject
 DOMAIN,agoqaa.stockmann.com,reject
@@ -19035,6 +19028,7 @@ DOMAIN,albraixentor.com,reject
 DOMAIN,albumobligationmorally.com,reject
 DOMAIN,albumshrugnotoriety.com,reject
 DOMAIN,alcatza.com,reject
+DOMAIN,alcaydecubages.com,reject
 DOMAIN,alchemysocial.com,reject
 DOMAIN,alcidkits.com,reject
 DOMAIN,alclick.com,reject
@@ -19628,7 +19622,6 @@ DOMAIN,amzbtuolwp.com,reject
 DOMAIN,amzrjyzjolzlv.top,reject
 DOMAIN,an.avast.com,reject
 DOMAIN,an.avast.ru,reject
-DOMAIN,an.batmobi.net,reject
 DOMAIN,an.constantcontact.com,reject
 DOMAIN,an.dongphim.net,reject
 DOMAIN,an.facebook.com,reject
@@ -19743,6 +19736,7 @@ DOMAIN,analytics-gateway.delta.dp.lightricks.com,reject
 DOMAIN,analytics-gw.games.wanmei.com,reject
 DOMAIN,analytics-hub.3plearning.com,reject
 DOMAIN,analytics-ingestion-production.tubitv.com,reject
+DOMAIN,analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io,reject
 DOMAIN,analytics-ingestion.production-public.tubi.io,reject
 DOMAIN,analytics-ingress-global.bitmovin.com,reject
 DOMAIN,analytics-ingress.bitmovin.com,reject
@@ -25383,6 +25377,7 @@ DOMAIN,biunialpawnie.top,reject
 DOMAIN,biuskye.com,reject
 DOMAIN,biv.gazeta.pl,reject
 DOMAIN,bivos.xyz,reject
+DOMAIN,biwipuque.com,reject
 DOMAIN,biworldwide.actonservice.com,reject
 DOMAIN,biz.coface.com,reject
 DOMAIN,biz.gexing.com,reject
@@ -29419,6 +29414,9 @@ DOMAIN,client2009x25.xcdn.ovh,reject
 DOMAIN,clientinfo.phimmoizz.net,reject
 DOMAIN,clientlog.midomi.com,reject
 DOMAIN,clientlog.music.163.com,reject
+DOMAIN,clientlog3.music.163.com,reject
+DOMAIN,clientlogdep.music.163.com,reject
+DOMAIN,clientlogsf.music.163.com,reject
 DOMAIN,clientmetrics-augmentum.kik.com,reject
 DOMAIN,clientmetrics-pa.googleapis.com,reject
 DOMAIN,clientmetrics.kik.com,reject
@@ -30773,7 +30771,6 @@ DOMAIN,contents-tracking.beop.io,reject
 DOMAIN,contents.pwc.com,reject
 DOMAIN,contentshamper.com,reject
 DOMAIN,context.hotline.ua,reject
-DOMAIN,contextualyield.com,reject
 DOMAIN,contextweb.com,reject
 DOMAIN,contineljs.com,reject
 DOMAIN,continentalaileendepict.com,reject
@@ -31208,7 +31205,6 @@ DOMAIN,cpaway.com,reject
 DOMAIN,cpays.com,reject
 DOMAIN,cpc-service-square.aiclk.com,reject
 DOMAIN,cpcmart.com,reject
-DOMAIN,cpcstdploqqh.com,reject
 DOMAIN,cpcvabi.com,reject
 DOMAIN,cpdronhu.xyz,reject
 DOMAIN,cpffkbpq.xyz,reject
@@ -33899,6 +33895,7 @@ DOMAIN,data.jp-email.princess.com,reject
 DOMAIN,data.jp-guest.princess.com,reject
 DOMAIN,data.kameleoon.io,reject
 DOMAIN,data.keybank.dev.cjmadobe.com,reject
+DOMAIN,data.kuiniuca.com,reject
 DOMAIN,data.kulturkaufhaus.de,reject
 DOMAIN,data.latinamerica.coca-cola.com,reject
 DOMAIN,data.lavozdigital.es,reject
@@ -36982,6 +36979,7 @@ DOMAIN,dynamicapl.com,reject
 DOMAIN,dynamicjsconfig.com,reject
 DOMAIN,dynamitedata.com,reject
 DOMAIN,dynamosbakongo.shop,reject
+DOMAIN,dynatrace.att.com,reject
 DOMAIN,dynpaa.com,reject
 DOMAIN,dynspt.com,reject
 DOMAIN,dynsrvbaa.com,reject
@@ -37956,6 +37954,7 @@ DOMAIN,eisdog.shape.com,reject
 DOMAIN,eit3.destinia.nl,reject
 DOMAIN,eiteribesshaints.com,reject
 DOMAIN,eitfromtheothe.org,reject
+DOMAIN,eitilbyr.com,reject
 DOMAIN,eitkrg.loriblu.com,reject
 DOMAIN,eiuoom.xyz,reject
 DOMAIN,eiutpcsnydhyaer.com,reject
@@ -39036,6 +39035,7 @@ DOMAIN,epimetheus.navigator.web.de,reject
 DOMAIN,epipialbeheira.com,reject
 DOMAIN,epiv.cardlytics.com,reject
 DOMAIN,epixkf.dentrodahistoria.com.br,reject
+DOMAIN,epizzoacoses.com,reject
 DOMAIN,eplndhtrobl.com,reject
 DOMAIN,epm.mailperformance.com,reject
 DOMAIN,epnfoq.cyberpowersystem.co.uk,reject
@@ -41169,6 +41169,7 @@ DOMAIN,fishesparkas.shop,reject
 DOMAIN,fishing.daigostudio.com,reject
 DOMAIN,fishingstuddy.com,reject
 DOMAIN,fishingtouching.com,reject
+DOMAIN,fishmangyral.com,reject
 DOMAIN,fishmenkabbala.com,reject
 DOMAIN,fishybackgroundmarried.com,reject
 DOMAIN,fishyshortdeed.com,reject
@@ -41287,6 +41288,7 @@ DOMAIN,fleahat.com,reject
 DOMAIN,fleckfound.com,reject
 DOMAIN,fleenaive.com,reject
 DOMAIN,fleet-eml.postmates.com,reject
+DOMAIN,fleetenreplevy.com,reject
 DOMAIN,fleetingretiredsafe.com,reject
 DOMAIN,fleetingtrustworthydreams.com,reject
 DOMAIN,flenserencloud.click,reject
@@ -41499,7 +41501,6 @@ DOMAIN,followeraggregationtraumatize.com,reject
 DOMAIN,followjav182.fun,reject
 DOMAIN,follripup.com,reject
 DOMAIN,follyeffacegrieve.com,reject
-DOMAIN,folos.top,reject
 DOMAIN,folseghvethecit.com,reject
 DOMAIN,fomalhautgacrux.com,reject
 DOMAIN,fondfelonybowl.com,reject
@@ -44309,7 +44310,6 @@ DOMAIN,goaciptu.net,reject
 DOMAIN,goads.pro,reject
 DOMAIN,goadx.com,reject
 DOMAIN,goaffmy.com,reject
-DOMAIN,goahouma.xyz,reject
 DOMAIN,goajuzey.com,reject
 DOMAIN,goalebim.com,reject
 DOMAIN,goaleedeary.com,reject
@@ -45487,6 +45487,7 @@ DOMAIN,hare.startupbootcamp.com.au,reject
 DOMAIN,hareeditoriallinked.com,reject
 DOMAIN,haresmodus.com,reject
 DOMAIN,hariheadacheasperity.com,reject
+DOMAIN,harksifrit.com,reject
 DOMAIN,harlan.actonservice.com,reject
 DOMAIN,harman.epoise.com,reject
 DOMAIN,harmantest.epoise.com,reject
@@ -50654,7 +50655,6 @@ DOMAIN,jeehainout.com,reject
 DOMAIN,jeehathu.com,reject
 DOMAIN,jeejujou.net,reject
 DOMAIN,jeekomih.com,reject
-DOMAIN,jeeng-api-prod.azureedge.net,reject
 DOMAIN,jeepsaut.com,reject
 DOMAIN,jeerouse.xyz,reject
 DOMAIN,jeersoddisprove.com,reject
@@ -50791,7 +50791,6 @@ DOMAIN,jiaoben.jucanw.com,reject
 DOMAIN,jiaopei.com,reject
 DOMAIN,jias115.com,reject
 DOMAIN,jibn12.jintang114.org,reject
-DOMAIN,jibqbfftwup.xyz,reject
 DOMAIN,jicamadoless.com,reject
 DOMAIN,jicamasosteal.shop,reject
 DOMAIN,jiciqm.antalyahomes.com,reject
@@ -52615,6 +52614,7 @@ DOMAIN,lacertrotter.com,reject
 DOMAIN,lacinfo.motorolasolutions.com,reject
 DOMAIN,lackawopsik.xyz,reject
 DOMAIN,lacklesslacklesscringe.com,reject
+DOMAIN,lacmoudoossaiss.net,reject
 DOMAIN,lacquerreddeform.com,reject
 DOMAIN,lactantsurety.top,reject
 DOMAIN,lactolwant.com,reject
@@ -52899,6 +52899,7 @@ DOMAIN,lb.service01.email-allstate.com,reject
 DOMAIN,lb.usemaxserver.de,reject
 DOMAIN,lbc.lesbonscommerces.fr,reject
 DOMAIN,lbfuvlyp.icu,reject
+DOMAIN,lbfwxr.icu,reject
 DOMAIN,lbgfqn.onward.co.jp,reject
 DOMAIN,lbgrwm.zolta.pl,reject
 DOMAIN,lbjekygz.icu,reject
@@ -55903,7 +55904,6 @@ DOMAIN,m.varagesale.com,reject
 DOMAIN,m.vistaresourcegroup.com,reject
 DOMAIN,m.vpadn.com,reject
 DOMAIN,m.vpc.ca,reject
-DOMAIN,m.wenxuemi.cc,reject
 DOMAIN,m.wishmindr.com,reject
 DOMAIN,m.x-power.info,reject
 DOMAIN,m.xrum.info,reject
@@ -60528,6 +60528,7 @@ DOMAIN,mintclick.xyz,reject
 DOMAIN,mintegral.com,reject
 DOMAIN,mintegral.net,reject
 DOMAIN,minterhazes.com,reject
+DOMAIN,mintmanrouter.com,reject
 DOMAIN,mintmanunmanly.com,reject
 DOMAIN,mintybug.com,reject
 DOMAIN,minube.click,reject
@@ -61855,7 +61856,6 @@ DOMAIN,mypa-hk.americanexpress.com,reject
 DOMAIN,mypa-in-prop.americanexpress.com,reject
 DOMAIN,mypa-sg-prop.americanexpress.com,reject
 DOMAIN,mypagerank.net,reject
-DOMAIN,mypagerank.ru,reject
 DOMAIN,myperfect2give.com,reject
 DOMAIN,mypopadpro.com,reject
 DOMAIN,mypopads.com,reject
@@ -62360,6 +62360,7 @@ DOMAIN,net1.netski.com,reject
 DOMAIN,netadclick.com,reject
 DOMAIN,netaffiliation.com,reject
 DOMAIN,netagent.cz,reject
+DOMAIN,netapm.music.163.com,reject
 DOMAIN,netavenir.com,reject
 DOMAIN,netc.sfr.fr,reject
 DOMAIN,netcatx.com,reject
@@ -64095,6 +64096,7 @@ DOMAIN,olineman.pro,reject
 DOMAIN,olitoryhunter.com,reject
 DOMAIN,olivecough.com,reject
 DOMAIN,olivedinflats.space,reject
+DOMAIN,oliver.pub,reject
 DOMAIN,olkhtegk.com,reject
 DOMAIN,olklgn.jh-profishop.de,reject
 DOMAIN,olkoins.com,reject
@@ -66835,6 +66837,7 @@ DOMAIN,piercing-employment.pro,reject
 DOMAIN,pierisrapgae.com,reject
 DOMAIN,pierlinks.com,reject
 DOMAIN,pierrapturerudder.com,reject
+DOMAIN,pietasylphon.com,reject
 DOMAIN,pietyharmoniousablebodied.com,reject
 DOMAIN,pifilineph.com,reject
 DOMAIN,pig.civicplatform.org,reject
@@ -69007,6 +69010,7 @@ DOMAIN,publicidad.elmundo.es,reject
 DOMAIN,publicidad.net,reject
 DOMAIN,publiclyphasecategory.com,reject
 DOMAIN,publicschoolworks.actonservice.com,reject
+DOMAIN,publictelemetry.tophat.com,reject
 DOMAIN,publicunloadbags.com,reject
 DOMAIN,publicus.com,reject
 DOMAIN,publipagos.com,reject
@@ -73948,6 +73952,7 @@ DOMAIN,saylnk.com,reject
 DOMAIN,saymedia.com,reject
 DOMAIN,saymustif.live,reject
 DOMAIN,sayyidsspintry.com,reject
+DOMAIN,sb-hip-happy.ourservice.jp,reject
 DOMAIN,sb-stat1.com,reject
 DOMAIN,sb.mynewplace.com,reject
 DOMAIN,sb.scorecard.research.com,reject
@@ -80681,7 +80686,6 @@ DOMAIN,spersonalization.mrelectric.com,reject
 DOMAIN,spersonalization.mrrooter.ca,reject
 DOMAIN,spersonalization.mrrooter.com,reject
 DOMAIN,spersonalization.rainbowintl.com,reject
-DOMAIN,speysiykiklnn.com,reject
 DOMAIN,spezialreporte.de,reject
 DOMAIN,sphc.caring4cancer.com,reject
 DOMAIN,spheredkapas.com,reject
@@ -86508,6 +86512,7 @@ DOMAIN,thovapsa.net,reject
 DOMAIN,thqgxvs.com,reject
 DOMAIN,thraka.openapp.link,reject
 DOMAIN,thrashbomb.com,reject
+DOMAIN,thratchassman.com,reject
 DOMAIN,threatdetect.org,reject
 DOMAIN,threatenedfallenrueful.com,reject
 DOMAIN,threefortressfork.com,reject
@@ -86642,6 +86647,7 @@ DOMAIN,tiglon.beyondco.de,reject
 DOMAIN,tiglon.davidroessli.com,reject
 DOMAIN,tiglonhominy.top,reject
 DOMAIN,tignuget.net,reject
+DOMAIN,tigreanreshew.com,reject
 DOMAIN,tigroulseedsipt.net,reject
 DOMAIN,tihdjd.xyz,reject
 DOMAIN,tiksoopta.net,reject
@@ -90320,6 +90326,7 @@ DOMAIN,tripledeliveryinstance.com,reject
 DOMAIN,triplescrubjenny.com,reject
 DOMAIN,triplestat.online,reject
 DOMAIN,triplewhale-pixel.web.app,reject
+DOMAIN,tripsisvellums.com,reject
 DOMAIN,tripsstyle.com,reject
 DOMAIN,tripsthorpelemonade.com,reject
 DOMAIN,trisectdoigt.top,reject
@@ -91680,7 +91687,6 @@ DOMAIN,ultramercial.com,reject
 DOMAIN,ultrasonica.info,reject
 DOMAIN,ultund.misterspex.nl,reject
 DOMAIN,ulutlv.esprit.fr,reject
-DOMAIN,uluuahefgtdogy.com,reject
 DOMAIN,ulwfys.xyz,reject
 DOMAIN,ulyvjty4rd.com,reject
 DOMAIN,um-public-panel-prod.s3.amazonaws.com,reject
@@ -92509,6 +92515,7 @@ DOMAIN,uyupgd.goalzero.com,reject
 DOMAIN,uyuwkbt.top,reject
 DOMAIN,uyybde07w.com,reject
 DOMAIN,uyyquln.icu,reject
+DOMAIN,uz-kqtecqs.space,reject
 DOMAIN,uzauxaursachoky.net,reject
 DOMAIN,uzd1.madeindesign.com,reject
 DOMAIN,uzdhsjuhrw.com,reject
@@ -93134,7 +93141,6 @@ DOMAIN,vidrugnirtop.net,reject
 DOMAIN,vids-fun.online,reject
 DOMAIN,vidscriptshark.com,reject
 DOMAIN,vidshouse.online,reject
-DOMAIN,vidustal.com,reject
 DOMAIN,viennafeedman.click,reject
 DOMAIN,vieon-tracking.vieon.vn,reject
 DOMAIN,vietbuzzad.com,reject
@@ -95050,6 +95056,7 @@ DOMAIN,whugeestauva.com,reject
 DOMAIN,whugesto.net,reject
 DOMAIN,whulrima.xyz,reject
 DOMAIN,whulsaux.com,reject
+DOMAIN,whunpainty.com,reject
 DOMAIN,whupsoza.xyz,reject
 DOMAIN,whuptukuzi.net,reject
 DOMAIN,whutchey.com,reject
@@ -98075,6 +98082,7 @@ DOMAIN,ydvdjjtakso.xyz,reject
 DOMAIN,ydvsok.newbalance.jp,reject
 DOMAIN,ydwrkwwqytj.xyz,reject
 DOMAIN,ydybwjpa.xyz,reject
+DOMAIN,ye.dun.163yun.com,reject
 DOMAIN,ye185hcamw.com,reject
 DOMAIN,yeabble.com,reject
 DOMAIN,yeah.qq.com,reject
@@ -98758,6 +98766,7 @@ DOMAIN,zaiuhu.vacatia.com,reject
 DOMAIN,zaiveeneefol.com,reject
 DOMAIN,zaiwihouje.com,reject
 DOMAIN,zaizaigut.net,reject
+DOMAIN,zaizavoulooruta.xyz,reject
 DOMAIN,zajh3a.xyz,reject
 DOMAIN,zajpkgpmgll.com,reject
 DOMAIN,zajukrib.net,reject
