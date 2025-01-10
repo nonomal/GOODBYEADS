@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-10 09:42:27（北京时间）
+! Version: 2025-01-10 20:41:06（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99563
+! Total count: 99557
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -4338,7 +4338,6 @@
 ||2bps53igop02.com^
 ||2br.lycheenews.com^
 ||2c33f8d1d4.10b7647bbf.com^
-||2c4p24o6zp0y.top^
 ||2c4rrl8pe.de^
 ||2c5d30b6f1.com^
 ||2c84016452.4d658ab856.com^
@@ -6186,6 +6185,7 @@
 ||3ts.icu^
 ||3twentyfour.xyz^
 ||3u4zyeugi.com^
+||3uo.fun^
 ||3vig.com^
 ||3vik.lycheenews.com^
 ||3vin.lycheenews.com^
@@ -7920,7 +7920,6 @@
 ||5cf8606941.com^
 ||5clo0xmbf.com^
 ||5d62055f0a.c1b891f5ff.com^
-||5da32c1419.com^
 ||5dbc361cf4.d6774f016a.com^
 ||5deca62174.9dfbbf28ec.com^
 ||5e00.pandasuite.io^
@@ -9998,7 +9997,6 @@
 ||8de5d7e235.com^
 ||8e85eb0e5d.c6bbab50a3.com^
 ||8e8b013d2b.29b124c44a.com^
-||8ea2468d09.com^
 ||8ec9b7706a.com^
 ||8eef59a5.live^
 ||8ehhtsv9bo7i.monkeylearn.com^
@@ -16991,7 +16989,6 @@
 ||adpublisher.s3.amazonaws.com^
 ||adpush.goforandroid.com^
 ||adqit.com^
-||adqnafggeakih.com^
 ||adquery.io^
 ||adquota.com^
 ||adrazzi.com^
@@ -18176,7 +18173,6 @@
 ||adwareremovergold.com^
 ||adway.org^
 ||adwhirl.com^
-||adwile.com^
 ||adwin.geenstijl.nl^
 ||adwmab.card-db.com^
 ||adworldnetwork.com^
@@ -18689,7 +18685,6 @@
 ||ahbdsply.com^
 ||ahbyjm.fiever.com.br^
 ||ahcdsply.com^
-||ahdpsofspmky.com^
 ||ahdvpuovkaz.com^
 ||aheadlimitedplug.com^
 ||aheadprincessmeal.com^
@@ -19683,7 +19678,6 @@
 ||analaxadulatory.com^
 ||analcreampie.net^
 ||analdude.com^
-||anale-sex.nl^
 ||analitica.webrpp.com^
 ||analitik.bik.gov.tr^
 ||analitik.pendik.bel.tr^
@@ -22301,7 +22295,6 @@
 ||archerpointy.com^
 ||archerseizure.com^
 ||archiewinningsneaking.com^
-||archipelagopreviously.com^
 ||architectmalicemossy.com^
 ||architecturecultivated.com^
 ||architecturediscussdifferently.com^
@@ -24149,7 +24142,6 @@
 ||banner.ambercoastcasino.com^
 ||banner.aomg5bzv7.com^
 ||banner.appsflyer.com^
-||banner.blogranking.net^
 ||banner.buempliz-online.ch^
 ||banner.click-tt.de^
 ||banner.cotedazurpalace.com^
@@ -25171,6 +25163,7 @@
 ||bhcont.com^
 ||bhcsub.sankeishop.jp^
 ||bhddsiuo.com^
+||bhegilut.com^
 ||bhgbqh.crocs.de^
 ||bhigziaww.com^
 ||bhkfnroleqcjhm.xyz^
@@ -34417,6 +34410,7 @@
 ||dddstew6cw8.fun^
 ||ddenkno.xyz^
 ||ddfnmo6ev4fd.cloudfront.net^
+||ddhjabqe.icu^
 ||ddijapp.com^
 ||ddioce.wolverine.com^
 ||ddkf.xyz^
@@ -36317,7 +36311,6 @@
 ||dorkingvoust.com^
 ||dormouse.consentkit.com^
 ||dornpush.com^
-||dorogokupimnoutbuk.online^
 ||dorpetor.com^
 ||dortmark.net^
 ||doruffleton.com^
@@ -39123,7 +39116,6 @@
 ||eqingl.ivet.bg^
 ||eqkvks.xyz^
 ||eqkwat.histoiredor.com^
-||eqmrstcb.com^
 ||eqqwgw.xyz^
 ||eqrjuxvhvclqxw.xyz^
 ||eqs.accountants.intuit.com^
@@ -45742,6 +45734,7 @@
 ||hdickeu.top^
 ||hdicsm.autoscout24.be^
 ||hdipsumu.top^
+||hdjthzg.cn^
 ||hdmoza.com/nb^
 ||hdmtools.com^
 ||hdnagl.womensecret.com^
@@ -56308,6 +56301,7 @@
 ||majesticsecondary.com^
 ||majestyafterwardprudent.com^
 ||majestybrightennext.com^
+||majile.vip^
 ||majoagna.com^
 ||major-video.click^
 ||major.dvanadva.ru^
@@ -63546,6 +63540,7 @@
 ||nyetm2mkch.com^
 ||nyfstb.xyz^
 ||nygwcwsvnu.com^
+||nyhdv.com^
 ||nyhed.danskespil.dk^
 ||nyihcpzdloe.com^
 ||nyjelh.icu^
@@ -65139,6 +65134,7 @@
 ||osczsk.lampeetlumiere.be^
 ||osd.oxygem.it^
 ||osdmuxzag.com^
+||osdxx.com^
 ||osekwacuoxt.xyz^
 ||oselamousey.com^
 ||osezny.intheswim.com^
@@ -69519,6 +69515,7 @@
 ||pxbnou.ig.com.br^
 ||pxc.otto.de^
 ||pxgpnp.angara.com^
+||pxhuiben.com^
 ||pxjkbj.bostonproper.com^
 ||pxl.indeed.com^
 ||pxlctl.elpais.com^
@@ -69765,7 +69762,6 @@
 ||qgexkmi.com^
 ||qgg7e.icu^
 ||qgidskiy.top^
-||qgksqshmibx.com^
 ||qglinlrtdfc.com^
 ||qgmikp.fleurdumal.com^
 ||qgmwby.com^
@@ -83927,7 +83923,6 @@
 ||subjectslisted.com^
 ||submarinefortressacceptable.com^
 ||submarinestooped.com^
-||submarinesubdued.com^
 ||submissionheartyprior.com^
 ||submissionspurtgleamed.com^
 ||submissivejuice.com^
@@ -91522,7 +91517,6 @@
 ||uaemarketing.sedgwick.com^
 ||uafkcvpvvelp.com^
 ||uahosnnx.com^
-||uaid.vtwenty.com^
 ||uaiosio.top^
 ||uaiqkjkw.com^
 ||uaiqp.top^
