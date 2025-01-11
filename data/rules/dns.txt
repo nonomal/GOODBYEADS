@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-11 09:40:17（北京时间）
+! Version: 2025-01-11 20:37:53（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99610
+! Total count: 99622
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -14979,6 +14979,7 @@
 ||abazelfan.com^
 ||abbanreddy.com^
 ||abbasidquippy.shop^
+||abbateerupted.com^
 ||abberantbeefy.com^
 ||abberantdiscussion.com^
 ||abberantdisheartenbandage.com^
@@ -24460,6 +24461,7 @@
 ||bc13945167.9cf57a043f.com^
 ||bc34.wijnvoordeel.nl^
 ||bc3f648d44.5f631bb110.com^
+||bc4.fun^
 ||bc6dc48b743dc5d01.clicknplay.to^
 ||bc7b02847f.95b1e00252.com^
 ||bc84617c73.com^
@@ -33468,6 +33470,7 @@
 ||daffaite.com^
 ||daffodilnotifyquarterback.com^
 ||dafvng.sunrefre.jp^
+||dagassapereion.com^
 ||dagd0kz7sipfl.cloudfront.net^
 ||dagheepsoach.net^
 ||dagnar.com^
@@ -41343,6 +41346,7 @@
 ||flaweyesight.com^
 ||flawgrandparentsmysterious.com^
 ||flaxconfession.com^
+||flaxdescale.com^
 ||flaxierfilmset.com^
 ||flcrcyj.com^
 ||fldes6fq.de^
@@ -50741,6 +50745,7 @@
 ||jeannenoises.com^
 ||jeanspurrcleopatra.com^
 ||jebhnmggi.xyz^
+||jebrhb.icu^
 ||jeccmq.wehkamp.nl^
 ||jechusou.com^
 ||jecoglegru.com^
@@ -65189,6 +65194,7 @@
 ||oskiwood.com^
 ||osm-onead.cdn.hinet.net^
 ||osmeticjewlike.com^
+||osminaclumber.com^
 ||osmosedshrined.top^
 ||osmzym.xyz^
 ||osnksi.czytam.pl^
@@ -68633,6 +68639,7 @@
 ||projectscupcakeinternational.com^
 ||projectwonderful.com^
 ||prolatecyclus.com^
+||proleclips.com^
 ||proll.esexa.online^
 ||proll.manrec.cc^
 ||proll.shemrec.cc^
@@ -70381,7 +70388,6 @@
 ||r451.jamanetwork.com^
 ||r4nds.absorba.com^
 ||r4u.icu^
-||r5.dir.bg^
 ||r541.houstonchronicle.com^
 ||r566.timescall.com^
 ||r5apiliopolyxenes.com^
@@ -72893,6 +72899,7 @@
 ||rvv.emol.com^
 ||rvvmynjd.love^
 ||rvxmlj.icu^
+||rvxsvwqf.icu^
 ||rvz9.destinia.co.ro^
 ||rw.marchex.io^
 ||rwdito.carsguide.com.au^
@@ -86050,6 +86057,7 @@
 ||techservices.trapptechnology.com^
 ||techsupport.balluff.com^
 ||tecominchisel.com^
+||tectureclod.top^
 ||tecuil.com^
 ||teczbq.amicashop.com^
 ||ted.dailymail.co.uk^
@@ -86073,6 +86081,7 @@
 ||teepoomo.xyz^
 ||teestoagloupaza.net^
 ||teetusee.xyz^
+||teewhilemath.net^
 ||teezoshou.com^
 ||tefrjctjwuu.com^
 ||tefuse.com^
@@ -87579,6 +87588,7 @@
 ||touchyeccentric.com^
 ||touchytautogs.com^
 ||touena.xyz^
+||tougaipteehuboo.xyz^
 ||toughdrizzleleftover.com^
 ||tougrauwaizus.net^
 ||toumohiy.com^
@@ -93020,6 +93030,7 @@
 ||vddf0.club^
 ||vde1.voyage-prive.de^
 ||vdfvdf33q.fun^
+||vdhf042.fun^
 ||vdjpqtsxuwc.xyz^
 ||vdkjfd.hottopic.com^
 ||vdlvry.com^
@@ -95030,6 +95041,7 @@
 ||weus2watcab01.blob.core.windows.net^
 ||weus2watcab02.blob.core.windows.net^
 ||wevbgr.vidaxl.it^
+||wevechinse.com^
 ||wew.dushiwenxue.net^
 ||wewaixor.com^
 ||wewearegogogo.com^
