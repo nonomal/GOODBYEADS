@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-12 09:48:15（北京时间）
+! Version: 2025-01-12 20:37:40（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99639
+! Total count: 99646
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -23251,6 +23251,7 @@
 ||auxiliarydonor.com^
 ||auxiliaryspokenrationalize.com^
 ||auxml.com^
+||auytiuhpu.com^
 ||av6fm8zw2cvz.furucombo.app^
 ||avads.co.uk^
 ||avads.net^
@@ -28277,6 +28278,7 @@
 ||cdnweb3.pages.dev^
 ||cdnwidget.com^
 ||cdolhlwq.xyz^
+||cdomsif.top^
 ||cdoqjxlnegnhm.com^
 ||cdoshbf.top^
 ||cdotrvjaiupk.com^
@@ -36506,6 +36508,7 @@
 ||dpd9yiocsyy6p.cloudfront.net^
 ||dpdnav.com^
 ||dpeqm8xv96fuc.cloudfront.net^
+||dphwyvcmdki.com^
 ||dpirwgljl6cjp.cloudfront.net^
 ||dpjlvaveq1byu.cloudfront.net^
 ||dpjrba.com^
@@ -39274,7 +39277,6 @@
 ||eserinemersion.shop^
 ||eservices.lubetech.com^
 ||esescvyjtqoda.xyz^
-||esexa.online^
 ||esfwkjsim.com^
 ||eshkol.io^
 ||eshkol.one^
@@ -40473,7 +40475,6 @@
 ||fashion.tradeshow.globalsources.com^
 ||fashionablegangsterexplosion.com^
 ||faspc.hubhubhub.name^
-||faspox.com^
 ||fast.icars.cc^
 ||fastad.beepworld.de^
 ||fastapi.net^
@@ -54476,6 +54477,7 @@
 ||listenedmusician.com^
 ||listhugdab.live^
 ||listing-a8-itp.hello-storage.com^
+||listoukectivetr.com^
 ||lists.ccmbg.com^
 ||listsbuttock.com^
 ||lit.connatix.com^
@@ -56472,7 +56474,6 @@
 ||manomincasaque.com^
 ||manompas.com^
 ||manorfunctions.com^
-||manrec.cc^
 ||manrootarbota.com^
 ||mansfieldspurtvan.com^
 ||manslaughterhallucinateenjoyment.com^
@@ -63964,6 +63965,7 @@
 ||ofdanpozlgha.com^
 ||ofdittor.com^
 ||ofdnkro.xyz^
+||ofdomjzpix.com^
 ||ofdrapiona.com^
 ||ofebyk.xyz^
 ||offalakazaman.com^
@@ -65361,6 +65363,7 @@
 ||oumoshomp.xyz^
 ||oumtirsu.com^
 ||ounceanalogous.com^
+||oundaymitools.org^
 ||oundhertobeconsi.com^
 ||oungimuk.net^
 ||ounigaugsurvey.space^
@@ -70182,6 +70185,7 @@
 ||quietlybananasmarvel.com^
 ||quigo.com^
 ||quilkinhulking.shop^
+||quillsconi.top^
 ||quinceimaging.actonservice.com^
 ||quinchdeepish.top^
 ||quinst.com^
@@ -71827,6 +71831,7 @@
 ||rfmfrg.yamap.com^
 ||rfnvqpo.xyz^
 ||rfogqbystvgb.com^
+||rfoqfifqcyymeb.com^
 ||rfpx1.com^
 ||rfsjuxlip.com^
 ||rftslb.com^
@@ -81222,7 +81227,6 @@
 ||srvd2204.com^
 ||srvgl.com^
 ||srvpcn.com^
-||srvqck.com^
 ||srvtrck.com^
 ||srvupads.com^
 ||srwwce.xyz^
@@ -91113,6 +91117,7 @@
 ||tss.aomg5bzv7.com^
 ||tst-link-ccontact.focuscura.com^
 ||tstats-13fkh44r.com^
+||tstpmasispcw.com^
 ||tsvrv.com^
 ||tswafl.lascana.nl^
 ||tsy-jnugwavj.love^
@@ -97339,6 +97344,7 @@
 ||xhm.pub^
 ||xhnvgdkw.xyz^
 ||xhohnr.fdm.pl^
+||xholinqbbicfk.com^
 ||xhqmvu.k-uno.co.jp^
 ||xhsdwjes.xyz^
 ||xhuahy.juwelo.it^
@@ -99433,6 +99439,7 @@
 ||zopxzq.premiata.it^
 ||zorango.com^
 ||zosemien.sk^
+||zotkosplh.com^
 ||zougreek.com^
 ||zouloafi.net^
 ||zounaishuphaucu.xyz^
