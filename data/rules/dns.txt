@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-11 20:37:53（北京时间）
+! Version: 2025-01-12 09:48:15（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99622
+! Total count: 99639
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2532,6 +2532,7 @@
 ||1240.5clo0xmbf.com^
 ||1240.luronews.com^
 ||1241.jemonews.com^
+||1244746616.rsc.cdn77.org^
 ||1245.jemonews.com^
 ||1247.79j68qav2.com^
 ||1247.luronews.com^
@@ -3074,6 +3075,7 @@
 ||1751.jemonews.com^
 ||1753.lookinews.com^
 ||1757.tegronews.com^
+||1758664454.rsc.cdn77.org^
 ||175c0a86c0.07d0bc4a48.com^
 ||175c666632.e2af52cae7.com^
 ||176.guesswhatnews.com^
@@ -35004,6 +35006,10 @@
 ||dev.me.thequad.com^
 ||dev.smartrbuyer.com^
 ||dev.sswt.co^
+||dev.to/billboards/sidebar_left^
+||dev.to^*/billboards/post_body_bottom^
+||dev.to^*/billboards/post_comments^
+||dev.to^*/billboards/post_sidebar^
 ||devacton.simpleviewinc.com^
 ||devastatedshorthandpleasantly.com^
 ||devcre.site^
@@ -38010,6 +38016,7 @@
 ||eisasbeautifula.info^
 ||eisasbeautifulas.com^
 ||eisdog.shape.com^
+||eisnaisv.com^
 ||eit3.destinia.nl^
 ||eiteribesshaints.com^
 ||eitfromtheothe.org^
@@ -38782,6 +38789,7 @@
 ||enennsa.gushiwen.cn^
 ||energeticdryeyebrows.com^
 ||energeticladybug.com^
+||energeticprovocation.com^
 ||energeticrecognisepostcard.com^
 ||energy.eneco.be^
 ||energypopulationpractical.com^
@@ -40226,6 +40234,7 @@
 ||f5.lookinews.com^
 ||f5.track-mv-01.com^
 ||f5063966e5.com^
+||f53d954cc5.com^
 ||f54cd504.xyz^
 ||f58x48lpn.com^
 ||f59408d48d.com^
@@ -46347,6 +46356,7 @@
 ||hjjshv.xyz^
 ||hjkhxfh.360doc.cn^
 ||hjklq.com^
+||hjmawbrxzq.space^
 ||hjrcjz.xyz^
 ||hjrvsw.info^
 ||hjshal.com^
@@ -50900,6 +50910,7 @@
 ||jicamasosteal.shop^
 ||jiciqm.antalyahomes.com^
 ||jiclzori.com^
+||jicmivojvsa.com^
 ||jicypigra.com^
 ||jidfdaxi.com^
 ||jidroumsaghetu.xyz^
@@ -54559,6 +54570,7 @@
 ||livezombymil.com^
 ||livingshedhowever.com^
 ||livrfufzios.com^
+||livvbkx-vejj.xyz^
 ||livxlilsq.click^
 ||lixiangmo.com^
 ||lixir.wargers.org^
@@ -64927,6 +64939,7 @@
 ||oplpectation.xyz^
 ||opmxizgcacc.com^
 ||opnbwg.com^
+||opnbylag.com^
 ||opo4.assuronline.com^
 ||opoduchadmir.com^
 ||opoffice.actonservice.com^
@@ -67043,11 +67056,9 @@
 ||pinetech.vn^
 ||ping-traffic.info^
 ||ping.dozuki.com^
-||ping.fastsimon.com^
 ||ping.getadblock.com^
 ||ping.hashnode.com^
 ||ping.hungama.com^
-||ping.instantsearchplus.com^
 ||ping.naturadapt.com^
 ||ping.paidy.com^
 ||ping.resoluteoil.com^
@@ -68135,6 +68146,7 @@
 ||ppjdfki.com^
 ||ppjqgbz.com^
 ||pplgwic.com^
+||pplhfhuwyv.com^
 ||pplkrh.xyz^
 ||pplpiq.pricerunner.se^
 ||ppmakl.oscarcalcados.com.br^
@@ -69214,6 +69226,7 @@
 ||pugdisguise.com^
 ||pugmarktagua.com^
 ||pugsgivehugs.com^
+||puhmtt.icu^
 ||puhtml.com^
 ||puitaexb.com^
 ||puiwrs.misterspex.de^
@@ -75976,6 +75989,7 @@
 ||shatterconceal.com^
 ||shauduptel.net^
 ||shaugacakro.net^
+||shaughixefooz.net^
 ||shauhaik.xyz^
 ||shauladubhe.com^
 ||shauladubhe.top^
@@ -87266,6 +87280,7 @@
 ||tncpzu.marelbo.com^
 ||tncred.com^
 ||tnctufo.com^
+||tndbnriz.icu^
 ||tneca.com^
 ||tnegqr.bohme.com^
 ||tnfno.icu^
@@ -90522,6 +90537,7 @@
 ||trickvealwagon.com^
 ||trickynationalityturn.com^
 ||triconah.actonservice.com^
+||tridroin.com^
 ||triedstrickenpickpocket.com^
 ||trienestooth.com^
 ||trigami.com^
@@ -95523,6 +95539,7 @@
 ||wjct3s8at.com^
 ||wjimtye.top^
 ||wjljwqbmmjaqz.top^
+||wjqssnujrbyu.com^
 ||wjssvg.descentekorea.co.kr^
 ||wjtekf.vidaxl.bg^
 ||wjtzvvdqvfjd.com^
