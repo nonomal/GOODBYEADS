@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-12 20:37:40（北京时间）
+! Version: 2025-01-13 09:45:01（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99646
+! Total count: 99653
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -4474,6 +4474,7 @@
 ||2ydian.com^
 ||2yqcaqbfnv.nextgen.shareablee.com^
 ||2yv8tv5c4x5434z.lookinews.com^
+||2za.fun^
 ||3.5646.cn^
 ||3.cjcp.cn^
 ||3.deeginews.com^
@@ -15937,6 +15938,7 @@
 ||ad.ettoday.net^
 ||ad.eva.vn^
 ||ad.f1cd.ru^
+||ad.firestorage.jp^
 ||ad.flipboard.com^
 ||ad.foxnetworks.com^
 ||ad.fx168api.com^
@@ -27060,6 +27062,7 @@
 ||c-trzylshv.vip^
 ||c.28rv.com^
 ||c.adroll.com^
+||c.albss.com^
 ||c.amazinglybrilliant.com.au^
 ||c.aomg5bzv7.com^
 ||c.aquaservice.com^
@@ -36587,6 +36590,7 @@
 ||dratingmaject.com^
 ||drau.viessmann.si^
 ||draughtpoisonous.com^
+||drauvea.com^
 ||drawbackcaptiverusty.com^
 ||drawerenter.com^
 ||drawergypsyavalanche.com^
@@ -45766,6 +45770,7 @@
 ||hdmoza.com/nb^
 ||hdmtools.com^
 ||hdnagl.womensecret.com^
+||hdomsiu.top^
 ||hdoshbu.top^
 ||hdpreview.com^
 ||hdqrswhipped.top^
@@ -63556,6 +63561,7 @@
 ||nx8.icu^
 ||nxakpj4ac8gkd53.info^
 ||nxcm.cc^
+||nxdefd.icu^
 ||nxexydg.com^
 ||nxgzeejhs.com^
 ||nxhfkfyy.xyz^
@@ -63986,7 +63992,6 @@
 ||offergate-games-download1.com^
 ||offergate-software20.com^
 ||offergate-software6.com^
-||offergate.pro^
 ||offergo.net^
 ||offerimage.com^
 ||offerlink.co^
@@ -64193,6 +64198,7 @@
 ||ojzghaawlf.com^
 ||ok.fapnow.xxx^
 ||ok.forwank.com^
+||ok5.fun^
 ||ok8867s.com^
 ||ok88okg.infinityscans.net^
 ||okagcw.xyz^
@@ -86035,7 +86041,6 @@
 ||tearerernest.com^
 ||tearingsinnerprinciples.com^
 ||tearsskin.cfd^
-||teaser-goods.ru^
 ||teaserslamda.top^
 ||teaspoonbrave.com^
 ||teaspoondaffodilcould.com^
@@ -86709,6 +86714,7 @@
 ||thongke99.baogiaothong.vn^
 ||thongrooklikelihood.com^
 ||thongtechnicality.com^
+||thonkoirs.com^
 ||thoocheegee.xyz^
 ||thoohizoogli.xyz^
 ||thookraughoa.com^
@@ -93227,6 +93233,7 @@
 ||vfo4.carrefour-banque.fr^
 ||vfphbh.xyz^
 ||vfthr.com^
+||vftrfmia.icu^
 ||vftvbx.xyz^
 ||vfuqivac.com^
 ||vfvad.top^
