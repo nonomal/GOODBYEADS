@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-13 09:45:01（北京时间）
+! Version: 2025-01-13 20:42:40（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99653
+! Total count: 99666
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -44526,6 +44526,7 @@
 ||goofy1x.xyz^
 ||googie-anaiytics.com^
 ||google-ads.hara.vn^
+||google-analyticals.com^
 ||google-analytics-cn.com^
 ||google-analytics.com^
 ||google-js-01.xyz^
@@ -47435,6 +47436,7 @@
 ||idolight.net^
 ||idolonpomposo.guru^
 ||idolsstars.com^
+||idomsio.top^
 ||idoshbo.top^
 ||idownloadgalore.com^
 ||idqwqm.kkday.com^
@@ -59600,6 +59602,7 @@
 ||metrics.huntington.com^
 ||metrics.huntingtonsdiseasehcp.com^
 ||metrics.hydraulicspneumatics.com^
+||metrics.hyperliquid.xyz^
 ||metrics.hyundaiusa.com^
 ||metrics.icloud.com^
 ||metrics.iconfitness.com^
@@ -92696,6 +92699,7 @@
 ||uumnxiet.top^
 ||uunczm.lescon.com.tr^
 ||uuoizbtl.xyz^
+||uuqrisuy.com^
 ||uuresdt.top^
 ||uurhhtymipx.com^
 ||uurykr.pizzahut.com.mx^
@@ -96138,8 +96142,10 @@
 ||www-sadobe.anabuki.co.jp^
 ||www-smt.daiichisankyo-hc.co.jp^
 ||www.0420.loopanews.com^
+||www.05454674.xyz^
 ||www.0614.huronews.com^
 ||www.0740.reminews.com^
+||www.07421283.xyz^
 ||www.0918.gofenews.com^
 ||www.0s09t235s.com^
 ||www.1-cl0ud.com^
@@ -96157,6 +96163,7 @@
 ||www.1762.lookinews.com^
 ||www.1936.lookinews.com^
 ||www.1957.reminews.com^
+||www.19706903.xyz^
 ||www.1h2h54jkw.com^
 ||www.200-rockergod.com^
 ||www.200summit.com^
@@ -96209,6 +96216,7 @@
 ||www.4448.jemonews.com^
 ||www.4464.jemonews.com^
 ||www.44tele-infra.com^
+||www.45496fee.xyz^
 ||www.4669.luronews.com^
 ||www.4696.lookinews.com^
 ||www.4710.gofenews.com^
@@ -96266,9 +96274,12 @@
 ||www.7765.selornews.com^
 ||www.7768.reminews.com^
 ||www.7779.gofenews.com^
+||www.77886044.xyz^
 ||www.7827.reminews.com^
 ||www.7874.gofenews.com^
+||www.79180284.xyz^
 ||www.7944.gofenews.com^
+||www.79893962.xyz^
 ||www.79j68qav2.com^
 ||www.7ierfgdyu4yuf5ueq.lookinews.com^
 ||www.7k11547nc.com^
@@ -96282,6 +96293,7 @@
 ||www.8326.deeginews.com^
 ||www.8326.reminews.com^
 ||www.833enmhob.com^
+||www.83761158.xyz^
 ||www.8410.gofenews.com^
 ||www.8511.reminews.com^
 ||www.8584.gofenews.com^
@@ -96446,6 +96458,7 @@
 ||www.dataholics.tech^
 ||www.dawn3host.com^
 ||www.dbrtkwaa81.com^
+||www.dcad1d97.xyz^
 ||www.deng3rada.com^
 ||www.dens1raec.com^
 ||www.detailsinspiration-data.com^
