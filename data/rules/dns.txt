@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-14 09:35:52（北京时间）
+! Version: 2025-01-14 20:39:12（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100259
+! Total count: 100269
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -7428,6 +7428,7 @@
 ||4we.icu^
 ||4webmasters.com^
 ||4wheel.de^
+||4wm.fun^
 ||4wnet.com^
 ||4wnetwork.com^
 ||4wu3gf.cn^
@@ -9664,6 +9665,7 @@
 ||7wrxo2xh.iriscreative.co^
 ||7xi9g1.com1.z0.glb.clouddn.com^
 ||7xsf3h.com1.z0.glb.clouddn.com^
+||7zb.fun^
 ||8.lycheenews.com^
 ||8.notify.bizonads-ssp.com^
 ||8.tegronews.com^
@@ -26855,6 +26857,7 @@
 ||breedtagask.com^
 ||breezefraudulent.com^
 ||brelawunbung.click^
+||brephras.com^
 ||brespark.eccocar.com^
 ||brevityeconomy.com^
 ||brevnet.eccocar.com^
@@ -26899,7 +26902,6 @@
 ||brightonclick.com^
 ||brightscarletclo.com^
 ||brightshare.com^
-||briiiiantsdates.com^
 ||brikinhpaxk.com^
 ||brillianceherewife.com^
 ||brimmallow.com^
@@ -34603,6 +34605,7 @@
 ||data.tw-guest.princess.com^
 ||data.txn.puntoscolombia.com^
 ||data.ubi.com^
+||data.ublock-browser.com^
 ||data.uk-email.princess.com^
 ||data.uk-guest.princess.com^
 ||data.umfrage.aetkasmart.de^
@@ -39782,6 +39785,7 @@
 ||esjvrfq.com^
 ||eskilhavena.info^
 ||eskimi.com^
+||eskux.xyz^
 ||eslp34af.click^
 ||esmystemgthro.org^
 ||esnlynotquiteso.com^
@@ -43766,6 +43770,7 @@
 ||getxmlisi.com^
 ||getyourbitco.in^
 ||getyoursoft.ru^
+||geuba.xyz^
 ||geumhuzzy.com^
 ||gevkmopw9i3xq7kw.n3kijf75r.com^
 ||gevmrjok.com^
@@ -52333,6 +52338,7 @@
 ||kdlktswsqhpd.com^
 ||kdlsdk.neverfullydressed.co.uk^
 ||kdmjvnk.com^
+||kdomsid.top^
 ||kdopag.xyz^
 ||kdoshbd.top^
 ||kdpic.pchome.com.tw^
@@ -53088,6 +53094,7 @@
 ||ky891.oss-*.aliyuncs.com^
 ||kyaywy.xyz^
 ||kyccmn.com^
+||kychq.cn^
 ||kydcwp.landwirt.com^
 ||kyemwo.xyz^
 ||kygelf.ludwig-von-kapff.de^
@@ -94293,6 +94300,7 @@
 ||vm8lm1vp.xyz^
 ||vmap.v.ad-generation.jp^
 ||vmauw.space^
+||vmcnl.xyz^
 ||vmgihu.gelatopique.com^
 ||vmindhls.tc.qq.com^
 ||vmjdpk.repairclinic.com^
@@ -96637,6 +96645,7 @@
 ||wuporg.com^
 ||wuresde.top^
 ||wurqaz.com^
+||wusfa.xyz^
 ||wussucko.com^
 ||wutseelo.xyz^
 ||wuujae.com^
@@ -98546,6 +98555,7 @@
 ||xmqrvx.jewelry-queen-shop.com^
 ||xms.lol^
 ||xmsflzmygw.com^
+||xmvxo.xyz^
 ||xmyvhu.soxo.pl^
 ||xn--1111-u4d.selornews.com^
 ||xn--2qu96gouvko1a.com^
