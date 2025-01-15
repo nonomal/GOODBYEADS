@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-15 09:37:51（北京时间）
+! Version: 2025-01-15 20:39:42（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100294
+! Total count: 100292
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1480,6 +1480,7 @@
 ||0499.tegronews.com^
 ||04c8b396bf.com^
 ||04e0d8fb0f.com^
+||04o.fun^
 ||0500.lookinews.com^
 ||0502.jemonews.com^
 ||0502.luronews.com^
@@ -19051,7 +19052,6 @@
 ||agcs-knowledge.allianz.com^
 ||ageaskedfurther.com^
 ||agedpagefat.live^
-||agedradiant.com^
 ||ageetsaimouphih.net^
 ||agency2.ru^
 ||agencyrearrangepasture.com^
@@ -25625,7 +25625,6 @@
 ||bfzikn.l-wine.ru^
 ||bg-go.experian.com^
 ||bg4nxu2u5t.com^
-||bgadx.com^
 ||bgaycm.exvital-shop.de^
 ||bgbg00.fun^
 ||bgecvddelzg.com^
@@ -62698,6 +62697,7 @@
 ||nagnailmobcap.shop^
 ||nagrainoughu.com^
 ||nagrande.com^
+||nagvaxvy.com^
 ||nahjzx.xyz^
 ||nahnoji.cz/compact_miner^
 ||nahnoji.cz^
@@ -69472,7 +69472,6 @@
 ||pseerdab.com^
 ||pseergoa.net^
 ||psegeevalrat.net^
-||psegreew.net^
 ||pseleedrax.net^
 ||pseleexotouben.net^
 ||psensuds.net^
@@ -96622,7 +96621,6 @@
 ||wtg-ads.com^
 ||wtgnmr.golfdigest.co.jp^
 ||wthbjrj.com^
-||wthroughhi.xyz^
 ||wtm.interhyp.de^
 ||wtmhwnv.com^
 ||wtpmulljv.com^
