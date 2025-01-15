@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-14 20:39:12（北京时间）
+! Version: 2025-01-15 09:37:51（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100269
+! Total count: 100294
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -3121,6 +3121,7 @@
 ||1722.reminews.com^
 ||1723.gofenews.com^
 ||1724.luronews.com^
+||17282.org^
 ||1730.jemonews.com^
 ||1731.tegronews.com^
 ||1732.jemonews.com^
@@ -8193,6 +8194,7 @@
 ||5e23859408.7868d5c036.com^
 ||5e24c893ea.bc1da16d64.com^
 ||5e37c0d1cf.772f4bba41.com^
+||5e49fd4c08.com^
 ||5e6ef8e03b.com^
 ||5e7c26314c.474b0fa000.com^
 ||5ea36e0eb5.com^
@@ -8866,6 +8868,7 @@
 ||6cf0e7801e8cd.clicknplay.to^
 ||6cs.icu^
 ||6d39809b4a.com^
+||6dc2699b37.com^
 ||6de72955d8.com^
 ||6df90c4978.0eade9dd8d.com^
 ||6dmkbyxl8qsz9sic.wemakebestnews.com^
@@ -23857,6 +23860,7 @@
 ||awexjtozogod.com^
 ||aweyqalyljbj.top^
 ||aweyqalylqqr.top^
+||awfulmorning.pro^
 ||awfulresolvedraised.com^
 ||awfzfs.kwantum.nl^
 ||awgbrojzdpesxx.com^
@@ -25461,6 +25465,7 @@
 ||bestadbid.com^
 ||bestadload.com^
 ||bestadsforyou.com^
+||bestadsrv.com^
 ||bestandgreatests.com^
 ||bestaryua.com^
 ||bestbuy.actonservice.com^
@@ -26355,6 +26360,7 @@
 ||boltepse.com^
 ||bombozzz.xyz^
 ||bombrw.netshoes.com.br^
+||bomqonpfzx.com^
 ||bonad.io^
 ||bonafides.club^
 ||bondagecoexist.com^
@@ -27108,6 +27114,7 @@
 ||btaenrolment.americanexpress.nl^
 ||btagmedia.com^
 ||btcfbr.mejshop.jp^
+||btcili.top^
 ||btdirectnav.com^
 ||btdnav.com^
 ||btfzbak.xyz^
@@ -27760,6 +27767,7 @@
 ||cabombaskopets.life^
 ||cac6042d62.21d9d2f09e.com^
 ||cacafly.net^
+||cache.betweendigital.com^
 ||cache.picxxxhub.com^
 ||cache2.delvenetworks.com^
 ||cachegorilla.com^
@@ -28788,6 +28796,7 @@
 ||ce357c.xyz^
 ||ce56df44.xyz^
 ||ce73e4958b.81c875a340.com^
+||ce82020873.com^
 ||ce85c250a7.c1595223cf.com^
 ||ce881bed8d.6cdbf5ab84.com^
 ||ceaankluwuov.today^
@@ -33968,6 +33977,7 @@
 ||dagobert33.xyz^
 ||dah0wv79ikn14.cloudfront.net^
 ||dahkexes.com^
+||dahmnrmhyhsjxx.com^
 ||dai.siyuetian.net^
 ||dai18.mumu01.com^
 ||daicagrithi.com^
@@ -38334,6 +38344,7 @@
 ||eejersenset.net^
 ||eejipukaijy.net^
 ||eekeeghoolsy.com^
+||eekqdetpwnlj.com^
 ||eekreeng.com^
 ||eekrogrameety.net^
 ||eeksoabo.com^
@@ -39840,6 +39851,7 @@
 ||et.twyn.com^
 ||et5k413t.rest^
 ||etahub.com^
+||etallkiq.com^
 ||etargetnet.com^
 ||etc.lxhausys.com^
 ||etcodes.com^
@@ -50215,6 +50227,7 @@
 ||installer.betterinstaller.com^
 ||installfree.pro^
 ||installnow.pro^
+||installpack.net^
 ||installscolumnist.com^
 ||installslocalweep.com^
 ||installtracker.com^
@@ -70359,6 +70372,7 @@
 ||qfjsliy.top^
 ||qfkmyf.clarins.com^
 ||qflwqw.opodo.fr^
+||qfnzyhwtyarskp.com^
 ||qfoiss.lendingtree.com^
 ||qfoodskfubk.com^
 ||qfp.intuit.com^
@@ -70963,6 +70977,7 @@
 ||r451.jamanetwork.com^
 ||r4nds.absorba.com^
 ||r4u.icu^
+||r5.dir.bg^
 ||r541.houstonchronicle.com^
 ||r566.timescall.com^
 ||r5apiliopolyxenes.com^
@@ -71036,6 +71051,7 @@
 ||raigroashoan.net^
 ||raijigrip.com^
 ||raikijausa.net^
+||railingperformance.com^
 ||railroadfatherenlargement.com^
 ||railroadlineal.com^
 ||railroadmanytwitch.com^
@@ -72740,6 +72756,7 @@
 ||rogligh.ehrydnmdoe.com^
 ||roguehideevening.com^
 ||rogueschedule.com^
+||rogxwgqovb.com^
 ||roi.soulapp.cn^
 ||roia.biz^
 ||roiapp.net^
@@ -72939,6 +72956,7 @@
 ||rqroytj33.fun^
 ||rqsaxxdbt.com^
 ||rqtrk.eu^
+||rqvrbf.icu^
 ||rqwel.com^
 ||rqyxdk.myanimelist.net^
 ||rqz4.supdigital.fr^
@@ -81473,6 +81491,7 @@
 ||spice-sugar.net^
 ||spiceethnic.com^
 ||spicy-combination.pro^
+||spicy-development.pro^
 ||spicy-effect.com^
 ||spicygirlshere.life^
 ||spider.capricciocolumbus.org^
@@ -86457,6 +86476,7 @@
 ||tbvjrd.gocase.com.br^
 ||tbxyuwctmt.com^
 ||tbydnpeykunahn.com^
+||tbyfz.xyz^
 ||tc-clicks.com^
 ||tc-log.mattel163.com^
 ||tc.europcar.com.au^
@@ -88212,6 +88232,7 @@
 ||touweptouceeru.xyz^
 ||touzia.xyz^
 ||touzoaty.net^
+||tovbus.cn^
 ||tovespiquener.com^
 ||tovwhxpomgkd.com^
 ||towardcorporal.com^
@@ -96126,6 +96147,7 @@
 ||witnesssimilarindoors.com^
 ||wittilyfrogleg.com^
 ||wivtuhoftat.com^
+||wiwarrkazg.com^
 ||wiwlqc.xyz^
 ||wixlabs-adsense-v3.uc.r.appspot.com^
 ||wixnm.com^
@@ -97962,6 +97984,7 @@
 ||xhsdwjes.xyz^
 ||xhuahy.juwelo.it^
 ||xhubsxmg.xyz^
+||xhulafpup.com^
 ||xhvaqgs.com^
 ||xhwwcif.com^
 ||xhxmhs.ounass.ae^
@@ -98743,6 +98766,7 @@
 ||xwqvytuiko.com^
 ||xwvduxeiuv.com^
 ||xwvnhe.cn^
+||xwymrixpkwq.com^
 ||xwzbpkku-i.site^
 ||xwzebw.waja.co.jp^
 ||xx-umomfzqik.today^
@@ -100234,6 +100258,7 @@
 ||zxcvbnmasdfghjklqwertyuiop.work^
 ||zxfdbr.xyz^
 ||zxmojgj.com^
+||zxpaa.xyz^
 ||zxpqwwt.com^
 ||zxqiwe.cn^
 ||zxqnbp.heute-wohnen.de^
