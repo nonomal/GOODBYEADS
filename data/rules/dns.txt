@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-15 20:39:42（北京时间）
+! Version: 2025-01-16 09:37:07（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100292
+! Total count: 100303
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2106,6 +2106,7 @@
 ||0u37vw5na9w0.top^
 ||0uvt8b.cn^
 ||0uyt5b.cn^
+||0vc.fun^
 ||0x01n2ptpuz3.com^
 ||1-free-share-buttons.com^
 ||1-pregnant-sex.com^
@@ -4318,7 +4319,6 @@
 ||2839f789ab.f092680893.com^
 ||2841137bfa.92afa3840a.com^
 ||2843.lookinews.com^
-||2843b4bf95.com^
 ||2846.lookinews.com^
 ||2847.gofenews.com^
 ||2848.notify.optimizesrv.com^
@@ -4360,7 +4360,6 @@
 ||28978b3e8f.48daa0d92b.com^
 ||2899.lookinews.com^
 ||2899.reminews.com^
-||289931.com^
 ||289ae6a5fa.6ac78725fd.com^
 ||28d287b9.xyz^
 ||28e096686b.com^
@@ -8855,7 +8854,6 @@
 ||6b83f5f929.3ac1b30a18.com^
 ||6b856ee58e.com^
 ||6bcf1efec5.b21379380e.com^
-||6bda3ba403.com^
 ||6bgaput9ullc.com^
 ||6br.lycheenews.com^
 ||6c078023c1.com^
@@ -9662,7 +9660,6 @@
 ||7nt9p4d4.de^
 ||7q1z79gxsi.global.ssl.fastly.net^
 ||7rjln8orgh.com^
-||7search.com^
 ||7vin.lycheenews.com^
 ||7vviw.cyou^
 ||7wind.ru^
@@ -17535,7 +17532,6 @@
 ||ads-media.gameforge.com^
 ||ads-partners.coupang.com^
 ||ads-platform.zalo.me^
-||ads-query.luizalabs.com^
 ||ads-resources.waze.com^
 ||ads-router-noneu.truecaller.com^
 ||ads-sdk.mattel163.com^
@@ -18379,7 +18375,6 @@
 ||adtimaserver.vn^
 ||adtival.com^
 ||adtlgc.com^
-||adtneosqnnitef.com^
 ||adtng.com^
 ||adtoadd.com^
 ||adtoll.com^
@@ -19623,6 +19618,7 @@
 ||alipromo.com^
 ||aliquidalgesic.top^
 ||alisatilsner.com^
+||aliteartful.com^
 ||alitems.co^
 ||alitems.com^
 ||alitems.site^
@@ -19826,7 +19822,6 @@
 ||alsindustratebil.com^
 ||alsmdb.com^
 ||also.greatsecuritydebate.net^
-||alsoexplain.com^
 ||alsolrocktor.com^
 ||alsowhirl.com^
 ||alt-ad.mail.ru^
@@ -25556,6 +25551,7 @@
 ||betrendatimon.top^
 ||betrice.wantsext.me^
 ||betriolua.com^
+||betrustdoms.com^
 ||betshucklean.com^
 ||betsonsport.ru^
 ||bett2you.net^
@@ -27256,7 +27252,6 @@
 ||bummerentertain.com^
 ||bumnxiev.top^
 ||bumog.xyz^
-||bumpersubmarine.com^
 ||bumpexchangedcadet.com^
 ||bumpingcarfax.com^
 ||bumpmoss.com^
@@ -31908,6 +31903,7 @@
 ||crakbanner.com^
 ||crakedquartin.com^
 ||craktraffic.com^
+||cralphal.com^
 ||cramlastfasten.com^
 ||crampcrossroadbaptize.com^
 ||crampincompetent.com^
@@ -32137,6 +32133,7 @@
 ||crudelouisa.com^
 ||crudemonarchychill.com^
 ||crudequeenrome.com^
+||crudyfilters.com^
 ||crueltysugar.shop^
 ||cruhut.com^
 ||cruiserx.net^
@@ -36349,6 +36346,7 @@
 ||djrsvwtt.com^
 ||djs.baomihua.com^
 ||djsoo8p407d6p.cloudfront.net^
+||djsxm.xyz^
 ||djv99sxoqpv11.cloudfront.net^
 ||djvby0s5wa7p7.cloudfront.net^
 ||djwf0dl2q9i99.cloudfront.net^
@@ -37066,7 +37064,6 @@
 ||drabbyexpose.com^
 ||drabimprovement.com^
 ||drablyperms.top^
-||drabsize.com^
 ||draftbeware.com^
 ||draftedorgany.com^
 ||dragate-in-dc.heytapmobile.com^
@@ -38534,7 +38531,6 @@
 ||eitilbyr.com^
 ||eitkrg.loriblu.com^
 ||eiuoom.xyz^
-||eiutpcsnydhyaer.com^
 ||eiv.baidu.com^
 ||ejbbcf.finishline.com^
 ||ejcet5y9ag.com^
@@ -39639,6 +39635,7 @@
 ||epvjljye.com^
 ||epwa.europarl.europa.eu^
 ||epxfjcb.xyz^
+||epxlt.xyz^
 ||epylliafending.com^
 ||eq-beacon.stream.co.jp^
 ||eq-player-log.cdnext.stream.ne.jp^
@@ -45466,6 +45463,7 @@
 ||groampez.xyz^
 ||groamsal.net^
 ||groaxonsoow.net^
+||groazaimsadroa.xyz^
 ||grobido.info^
 ||grobungairdoul.net^
 ||grobuveexeb.net^
@@ -46412,6 +46410,7 @@
 ||heiressscore.com^
 ||heiresstolerance.com^
 ||heirloomreasoning.com^
+||heirsacost.com^
 ||heiviek.com^
 ||heixidor.com^
 ||hej.henriksommerfeld.se^
@@ -50940,6 +50939,7 @@
 ||iwmjsk.jw.com.au^
 ||iwouhoft.com^
 ||iwovfiidszrk.tech^
+||iwpkp.xyz^
 ||iwpneu.eneba.com^
 ||iwrcoct.info^
 ||iwuh.org^
@@ -55593,7 +55593,6 @@
 ||log.zalo.video^
 ||log.zamba.vn^
 ||log.zdnet.co.kr^
-||log.zepeto.io^
 ||log.zijieapi.com^
 ||log.zingmp3.vn^
 ||log.zingnews.vn^
@@ -56630,6 +56629,7 @@
 ||m85ntx8eh6u56esn.tsmt5revp.com^
 ||m886.kmbc.com^
 ||m9w6ldeg4.xyz^
+||ma-adx.ctrip.com^
 ||ma.a3.se^
 ||ma.axiomatics.com^
 ||ma.betterbusiness.se^
@@ -62467,7 +62467,6 @@
 ||mya.actonservice.com^
 ||myabcd.cc^
 ||myactualblog.com^
-||myad.vn^
 ||myadcash.com^
 ||myadsserver.com^
 ||myaffiliateprogram.com^
@@ -64293,6 +64292,7 @@
 ||oaraiwephoursou.net^
 ||oardilin.com^
 ||oarouwousti.com^
+||oarsoathaihoamt.net^
 ||oarsparttimeparent.com^
 ||oarssamgrandparents.com^
 ||oarswithdraw.com^
@@ -68968,6 +68968,7 @@
 ||prhfziq.xyz^
 ||prhhqo.vintagevoyage.ru^
 ||priapiannexal.com^
+||priceyawol.com^
 ||pricklyachetongs.com^
 ||pridenovicescammer.com^
 ||priestboundsay.com^
@@ -69683,6 +69684,7 @@
 ||ptoutsexe.com^
 ||ptp22.com^
 ||ptrenx.vidaxl.com.au^
+||ptrmnx.icu^
 ||ptsc.shoplocal.com^
 ||ptsixwereksbef.info^
 ||ptstnews.pro^
@@ -69860,6 +69862,7 @@
 ||purgescholars.com^
 ||purgoaho.xyz^
 ||purifybaptism.guru^
+||purlingresews.com^
 ||purp.sukaporn.com^
 ||purple.mongodb.com^
 ||purpleads.io^
@@ -73436,7 +73439,6 @@
 ||runnerbesiegerelative.com^
 ||runningdestructioncleanliness.com^
 ||runoffree.bid^
-||runoj.click^
 ||runpuredead.live^
 ||runtnc.net^
 ||runwaff.com^
@@ -73624,6 +73626,7 @@
 ||s.brin.io^
 ||s.btime.com^
 ||s.bussyhunter.com^
+||s.c-ctrip.com^
 ||s.cadent.bloomberglaw.com^
 ||s.caledonenterprise.com^
 ||s.cambridgetimes.ca^
@@ -88299,6 +88302,7 @@
 ||tp.your-look-for-less.nl^
 ||tp.your-look-for-less.se^
 ||tp1902abd.com^
+||tp2p.kg.qq.com^
 ||tp4sul.jwzd.com.cn^
 ||tpbdir.com^
 ||tpbid.com^
@@ -92000,6 +92004,7 @@
 ||twkbui.mansion-review.jp^
 ||twlcyc.cn^
 ||twnrydt.com^
+||twns.p2ptun.qq.com^
 ||two.fsylr.com^
 ||two.tracedock.com^
 ||twoeej.carrefour.fr^
@@ -92616,6 +92621,7 @@
 ||uncoverarching.com^
 ||uncrobator.com^
 ||uncrownarmenic.com^
+||undatedifreal.com^
 ||unddeliv.com^
 ||under2given.com^
 ||underaccredited.com^
@@ -93571,6 +93577,7 @@
 ||variouscreativeformats.com^
 ||variousformatscontent.com^
 ||variouspheasantjerk.com^
+||varletsngaio.com^
 ||varnishmosquitolocust.com^
 ||varshacundy.com^
 ||vartoken.com^
@@ -93598,6 +93605,7 @@
 ||vaticmons.digital^
 ||vatrack.hinet.net^
 ||vatzxd.xyz^
+||vaufekonaub.net^
 ||vaugroar.com^
 ||vaukoloon.net^
 ||vauloops.net^
@@ -95736,6 +95744,7 @@
 ||whampamp.com^
 ||whandpolista.com^
 ||wharployn.com^
+||wharrownecia.com^
 ||wharvemotet.com^
 ||whatabouthotbabies.com^
 ||whataboutnews.com^
@@ -99652,6 +99661,7 @@
 ||za.zingmp3.vn^
 ||zaamgqlgdhac.love^
 ||zaawds.farmae.it^
+||zabaismtempi.top^
 ||zabanit.xyz^
 ||zabpgtjh.icu^
 ||zachunsears.com^
@@ -100163,6 +100173,7 @@
 ||ztevents.zaloapp.com^
 ||ztfjtn.liujo.com^
 ||ztgblo.vidaxl.lt^
+||ztgha.xyz^
 ||zthxobgk.icu^
 ||ztlkngyj.icu^
 ||ztpdcg.stroilioro.com^
