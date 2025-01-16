@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-16 09:37:07（北京时间）
+! Version: 2025-01-16 20:39:32（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100303
+! Total count: 100297
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1905,7 +1905,6 @@
 ||0890.sifenews.com^
 ||0891.deeginews.com^
 ||0891.reminews.com^
-||08916fb8f8.com^
 ||0892ce11be.c70e84a65a.com^
 ||0893.jemonews.com^
 ||0894.gofenews.com^
@@ -2846,7 +2845,6 @@
 ||146.sifenews.com^
 ||146.tegronews.com^
 ||1463.deeginews.com^
-||1463.info^
 ||1463.jemonews.com^
 ||1465.rookinews.com^
 ||1469.jemonews.com^
@@ -3021,7 +3019,6 @@
 ||1621.jemonews.com^
 ||1621.lookinews.com^
 ||1623.reminews.com^
-||1624a08136.com^
 ||1625.luronews.com^
 ||1629.gofenews.com^
 ||1629.jemonews.com^
@@ -7396,6 +7393,7 @@
 ||4fr.icu^
 ||4fs3r.icu^
 ||4g0b1inr.de^
+||4gu.fun^
 ||4hfchest5kdnfnut.com^
 ||4i1.icu^
 ||4iazoa.xyz^
@@ -11161,7 +11159,6 @@
 ||a.amw.com^
 ||a.antiadxxxspy.com^
 ||a.appbaqend.com^
-||a.applvn.com^
 ||a.armystar.com^
 ||a.asvsm.com^
 ||a.atris.xyz^
@@ -15309,7 +15306,6 @@
 ||aaacdbf17d.com^
 ||aaacompany.net^
 ||aaae5b9ee0.d3aa46b2e8.com^
-||aaannuairex.com^
 ||aaat.2ndstreet.jp^
 ||aaaurgentcare.net^
 ||aab-check.me^
@@ -18243,7 +18239,6 @@
 ||adspyglass.com^
 ||adsqqclick.qq.com^
 ||adsquash.info^
-||adsrevenue.net^
 ||adsrich.qq.com^
 ||adsroute.com^
 ||adsrv.deviantart.com^
@@ -18778,7 +18773,6 @@
 ||afae561ed5.3165de3ff8.com^
 ||afahivar.com^
 ||afahivar.coom^
-||afbanner.kinobomber3.online^
 ||afclms.xd-design.co.kr^
 ||afcnuchxgo.com^
 ||afcontent.net^
@@ -22551,6 +22545,7 @@
 ||applogs-v2.pixelfederation.com^
 ||applogs.pixelfederation.com^
 ||applovin.com^
+||applvn.com^
 ||apply.bluetrustloans.com^
 ||apply.maxlend.com^
 ||applytics.nordvpn.com^
@@ -23485,7 +23480,6 @@
 ||attestcribaccording.com^
 ||attesthelium.com^
 ||atthewonderfu.com^
-||atthulecapstr.xyz^
 ||atticepuces.com^
 ||atticshepherd.com^
 ||attictop.com^
@@ -25453,7 +25447,6 @@
 ||best-offer-for-you.com^
 ||best-prize.life^
 ||best-seat.pro^
-||best-top.ro^
 ||best-u.vip^
 ||best-video-app.com^
 ||best-vpn-app.com^
@@ -27696,7 +27689,6 @@
 ||c67209d67f.com^
 ||c677.wisn.com^
 ||c68478776f.3f4df5a102.com^
-||c6dd9301cb.com^
 ||c6e1f1ff68.be51586160.com^
 ||c6e82a469d.b3b526dee6.com^
 ||c6ec2f3763.com^
@@ -32691,7 +32683,6 @@
 ||d.adtriba.com^
 ||d.adultporn.tv^
 ||d.analyticsmania.com^
-||d.applvn.com^
 ||d.bloblohub.com^
 ||d.cybtel.com^
 ||d.delahorro.app^
@@ -38171,6 +38162,7 @@
 ||ed.originalpress.com^
 ||ed1.comcastbiz.com^
 ||ed1.newtekone.com^
+||ed2.fun^
 ||ed4online.actonservice.com^
 ||ed746fc307.813c214a4e.com^
 ||ed956f23ae.23cc6cc4e9.com^
@@ -42331,6 +42323,7 @@
 ||foundationhemispherebossy.com^
 ||foundationhorny.com^
 ||foundtr.com^
+||foupeestokiy.net^
 ||foupeethaija.com^
 ||fourier.taobao.com^
 ||fourmtagservices.appspot.com^
@@ -52913,6 +52906,7 @@
 ||krbulhb.com^
 ||krgoad.mauboussin.fr^
 ||krigialinters.top^
+||krikului.com^
 ||krill.far.site^
 ||krill.spoonrage.com^
 ||krill.swiss-uke.ch^
@@ -69033,6 +69027,7 @@
 ||privacynicerresumed.com^
 ||privacysearching.com^
 ||private-show.live^
+||private-stage.com^
 ||private.cervicalcancer-risk.com^
 ||private.roche.com^
 ||privateappealingsymphony.com^
@@ -70857,7 +70852,6 @@
 ||qxibrn.enviedefraise.fr^
 ||qxkous.sweet-mommy.com^
 ||qxmopxhblu.com^
-||qxqehcssyubtyje.com^
 ||qxrbu.com^
 ||qxsfaj.caloo.jp^
 ||qxvqhy.miliboo.es^
@@ -71314,6 +71308,7 @@
 ||reach-id.orbit.tm-awx.com^
 ||reach.ironmountain.com^
 ||reach.terumo-bct.com^
+||reachableads-av.*.amazonaws.com^
 ||reachableads.com^
 ||reacheffect.com^
 ||reacheffecti.work^
@@ -72758,7 +72753,6 @@
 ||rogligh.ehrydnmdoe.com^
 ||roguehideevening.com^
 ||rogueschedule.com^
-||rogxwgqovb.com^
 ||roi.soulapp.cn^
 ||roia.biz^
 ||roiapp.net^
@@ -73014,7 +73008,6 @@
 ||rsx.afterpay.com^
 ||rsyepnq.icu^
 ||rt.aomg5bzv7.com^
-||rt.applvn.com^
 ||rt.bunte.de^
 ||rt.cdnmedia.tv^
 ||rt.flix360.com^
@@ -76661,6 +76654,7 @@
 ||sheshaft.com/right.js^
 ||shestieh.com^
 ||shestrozo.com^
+||shetchoultoocha.net^
 ||shexawhy.net^
 ||shfewojrmxpy.xyz^
 ||shfsdvc.com^
@@ -84249,6 +84243,7 @@
 ||stnt.sky.at^
 ||stnt.sky.de^
 ||stoachaigog.com^
+||stoachdarts.com^
 ||stoadivap.com^
 ||stoaglauksargoo.xyz^
 ||stoagnejums.net^
@@ -85683,7 +85678,6 @@
 ||t.msubobcats.com^
 ||t.msuspartans.com^
 ||t.msz-bahn.de^
-||t.my.jobs^
 ||t.mynexity.fr^
 ||t.n.mcdonalds.de^
 ||t.nativendo.de^
