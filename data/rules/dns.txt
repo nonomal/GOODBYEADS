@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-16 20:39:32（北京时间）
+! Version: 2025-01-17 09:36:43（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100297
+! Total count: 100299
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2054,7 +2054,6 @@
 ||0d076be0f4.com^
 ||0d65577236.com^
 ||0d70ad5525.ec257deba1.com^
-||0d76bd13e8.com^
 ||0d785fd7.xyz^
 ||0d9d9a4f8e.b8bc5cd2c1.com^
 ||0da14cebab.61c3d331bf.com^
@@ -8887,7 +8886,6 @@
 ||6fb345e22a.0f3f317f1d.com^
 ||6fb77be0c7.c0636e54f1.com^
 ||6fbb07e2de.7aa82805b9.com^
-||6fe1e5ccc3.com^
 ||6ft8a.icu^
 ||6ftlady.com^
 ||6g5g5ggwdf.lycheenews.com^
@@ -13854,7 +13852,6 @@
 ||a7.lookinews.com^
 ||a700fb9c8d.com^
 ||a717b6d31e.com^
-||a75-10-so.ssl.cdn13.com^
 ||a776647af1.4b526a61a7.com^
 ||a788d8a3de.7411603f57.com^
 ||a7a2789124.com^
@@ -25878,6 +25875,7 @@
 ||bitx.tv^
 ||biunialpawnie.top^
 ||biuskye.com^
+||biuyuximbrutr.com^
 ||biv.gazeta.pl^
 ||bivos.xyz^
 ||biwipuque.com^
@@ -26535,7 +26533,6 @@
 ||bowie-cdn.fathomdns.com^
 ||bowl.actonservice.com^
 ||bowldescended.com^
-||bowlinear.com^
 ||bowlingunauthorized.com^
 ||bowlprick.com^
 ||bowlpromoteintimacy.com^
@@ -27753,7 +27750,6 @@
 ||cabombaskopets.life^
 ||cac6042d62.21d9d2f09e.com^
 ||cacafly.net^
-||cache.betweendigital.com^
 ||cache.picxxxhub.com^
 ||cache2.delvenetworks.com^
 ||cachegorilla.com^
@@ -36023,7 +36019,6 @@
 ||dinejav11.fun^
 ||dinerbreathtaking.com^
 ||dinerinvite.com^
-||dinesdurr.com^
 ||dingbu.bj.bcebos.com^
 ||dingerhoes.shop^
 ||dinghologyden.org^
@@ -39707,6 +39702,7 @@
 ||erniphiq.com^
 ||ero-advertising.com^
 ||ero-cupid.com^
+||ero-vtuber.com^
 ||eroar.lionsclubs.org^
 ||erofherlittleboy.com^
 ||erosionyonderviolate.com^
@@ -43788,7 +43784,6 @@
 ||gfgcwf.vidaxl.lv^
 ||gfgywe.abril.com.br^
 ||gfjn5.xyz^
-||gfkcsaijdr.com^
 ||gflpvq.rufflebutts.com^
 ||gfn1.ugap.fr^
 ||gfnokk.natro.com^
@@ -46709,6 +46704,7 @@
 ||hiidevelelastic.com^
 ||hiiona.com^
 ||hijxfm.gaspedaal.nl^
+||hikari.jiocinema.com^
 ||hikestale.com^
 ||hikinghourcataract.com^
 ||hikmxb.botovo.cz^
@@ -52815,6 +52811,7 @@
 ||kolerevprivatedqu.com^
 ||koleyo.xyz^
 ||kolkwi4tzicraamabilis.com^
+||kolleqasforsale.com^
 ||kologyrtyndwean.info^
 ||koluraishimtouw.net^
 ||komarchlupoid.com^
@@ -53315,6 +53312,7 @@
 ||lagrys.xyz^
 ||lagt.cloud^
 ||lagxsntduepv.online^
+||lagzoids.com^
 ||lahemal.com^
 ||laichook.net^
 ||laichourooso.xyz^
@@ -61088,6 +61086,7 @@
 ||midgerelativelyhoax.com^
 ||midgetdeliveringsmartly.com^
 ||midgetincidentally.com^
+||midgetmaying.com^
 ||midistortrix.com^
 ||midlandfeisty.com^
 ||midlk.online^
@@ -63458,6 +63457,7 @@
 ||nj.aomg5bzv7.com^
 ||njjavt.xyz^
 ||njmhklddv.xyz^
+||njnhzh.icu^
 ||njnlih.realitatea.net^
 ||njorya.aosom.de^
 ||njpaqnkhaxpwg.xyz^
@@ -65371,7 +65371,6 @@
 ||ooqbml.tac-school.co.jp^
 ||oordeevum.com^
 ||oortoofeelt.xyz^
-||ooseeleg.net^
 ||oosonechead.org^
 ||oosoojainy.xyz^
 ||oossautsid.com^
@@ -67064,6 +67063,7 @@
 ||pebafisk.com^
 ||pebbleoutgoing.com^
 ||pebed.dm-event.net^
+||pecantinglytripod.com^
 ||pecialukizeias.info^
 ||pecifyspacing.com^
 ||peckrespectfully.com^
@@ -67847,6 +67847,7 @@
 ||pjtshn.floraprima.de^
 ||pjtxmd.epool.ru^
 ||pjvartonsbewand.info^
+||pjwfihbmwq.com^
 ||pjzxdl.xyz^
 ||pk0grqf29.com^
 ||pk1u.melanielyne.com^
@@ -70402,7 +70403,6 @@
 ||qhocciks.com^
 ||qhodog.xyz^
 ||qhogcyoqrl.com^
-||qhqefbcn.xyz^
 ||qhscsu.xyz^
 ||qhtdmlf.xyz^
 ||qhwyoat.com^
@@ -70722,6 +70722,7 @@
 ||questintegrity.actonservice.com^
 ||question.hot-step-mom.com^
 ||question.snapiio.com^
+||questioningcomplimentarypotato.com^
 ||questioningexperimental.com^
 ||questioningsanctifypuberty.com^
 ||questioningtosscontradiction.com^
@@ -70768,7 +70769,6 @@
 ||quitjav11.fun^
 ||quitzon.net^
 ||quiveringriddance.com^
-||quizmasterdescribe.com^
 ||quizmastersnag.com^
 ||quizna.xyz^
 ||qujishu.com^
@@ -75172,6 +75172,7 @@
 ||seadform.net^
 ||seafoodclickwaited.com^
 ||seafooddiscouragelavishness.com^
+||seafoodmesarch.top^
 ||seahorse.brightwayhealth.org^
 ||seahorse.dexterityvisuals.com^
 ||seahorse.habitstack.com^
@@ -77057,6 +77058,7 @@
 ||sis8.premieremoisson.com^
 ||sisdtb.climatempo.com.br^
 ||sisewepod.com^
+||sisfulylydevelope.com^
 ||sismoycheii.cc^
 ||sisteraboveaddition.com^
 ||sisterexpendabsolve.com^
@@ -81490,6 +81492,7 @@
 ||spicy-development.pro^
 ||spicy-effect.com^
 ||spicygirlshere.life^
+||spider-tracker.xiaohongshu.com^
 ||spider.capricciocolumbus.org^
 ||spider.hoomie.online^
 ||spider.kearneyjaycees.com^
@@ -82594,7 +82597,6 @@
 ||starterblackened.com^
 ||startfinishthis.com^
 ||startnewtab.com^
-||startone.top^
 ||startpagea.com^
 ||startperfectsolutions.com^
 ||startrekk.flaconi.at^
