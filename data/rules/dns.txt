@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-17 09:36:43（北京时间）
+! Version: 2025-01-17 20:38:48（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100299
+! Total count: 100309
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -7421,6 +7421,7 @@
 ||4u69.com^
 ||4ur.click^
 ||4ureyesonly.com^
+||4ve.fun^
 ||4vik.lycheenews.com^
 ||4vin.lycheenews.com^
 ||4we.icu^
@@ -9655,7 +9656,6 @@
 ||7ng6v3lu3c.execute-api.us-east-1.amazonaws.com^
 ||7nt9p4d4.de^
 ||7q1z79gxsi.global.ssl.fastly.net^
-||7rjln8orgh.com^
 ||7vin.lycheenews.com^
 ||7vviw.cyou^
 ||7wind.ru^
@@ -10442,6 +10442,7 @@
 ||8suis.top^
 ||8t9he.cyou^
 ||8trd.online^
+||8u0.fun^
 ||8ue4rp6yxyis.www.tapmyback.com^
 ||8vik.lycheenews.com^
 ||8vin.lycheenews.com^
@@ -17617,7 +17618,6 @@
 ||ads.cdvn.vip^
 ||ads.centraliprom.com^
 ||ads.cgnetworks.com^
-||ads.chanhtuoi.com^
 ||ads.channel4.com^
 ||ads.cloudsight.ai^
 ||ads.co.com^
@@ -23064,7 +23064,6 @@
 ||ashcroft.actonservice.com^
 ||ashemaletube.com/banner-iframe^
 ||ashergroup.actonservice.com^
-||ashesrubbishdrop.com^
 ||ashhgo.com^
 ||ashlarinaugur.com^
 ||ashlingzanyish.com^
@@ -25718,7 +25717,6 @@
 ||bieuc.icu^
 ||bifnosblfdpslg.xyz^
 ||bifrufhci.com^
-||big-loads.com^
 ||big.az/unvanexp.php^
 ||bigamybigot.space^
 ||bigappboi.com^
@@ -28426,6 +28424,7 @@
 ||cdn-dynamic.optimonk.com^
 ||cdn-image.com^
 ||cdn-ketchapp.akamaized.net^
+||cdn-media.brightline.tv^
 ||cdn-partners-references.lesoir.be^
 ||cdn-plugin-sync-upgrade-juui.hismarttv.com^
 ||cdn-qc.coccoc.com^
@@ -32289,6 +32288,7 @@
 ||ctubhxbaew.com^
 ||ctvnmxl.com^
 ||ctvrtrya.xyz^
+||ctwmcd.com^
 ||ctwqxs.autoscout24.at^
 ||ctx.citiservi.es^
 ||ctyjsf.cellphones.com.vn^
@@ -35339,7 +35339,6 @@
 ||deporttideevenings.com^
 ||depositpastel.com^
 ||depotdesirabledyed.com^
-||depotporn.com^
 ||depravegypsyterrified.com^
 ||depreciateape.com^
 ||depreciatelovers.com^
@@ -35378,7 +35377,6 @@
 ||descz.ovh^
 ||desekansr.com^
 ||desenteir.com^
-||desertedbreath.com^
 ||desertsfraze.com^
 ||desertsutilizetopless.com^
 ||deserveannotationjesus.com^
@@ -36200,7 +36198,6 @@
 ||dispatcher.upmc.uc.cn^
 ||dispatchfeed.com^
 ||dispatchunique.com^
-||dispensablestranger.com^
 ||dispensedessertbody.com^
 ||dispersecottage.com^
 ||disperserepeatedly.com^
@@ -37815,7 +37812,6 @@
 ||ea.youmaker.com^
 ||ea011c4ae4.com^
 ||ea091c36b2.4f442e5c52.com^
-||ea3999c26b.com^
 ||ea6c0ac4.xyz^
 ||eab41496ab.7335ffd8bc.com^
 ||eabids.com^
@@ -38254,6 +38250,7 @@
 ||edtotigainare.info^
 ||edtrainingcenter.actonservice.com^
 ||edttmar.com^
+||edttwm.com^
 ||edu-lib.com^
 ||edu.jiukang.org^
 ||edu.quizdom.gr^
@@ -38279,6 +38276,7 @@
 ||eduynp.fcl-hid.com^
 ||edvfwlacluo.com^
 ||edvxygh.com^
+||edwmpt.com^
 ||edyurliw.top^
 ||edzj9b6fjmhw3kt4.production.bloblohub.com^
 ||ee.impactextend.dk^
@@ -40096,6 +40094,7 @@
 ||eventapi.sooplive.co.kr^
 ||eventbarricadewife.com^
 ||eventbus.intuit.com^
+||eventcollector.mcf-prod.a.intuit.com^
 ||eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com^
 ||eventfulknights.com^
 ||eventgateway.soundcloud.com^
@@ -44045,6 +44044,7 @@
 ||gladsince.com^
 ||glaghoowingauck.net^
 ||glaickoxaksy.com^
+||glaicmauxoah.net^
 ||glaidalr.net^
 ||glaidekeemp.net^
 ||glaidipt.net^
@@ -44180,6 +44180,7 @@
 ||glochisprp.com^
 ||glodsaccate.com^
 ||glofodazoass.com^
+||gloghauzolso.xyz^
 ||gloghipusto.xyz^
 ||glogoowo.net^
 ||glogopse.net^
@@ -45728,6 +45729,7 @@
 ||gummierhedera.life^
 ||gumon.site^
 ||gunggo.com^
+||gunlockpepped.shop^
 ||gunwaleneedsly.com^
 ||gunzblazingpromo.com^
 ||guppy.ausowned.com.au^
@@ -50399,6 +50401,7 @@
 ||inventionyolk.com^
 ||inventory-useast.rtbanalytica.com^
 ||inventoryproducedjustice.com^
+||inventsloosely.com^
 ||invest.rubicoin.com^
 ||investcoma.com^
 ||investhash.com^
@@ -50490,6 +50493,7 @@
 ||ioniserpinones.com^
 ||ioniseryeaoman.shop^
 ||ionistkhaya.website^
+||ionogenbakutu.shop^
 ||iononetravoy.com^
 ||ionscormationwind.info^
 ||ionwindonpetropic.info^
@@ -51070,7 +51074,6 @@
 ||jalbcmc.click^
 ||jaletemetia.com^
 ||jalewaads.com^
-||jalopymisly.click^
 ||jambojar.com^
 ||jambosaettled.click^
 ||jambosmodesty.com^
@@ -62170,6 +62173,7 @@
 ||mt-business.vodafone.com^
 ||mt.gigazine.net^
 ||mt.plateiq.com^
+||mt.ssai.peacocktv.com^
 ||mt34iofvjay.com^
 ||mt48.net^
 ||mt67.net^
@@ -63664,7 +63668,6 @@
 ||northsidemediagroup.actonservice.com^
 ||northwire.actonservice.com^
 ||nosebleedjumbleblissful.com^
-||noseculretab.xyz^
 ||nosjew.glamira.de^
 ||noslugut.com^
 ||nossairt.net^
@@ -67393,6 +67396,7 @@
 ||pheekoamek.net^
 ||pheepudo.net^
 ||pheersie.com^
+||pheetuth.com^
 ||pheftoud.com^
 ||pheksousi.net^
 ||pheniter.com^
@@ -69404,6 +69408,7 @@
 ||prre.ru^
 ||prsogokfqspc.cdnvideo3.com^
 ||prtadf.xyz^
+||prtawe.com^
 ||prtfpl.xyz^
 ||prtord.com^
 ||prtrackings.com^
@@ -69460,6 +69465,7 @@
 ||pschentinfile.com^
 ||psclicks.com^
 ||psdn.xyz^
+||psedwm.com^
 ||pseeckotees.com^
 ||pseegroah.com^
 ||pseempep.com^
@@ -70851,7 +70857,6 @@
 ||qxhspimg.com^
 ||qxibrn.enviedefraise.fr^
 ||qxkous.sweet-mommy.com^
-||qxmopxhblu.com^
 ||qxrbu.com^
 ||qxsfaj.caloo.jp^
 ||qxvqhy.miliboo.es^
@@ -74966,6 +74971,7 @@
 ||scootcomely.com^
 ||scopefile.com^
 ||scopelight.com^
+||scopingrile.com^
 ||scorchsorchic.com^
 ||scorchstrung.com^
 ||score-feed.com^
@@ -94582,6 +94588,7 @@
 ||vtneexam.quantresear.ch^
 ||vtoajoyxqicss.com^
 ||vtodss.livenation.com^
+||vtrk.dv.tech^
 ||vtrtl.de^
 ||vttics.world.co.jp^
 ||vtveyowwjvz.com^
@@ -94890,6 +94897,7 @@
 ||wallstrads.com^
 ||walrus.fetzcolor.at^
 ||walrus.oscaroarevalo.com^
+||waltzersurvise.com^
 ||waltzprescriptionplate.com^
 ||wamahe.wokularach.pl^
 ||wanalnatnwto.com^
@@ -96233,6 +96241,7 @@
 ||wmbldi.compass.it^
 ||wmcbld.top^
 ||wmccd.com^
+||wmcdct.com^
 ||wmcdp.io^
 ||wmcdpt.com^
 ||wmdzefk.com^
@@ -96254,6 +96263,7 @@
 ||wmptctl.com^
 ||wmpted.com^
 ||wmptengate.com^
+||wmptpr.com^
 ||wmpuem.com^
 ||wmtten.com^
 ||wmudsraxwj.xyz^
