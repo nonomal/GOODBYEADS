@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-18 09:34:25（北京时间）
+! Version: 2025-01-18 20:35:53（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100427
+! Total count: 100407
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -4519,6 +4519,7 @@
 ||2h6skj2da.de^
 ||2hdn.online^
 ||2hisnd.com^
+||2hl.fun^
 ||2hpb1i5th.de^
 ||2i30i8h6i.de^
 ||2i87bpcbf.de^
@@ -8587,7 +8588,6 @@
 ||6553.gofenews.com^
 ||6553.reminews.com^
 ||6554.jemonews.com^
-||65566a6ab6.com^
 ||6557.guesswhatnews.com^
 ||655929.lycheenews.com^
 ||6562.lootynews.com^
@@ -17083,7 +17083,6 @@
 ||adjustmentconfide.com^
 ||adjustmentthesilver.com^
 ||adjustnetwork.com^
-||adjusts.info^
 ||adjux.com^
 ||adk-static.affinity.net^
 ||adk.ezmob.com^
@@ -20315,6 +20314,7 @@
 ||analytics.bi.encuentra24.com^
 ||analytics.bigdata.samsung.com^
 ||analytics.bigfishgames.com^
+||analytics.bitchute.com^
 ||analytics.bitrix.info^
 ||analytics.bkav.com.vn^
 ||analytics.bkav.com^
@@ -27638,7 +27638,6 @@
 ||c1595223cf.com^
 ||c170ec0046.240aca2365.com^
 ||c1a6a94262.4a1c2f215f.com^
-||c1c491d137.com^
 ||c1exchange.com^
 ||c1hit.zerkalo.io^
 ||c2.gdt.qq.com^
@@ -31270,6 +31269,7 @@
 ||content.rightsourcemarketing.com^
 ||content.sffirecu.org^
 ||content.stage.mini.pix.style^
+||content.tab.com.au^
 ||content.tacticalma.com^
 ||content.tatatelebusiness.com^
 ||content.timetogather.co.uk^
@@ -36268,7 +36268,6 @@
 ||distillery.wistia.com^
 ||distinctpiece.pro^
 ||distinctrobin.com^
-||distinguishedates.com^
 ||distinguishedshrug.com^
 ||distinguishtendhypothesis.com^
 ||distortinsolence.com^
@@ -44308,7 +44307,6 @@
 ||gmpcyv.svinando.com^
 ||gmqvql.furnwise.co.uk^
 ||gmqyld.jacksonandperkins.com^
-||gmrfgejkhqfsr.com^
 ||gmrhzf.wolfermans.com^
 ||gms.greatschools.org^
 ||gmsllx.sorteonline.com.br^
@@ -47907,7 +47905,6 @@
 ||icn.brandnewapp.pro^
 ||ico.re^
 ||icoktb.onygo.com^
-||iconadserver.com^
 ||iconatrocity.com^
 ||iconcardinal.com^
 ||iconmediapixel.com^
@@ -50527,7 +50524,6 @@
 ||ioniserpinones.com^
 ||ioniseryeaoman.shop^
 ||ionistkhaya.website^
-||ionlyloves.com^
 ||ionogenbakutu.shop^
 ||iononetravoy.com^
 ||ionscormationwind.info^
@@ -55974,7 +55970,6 @@
 ||loveameng.top^
 ||loveeveryday.brighterkind.com^
 ||lovehiccuppurple.com^
-||lovellydate.net^
 ||lovely-sing.pro^
 ||lovelybingo.com^
 ||lovemateforyou.com^
@@ -56276,7 +56271,6 @@
 ||luckaltute.net^
 ||luckilyhurry.com^
 ||lucklayed.info^
-||lucksucces.com^
 ||luckswyou.com^
 ||lucky-bet.site^
 ||lucky.aomg5bzv7.com^
@@ -56569,7 +56563,6 @@
 ||m.gdt.qq.com^
 ||m.giftry.com^
 ||m.go4.io^
-||m.gxwztv.com^
 ||m.happ.social^
 ||m.history.com^
 ||m.historyvault.com^
@@ -58683,7 +58676,6 @@
 ||masakeku.com^
 ||masaxe.xyz^
 ||masbpi.com^
-||mascotsonicolo.click^
 ||masculineillness.com^
 ||masdk.3g.qq.com^
 ||masdkv6.3g.qq.com^
@@ -58800,7 +58792,6 @@
 ||maxprofitcontrol.com^
 ||maxserving.com^
 ||maxtat.55truck.com^
-||maxtek.it^
 ||maxvaluead.com^
 ||maxx1.a.pleasedonotblockme.com^
 ||maxx1.pleasedonotblockme.com^
@@ -59471,7 +59462,6 @@
 ||methodslacca.top^
 ||methodyprovand.com^
 ||methoxyunpaled.com^
-||meticulousdate.net^
 ||metissebifold.shop^
 ||metminekit.live^
 ||metoacrype.com^
@@ -64609,7 +64599,6 @@
 ||offers.jazelauto.com^
 ||offers.la-z-boy.com^
 ||offers.storagepipe.com^
-||offers1019.com^
 ||offersbid.net^
 ||offershub.net^
 ||offerstrackingnow.com^
@@ -65652,6 +65641,7 @@
 ||oqejupqb.xyz^
 ||oqgrax.sissy-boy.com^
 ||oqidne.itaka.pl^
+||oqidsgkq.com^
 ||oqipegjz.icu^
 ||oqkucsxfrcjtho.xyz^
 ||oqnabsatfn.com^
@@ -65744,6 +65734,7 @@
 ||oritooep.win^
 ||orjfun.com^
 ||orkhovdimin.xyz^
+||orkreats.com^
 ||orkwithcatukhy.com^
 ||orlandowaggons.com^
 ||orldwhoisquite.org^
@@ -66452,7 +66443,6 @@
 ||pa5ka.com^
 ||pa5xjc.m1guelpf.me^
 ||pabgey.siepomaga.pl^
-||pabylkeafwovl.xyz^
 ||pac.thescottishsun.co.uk^
 ||pac.thesun.co.uk^
 ||pac.thetimes.com^
@@ -75148,7 +75138,6 @@
 ||sd.securitasdirect.fr^
 ||sda.seesaa.jp^
 ||sda.seksohub.com^
-||sda.tamdiem247.com^
 ||sdamcsb.top^
 ||sdarot-il.org^
 ||sdarot-tv.org^
@@ -76817,7 +76806,6 @@
 ||shockingstrategynovelty.com^
 ||shockynews.com^
 ||shodaisy.com^
-||shoddy-review.com^
 ||shoessaucepaninvoke.com^
 ||shoftoussees.com^
 ||shok.md/wp-content/banners^
@@ -83160,7 +83148,6 @@
 ||statics.woozooo.com^
 ||staticz.hotpornfile.org^
 ||stationspire.com^
-||statis.dsp.vn^
 ||statis1.mama.cn^
 ||statistic-blog-v2.sapoapps.vn^
 ||statistic-data.com^
@@ -84625,7 +84612,6 @@
 ||stughoamoono.net^
 ||stugsoda.com^
 ||stummedperca.top^
-||stummertitis.com^
 ||stunkrins.com^
 ||stunliver.com^
 ||stunning-lift.com^
@@ -85981,7 +85967,6 @@
 ||ta.trs.cn^
 ||ta20k.xyz^
 ||ta3nfsordd.com^
-||ta7wiilat.store^
 ||taaqhr6axacd2um.com^
 ||tabekeegnoo.com^
 ||tabici.com^
@@ -90920,7 +90905,6 @@
 ||tracks3.ferrari.com^
 ||tracksfaster.com^
 ||trackside.redbull.racing^
-||trackspecialdomain.com^
 ||trackspeeder.com^
 ||tracksrv.zdf.de^
 ||trackstracker.com^
@@ -92366,7 +92350,6 @@
 ||ucdvze.gudrunsjoden.com^
 ||ucheephu.com^
 ||uchmuk.com^
-||uckersscanmag.com^
 ||uclgnz.lunabazaar.com^
 ||uclimit.top^
 ||ucmahi.lectiva.com^
@@ -92435,6 +92418,7 @@
 ||uetlwst.top^
 ||ueuqui.esprit.nl^
 ||uewrutt.top^
+||uewzjy.xyz^
 ||ueykjfltxqsb.space^
 ||ufaexpert.com^
 ||ufeonk.viravira.co^
@@ -92782,7 +92766,6 @@
 ||unfaithfulgoddess.com^
 ||unfamiiiiardate.com^
 ||unfamiiiiardate.net^
-||unfamiillardate.net^
 ||unfamiillardates.com^
 ||unfamilllardates.net^
 ||unfiledbunkum.shop^
@@ -93886,8 +93869,6 @@
 ||verify.spin.app^
 ||verify.test.spin.app^
 ||veristouh.net^
-||veritabledate.com^
-||veritabledates.net^
 ||veritrol.com^
 ||verizon-branch.locationlabs.com^
 ||vermisrequite.click^
@@ -94633,7 +94614,6 @@
 ||vqtyargb.com^
 ||vqvuid.kobetsu.co.jp^
 ||vqxlbd.billyreid.com^
-||vqzbzuhhxhcf.com^
 ||vr.gdt.qq.com^
 ||vr.mttr.pt^
 ||vr.vivareal.com^
@@ -96421,7 +96401,6 @@
 ||woapimaugu.net^
 ||woareejoaley.net^
 ||wocwibkfutrj.com^
-||woeefpxz.com^
 ||woefifty.com^
 ||woespoke.com^
 ||woevr.com^
@@ -99411,6 +99390,7 @@
 ||yopard.com^
 ||yoqqiev.top^
 ||yoredi.com^
+||yorkvillemarketing.net^
 ||yoshatia.com^
 ||yotta.scrolller.com^
 ||yottacash.com^
