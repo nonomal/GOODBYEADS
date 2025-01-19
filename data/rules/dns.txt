@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-19 09:43:19（北京时间）
+! Version: 2025-01-19 20:35:40（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100392
+! Total count: 100370
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -7349,6 +7349,7 @@
 ||4c9844316f.e7d9861b83.com^
 ||4cce362ac7.107e9a08a8.com^
 ||4cd8d0b494.773fd92793.com^
+||4ce.fun^
 ||4cf1288ca8.4088846d50.com^
 ||4co7mbsb.de^
 ||4cock.com^
@@ -7586,7 +7587,6 @@
 ||52.deeginews.com^
 ||5200.luronews.com^
 ||5201.k3718qw08.com^
-||5201l41kuvl7.top^
 ||5204.lookinews.com^
 ||5209.reminews.com^
 ||5210.reminews.com^
@@ -8368,7 +8368,6 @@
 ||6149.5clo0xmbf.com^
 ||6154.notify.optimizesrv.com^
 ||6158.5clo0xmbf.com^
-||6158854a09.com^
 ||61598081d6.com^
 ||6160.lootynews.com^
 ||6163.5clo0xmbf.com^
@@ -9441,7 +9440,6 @@
 ||77bd7b02a8.com^
 ||77cdc6d130.com^
 ||77d0835301.775cf6f1ae.com^
-||77e0708efa.com^
 ||77sky.de^
 ||77tracking.com^
 ||7800.5clo0xmbf.com^
@@ -19303,6 +19301,7 @@
 ||airtightfaithful.com^
 ||airyeject.com^
 ||aiseet.aa.atianqi.com^
+||aiservice.vn^
 ||aisleovershoe.com^
 ||aisletransientinvasion.com^
 ||aisorussooxacm.net^
@@ -20489,7 +20488,6 @@
 ||analytics.gtechgroup.it^
 ||analytics.gvim.mobi^
 ||analytics.hambleden-capital.com^
-||analytics.hapo.vn^
 ||analytics.hardlightgames.com^
 ||analytics.hardrock.com^
 ||analytics.hashnode.com^
@@ -23343,7 +23341,6 @@
 ||atcoordinate.com^
 ||atctpqgota.com^
 ||atdeerlinga.com^
-||atdhobsb.com^
 ||atdmaincode.com^
 ||atdmt.com^
 ||atdnetwork.com^
@@ -23854,7 +23851,6 @@
 ||awfulmorning.pro^
 ||awfulresolvedraised.com^
 ||awfzfs.kwantum.nl^
-||awgbrojzdpesxx.com^
 ||awggij.wplay.co^
 ||awhauchoa.net^
 ||awhausaifoog.com^
@@ -25300,7 +25296,6 @@
 ||beholdcontents.com^
 ||behoppipan.com^
 ||behvgsik.icu^
-||behybmunweid.com^
 ||beigecombinedsniffing.com^
 ||beigelazinessdetected.com^
 ||beijing.buzhi5.com^
@@ -26556,7 +26551,6 @@
 ||boxlikepavers.com^
 ||boxofficehelping.com^
 ||boxofwhisper.com^
-||boxpr.aiservice.vn^
 ||boycottcandle.com^
 ||boyfriendtrimregistered.com^
 ||boyishdetrimental.com^
@@ -33969,7 +33963,6 @@
 ||dagobert33.xyz^
 ||dah0wv79ikn14.cloudfront.net^
 ||dahkexes.com^
-||dahmnrmhyhsjxx.com^
 ||dai.siyuetian.net^
 ||dai18.mumu01.com^
 ||daicagrithi.com^
@@ -34676,7 +34669,6 @@
 ||dateszone.net^
 ||datetrackservice.com^
 ||datewhisper.life^
-||datewithman.com^
 ||datexurlove.com^
 ||datherap.xyz^
 ||dating-banners.com^
@@ -38444,7 +38436,6 @@
 ||efrnedmiralpenb.info^
 ||efs604.top^
 ||efsqwi.krueger-dirndl.de^
-||efully.info^
 ||efumesok.xyz^
 ||efuxqe.tatilbudur.com^
 ||efwhcj.emp-shop.se^
@@ -43262,6 +43253,7 @@
 ||gauntletslacken.com^
 ||gaupaufi.net^
 ||gaupsaur.xyz^
+||gauqoith.com^
 ||gaushaih.xyz^
 ||gaustele.xyz^
 ||gauvaiho.net^
@@ -45923,6 +45915,7 @@
 ||h6.guesswhatnews.com^
 ||h6.lookinews.com^
 ||h689.nydailynews.com^
+||h6o.fun^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
 ||h7.guesswhatnews.com^
 ||h7.tegronews.com^
@@ -46093,7 +46086,6 @@
 ||happeningflutter.com^
 ||happy-davinci-53144f.netlify.com^
 ||happydate.today^
-||happydatte.net^
 ||happyholidays.coniferhealth.com^
 ||happypavilion.com^
 ||haqafzlur.com^
@@ -50847,7 +50839,6 @@
 ||itpqdzs.com^
 ||itqwesk.icu^
 ||itrigra.ru^
-||itrks.com^
 ||itroggenrolaa.com^
 ||itrustzone.site^
 ||its-that-easy.com^
@@ -51847,7 +51838,6 @@
 ||js-check.com^
 ||js.263y.com^
 ||js.92aliyun.com^
-||js.aiservice.vn^
 ||js.allporncomic.com^
 ||js.aomg5bzv7.com^
 ||js.bigcomics.win^
@@ -55015,7 +55005,6 @@
 ||linsaicki.net^
 ||lintgallondissipate.com^
 ||lintyahimsas.com^
-||lio.aiservice.vn^
 ||lio8.destinia.com.pa^
 ||lion.lastfrontiermagazine.com^
 ||liondolularhene.com^
@@ -55203,7 +55192,6 @@
 ||llksja.com^
 ||llntrack.messe-duesseldorf.de^
 ||llog.pl^
-||lloveonline.com^
 ||llozybovlozvk.top^
 ||llq9q2lacr.com^
 ||llqutk.skechers.com.au^
@@ -63976,7 +63964,6 @@
 ||nsmetrics.vogue.com.au^
 ||nsmpydfe.net^
 ||nsomedidm.xyz^
-||nspapi.aiservice.vn^
 ||nspmotion.com^
 ||nspot.co^
 ||nsstatistics.calphalon.com^
@@ -66376,7 +66363,6 @@
 ||p1-be-endcard.pglstatp-toutiao.com^
 ||p1-be-pack-sign.pglstatp-toutiao.com^
 ||p1-lm.adkwai.com^
-||p1-lm.adukwai.com^
 ||p1.360soucha.com^
 ||p1.chinakaoyan.com^
 ||p1.danskebank.co.uk^
@@ -71276,7 +71262,6 @@
 ||rbnt.org^
 ||rbone.link^
 ||rboyqkyrwrvkq.top^
-||rbpark1.site^
 ||rbqcg6g.de^
 ||rbrightscarletcl.info^
 ||rbrmhz.xyz^
@@ -71465,7 +71450,6 @@
 ||rebosoyodle.com^
 ||rebrew-foofteen.com^
 ||rebsoapo.com^
-||rec.aiservice.vn^
 ||rec.banggood.com^
 ||rec.deezer.com^
 ||rec.detik.com^
@@ -72832,8 +72816,6 @@
 ||rolt7it2lhml5rxa.edge41.testandtarget.omniture.com^
 ||rolzqwm.com^
 ||romance-net.com^
-||romanceafairs.net^
-||romanceaffair.net^
 ||romancedale.com^
 ||romancepotsexists.com^
 ||romanlicdate.com^
@@ -72978,6 +72960,7 @@
 ||rpfkgf.saarbruecker-zeitung.de^
 ||rpfkgf.volksfreund.de^
 ||rpfqvl.donnerwetter.de^
+||rpfuvj.icu^
 ||rpfytkt.com^
 ||rpiher.web-camp.io^
 ||rpjkwhkxh.com^
@@ -92751,7 +92734,6 @@
 ||unfairgenelullaby.com^
 ||unfaithfulgoddess.com^
 ||unfamiiiiardate.com^
-||unfamiiiiardate.net^
 ||unfiledbunkum.shop^
 ||unfinisheddolphin.com^
 ||unfolded-economics.com^
@@ -92924,7 +92906,6 @@
 ||untineforward.com^
 ||untitled.dwstatic.com^
 ||untrendenam.com^
-||untried-trick.com^
 ||untriedcause.pro^
 ||untrk.xyz^
 ||untrol.com^
@@ -95521,7 +95502,6 @@
 ||webmet.creditreform.de^
 ||webmetrics.avaya.com^
 ||webmetrics.mayoclinic.org^
-||webmetrics.nintendo-europe.com^
 ||webmetrics.perkinelmer.com^
 ||webmetrics.turnwrench.com^
 ||webmetrics.zebra.com^
@@ -96143,7 +96123,6 @@
 ||win-rtb2-uswest.n-data.io^
 ||win.gdt.qq.com^
 ||win.staticstuff.net^
-||win2lucktoday.com^
 ||win4.notifysrv.com^
 ||win5.aomg5bzv7.com^
 ||winbestprizess.info^
@@ -99152,7 +99131,6 @@
 ||ygecho.wenz.de^
 ||ygeosqsomusu.xyz^
 ||ygeqiky.com^
-||ygfytomneijjj.com^
 ||yggtorrent.com^
 ||yghaatttm.com^
 ||ygipjqf.icu^
