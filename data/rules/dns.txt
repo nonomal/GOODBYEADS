@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-20 20:40:26（北京时间）
+! Version: 2025-01-21 09:37:13（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100400
+! Total count: 100807
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -643,6 +643,7 @@
 ||0121.gofenews.com^
 ||0121.luronews.com^
 ||0121.rookinews.com^
+||01210sop.xyz^
 ||0122.gofenews.com^
 ||0122.lookinews.com^
 ||0122.luronews.com^
@@ -788,6 +789,7 @@
 ||0167.jemonews.com^
 ||0168.gofenews.com^
 ||0168.lootynews.com^
+||0168.reminews.com^
 ||0168.selornews.com^
 ||0169.jemonews.com^
 ||0169.lookinews.com^
@@ -980,6 +982,7 @@
 ||0250.reminews.com^
 ||0251.luronews.com^
 ||0251.reminews.com^
+||0252.lookinews.com^
 ||0252.luronews.com^
 ||0253.lookinews.com^
 ||0254.lootynews.com^
@@ -1000,6 +1003,7 @@
 ||0261.sifenews.com^
 ||0262.loopanews.com^
 ||0263.huronews.com^
+||0263.lookinews.com^
 ||0263.reminews.com^
 ||0264.deeginews.com^
 ||0265.gofenews.com^
@@ -1124,6 +1128,7 @@
 ||0311.jemonews.com^
 ||0311.lookinews.com^
 ||0313.reminews.com^
+||0314.lookinews.com^
 ||0315.jemonews.com^
 ||0315.lookinews.com^
 ||0315.reminews.com^
@@ -1206,6 +1211,7 @@
 ||0349.sifenews.com^
 ||034d351e60.c67209d67f.com^
 ||0350.deeginews.com^
+||0350.guesswhatnews.com^
 ||0350.jemonews.com^
 ||0350.lookinews.com^
 ||0350.lycheenews.com^
@@ -1451,6 +1457,7 @@
 ||0475.gofenews.com^
 ||0476.reminews.com^
 ||0477.5clo0xmbf.com^
+||0477.lootynews.com^
 ||0478.jemonews.com^
 ||0479.guesswhatnews.com^
 ||0479.reminews.com^
@@ -1503,12 +1510,14 @@
 ||0518.luronews.com^
 ||0518.reminews.com^
 ||0520.deeginews.com^
+||0520.reminews.com^
 ||0521.luronews.com^
 ||0521.reminews.com^
 ||0522.gofenews.com^
 ||0522.selornews.com^
 ||0523.gofenews.com^
 ||0523.lookinews.com^
+||0523.luronews.com^
 ||0525.jemonews.com^
 ||0527.gofenews.com^
 ||0528.gofenews.com^
@@ -1574,6 +1583,7 @@
 ||0565.gofenews.com^
 ||0566.gofenews.com^
 ||0566.lookinews.com^
+||0566.reminews.com^
 ||0567.reminews.com^
 ||0568.79j68qav2.com^
 ||0568.gofenews.com^
@@ -1587,6 +1597,7 @@
 ||0574.gofenews.com^
 ||0575.reminews.com^
 ||05751c.site^
+||0576.jemonews.com^
 ||0576.reminews.com^
 ||0577.jemonews.com^
 ||0578.jemonews.com^
@@ -1686,6 +1697,7 @@
 ||0642.rookinews.com^
 ||0644.reminews.com^
 ||0645.lootynews.com^
+||0648.deeginews.com^
 ||0651.gofenews.com^
 ||0651.reminews.com^
 ||0652.reminews.com^
@@ -1749,10 +1761,12 @@
 ||0716.jemonews.com^
 ||07161975c6.8aa3da4561.com^
 ||0718.gofenews.com^
+||0722.reminews.com^
 ||0724.reminews.com^
 ||0725.reminews.com^
 ||072551.xyz^
 ||0726.lootynews.com^
+||0728.reminews.com^
 ||0729.jemonews.com^
 ||0729a1e027.84284a87a4.com^
 ||0731.luronews.com^
@@ -1840,6 +1854,7 @@
 ||0820.5clo0xmbf.com^
 ||0821.guesswhatnews.com^
 ||0822.jemonews.com^
+||0825.lookinews.com^
 ||0825.reminews.com^
 ||0827.gofenews.com^
 ||0828.luronews.com^
@@ -1946,6 +1961,7 @@
 ||0934.5clo0xmbf.com^
 ||0934.deeginews.com^
 ||0934.gofenews.com^
+||0935.deeginews.com^
 ||0935.jemonews.com^
 ||0935.lookinews.com^
 ||0935.reminews.com^
@@ -1967,6 +1983,7 @@
 ||0945.reminews.com^
 ||0947.lookinews.com^
 ||0949.reminews.com^
+||0950.gofenews.com^
 ||0953.lookinews.com^
 ||0954.luronews.com^
 ||0954.reminews.com^
@@ -2019,6 +2036,7 @@
 ||0995.lootynews.com^
 ||0996.luronews.com^
 ||0997.tegronews.com^
+||0998.jemonews.com^
 ||0998.lookinews.com^
 ||09a2272385.0760571ca9.com^
 ||09b1fcc95e.com^
@@ -2052,6 +2070,7 @@
 ||0cdn.xyz^
 ||0cf.io^
 ||0d076be0f4.com^
+||0d0c3ccf54.com^
 ||0d65577236.com^
 ||0d70ad5525.ec257deba1.com^
 ||0d785fd7.xyz^
@@ -2277,6 +2296,7 @@
 ||105.lookinews.com^
 ||105.lycheenews.com^
 ||1050.reminews.com^
+||1051.guesswhatnews.com^
 ||10523745.xyz^
 ||1053.reminews.com^
 ||1054.reminews.com^
@@ -2354,6 +2374,7 @@
 ||11.yiqig.cn^
 ||11.yiqig.com^
 ||1100.5clo0xmbf.com^
+||1100.lookinews.com^
 ||1101.luronews.com^
 ||1102.gofenews.com^
 ||1102.lookinews.com^
@@ -2376,6 +2397,7 @@
 ||1111.sieglinde22.xyz^
 ||1111.sifenews.com^
 ||1112.gofenews.com^
+||1112.luronews.com^
 ||1112.reminews.com^
 ||1112.selornews.com^
 ||1113.lootynews.com^
@@ -2384,6 +2406,7 @@
 ||1115.deeginews.com^
 ||11152646.xyz^
 ||1116c5.xyz^
+||1118.reminews.com^
 ||1119.jemonews.com^
 ||1119.luronews.com^
 ||111tax.lookinews.com^
@@ -2419,12 +2442,16 @@
 ||1142.jemonews.com^
 ||1143.gofenews.com^
 ||1145.lycheenews.com^
+||1147.lookinews.com^
+||1148.deeginews.com^
 ||1148.gofenews.com^
 ||1148.jemonews.com^
 ||1148.reminews.com^
 ||1149.deeginews.com^
+||1149.jemonews.com^
 ||1149.lootynews.com^
 ||1150.lookinews.com^
+||1150.tegronews.com^
 ||1152.loopanews.com^
 ||1152.reminews.com^
 ||1153.5clo0xmbf.com^
@@ -2447,6 +2474,7 @@
 ||117.254.84.212:3000^
 ||1172.reminews.com^
 ||1175.5clo0xmbf.com^
+||1175.luronews.com^
 ||11778562.xyz^
 ||1180.jemonews.com^
 ||1182.5clo0xmbf.com^
@@ -2460,12 +2488,14 @@
 ||1186.5clo0xmbf.com^
 ||1187.rookinews.com^
 ||1187531871.rsc.cdn77.org^
+||1188.luronews.com^
 ||1189.lootynews.com^
 ||1189.tegronews.com^
 ||119.lycheenews.com^
 ||1190.lookinews.com^
 ||1190.luronews.com^
 ||1193.deeginews.com^
+||1193.jemonews.com^
 ||1193.reminews.com^
 ||11959579.fun.joyrun.com^
 ||1197.luronews.com^
@@ -2495,6 +2525,7 @@
 ||1202bb3601.29972123f3.com^
 ||1205.jemonews.com^
 ||1208344341.rsc.cdn77.org^
+||1209.5clo0xmbf.com^
 ||121.guesswhatnews.com^
 ||121.sifenews.com^
 ||12112336.pix-cdn.org^
@@ -2612,6 +2643,7 @@
 ||1279.jemonews.com^
 ||1279.reminews.com^
 ||1280.luronews.com^
+||1281.jemonews.com^
 ||1282.gofenews.com^
 ||1284.jemonews.com^
 ||1284.reminews.com^
@@ -2621,6 +2653,8 @@
 ||1289.jemonews.com^
 ||12915784.care.sanvello.com^
 ||12915784.help.sanvello.com^
+||1292.lycheenews.com^
+||1293.jemonews.com^
 ||1294.luronews.com^
 ||1295.luronews.com^
 ||1296.jemonews.com^
@@ -2703,6 +2737,7 @@
 ||1335.jemonews.com^
 ||1338.lookinews.com^
 ||1339.79j68qav2.com^
+||1339.reminews.com^
 ||134.deeginews.com^
 ||134.guesswhatnews.com^
 ||134.loopanews.com^
@@ -2729,6 +2764,7 @@
 ||1355.deeginews.com^
 ||1355.lookinews.com^
 ||1356.guesswhatnews.com^
+||1356.reminews.com^
 ||1358.sifenews.com^
 ||1359.luronews.com^
 ||1359.reminews.com^
@@ -2756,6 +2792,7 @@
 ||1376.luronews.com^
 ||1377.reminews.com^
 ||1379.jemonews.com^
+||1379.luronews.com^
 ||1379.reminews.com^
 ||1379.rookinews.com^
 ||137kfj65k.de^
@@ -2768,6 +2805,7 @@
 ||1384.deeginews.com^
 ||1385.lookinews.com^
 ||1386bd6fb0.52fa059b20.com^
+||139.tegronews.com^
 ||1391.lootynews.com^
 ||1391.reminews.com^
 ||1392.reminews.com^
@@ -2817,6 +2855,7 @@
 ||1425.jemonews.com^
 ||1426.jemonews.com^
 ||1426.reminews.com^
+||1428.jemonews.com^
 ||143.guesswhatnews.com^
 ||143.tegronews.com^
 ||1432.lookinews.com^
@@ -2942,6 +2981,7 @@
 ||1543.luronews.com^
 ||1544.jemonews.com^
 ||1545.lootynews.com^
+||1546.tegronews.com^
 ||1547.reminews.com^
 ||1548.79j68qav2.com^
 ||1548164934.rsc.cdn77.org^
@@ -2962,13 +3002,16 @@
 ||156.sifenews.com^
 ||156.tegronews.com^
 ||1560.reminews.com^
+||1561.lookinews.com^
 ||1561.reminews.com^
+||1566.lookinews.com^
 ||1569.reminews.com^
 ||156fd4.xyz^
 ||157.90.183.248^
 ||157.tegronews.com^
 ||1570.reminews.com^
 ||1571.reminews.com^
+||1573.lycheenews.com^
 ||1574.jemonews.com^
 ||1575.reminews.com^
 ||15752525.xyz^
@@ -3035,6 +3078,7 @@
 ||1642.reminews.com^
 ||1646.833enmhob.com^
 ||1647.huronews.com^
+||1647.rookinews.com^
 ||1648.lootynews.com^
 ||164de830.live^
 ||165.tegronews.com^
@@ -3119,6 +3163,7 @@
 ||1722.reminews.com^
 ||1723.gofenews.com^
 ||1724.luronews.com^
+||1728.jemonews.com^
 ||17282.org^
 ||1730.jemonews.com^
 ||1731.tegronews.com^
@@ -3151,11 +3196,13 @@
 ||1765.sifenews.com^
 ||1767.gofenews.com^
 ||1768.gofenews.com^
+||1769.lookinews.com^
 ||177.guesswhatnews.com^
 ||177.tegronews.com^
 ||1771.jemonews.com^
 ||1772.lootynews.com^
 ||1773.reminews.com^
+||1774.luronews.com^
 ||1776.reminews.com^
 ||1777.luronews.com^
 ||177o.com^
@@ -3176,11 +3223,13 @@
 ||17fffd951d.com^
 ||18.deeginews.com^
 ||18.uyybde07w.com^
+||1801.reminews.com^
 ||1802.jemonews.com^
 ||1803.reminews.com^
 ||1804.luronews.com^
 ||18052925.im.intermiles.com^
 ||1807.79j68qav2.com^
+||1809.rookinews.com^
 ||180hits.de^
 ||180searchassistant.com^
 ||1810.jemonews.com^
@@ -3217,7 +3266,9 @@
 ||1862.jemonews.com^
 ||1863.lookinews.com^
 ||1863.reminews.com^
+||1866.gofenews.com^
 ||1866.jemonews.com^
+||1867.lookinews.com^
 ||187.guesswhatnews.com^
 ||187.sifenews.com^
 ||187.tegronews.com^
@@ -3273,6 +3324,7 @@
 ||19035955.email.tajawal.com^
 ||19035955.loyalty.tajawal.com^
 ||19035955.mktg.tajawal.com^
+||1904.deeginews.com^
 ||1905.jemonews.com^
 ||1906.jemonews.com^
 ||1909a8.satofull.jp^
@@ -3311,6 +3363,7 @@
 ||194.guesswhatnews.com^
 ||1940.luronews.com^
 ||1942.jemonews.com^
+||1950.deeginews.com^
 ||1951.jemonews.com^
 ||19515bia.de^
 ||1957.jemonews.com^
@@ -3328,6 +3381,7 @@
 ||1971.gofenews.com^
 ||1973.deeginews.com^
 ||1977.deeginews.com^
+||1977.luronews.com^
 ||1978.reminews.com^
 ||198.guesswhatnews.com^
 ||198.sifenews.com^
@@ -3338,6 +3392,7 @@
 ||199.180.100.185/love44^
 ||199.lycheenews.com^
 ||1990.deeginews.com^
+||1991.luronews.com^
 ||1991.reminews.com^
 ||1991482557.rsc.cdn77.org^
 ||1993.luronews.com^
@@ -3475,6 +3530,7 @@
 ||1iohncj.xyz^
 ||1iqepioegyffhuikddif.lycheenews.com^
 ||1itot7tm.de^
+||1ittqyyepio.lycheenews.com^
 ||1j02claf9p.pro^
 ||1j2n061x3td.www.digi.no^
 ||1j771bhgi.de^
@@ -3518,12 +3574,14 @@
 ||1push.io^
 ||1putbvik.lycheenews.com^
 ||1puvin.lycheenews.com^
+||1pwrhgwwt.lycheenews.com^
 ||1qe.info^
 ||1qghkl.lycheenews.com^
 ||1qgxtxd2n.com^
 ||1qi.info^
 ||1qingdao.com^
 ||1qrsumhcuudhkt4c.brandnewapp.pro^
+||1qwdc.lycheenews.com^
 ||1qwdt.lycheenews.com^
 ||1r4g65b63.de^
 ||1r8435gsqldr.com^
@@ -3599,6 +3657,7 @@
 ||2008.jemonews.com^
 ||2008.luronews.com^
 ||2008.notifysrv.com^
+||2008.reminews.com^
 ||20091222.com^
 ||201.guesswhatnews.com^
 ||201.lycheenews.com^
@@ -3677,6 +3736,7 @@
 ||2049.gofenews.com^
 ||205.209.138.102^
 ||205.guesswhatnews.com^
+||2050.reminews.com^
 ||2050.tegronews.com^
 ||20519a.xyz^
 ||2052.flash2-http.qq.com^
@@ -3700,6 +3760,7 @@
 ||2077.reminews.com^
 ||2079.jemonews.com^
 ||2081.5clo0xmbf.com^
+||2081.reminews.com^
 ||2084.guesswhatnews.com^
 ||2088.reminews.com^
 ||2089.lookinews.com^
@@ -3819,6 +3880,7 @@
 ||221.guesswhatnews.com^
 ||22117898.xyz^
 ||2214.jemonews.com^
+||2214.loopanews.com^
 ||22153974.branch.rocks^
 ||2217.luronews.com^
 ||2218.sifenews.com^
@@ -3922,6 +3984,7 @@
 ||231.guesswhatnews.com^
 ||2310.4puuqeh41.com^
 ||2311.reminews.com^
+||2311.tegronews.com^
 ||231284.79j68qav2.com^
 ||2313.jemonews.com^
 ||2313.reminews.com^
@@ -4020,6 +4083,7 @@
 ||2448.selornews.com^
 ||2449march2024.com^
 ||244kecmb3.de^
+||2451.5clo0xmbf.com^
 ||2456.deeginews.com^
 ||2456.jemonews.com^
 ||2456.luronews.com^
@@ -4030,6 +4094,7 @@
 ||2463.guesswhatnews.com^
 ||2463.jemonews.com^
 ||2463.sifenews.com^
+||2464.jemonews.com^
 ||2468.reminews.com^
 ||2468193450.ac83ccdb8f.com^
 ||2469.deeginews.com^
@@ -4039,6 +4104,7 @@
 ||2473april2024.com^
 ||2475april2024.com^
 ||2477april2024.com^
+||2479.lookinews.com^
 ||2479april2024.com^
 ||247dbf848b.com^
 ||247media.com^
@@ -4050,6 +4116,7 @@
 ||249.bestinterestings.com^
 ||2491may2024.com^
 ||2492.notify.optimizesrv.com^
+||2494.huronews.com^
 ||2494.notify.optimizesrv.com^
 ||2495.loopanews.com^
 ||2495may2024.com^
@@ -4141,6 +4208,7 @@
 ||2599.gofenews.com^
 ||2599.lookinews.com^
 ||2599.reminews.com^
+||2599.sosqboh85.com^
 ||25f3eded03.6390becedf.com^
 ||25f853e885.d49ae3cc10.com^
 ||25ix8gm8ien.sandbox.panprices.com^
@@ -4182,6 +4250,8 @@
 ||2649.loopanews.com^
 ||264c95d3e9.eaed8c304f.com^
 ||2651.lookinews.com^
+||2651.lycheenews.com^
+||2655.jemonews.com^
 ||2655.reminews.com^
 ||2657.gofenews.com^
 ||2657.reminews.com^
@@ -4189,6 +4259,8 @@
 ||2658.luronews.com^
 ||2659.reminews.com^
 ||266.lycheenews.com^
+||2661.reminews.com^
+||2663.luronews.com^
 ||2665.guesswhatnews.com^
 ||2666.reminews.com^
 ||2668.luronews.com^
@@ -4209,6 +4281,7 @@
 ||2693.reminews.com^
 ||26ea4af114.com^
 ||26q4nn691.de^
+||27.tegronews.com^
 ||27.y2sysv81v.com^
 ||2700.gofenews.com^
 ||2702.5clo0xmbf.com^
@@ -4241,7 +4314,6 @@
 ||2745.luronews.com^
 ||2749.lookinews.com^
 ||2749.reminews.com^
-||274ae9d38a.77e0708efa.com^
 ||274dc708ea.ec71a471b9.com^
 ||2750.reminews.com^
 ||2752.tegronews.com^
@@ -4262,8 +4334,10 @@
 ||2780.lootynews.com^
 ||2780.reminews.com^
 ||2783.reminews.com^
+||2784.deeginews.com^
 ||2786.reminews.com^
 ||2789.reminews.com^
+||2790.guesswhatnews.com^
 ||2790.lootynews.com^
 ||2791.lootynews.com^
 ||2792.jemonews.com^
@@ -4272,9 +4346,9 @@
 ||2799.luronews.com^
 ||2799.ogrt80r65.com^
 ||27c83c607f.40aa881a9f.com^
-||27cac6453c.bcd8072b72.com^
 ||27d8ec8a23.7737d3a561.com^
 ||27igqr8b.de^
+||28.guesswhatnews.com^
 ||2801.reminews.com^
 ||2802.luronews.com^
 ||2802.reminews.com^
@@ -4294,6 +4368,7 @@
 ||2818.lootynews.com^
 ||2818.luronews.com^
 ||2818.reminews.com^
+||2818.rookinews.com^
 ||2818.selornews.com^
 ||2818a.reminews.com^
 ||2818w.huronews.com^
@@ -4350,6 +4425,7 @@
 ||2892.huronews.com^
 ||2893.34gwl8v1a.com^
 ||2893.5clo0xmbf.com^
+||2895.deeginews.com^
 ||2895.jemonews.com^
 ||2895.reminews.com^
 ||2897.reminews.com^
@@ -4376,10 +4452,13 @@
 ||2927.reminews.com^
 ||2929.tegronews.com^
 ||2930.deeginews.com^
+||2930.lookinews.com^
 ||2934.jemonews.com^
 ||2935.jemonews.com^
 ||2937.jemonews.com^
+||2940.jemonews.com^
 ||2940.lootynews.com^
+||2942.deeginews.com^
 ||2945.reminews.com^
 ||2950.jemonews.com^
 ||2951.huronews.com^
@@ -4432,6 +4511,7 @@
 ||29vpnmv4q.com^
 ||2a1b1657c6.com^
 ||2a1b3d0e95.com^
+||2a1b482343.1e55308a88.com^
 ||2a2k3aom6.de^
 ||2a3fa3df2e.3d285d98de.com^
 ||2a4722f5ee.com^
@@ -4491,6 +4571,7 @@
 ||2e5e4544c4.com^
 ||2e718yf5jypb.test.digitalsurge.io^
 ||2e754b57ca.com^
+||2e8c13c9c8.b6ccb3f833.com^
 ||2e8dgn8n0e0l.com^
 ||2eb3b8d787.53e91a4877.com^
 ||2ecfa1db15.com^
@@ -4644,6 +4725,7 @@
 ||3053.reminews.com^
 ||305421ba72.com^
 ||3056.jemonews.com^
+||3056.luronews.com^
 ||3056.reminews.com^
 ||305f5127dc.5e1b8e9d68.com^
 ||3060.lookinews.com^
@@ -4651,6 +4733,8 @@
 ||3062.luronews.com^
 ||3062.reminews.com^
 ||3063.833enmhob.com^
+||3065.guesswhatnews.com^
+||3065.reminews.com^
 ||3067.4puuqeh41.com^
 ||3069.5clo0xmbf.com^
 ||3069.jemonews.com^
@@ -4697,8 +4781,10 @@
 ||30sec.info^
 ||30tgh64jp.de^
 ||31.guesswhatnews.com^
+||31.tegronews.com^
 ||3100.gofenews.com^
 ||3101.jemonews.com^
+||3102.deeginews.com^
 ||3103.jemonews.com^
 ||3103.luronews.com^
 ||3103cf02ec.com^
@@ -4725,10 +4811,12 @@
 ||3130.tegronews.com^
 ||3133.4puuqeh41.com^
 ||3133.jemonews.com^
+||3135.deeginews.com^
 ||3136.lookinews.com^
 ||3139.jemonews.com^
 ||3141.lookinews.com^
 ||3141.tegronews.com^
+||3143.reminews.com^
 ||3146.lookinews.com^
 ||3147.luronews.com^
 ||3147.tegronews.com^
@@ -4737,6 +4825,7 @@
 ||3151.reminews.com^
 ||3153.jemonews.com^
 ||3156.lookinews.com^
+||3158.reminews.com^
 ||3159.jemonews.com^
 ||3161.jemonews.com^
 ||3164303.notifysrv.com^
@@ -4765,6 +4854,7 @@
 ||3166309.notifysrv.com^
 ||3166313.notifysrv.com^
 ||3166355.notifysrv.com^
+||3167.5clo0xmbf.com^
 ||3167.reminews.com^
 ||3167043.notifysrv.com^
 ||3167143.notifysrv.com^
@@ -4801,6 +4891,7 @@
 ||3179416.notify6.com^
 ||3179416.notifysrv.com^
 ||3179552.notifysrv.com^
+||3180.jemonews.com^
 ||3180.reminews.com^
 ||3180142.notifysrv.com^
 ||3180144.notifysrv.com^
@@ -4826,6 +4917,7 @@
 ||3180710.notifysrv.com^
 ||3180712.notifysrv.com^
 ||3180714.notifysrv.com^
+||3181.reminews.com^
 ||3181222.notifysrv.com^
 ||3181924.notifysrv.com^
 ||3181932.notifysrv.com^
@@ -4885,6 +4977,7 @@
 ||31daa5lnq.de^
 ||31def61c3.de^
 ||31e9d899ee.41869c9436.com^
+||31fa866365.f5ff45b3d4.com^
 ||31o0jl63.de^
 ||31seconds.net^
 ||31up.icu^
@@ -4940,6 +5033,7 @@
 ||3217213.notifysrv.com^
 ||3218.79j68qav2.com^
 ||3218.sifenews.com^
+||3219.selornews.com^
 ||321naturelikefurfuroid.com^
 ||322.jemonews.com^
 ||3220.lookinews.com^
@@ -4972,6 +5066,7 @@
 ||3233.guesswhatnews.com^
 ||3234742.notifysrv.com^
 ||3235.luronews.com^
+||3237.deeginews.com^
 ||3237962.notifysrv.com^
 ||3238124.notifysrv.com^
 ||3239522.notifysrv.com^
@@ -4987,6 +5082,7 @@
 ||3247.jemonews.com^
 ||32472254.xyz^
 ||3248.deeginews.com^
+||3248.gofenews.com^
 ||3248.luronews.com^
 ||3248488.notify6.com^
 ||3249.gofenews.com^
@@ -5105,6 +5201,7 @@
 ||3307754.notifysrv.com^
 ||3307792.notifysrv.com^
 ||3307896.notifysrv.com^
+||3310.sifenews.com^
 ||3310026.notify6.com^
 ||3310238.notify6.com^
 ||3310238.notifysrv.com^
@@ -5261,6 +5358,7 @@
 ||3376753.notifysrv.com^
 ||3379.lookinews.com^
 ||3380.34gwl8v1a.com^
+||3380.luronews.com^
 ||3381.deeginews.com^
 ||3382.lookinews.com^
 ||3382743.notify6.com^
@@ -5421,6 +5519,7 @@
 ||3446w.huronews.com^
 ||34475780.xyz^
 ||3447913.notifysrv.com^
+||3448.reminews.com^
 ||3449.reminews.com^
 ||3450.luronews.com^
 ||3450.reminews.com^
@@ -5582,6 +5681,7 @@
 ||3513563.notifysrv.com^
 ||3515.lycheenews.com^
 ||3515.reminews.com^
+||3516.gofenews.com^
 ||3516163.notifysrv.com^
 ||3517.4puuqeh41.com^
 ||3517123.notify6.com^
@@ -5625,6 +5725,7 @@
 ||3538565.notify6.com^
 ||3538613.notifysrv.com^
 ||3539463.notifysrv.com^
+||3540.jemonews.com^
 ||3540.lookinews.com^
 ||3540837.notifysrv.com^
 ||3541095.notifysrv.com^
@@ -5686,6 +5787,7 @@
 ||3572281.notifysrv.com^
 ||3572283.notifysrv.com^
 ||3572285.notifysrv.com^
+||3572291.notify6.com^
 ||3572293.notifysrv.com^
 ||3572295.notify6.com^
 ||3572299.notify6.com^
@@ -5696,6 +5798,7 @@
 ||3573.luronews.com^
 ||3575.guesswhatnews.com^
 ||3575e2d4e6.com^
+||3576.jemonews.com^
 ||3576531.notifysrv.com^
 ||3576907.notifysrv.com^
 ||3577.huronews.com^
@@ -5709,6 +5812,7 @@
 ||3578253.notifysrv.com^
 ||357dbd24e2.com^
 ||357fbe0abe.71d287479d.com^
+||3580.jemonews.com^
 ||3580293.notifysrv.com^
 ||3580393.notify6.com^
 ||3580393.notifysrv.com^
@@ -5752,10 +5856,12 @@
 ||3593835.notifysrv.com^
 ||3593847.notifysrv.com^
 ||3593859.notifysrv.com^
+||3595.jemonews.com^
 ||3595095.notifysrv.com^
 ||3595711.notify6.com^
 ||3595711.notifysrv.com^
 ||3596.jemonews.com^
+||3596.reminews.com^
 ||3597775.notifysrv.com^
 ||3598457.notifysrv.com^
 ||3599.deeginews.com^
@@ -5769,6 +5875,7 @@
 ||35volitantplimsoles5.com^
 ||36.guesswhatnews.com^
 ||360.anatic.net^
+||3600.jemonews.com^
 ||3600.lookinews.com^
 ||3601880.xyz^
 ||3603119.notifysrv.com^
@@ -5796,6 +5903,7 @@
 ||3619313.notifysrv.com^
 ||3621331.notifysrv.com^
 ||3621333.notifysrv.com^
+||3621607.notifysrv.com^
 ||3622691.notify6.com^
 ||3622827.notify6.com^
 ||3622911ae3.com^
@@ -5819,6 +5927,7 @@
 ||3637423.notifysrv.com^
 ||3638de9651.7bb072c1e1.com^
 ||3639.jemonews.com^
+||3641.lycheenews.com^
 ||3644.huronews.com^
 ||3647443.notifysrv.com^
 ||3648.lookinews.com^
@@ -5924,6 +6033,8 @@
 ||3723.sosqboh85.com^
 ||3724345.notify6.com^
 ||3724345.notifysrv.com^
+||3726.tegronews.com^
+||3727.gofenews.com^
 ||3727723.notifysrv.com^
 ||3728.reminews.com^
 ||3728675.notify6.com^
@@ -5963,6 +6074,7 @@
 ||375969086c.com^
 ||3760.jemonews.com^
 ||3762.gofenews.com^
+||3762001.notifysrv.com^
 ||3763.guesswhatnews.com^
 ||3763.luronews.com^
 ||3764.loopanews.com^
@@ -5972,6 +6084,7 @@
 ||3768747.notifysrv.com^
 ||3769.lookinews.com^
 ||3770.jemonews.com^
+||3771491.notify6.com^
 ||3773.loopanews.com^
 ||3773.reminews.com^
 ||3774.rookinews.com^
@@ -6019,6 +6132,7 @@
 ||38227.79j68qav2.com^
 ||3822855.notifysrv.com^
 ||3822893.notifysrv.com^
+||3823.jemonews.com^
 ||38236a5b03.e770af238b.com^
 ||3827.luronews.com^
 ||3832097.notifysrv.com^
@@ -6102,6 +6216,7 @@
 ||3893.jemonews.com^
 ||3893.luronews.com^
 ||38941752.xyz^
+||3895.deeginews.com^
 ||3898244.notify6.com^
 ||3898280.notify6.com^
 ||3898378.notify6.com^
@@ -6154,6 +6269,7 @@
 ||3935380.notify6.com^
 ||3935570.notify6.com^
 ||3935618.notify6.com^
+||3935626.notify6.com^
 ||3937625.notify6.com^
 ||3938.deeginews.com^
 ||3938193.notify6.com^
@@ -6179,6 +6295,8 @@
 ||3950056.notify6.com^
 ||3950664.notify6.com^
 ||3950808.notify6.com^
+||3951.jemonews.com^
+||3951.lookinews.com^
 ||3952.79j68qav2.com^
 ||3955.jemonews.com^
 ||3956.deeginews.com^
@@ -6247,6 +6365,7 @@
 ||39e6p9p7.de^
 ||39jz.com^
 ||3a17d27bf9.com^
+||3a3294042d.095861554a.com^
 ||3a55f02d.xyz^
 ||3a83d56524.db33180b93.com^
 ||3ac1b30a18.com^
@@ -6259,6 +6378,7 @@
 ||3b3e1ed0b3.13b696a4c1.com^
 ||3b5bbe729f.5f93004b68.com^
 ||3bc9b1b89c.com^
+||3bfb3c04e6.6991eeac66.com^
 ||3bq57qu8o.com^
 ||3br.lycheenews.com^
 ||3bxe2.cyou^
@@ -6268,6 +6388,7 @@
 ||3d-hentai.de^
 ||3d.notifysrv.com^
 ||3d2672504b.d1523a346a.com^
+||3d55b46c91.78187cbed6.com^
 ||3d5affba28.com^
 ||3d78620f7e.be30660063.com^
 ||3d7df2557f.com^
@@ -6394,6 +6515,7 @@
 ||4028.luronews.com^
 ||4028412.notify6.com^
 ||4028414.notify6.com^
+||4029.5clo0xmbf.com^
 ||402ed82a43.2e5e4544c4.com^
 ||4030.lootynews.com^
 ||4031.gofenews.com^
@@ -6457,6 +6579,7 @@
 ||4065194.notify6.com^
 ||4065944.notify6.com^
 ||4066.lookinews.com^
+||4066.lycheenews.com^
 ||4067.reminews.com^
 ||4067912.notify6.com^
 ||4068856.notify6.com^
@@ -6513,6 +6636,7 @@
 ||4105.lookinews.com^
 ||4105.lootynews.com^
 ||4106200.notify6.com^
+||4107.reminews.com^
 ||4108.luronews.com^
 ||4110.guesswhatnews.com^
 ||4111ae9ec0.com^
@@ -6536,6 +6660,7 @@
 ||4131.reminews.com^
 ||4131834.notify6.com^
 ||4132.lookinews.com^
+||4132.lootynews.com^
 ||4133.jemonews.com^
 ||4133.lootynews.com^
 ||4133.reminews.com^
@@ -6559,6 +6684,7 @@
 ||4149128.notify6.com^
 ||4149204.notify6.com^
 ||4149216.notify6.com^
+||4150.luronews.com^
 ||4151.reminews.com^
 ||4151384.notify6.com^
 ||4152.jemonews.com^
@@ -6603,6 +6729,7 @@
 ||4186.luronews.com^
 ||4187.lootynews.com^
 ||4188246.notify6.com^
+||4189.reminews.com^
 ||4189332.notify6.com^
 ||4189336.notify6.com^
 ||4189910.notify6.com^
@@ -6635,6 +6762,7 @@
 ||4214.lookinews.com^
 ||4214522.notify6.com^
 ||4215.reminews.com^
+||4217.jemonews.com^
 ||4218.luronews.com^
 ||421f03c2e5.46acd35e41.com^
 ||4220540.notify6.com^
@@ -6646,6 +6774,7 @@
 ||4225290.notify6.com^
 ||422680d506.7d2d5e588a.com^
 ||4227.5clo0xmbf.com^
+||4227.luronews.com^
 ||4229.lookinews.com^
 ||423.ru^
 ||4230.5clo0xmbf.com^
@@ -6670,6 +6799,7 @@
 ||4242.lootynews.com^
 ||4242.reminews.com^
 ||4243868.notify6.com^
+||4245.reminews.com^
 ||4246.luronews.com^
 ||4249.jemonews.com^
 ||4250.reminews.com^
@@ -6709,6 +6839,7 @@
 ||4292.4puuqeh41.com^
 ||4292982.notify6.com^
 ||4294.5clo0xmbf.com^
+||4294.lycheenews.com^
 ||4295.deeginews.com^
 ||429614c72b.153acc74fd.com^
 ||4298194.notify6.com^
@@ -6724,12 +6855,14 @@
 ||4306.lookinews.com^
 ||4306.loopanews.com^
 ||4307.reminews.com^
+||4308.tegronews.com^
 ||4310.deeginews.com^
 ||4311007186.a098a4ad81.com^
 ||4315.deeginews.com^
 ||4316.jemonews.com^
 ||4316.lookinews.com^
 ||4318.deeginews.com^
+||4318.jemonews.com^
 ||432.guesswhatnews.com^
 ||4322.jemonews.com^
 ||4322316.notify6.com^
@@ -6817,11 +6950,13 @@
 ||4412ed1088.9bdf800214.com^
 ||4415.lootynews.com^
 ||4415.luronews.com^
+||4416.jemonews.com^
 ||4421.l5eamr17d.com^
 ||4421.lookinews.com^
 ||4421184.notify6.com^
 ||4423.jemonews.com^
 ||4423.reminews.com^
+||4424.deeginews.com^
 ||4424.reminews.com^
 ||4425.reminews.com^
 ||4426.5clo0xmbf.com^
@@ -6841,6 +6976,7 @@
 ||444515f79a.828af6b8ce.com^
 ||4446.reminews.com^
 ||4447.reminews.com^
+||4448.jemonews.com^
 ||4448.lookinews.com^
 ||4449.reminews.com^
 ||4449ae38c2.ee3d8d5c76.com^
@@ -6893,6 +7029,7 @@
 ||4500.luronews.com^
 ||4501.deeginews.com^
 ||4502.jemonews.com^
+||4502.reminews.com^
 ||4504.reminews.com^
 ||4506.deeginews.com^
 ||4508.5clo0xmbf.com^
@@ -6958,6 +7095,8 @@
 ||4583.reminews.com^
 ||4584.gofenews.com^
 ||4586.notify.optimizesrv.com^
+||4586.reminews.com^
+||4587.reminews.com^
 ||4587228.notify6.com^
 ||4590.reminews.com^
 ||4590.sifenews.com^
@@ -6965,6 +7104,8 @@
 ||4592.lootynews.com^
 ||4594.reminews.com^
 ||4595.5clo0xmbf.com^
+||4595.lookinews.com^
+||4597.lookinews.com^
 ||4598.rookinews.com^
 ||4598408.notify6.com^
 ||4598410.notify6.com^
@@ -6976,6 +7117,7 @@
 ||45eijvhgj2.com^
 ||45f2a90583.com^
 ||46.tegronews.com^
+||4600.lootynews.com^
 ||4602.gofenews.com^
 ||4602306b.xyz^
 ||4603.lootynews.com^
@@ -7007,6 +7149,7 @@
 ||4631.sifenews.com^
 ||4633.gofenews.com^
 ||4634.jemonews.com^
+||4635.jemonews.com^
 ||4636902.notify6.com^
 ||4638.reminews.com^
 ||4642.lootynews.com^
@@ -7033,10 +7176,12 @@
 ||4669.sifenews.com^
 ||466c4d0f.xyz^
 ||466f89f4d1.com^
+||467.sifenews.com^
 ||4670.gofenews.com^
 ||4671.reminews.com^
 ||4673.gofenews.com^
 ||4673.reminews.com^
+||4674.5clo0xmbf.com^
 ||4675.reminews.com^
 ||4677.reminews.com^
 ||4679368.notify6.com^
@@ -7052,6 +7197,7 @@
 ||4690.reminews.com^
 ||4690y10pvpq8.com^
 ||4691.luronews.com^
+||4691.reminews.com^
 ||4693.jemonews.com^
 ||4693.luronews.com^
 ||4694592.notify6.com^
@@ -7078,6 +7224,7 @@
 ||4718.lootynews.com^
 ||4718.reminews.com^
 ||4719.deeginews.com^
+||4719.gofenews.com^
 ||4720.gofenews.com^
 ||4720.jemonews.com^
 ||4721.reminews.com^
@@ -7093,13 +7240,16 @@
 ||4727.jemonews.com^
 ||4728.deeginews.com^
 ||4728.lootynews.com^
+||4729.huronews.com^
 ||4729.reminews.com^
 ||47296536.xyz^
+||4730.deeginews.com^
 ||4732.reminews.com^
 ||4733.guesswhatnews.com^
 ||4733.reminews.com^
 ||4735.luronews.com^
 ||4735242.notify6.com^
+||4736.reminews.com^
 ||4737.sifenews.com^
 ||4738.lookinews.com^
 ||4738.luronews.com^
@@ -7123,6 +7273,7 @@
 ||4770.lootynews.com^
 ||4770.reminews.com^
 ||4771.gofenews.com^
+||4771.guesswhatnews.com^
 ||4773.rookinews.com^
 ||4775.5clo0xmbf.com^
 ||4776.reminews.com^
@@ -7226,8 +7377,10 @@
 ||4862.luronews.com^
 ||4863.lycheenews.com^
 ||4863208.notify6.com^
+||4864.lycheenews.com^
 ||4867.5clo0xmbf.com^
 ||4867.deeginews.com^
+||4867.reminews.com^
 ||4872274.notify6.com^
 ||4872816.notify6.com^
 ||4873.gofenews.com^
@@ -7250,11 +7403,14 @@
 ||48z7wyjdsywu.www.revistaferramental.com.br^
 ||49.bestinterestings.com^
 ||4900.gofenews.com^
+||4900.lookinews.com^
+||4902.gofenews.com^
 ||4902.k45z7tagm.com^
 ||4902880.notify6.com^
 ||4904.guesswhatnews.com^
 ||4905.jemonews.com^
 ||4905.k3718qw08.com^
+||4906.luronews.com^
 ||4908.reminews.com^
 ||4911.huronews.com^
 ||4912.reminews.com^
@@ -7310,12 +7466,15 @@
 ||4983282.notify6.com^
 ||4984.reminews.com^
 ||4987.reminews.com^
+||4989.gofenews.com^
+||4991.jemonews.com^
 ||4991.lootynews.com^
 ||4994.5clo0xmbf.com^
 ||4994.lootynews.com^
 ||4995.tegronews.com^
 ||4996.lookinews.com^
 ||4997.lookinews.com^
+||4997.loopanews.com^
 ||4998.5clo0xmbf.com^
 ||4999.selornews.com^
 ||499ad88d2d.03eea1b6dd.com^
@@ -7324,6 +7483,7 @@
 ||4a9517991d.com^
 ||4aae8f.site^
 ||4ad2fadbec.a45720dd31.com^
+||4ad8ea329d.f168b7fa34.com^
 ||4ad960f3d6.314b24ffc5.com^
 ||4ae136934e.bb83b7a45e.com^
 ||4afa45f1.xyz^
@@ -7439,6 +7599,7 @@
 ||5.ccutu.com^
 ||5.guesswhatnews.com^
 ||5.gzfenda.com^
+||5.lookinews.com^
 ||5.notifysrv.com^
 ||5.tegronews.com^
 ||5.wemakebestnews.com^
@@ -7462,6 +7623,7 @@
 ||50368ce0a6.com^
 ||5040.reminews.com^
 ||5041.reminews.com^
+||5045.lookinews.com^
 ||5048.reminews.com^
 ||5055.jemonews.com^
 ||5055.lookinews.com^
@@ -7489,7 +7651,9 @@
 ||5086.ogrt80r65.com^
 ||5088.gofenews.com^
 ||5089.lookinews.com^
+||509.lycheenews.com^
 ||5091.lookinews.com^
+||5091.luronews.com^
 ||5091.sifenews.com^
 ||5093.jemonews.com^
 ||5094.deeginews.com^
@@ -7544,6 +7708,7 @@
 ||5135.luronews.com^
 ||5142.reminews.com^
 ||5143.luronews.com^
+||5145.lookinews.com^
 ||5146.lootynews.com^
 ||5150.reminews.com^
 ||5153152.notify6.com^
@@ -7554,6 +7719,7 @@
 ||5157.luronews.com^
 ||5158.reminews.com^
 ||5159.5clo0xmbf.com^
+||5160.reminews.com^
 ||5161.gofenews.com^
 ||5163.gofenews.com^
 ||5165c0c080.com^
@@ -7574,6 +7740,7 @@
 ||5180.gofenews.com^
 ||5186246.notify6.com^
 ||5188.lookinews.com^
+||5191.reminews.com^
 ||5192.guesswhatnews.com^
 ||5199.lootynews.com^
 ||5199.sosqboh85.com^
@@ -7597,12 +7764,14 @@
 ||5214.reminews.com^
 ||5222.sifenews.com^
 ||5224.tegronews.com^
+||5225.lookinews.com^
 ||5226.reminews.com^
 ||5227.k3718qw08.com^
 ||5228.jemonews.com^
 ||5228.reminews.com^
 ||5229.luronews.com^
 ||5233.gofenews.com^
+||5235.jemonews.com^
 ||5237.gofenews.com^
 ||5240.rhsy174op.com^
 ||5241.gofenews.com^
@@ -7636,12 +7805,14 @@
 ||5293.reminews.com^
 ||5294.lootynews.com^
 ||5296856.notify6.com^
+||5298.reminews.com^
 ||5299.lookinews.com^
 ||529conference.strategic-i.com^
 ||52ac888716.fe433129dc.com^
 ||52c470b4ed.633c66f0dc.com^
 ||52d8.pandasuite.io^
 ||52dvzo62i.com^
+||52e8023e9d.3e1898dbbe.com^
 ||52f5a0650e.3ded3c3e5c.com^
 ||5301.lookinews.com^
 ||5305c68a0b.com^
@@ -7652,6 +7823,7 @@
 ||5318.reminews.com^
 ||5320.sifenews.com^
 ||5321.5clo0xmbf.com^
+||5327.jemonews.com^
 ||5328.gofenews.com^
 ||5336.jemonews.com^
 ||5337.loopanews.com^
@@ -7688,6 +7860,7 @@
 ||537d86931e.dfd55780d6.com^
 ||537de1de2c.c69199f27f.com^
 ||537images1.com^
+||5381.lootynews.com^
 ||5381.reminews.com^
 ||5382.5clo0xmbf.com^
 ||5385.reminews.com^
@@ -7711,6 +7884,7 @@
 ||5404.79j68qav2.com^
 ||5405.reminews.com^
 ||5406.reminews.com^
+||5407.jemonews.com^
 ||5408.jemonews.com^
 ||5410.huronews.com^
 ||5410.lookinews.com^
@@ -7729,6 +7903,7 @@
 ||5427.jemonews.com^
 ||5428.reminews.com^
 ||543.lycheenews.com^
+||5430.reminews.com^
 ||5431.79j68qav2.com^
 ||5433.lookinews.com^
 ||5434.deeginews.com^
@@ -7747,10 +7922,13 @@
 ||5452.833enmhob.com^
 ||5454.lookinews.com^
 ||5455.sifenews.com^
+||5456.lookinews.com^
 ||545t470.lookinews.com^
+||5461.guesswhatnews.com^
 ||5461.lycheenews.com^
 ||5461.reminews.com^
 ||5463.lookinews.com^
+||5464.gofenews.com^
 ||5466dee3d9.92888e5ff3.com^
 ||5467.34gwl8v1a.com^
 ||5469.gofenews.com^
@@ -7762,16 +7940,18 @@
 ||5477.5clo0xmbf.com^
 ||5477.jemonews.com^
 ||5477.reminews.com^
+||5481.jemonews.com^
 ||5484.gofenews.com^
+||5485.jemonews.com^
 ||5485.lookinews.com^
 ||5489.deeginews.com^
 ||5489.jemonews.com^
 ||5490.reminews.com^
+||5491.luronews.com^
 ||5493.deeginews.com^
 ||5495.reminews.com^
 ||54a5b53903.2ace95e2ce.com^
 ||54d6a7edfb.218cc08472.com^
-||54dea33c1b.ac35e1ff43.com^
 ||54e4e31106.6e10268cd2.com^
 ||54ee1.reminews.com^
 ||54eeeadb.xyz^
@@ -7787,6 +7967,7 @@
 ||551.lycheenews.com^
 ||5510.jemonews.com^
 ||5515.jemonews.com^
+||5516.jemonews.com^
 ||551ba6c442.com^
 ||5521.sifenews.com^
 ||5523.reminews.com^
@@ -7798,6 +7979,7 @@
 ||5539.jemonews.com^
 ||5539.sifenews.com^
 ||554.luronews.com^
+||5543.jemonews.com^
 ||5545.lookinews.com^
 ||55454ed59d.com^
 ||5546.luronews.com^
@@ -7826,6 +8008,7 @@
 ||5576.deeginews.com^
 ||5576.luronews.com^
 ||55766925.xyz^
+||5577.reminews.com^
 ||5579.huronews.com^
 ||5579.reminews.com^
 ||5580.deeginews.com^
@@ -7882,6 +8065,7 @@
 ||5623.reminews.com^
 ||5624.jemonews.com^
 ||5624.lookinews.com^
+||5624.reminews.com^
 ||5626.reminews.com^
 ||5629.tegronews.com^
 ||562i7aqkxu.com^
@@ -8028,6 +8212,7 @@
 ||583.notify.optimizesrv.com^
 ||5830.lookinews.com^
 ||5831.79j68qav2.com^
+||5831.reminews.com^
 ||5832.jemonews.com^
 ||5833.jemonews.com^
 ||5833.reminews.com^
@@ -8042,6 +8227,7 @@
 ||5847.tegronews.com^
 ||5848.tegronews.com^
 ||5849.5clo0xmbf.com^
+||5849.jemonews.com^
 ||5851.k3718qw08.com^
 ||5851.reminews.com^
 ||5852.lookinews.com^
@@ -8059,6 +8245,7 @@
 ||5874.jemonews.com^
 ||58745.clicknplay.to^
 ||587b0060ba.ca2686564a.com^
+||5882.gofenews.com^
 ||5888.lookinews.com^
 ||5889.5clo0xmbf.com^
 ||589.notify.optimizesrv.com^
@@ -8136,9 +8323,11 @@
 ||5965.reminews.com^
 ||5968.jemonews.com^
 ||597.reminews.com^
+||5970.lookinews.com^
 ||5971.reminews.com^
 ||5971.selornews.com^
 ||5972.5clo0xmbf.com^
+||5976.reminews.com^
 ||59768910.xyz^
 ||597w.reminews.com^
 ||5980.lootynews.com^
@@ -8171,6 +8360,7 @@
 ||5b6dd5fdda.34d5566a50.com^
 ||5b7cb7236e.com^
 ||5b8e4e0eb7.b23010ff32.com^
+||5ba3c13436.6dc2699b37.com^
 ||5bdd71381c.com^
 ||5bf177fbac.938b97e5ba.com^
 ||5bf6d94b92.com^
@@ -8294,6 +8484,7 @@
 ||6040.jemonews.com^
 ||6041.jemonews.com^
 ||6042.reminews.com^
+||6046.gofenews.com^
 ||6046.reminews.com^
 ||6047.luronews.com^
 ||6049.gofenews.com^
@@ -8336,6 +8527,7 @@
 ||6094.luronews.com^
 ||6095.lookinews.com^
 ||6097.reminews.com^
+||6098.lookinews.com^
 ||609999.xyz^
 ||60ce55878b.62c013248b.com^
 ||60jxn4.xyz^
@@ -8348,6 +8540,7 @@
 ||6104.jemonews.com^
 ||6111.jemonews.com^
 ||6111.luronews.com^
+||6113.jemonews.com^
 ||6113.sifenews.com^
 ||6114.gofenews.com^
 ||6114.seponews.com^
@@ -8366,6 +8559,7 @@
 ||6146.notify.optimizesrv.com^
 ||6147.jemonews.com^
 ||6149.5clo0xmbf.com^
+||6149.deeginews.com^
 ||6154.notify.optimizesrv.com^
 ||6158.5clo0xmbf.com^
 ||61598081d6.com^
@@ -8375,6 +8569,7 @@
 ||6166.reminews.com^
 ||6167.5clo0xmbf.com^
 ||6167.gofenews.com^
+||6168.reminews.com^
 ||6170b1649f.25f5d4f39c.com^
 ||6176.5clo0xmbf.com^
 ||6177.reminews.com^
@@ -8396,7 +8591,10 @@
 ||62.deeginews.com^
 ||62.tegronews.com^
 ||6205.5clo0xmbf.com^
+||6206.luronews.com^
+||6206.lycheenews.com^
 ||6207.reminews.com^
+||6209.gofenews.com^
 ||6210.reminews.com^
 ||6211.5clo0xmbf.com^
 ||6212.l5eamr17d.com^
@@ -8404,6 +8602,7 @@
 ||6215.guesswhatnews.com^
 ||6215.tegronews.com^
 ||6217.gofenews.com^
+||6220.lookinews.com^
 ||6221.reminews.com^
 ||6221881285.7378a03ff8.com^
 ||6222.lookinews.com^
@@ -8411,6 +8610,8 @@
 ||6232.5clo0xmbf.com^
 ||6232.tegronews.com^
 ||6238.gofenews.com^
+||6238.rookinews.com^
+||6241.jemonews.com^
 ||6244.jemonews.com^
 ||6244.lookinews.com^
 ||6244.reminews.com^
@@ -8418,9 +8619,12 @@
 ||6248.rookinews.com^
 ||6249.luronews.com^
 ||6252.reminews.com^
+||6254.gofenews.com^
 ||6254.jemonews.com^
 ||6255.jemonews.com^
 ||6259.reminews.com^
+||6261.jemonews.com^
+||6263.gofenews.com^
 ||6270.reminews.com^
 ||6272.reminews.com^
 ||6274.sifenews.com^
@@ -8446,6 +8650,7 @@
 ||62zd0.icu^
 ||63-217-112-145.static.pccwglobal.net.iberostar.com^
 ||63.tegronews.com^
+||6300.lookinews.com^
 ||6300.reminews.com^
 ||6301.deeginews.com^
 ||6301.tegronews.com^
@@ -8455,6 +8660,7 @@
 ||6312.guesswhatnews.com^
 ||6312.reminews.com^
 ||6313.jemonews.com^
+||6314.reminews.com^
 ||6315.jemonews.com^
 ||6317.tegronews.com^
 ||6318.5clo0xmbf.com^
@@ -8512,6 +8718,7 @@
 ||6404.huronews.com^
 ||6405.5clo0xmbf.com^
 ||6405.tegronews.com^
+||6407.luronews.com^
 ||6413.reminews.com^
 ||6414.gofenews.com^
 ||6415.luronews.com^
@@ -8539,9 +8746,11 @@
 ||6459.gofenews.com^
 ||6470.k3718qw08.com^
 ||6471e7f7.xyz^
+||6472.jemonews.com^
 ||6474.guesswhatnews.com^
 ||6477.reminews.com^
 ||6479.luronews.com^
+||6482.luronews.com^
 ||6488.jemonews.com^
 ||649.notify.optimizesrv.com^
 ||6494.5clo0xmbf.com^
@@ -8555,6 +8764,7 @@
 ||6506.jemonews.com^
 ||6507.luronews.com^
 ||6507.selornews.com^
+||6514.lookinews.com^
 ||6514.lootynews.com^
 ||6514.reminews.com^
 ||6515.jemonews.com^
@@ -8603,6 +8813,7 @@
 ||657475b7-0095-478d-90d4-96ce440604f9.online^
 ||6576.gofenews.com^
 ||6577.loopanews.com^
+||6578.jemonews.com^
 ||6579.5clo0xmbf.com^
 ||6579.79j68qav2.com^
 ||6582.luronews.com^
@@ -8617,6 +8828,7 @@
 ||6596.reminews.com^
 ||6597.huronews.com^
 ||6598.5clo0xmbf.com^
+||6599.lycheenews.com^
 ||65a3a55b73.85fef60641.com^
 ||65d9b4a4ad.433bcaa83b.com^
 ||65spy7rgcu.com^
@@ -8641,6 +8853,8 @@
 ||665.notify.optimizesrv.com^
 ||665166e5a9.com^
 ||6651tp.com^
+||6652.reminews.com^
+||6654.luronews.com^
 ||6654.reminews.com^
 ||6657e4f5c2.com^
 ||6659.tegronews.com^
@@ -8661,6 +8875,7 @@
 ||666ppp222ppp.com^
 ||666ppp888ppp.com^
 ||6670.jemonews.com^
+||6671.jemonews.com^
 ||6677648.reddoorz.com^
 ||6679.deeginews.com^
 ||6680.guesswhatnews.com^
@@ -8673,6 +8888,7 @@
 ||6694.reminews.com^
 ||6696.jemonews.com^
 ||6697.jemonews.com^
+||669baa8973.3a434abae1.com^
 ||66a3413a7e.com^
 ||66a5e92d66.com^
 ||66ac068b15.5500a1052e.com^
@@ -8695,6 +8911,7 @@
 ||67267d3de4.c67cfc8b87.com^
 ||6728.lookinews.com^
 ||6740.lycheenews.com^
+||6740.reminews.com^
 ||6743.gofenews.com^
 ||6747.sifenews.com^
 ||674715bc8d.1db10dd33b.com^
@@ -8708,6 +8925,7 @@
 ||6764.reminews.com^
 ||6774.l5eamr17d.com^
 ||6774.reminews.com^
+||6775.lookinews.com^
 ||6775.reminews.com^
 ||6776.gofenews.com^
 ||6777.jemonews.com^
@@ -8736,6 +8954,7 @@
 ||6817.sifenews.com^
 ||6819.reminews.com^
 ||6820tp1.com^
+||6821.selornews.com^
 ||6823.gofenews.com^
 ||6828.5clo0xmbf.com^
 ||68287zubo85737.com^
@@ -8759,6 +8978,7 @@
 ||6855.reminews.com^
 ||6856.reminews.com^
 ||6859.deeginews.com^
+||6861.luronews.com^
 ||6862.reminews.com^
 ||6863fd0afc.com^
 ||68646f.xyz^
@@ -8785,11 +9005,13 @@
 ||68yscw.com^
 ||69-74.net.jumia.sn^
 ||6902.reminews.com^
+||6904.lookinews.com^
 ||6907.lootynews.com^
 ||6907.reminews.com^
 ||6908.luronews.com^
 ||6913.lootynews.com^
 ||6914.jemonews.com^
+||6915.luronews.com^
 ||6917.lycheenews.com^
 ||6919.gofenews.com^
 ||691f42ad.xyz^
@@ -8830,6 +9052,7 @@
 ||6990.seponews.com^
 ||6992.reminews.com^
 ||6997.gofenews.com^
+||6997.lycheenews.com^
 ||6998.deeginews.com^
 ||699bfcf9d9.com^
 ||69b61ba7d6.com^
@@ -8947,11 +9170,13 @@
 ||7044.jemonews.com^
 ||7046.5clo0xmbf.com^
 ||7046.reminews.com^
+||7048.lookinews.com^
 ||7049.rookinews.com^
 ||704g8xh7qfzx.www.intercity.technology^
 ||7050.gofenews.com^
 ||7050.jemonews.com^
 ||7050.reminews.com^
+||7053.reminews.com^
 ||7056.lookinews.com^
 ||7056.reminews.com^
 ||7060.lookinews.com^
@@ -8998,6 +9223,7 @@
 ||7128.reminews.com^
 ||7129.huronews.com^
 ||7130.guesswhatnews.com^
+||7134.jemonews.com^
 ||7135.4puuqeh41.com^
 ||7135.reminews.com^
 ||7137.reminews.com^
@@ -9007,6 +9233,7 @@
 ||7143.lycheenews.com^
 ||7145.loopanews.com^
 ||7145.rookinews.com^
+||7146.gofenews.com^
 ||7146.lookinews.com^
 ||7148.reminews.com^
 ||7150.lookinews.com^
@@ -9027,6 +9254,7 @@
 ||7177.bestinterestings.com^
 ||7177.jemonews.com^
 ||7180.huronews.com^
+||7180.jemonews.com^
 ||7182.lootynews.com^
 ||7183.jemonews.com^
 ||7185.4puuqeh41.com^
@@ -9054,6 +9282,7 @@
 ||7223.lootynews.com^
 ||7223.reminews.com^
 ||7224.reminews.com^
+||7229.reminews.com^
 ||722cba612c.com^
 ||7230.gofenews.com^
 ||7230.reminews.com^
@@ -9062,6 +9291,7 @@
 ||7233.jemonews.com^
 ||7233.reminews.com^
 ||7234.jemonews.com^
+||7234.reminews.com^
 ||72356275.xyz^
 ||7237.jemonews.com^
 ||7237.lootynews.com^
@@ -9103,6 +9333,7 @@
 ||7277.luronews.com^
 ||7278.guesswhatnews.com^
 ||7279.5clo0xmbf.com^
+||7279.luronews.com^
 ||7281.bestinterestings.com^
 ||72818aeb3c.7663a48aa7.com^
 ||7282.jemonews.com^
@@ -9148,6 +9379,7 @@
 ||7349.cosmicnewspulse.com^
 ||73503921.xyz^
 ||7354.gofenews.com^
+||7354.rookinews.com^
 ||7355.sosqboh85.com^
 ||7358003fe2.com^
 ||7359.jemonews.com^
@@ -9170,6 +9402,7 @@
 ||7383.jemonews.com^
 ||7386.luronews.com^
 ||7389.reminews.com^
+||7393.reminews.com^
 ||7397.jemonews.com^
 ||73a70e581b.com^
 ||73fd98f528.897300f105.com^
@@ -9192,6 +9425,8 @@
 ||7429.lookinews.com^
 ||742ba1f9a9.com^
 ||7430.huronews.com^
+||7434.jemonews.com^
+||7434.lootynews.com^
 ||7434.reminews.com^
 ||7435.reminews.com^
 ||7436.reminews.com^
@@ -9206,6 +9441,7 @@
 ||7442.jemonews.com^
 ||7449.lootynews.com^
 ||7450.luronews.com^
+||7452.4puuqeh41.com^
 ||7452c605e9.02ea6adc36.com^
 ||7461.luronews.com^
 ||7462.deeginews.com^
@@ -9213,6 +9449,7 @@
 ||7465.gofenews.com^
 ||7465.tegronews.com^
 ||7466.huronews.com^
+||7466.lootynews.com^
 ||7468.tegronews.com^
 ||7469.selornews.com^
 ||7470.luronews.com^
@@ -9259,11 +9496,13 @@
 ||7542.luronews.com^
 ||754480bd33.com^
 ||7545.reminews.com^
+||7549.luronews.com^
 ||7550.34gwl8v1a.com^
 ||7552.reminews.com^
 ||7553.lootynews.com^
 ||7554.79j68qav2.com^
 ||7555.luronews.com^
+||7555.rookinews.com^
 ||7556.5clo0xmbf.com^
 ||75616927db.6096db9a2b.com^
 ||7562.5clo0xmbf.com^
@@ -9324,6 +9563,7 @@
 ||7662.sifenews.com^
 ||7664.deeginews.com^
 ||7667.jemonews.com^
+||7668d948f1.c7811683cc.com^
 ||7670.reminews.com^
 ||7671.79j68qav2.com^
 ||7671.loopanews.com^
@@ -9332,12 +9572,14 @@
 ||7676.reminews.com^
 ||7678.notify.optimizesrv.com^
 ||7679.reminews.com^
+||7681.luronews.com^
 ||7683.ogrt80r65.com^
 ||7683.reminews.com^
 ||7686.5clo0xmbf.com^
 ||7686.gofenews.com^
 ||7686.reminews.com^
 ||7687.34gwl8v1a.com^
+||7689.huronews.com^
 ||7689.luronews.com^
 ||769.lycheenews.com^
 ||769.notify.optimizesrv.com^
@@ -9360,6 +9602,7 @@
 ||77.ogrt80r65.com^
 ||77.tegronews.com^
 ||770.th2mbxzqe.com^
+||7700.lycheenews.com^
 ||7701534.emails.tntdrama.com^
 ||7703.5clo0xmbf.com^
 ||7707.huronews.com^
@@ -9377,6 +9620,7 @@
 ||7725.lycheenews.com^
 ||7726.34gwl8v1a.com^
 ||7727.jemonews.com^
+||7727.reminews.com^
 ||7729.5clo0xmbf.com^
 ||7729.luronews.com^
 ||773.jemonews.com^
@@ -9387,6 +9631,7 @@
 ||7738.reminews.com^
 ||7741.reminews.com^
 ||7746.jemonews.com^
+||7748.gofenews.com^
 ||7750.deeginews.com^
 ||7750.luronews.com^
 ||7754.reminews.com^
@@ -9455,8 +9700,10 @@
 ||7816.lookinews.com^
 ||7816.luronews.com^
 ||7817.huronews.com^
+||7818.lookinews.com^
 ||7822.5clo0xmbf.com^
 ||7822.jemonews.com^
+||7824.jemonews.com^
 ||7829.gofenews.com^
 ||7830.reminews.com^
 ||7831.gofenews.com^
@@ -9467,6 +9714,10 @@
 ||7839.jemonews.com^
 ||7841ffda.xyz^
 ||7843.tegronews.com^
+||7844.guesswhatnews.com^
+||7845.deeginews.com^
+||7845.luronews.com^
+||7846.jemonews.com^
 ||7848.reminews.com^
 ||7849.4puuqeh41.com^
 ||7849.jemonews.com^
@@ -9481,6 +9732,8 @@
 ||7864.jemonews.com^
 ||7865.deeginews.com^
 ||7865.jemonews.com^
+||7867.luronews.com^
+||7868.loopanews.com^
 ||7868d5c036.com^
 ||7869.sifenews.com^
 ||786yfvedhcbxjk.top^
@@ -9497,6 +9750,7 @@
 ||7893.jemonews.com^
 ||7894.79j68qav2.com^
 ||7894.reminews.com^
+||7895.reminews.com^
 ||7896.gofenews.com^
 ||7896.reminews.com^
 ||7897.jemonews.com^
@@ -9507,6 +9761,7 @@
 ||78ca0e1d37.d592971f36.com^
 ||78rkcgj4i8c6.www.cefirates.com^
 ||79.guesswhatnews.com^
+||7900.reminews.com^
 ||7901.reminews.com^
 ||7904.jemonews.com^
 ||7905.jemonews.com^
@@ -9567,6 +9822,8 @@
 ||798c3f51a3.7339ba1fb8.com^
 ||7992.gofenews.com^
 ||7993.jemonews.com^
+||7994.reminews.com^
+||7995.reminews.com^
 ||7996.jemonews.com^
 ||79a7c6563a.44fc128918.com^
 ||79b7ef984f.2a6d9e5059.com^
@@ -9752,6 +10009,7 @@
 ||8122.lookinews.com^
 ||8124.5clo0xmbf.com^
 ||8126.jemonews.com^
+||8128.lookinews.com^
 ||8129.reminews.com^
 ||8129.sifenews.com^
 ||8131.gofenews.com^
@@ -9762,6 +10020,7 @@
 ||8133.lootynews.com^
 ||8135.lootynews.com^
 ||8137.gofenews.com^
+||8137.jemonews.com^
 ||8140.reminews.com^
 ||8141.lookinews.com^
 ||8141.reminews.com^
@@ -9829,6 +10088,7 @@
 ||8223.reminews.com^
 ||8225.reminews.com^
 ||8226.deeginews.com^
+||8227.luronews.com^
 ||8228.deeginews.com^
 ||8228.reminews.com^
 ||8230.reminews.com^
@@ -9848,7 +10108,9 @@
 ||8244.reminews.com^
 ||8247.jemonews.com^
 ||8252.79j68qav2.com^
+||8255.lookinews.com^
 ||8260.lookinews.com^
+||8262.gofenews.com^
 ||8265.jemonews.com^
 ||8270.luronews.com^
 ||8275.lootynews.com^
@@ -9878,6 +10140,7 @@
 ||8307.lycheenews.com^
 ||8309.luronews.com^
 ||8311.lookinews.com^
+||8316.tegronews.com^
 ||8319.tegronews.com^
 ||831e34ade6.ccaa0e51d8.com^
 ||831xmyp1fr4i.shop^
@@ -9897,8 +10160,10 @@
 ||8344.luronews.com^
 ||8345efe11f.8d742929b8.com^
 ||8347.loopanews.com^
+||8348.jemonews.com^
 ||8349.79j68qav2.com^
 ||8355.833enmhob.com^
+||8355.deeginews.com^
 ||8355.tegronews.com^
 ||8357.lootynews.com^
 ||8357.reminews.com^
@@ -9910,6 +10175,7 @@
 ||8368.deeginews.com^
 ||8368.jemonews.com^
 ||8368.reminews.com^
+||8371.gofenews.com^
 ||8371.jemonews.com^
 ||8371.reminews.com^
 ||8373.lookinews.com^
@@ -9943,7 +10209,6 @@
 ||839be37e6a.fae2ea855a.com^
 ||83a23035d8.5065a954ce.com^
 ||83c6c19972.776173f9e6.com^
-||83ec6eb409.35b889100e.com^
 ||83net.jp^
 ||84.tegronews.com^
 ||8402.5clo0xmbf.com^
@@ -9988,6 +10253,7 @@
 ||845d6bbf60.com^
 ||8461.5clo0xmbf.com^
 ||8461.deeginews.com^
+||8462.reminews.com^
 ||8463.lookinews.com^
 ||8463.reminews.com^
 ||84631949.xyz^
@@ -10007,6 +10273,7 @@
 ||8479.jemonews.com^
 ||847h7f51.de^
 ||8480.5clo0xmbf.com^
+||8480.79j68qav2.com^
 ||8480.lycheenews.com^
 ||8484.reminews.com^
 ||8487.lookinews.com^
@@ -10015,6 +10282,7 @@
 ||8493.gofenews.com^
 ||8493.luronews.com^
 ||8493.reminews.com^
+||8494.gofenews.com^
 ||8495.reminews.com^
 ||8496.luronews.com^
 ||8497.reminews.com^
@@ -10036,6 +10304,7 @@
 ||8506.lookinews.com^
 ||8506.reminews.com^
 ||8507.reminews.com^
+||8507.selornews.com^
 ||8508.jemonews.com^
 ||8511.lycheenews.com^
 ||8511.rookinews.com^
@@ -10050,6 +10319,7 @@
 ||8532.luronews.com^
 ||8532.sifenews.com^
 ||8533.lootynews.com^
+||8533.luronews.com^
 ||8534.gofenews.com^
 ||8538.reminews.com^
 ||8539.jemonews.com^
@@ -10062,6 +10332,7 @@
 ||8544.5clo0xmbf.com^
 ||8544.lootynews.com^
 ||8545.jemonews.com^
+||8546.gofenews.com^
 ||8546.reminews.com^
 ||8549.gofenews.com^
 ||8549.jemonews.com^
@@ -10075,6 +10346,7 @@
 ||8557.reminews.com^
 ||8558.lootynews.com^
 ||8560.jemonews.com^
+||8563.lookinews.com^
 ||8568.reminews.com^
 ||8568392.79j68qav2.com^
 ||8569.jemonews.com^
@@ -10132,12 +10404,15 @@
 ||864.lycheenews.com^
 ||8640.jemonews.com^
 ||8642.34gwl8v1a.com^
+||8643.lookinews.com^
 ||8645.luronews.com^
 ||8647.jemonews.com^
 ||8647.luronews.com^
 ||8647.lycheenews.com^
 ||864feb57ruary.com^
+||8650.reminews.com^
 ||8655.reminews.com^
+||8660.guesswhatnews.com^
 ||8660.jemonews.com^
 ||8660.lootynews.com^
 ||8663.reminews.com^
@@ -10152,6 +10427,7 @@
 ||8691.luronews.com^
 ||8691.tegronews.com^
 ||8692.reminews.com^
+||8693.reminews.com^
 ||8694.reminews.com^
 ||8696.jemonews.com^
 ||8696.lookinews.com^
@@ -10172,6 +10448,7 @@
 ||8715.bestinterestings.com^
 ||8715.rookinews.com^
 ||8716.gofenews.com^
+||8717.guesswhatnews.com^
 ||8719.guesswhatnews.com^
 ||8728.luronews.com^
 ||8728.reminews.com^
@@ -10235,6 +10512,7 @@
 ||8812.lootynews.com^
 ||88129513.xyz^
 ||8818.79j68qav2.com^
+||8818.reminews.com^
 ||8820.luronews.com^
 ||8820.pandasuite.io^
 ||8821.luronews.com^
@@ -10242,12 +10520,14 @@
 ||8826.lookinews.com^
 ||8828.luronews.com^
 ||8828.sifenews.com^
+||883.jemonews.com^
 ||8830.loopanews.com^
 ||8835.gofenews.com^
 ||88362zubo95838.com^
 ||8847.reminews.com^
 ||884de19f2b.com^
 ||8850.5clo0xmbf.com^
+||8851.luronews.com^
 ||8853.jemonews.com^
 ||88545539.xyz^
 ||8858.guesswhatnews.com^
@@ -10276,6 +10556,7 @@
 ||8884.luronews.com^
 ||8884.selornews.com^
 ||8886.reminews.com^
+||8887.deeginews.com^
 ||8889775.com^
 ||888aa111bb.com^
 ||888aa222bb.com^
@@ -10361,6 +10642,8 @@
 ||8992bfef5b.3575e2d4e6.com^
 ||8994.reminews.com^
 ||8995.gofenews.com^
+||8996.reminews.com^
+||8999.jemonews.com^
 ||8999.luronews.com^
 ||89d9c155c8.a8bd627b41.com^
 ||89dfa3575e.com^
@@ -10456,6 +10739,7 @@
 ||9006.luronews.com^
 ||9007.jemonews.com^
 ||9008.lootynews.com^
+||9009.jemonews.com^
 ||901.lycheenews.com^
 ||9010.5clo0xmbf.com^
 ||9010.guesswhatnews.com^
@@ -10474,16 +10758,20 @@
 ||9031.l5eamr17d.com^
 ||9031.sifenews.com^
 ||9034.luronews.com^
+||9039.luronews.com^
 ||9043.luronews.com^
 ||9045.lookinews.com^
 ||9047.deeginews.com^
 ||9048.gofenews.com^
 ||905.notify.optimizesrv.com^
+||9054.luronews.com^
 ||905trk.com^
+||9060.reminews.com^
 ||9062.luronews.com^
 ||9064.jemonews.com^
 ||9065.gofenews.com^
 ||9068.935ft4j96.com^
+||9070.sifenews.com^
 ||9071.79j68qav2.com^
 ||9077.guesswhatnews.com^
 ||9077.jemonews.com^
@@ -10500,11 +10788,14 @@
 ||9089.reminews.com^
 ||909.notify.optimizesrv.com^
 ||9092.reminews.com^
+||9093.reminews.com^
 ||9094.luronews.com^
 ||9094.reminews.com^
+||9095.lookinews.com^
 ||9097.lookinews.com^
 ||9097.luronews.com^
 ||9099.lookinews.com^
+||9099.reminews.com^
 ||90e78be4ad.f250b37f9e.com^
 ||90e7fd481d.com^
 ||91.guesswhatnews.com^
@@ -10545,6 +10836,7 @@
 ||9141.l5eamr17d.com^
 ||9144.reminews.com^
 ||9147.selornews.com^
+||9149.luronews.com^
 ||9149.reminews.com^
 ||9151.deeginews.com^
 ||9156.luronews.com^
@@ -10566,6 +10858,7 @@
 ||9186.gofenews.com^
 ||9188.4puuqeh41.com^
 ||9188.5clo0xmbf.com^
+||9188.selornews.com^
 ||9189.pandasuite.io^
 ||9189.reminews.com^
 ||9190.jemonews.com^
@@ -10595,6 +10888,7 @@
 ||9226.luronews.com^
 ||9227.lookinews.com^
 ||9229.rookinews.com^
+||923.jemonews.com^
 ||9230.luronews.com^
 ||9232.5clo0xmbf.com^
 ||9233.gofenews.com^
@@ -10603,6 +10897,7 @@
 ||9243.lycheenews.com^
 ||9244.lookinews.com^
 ||9248.jemonews.com^
+||9248.reminews.com^
 ||925.lt^
 ||925.notify.optimizesrv.com^
 ||9252.lookinews.com^
@@ -10614,6 +10909,7 @@
 ||9260.reminews.com^
 ||9262.gofenews.com^
 ||9266.gofenews.com^
+||9268.jemonews.com^
 ||9271.jemonews.com^
 ||9272.tegronews.com^
 ||9273.tegronews.com^
@@ -10659,11 +10955,14 @@
 ||9343.jemonews.com^
 ||9343.luronews.com^
 ||9346.huronews.com^
+||9346.jemonews.com^
 ||934tgg.sosqboh85.com^
+||9351.rookinews.com^
 ||9354ee72.xyz^
 ||935ft4j96.com^
 ||9361.jemonews.com^
 ||9363.rookinews.com^
+||9365.deeginews.com^
 ||9367.jemonews.com^
 ||9369.lookinews.com^
 ||93692zubo66936.com^
@@ -10689,6 +10988,7 @@
 ||9409.deeginews.com^
 ||941.jemonews.com^
 ||9410.loopanews.com^
+||9416.reminews.com^
 ||9418b95070.845d6bbf60.com^
 ||9420.lootynews.com^
 ||9424.reminews.com^
@@ -10726,6 +11026,7 @@
 ||9493.tegronews.com^
 ||9494.reminews.com^
 ||9496.selornews.com^
+||9499.lookinews.com^
 ||9499.tegronews.com^
 ||94a8ef8029.544c1a86a1.com^
 ||94cdn.com^
@@ -10738,8 +11039,10 @@
 ||9507.lookinews.com^
 ||9507.sifenews.com^
 ||9509.5clo0xmbf.com^
+||9509.reminews.com^
 ||9510.luronews.com^
 ||9513.gofenews.com^
+||9516.jemonews.com^
 ||9520.luronews.com^
 ||9521.34gwl8v1a.com^
 ||9524.jemonews.com^
@@ -10747,6 +11050,7 @@
 ||9525.deeginews.com^
 ||9530.jemonews.com^
 ||9540.lookinews.com^
+||9543.reminews.com^
 ||9544702.kazooby.com^
 ||9546.5clo0xmbf.com^
 ||9546.jemonews.com^
@@ -10767,6 +11071,7 @@
 ||9584.5clo0xmbf.com^
 ||9591.5clo0xmbf.com^
 ||9592.gofenews.com^
+||9595.deeginews.com^
 ||9595.jemonews.com^
 ||9596.jemonews.com^
 ||95b1e00252.com^
@@ -10836,6 +11141,7 @@
 ||9704.5clo0xmbf.com^
 ||9706.reminews.com^
 ||9707.reminews.com^
+||9707f751b9.56b1db5afb.com^
 ||9708.deeginews.com^
 ||970824fa47.com^
 ||9715.gofenews.com^
@@ -10856,6 +11162,7 @@
 ||9739.luronews.com^
 ||9741.luronews.com^
 ||9742f9bb9f.91c8522b7b.com^
+||9743.guesswhatnews.com^
 ||9743.loopanews.com^
 ||9745.lootynews.com^
 ||9746.79j68qav2.com^
@@ -10867,6 +11174,7 @@
 ||9756.jemonews.com^
 ||9762.rookinews.com^
 ||9765.reminews.com^
+||9771.lookinews.com^
 ||9772.lookinews.com^
 ||9772.tsmt5revp.com^
 ||9774.reminews.com^
@@ -10879,6 +11187,7 @@
 ||9784.5clo0xmbf.com^
 ||9785.jemonews.com^
 ||9786.pandasuite.io^
+||9790.jemonews.com^
 ||9798.lootynews.com^
 ||97b448.xyz^
 ||97e7f92376.com^
@@ -10902,6 +11211,7 @@
 ||9825.reminews.com^
 ||9826.gofenews.com^
 ||9826.sifenews.com^
+||9827.jemonews.com^
 ||9827.reminews.com^
 ||9829.gofenews.com^
 ||9830.k45z7tagm.com^
@@ -10921,11 +11231,14 @@
 ||9849.luronews.com^
 ||9853.gofenews.com^
 ||9853.luronews.com^
+||9854.reminews.com^
+||9855.sifenews.com^
 ||9857064.hello.spriggy.com.au^
 ||9857064.notice.spriggy.com.au^
 ||9858.reminews.com^
 ||9859.guesswhatnews.com^
 ||9862.lootynews.com^
+||9864.luronews.com^
 ||9867.luronews.com^
 ||9869.tegronews.com^
 ||9870.reminews.com^
@@ -10944,6 +11257,7 @@
 ||9895.l5eamr17d.com^
 ||9895.reminews.com^
 ||9895.tegronews.com^
+||9897.luronews.com^
 ||9898.lookinews.com^
 ||98ad3707e5.1fb9ef7e8a.com^
 ||98wjse.top^
@@ -10959,6 +11273,7 @@
 ||9923.luronews.com^
 ||9925.sosqboh85.com^
 ||9926.gofenews.com^
+||9926.rookinews.com^
 ||9927.guesswhatnews.com^
 ||993.notify.optimizesrv.com^
 ||9930.sifenews.com^
@@ -11150,6 +11465,7 @@
 ||a.alony.site^
 ||a.alzcombocare.com^
 ||a.amw.com^
+||a.amylo.site^
 ||a.antiadxxxspy.com^
 ||a.appbaqend.com^
 ||a.armystar.com^
@@ -11268,6 +11584,7 @@
 ||a.groox.xyz^
 ||a.gumanews.com^
 ||a.gumon.site^
+||a.gupload.xyz^
 ||a.guzhilin.com^
 ||a.gylor.xyz^
 ||a.hbf23.cn^
@@ -13848,7 +14165,9 @@
 ||a700fb9c8d.com^
 ||a717b6d31e.com^
 ||a776647af1.4b526a61a7.com^
+||a77e9cff2b.25c487db78.com^
 ||a788d8a3de.7411603f57.com^
+||a78e8782bd.0d0c3ccf54.com^
 ||a7a2789124.com^
 ||a7c.icu^
 ||a7dfd3c64a.84f101d1bb.com^
@@ -17504,6 +17823,7 @@
 ||ads-collector.luizalabs.com^
 ||ads-config-engine-noneu.truecaller.com^
 ||ads-connect.com^
+||ads-console.recon.com^
 ||ads-d.viber.com^
 ||ads-delivery.b-cdn.net^
 ||ads-delivery.gameforge.com^
@@ -18718,7 +19038,6 @@
 ||aeeg5idiuenbi7erger.com^
 ||aeelookithdifyf.com^
 ||aeewjq.dr-vegefru.com^
-||aef771f8e3.c83cf15c4f.com^
 ||aeffe3nhrua5hua.com^
 ||aegagrilariats.top^
 ||aegis.qq.com^
@@ -19373,11 +19692,7 @@
 ||ajqaqk.unoliving.com^
 ||ajrkm1.com^
 ||ajrkm3.com^
-||ajs.allnestinfinite.com^
-||ajs.bowintelligence.com^
-||ajs.laketrend.com^
 ||ajs.selecttopoff.com^
-||ajs.statelinear.com^
 ||ajscdn.com^
 ||ajsyxphfpr.com^
 ||ajtxoo.academiaassai.com.br^
@@ -23026,6 +23341,7 @@
 ||asg.aphex.me^
 ||asg.bhabhiporn.pro^
 ||asg.dormtapes.com^
+||asg.earn150.com^
 ||asg.faperoni.com^
 ||asg.hornygrail.com^
 ||asg.irontube.net^
@@ -23047,6 +23363,7 @@
 ||asg.srvtax.com^
 ||asg.titdumps.com^
 ||asg.zzipps.com^
+||asg1.hostadsmarkets.com^
 ||asg1.hostsolutinns.com^
 ||asg1.xueserverhost.com^
 ||asg2.hostsolutinns.com^
@@ -24374,6 +24691,7 @@
 ||ba.journaldesfemmes.com^
 ||ba0bf98c.xyz^
 ||ba31f372b1.6d0ce9a973.com^
+||ba3b545f57.43541f6026.com^
 ||ba3f423e4f.4111ae9ec0.com^
 ||ba46b70722.com^
 ||ba8bed274a.0daa70aafd.com^
@@ -25177,6 +25495,7 @@
 ||beautifullyinflux.com^
 ||beauty1.xyz^
 ||beaver.bluebunnypaper.com^
+||beaver.brush.ninja^
 ||beaver.ecosecretariat.org^
 ||beaver.livechatlabs.com^
 ||beavertron.com^
@@ -25224,7 +25543,6 @@
 ||bee.andreawhitmer.com^
 ||bee.farmaciavdg.com^
 ||bee.jbkmobiledj.com^
-||bee.nfte.app^
 ||bee.shelveholidays.co.uk^
 ||bee.tc.easebar.com^
 ||beechbogseventy.com^
@@ -25496,6 +25814,7 @@
 ||bestofmoneysurvey.top^
 ||bestonlinecasino.club^
 ||bestowgradepunch.com^
+||bestpornaction.com^
 ||bestprizerhere.life^
 ||bestpush.pconline.com.cn^
 ||bestreceived.com^
@@ -26374,6 +26693,7 @@
 ||bonosbevvy.com^
 ||bontent.powvideo.net^
 ||bonus-app.net^
+||bonus.lookinews.com^
 ||bonus.tegronews.com^
 ||bonusmaniac.com^
 ||bonusshatter.com^
@@ -27200,6 +27520,7 @@
 ||bujerdaz.com^
 ||bujlmitd.icu^
 ||bukshiunchair.shop^
+||bukusukses.com^
 ||bukzvsflpo.com^
 ||bulbofficial.com^
 ||bulbousloth.shop^
@@ -27455,7 +27776,6 @@
 ||bxvlyrw.com^
 ||bxxibvjt.com^
 ||by.addrecipes.com^
-||by.adxt.com^
 ||by.dyq.cn^
 ||by.mywd.com^
 ||by218us.cdndm5.com/25^
@@ -27661,6 +27981,7 @@
 ||c4cm.actonservice.com^
 ||c4contexture.actonservice.com^
 ||c4dv.copinesdevoyage.com^
+||c4n.anonimayzer.site^
 ||c4n.arcjav.com^
 ||c4n.asianpinay.com^
 ||c4n.hotjavmovies.com^
@@ -27696,6 +28017,7 @@
 ||c76d1a1b.live^
 ||c783.fastcompany.com^
 ||c7c9cb797a.1f6bf6f5a3.com^
+||c7f7769b15.f10f9df901.com^
 ||c7vw6cxy7.com^
 ||c8.net.ua^
 ||c81.ipanocloud.com^
@@ -28444,6 +28766,7 @@
 ||cdn.ad.page^
 ||cdn.ad.xiaomi.com^
 ||cdn.addscliv.com^
+||cdn.addsnsfw.com^
 ||cdn.adevbom.com^
 ||cdn.adevppl.com^
 ||cdn.adk2.com^
@@ -29411,6 +29734,7 @@
 ||cigarette-online.com^
 ||cigaretteintervals.com^
 ||cigarettenotablymaker.com^
+||cigfhaztaqu.com^
 ||cihac.ubmmexico.com^
 ||ciimar.icu^
 ||ciizxsdr.com^
@@ -29663,6 +29987,7 @@
 ||click-eu-v4.jundclikrmdi.com^
 ||click-eu-v4.junmediadclikrmdi.com^
 ||click-eu-v4.junmediadirect1.com^
+||click-eu-v4.mainexdircllk.com^
 ||click-eu.cldirplarimo.com^
 ||click-eu.directrankcl.com^
 ||click-eu.jundclikrmdi.com^
@@ -29704,6 +30029,7 @@
 ||click-v4.junexclkmid.com^
 ||click-v4.junmediadclikrmdi.com^
 ||click-v4.junmediadirect1.com^
+||click-v4.mainexdircllk.com^
 ||click-v4.plarimoexocli.com^
 ||click.aabacosmallbusiness.com^
 ||click.aaptiv.com^
@@ -29768,6 +30094,7 @@
 ||click.mail.carousell.com^
 ||click.mail.thecarousell.com^
 ||click.mail.theknot.com^
+||click.mainexdircllk.com^
 ||click.marketing.carousell.com^
 ||click.moselo.com^
 ||click.nudevista.com^
@@ -30674,6 +31001,7 @@
 ||communicate.lightningprotection.com^
 ||communicate.prnewswire.co.uk^
 ||communicate.prnewswire.com^
+||communicatedsuitcompartment.com^
 ||communicatelp.keysight.com^
 ||communicatie.vub.be^
 ||communication.adpinfo.com^
@@ -31099,6 +31427,7 @@
 ||consmo.net^
 ||consolationgratitudeunwise.com^
 ||console-telemetry.oci.oraclecloud.com^
+||console.ad.logic.viasat.io^
 ||console.adbility-media.com^
 ||console.adspmg.com^
 ||console.aqua-adserver.com^
@@ -31422,6 +31751,7 @@
 ||coollyadmissibleclack.com^
 ||coolnesswagplead.com^
 ||cooloffer.cfd^
+||coolpornaction.com^
 ||coolpornvids.com^
 ||coolserving.com^
 ||coolstreamsearch.com^
@@ -32513,6 +32843,7 @@
 ||cv1.start-eo.jp^
 ||cv1.stefany.co.jp^
 ||cv7.icu^
+||cvaetfspprbnt.com^
 ||cvastico.com^
 ||cvbjctqs.xyz^
 ||cvdfvdfv90.fun^
@@ -35554,6 +35885,7 @@
 ||df48924623.4e16b2e294.com^
 ||df63c9d77a.2619374464.com^
 ||df80k0z3fi8zg.cloudfront.net^
+||df85f70078.ad4905c1db.com^
 ||df86fe80e6.com^
 ||df888.eastday.com^
 ||dfan4.icu^
@@ -36648,6 +36980,7 @@
 ||doajauhopi.xyz^
 ||doaltariaer.com^
 ||doanaiwa.com^
+||doanaudabu.net^
 ||doapovauma.net^
 ||doappcloud.com^
 ||doastaib.xyz^
@@ -36770,7 +37103,6 @@
 ||donkey.guggenbichler.co.at^
 ||donkey.hackoregon.org^
 ||donkey.jackellis.me^
-||donkey.masteringfinland.com^
 ||donkey.mrfrisby.com^
 ||donkstar1.online^
 ||donkstar2.online^
@@ -37231,6 +37563,7 @@
 ||dsoodbye.xyz^
 ||dsoxgdjv.icu^
 ||dsoxjxin5jji.controlconceptsusa.com^
+||dsp-api.xaprio.com^
 ||dsp-x.jd.com^
 ||dsp.adcountymedia.com^
 ||dsp.ali213.net^
@@ -37660,6 +37993,7 @@
 ||e19533834e.com^
 ||e1cc78a266.f356998def.com^
 ||e1cea7c952.4ffecd1ee4.com^
+||e1d0eb5d50.da52d550a0.com^
 ||e1d56c0a5f.com^
 ||e1e.io^
 ||e1e7608274.00f8c4bb25.com^
@@ -37667,6 +38001,7 @@
 ||e1zin.icu^
 ||e2.resources.foxtel.com.au^
 ||e20d8e38992b.o3n.io^
+||e2154c9ee1.87eb0a33a9.com^
 ||e220.dailyfreeman.com^
 ||e246.pandasuite.io^
 ||e25a8247b5.357dbd24e2.com^
@@ -37674,6 +38009,7 @@
 ||e275260174.05ae41c3fc.com^
 ||e2a85b803d.da3432b97e.com^
 ||e2bec62b64.com^
+||e2c5d0bd2b.ee3f8f44cf.com^
 ||e2e.mashable.com^
 ||e2e7aaca07.e8a8e57eb3.com^
 ||e2ertt.com^
@@ -37682,6 +38018,7 @@
 ||e37768b532.6117ff78fc.com^
 ||e3b00aa283.973652004b.com^
 ||e3b36d8f06.69de27b955.com^
+||e3d6492cf2.5e49fd4c08.com^
 ||e403.pandasuite.io^
 ||e437040a9a.com^
 ||e459.kcci.com^
@@ -38075,6 +38412,7 @@
 ||ec.thredup.com^
 ||ec.walkme.com^
 ||ec2-44-233-143-239.us-west-2.compute.amazonaws.com^
+||ec2a251e2d.085454ad87.com^
 ||ec44.site^
 ||ec49775bc5.com^
 ||ec630ff7d3.7bd9a61155.com^
@@ -40765,6 +41103,7 @@
 ||f794d2f9d9.com^
 ||f7a632d4ef.50f0ac5daf.com^
 ||f7ae2f1035.2defeeb8b2.com^
+||f7d6418016.918284e85c.com^
 ||f7ds.liberation.fr^
 ||f7fe0.cyou^
 ||f7j.icu^
@@ -41531,6 +41870,7 @@
 ||filter.adxpoint.com^
 ||filter.adzreach.com^
 ||filter.afront.io^
+||filter.appmonsta.ai^
 ||filter.audiencedevelopers.com^
 ||filter.babanetwork.net^
 ||filter.bcnmonetize.com^
@@ -43478,6 +43818,7 @@
 ||geo.xcel.io^
 ||geo.yahoo.com^
 ||geoaddicted.net^
+||geoadserver.com^
 ||geobanner.adultfriendfinder.com^
 ||geobanner.alt.com^
 ||geobanner.hornywife.com^
@@ -45910,6 +46251,7 @@
 ||h5.analytics.126.net^
 ||h5.guesswhatnews.com^
 ||h5.isnssdk.com^
+||h5.tegronews.com^
 ||h516.thereporteronline.com^
 ||h52ek3i.de^
 ||h559.stamfordadvocate.com^
@@ -45927,6 +46269,7 @@
 ||h7.tegronews.com^
 ||h74v6kerf.com^
 ||h8.guesswhatnews.com^
+||h8.lookinews.com^
 ||h8.tegronews.com^
 ||h827r1qbhk12pt.click^
 ||h8brccv4zf5h.com^
@@ -47196,11 +47539,14 @@
 ||hosupshunk.com^
 ||hot-dating-here.life^
 ||hot4k.org^
+||hotadultcontent.com^
+||hotadultvids.com^
 ||hotapi-va.isnssdk.com^
 ||hotbedssmarmy.digital^
 ||hotbonus.loopanews.com^
 ||hotboys.biz^
 ||hotbqzlchps.com^
+||hotbraraja.cc^
 ||hotcontent.tsmt5revp.com^
 ||hotcontentnew.tsmt5revp.com^
 ||hotdeskbabes.pro^
@@ -47215,6 +47561,7 @@
 ||hotnews1.me^
 ||hotngay.vn^
 ||hotodoar.net^
+||hotpornaction.com^
 ||hotpornpro.com^
 ||hotrank.com.tw^
 ||hotspot.aomg5bzv7.com^
@@ -47228,6 +47575,7 @@
 ||hotvideos4726.34gwl8v1a.com^
 ||hotvideos4729.34gwl8v1a.com^
 ||hotwords.com^
+||hotxxxcontent.com^
 ||houbliu.top^
 ||houdodoo.net^
 ||houfopsichoa.com^
@@ -47330,6 +47678,7 @@
 ||hqjuww.kolesa-darom.ru^
 ||hqmetrics.sony.com^
 ||hqpass.com^
+||hqpornpro.com^
 ||hqq.tv/js/betterj/ban^
 ||hqscene.com^
 ||hqsexpro.com^
@@ -47896,6 +48245,7 @@
 ||icmakp.united-arrows.tw^
 ||icn.brandnewapp.pro^
 ||ico.re^
+||icokamio.top^
 ||icoktb.onygo.com^
 ||iconatrocity.com^
 ||iconcardinal.com^
@@ -48169,10 +48519,7 @@
 ||ijmxco.xyz^
 ||ijobloemotherofh.com^
 ||ijogkae.churchserviceplanner.co.uk^
-||ijs.allnestinfinite.com^
-||ijs.bowlinear.com^
 ||ijs.selecttopoff.com^
-||ijs.statelinear.com^
 ||ijtlu.tech^
 ||ijwkdmzru.com^
 ||ik8uf01fm7neloo9.edge41.testandtarget.omniture.com^
@@ -51608,6 +51955,7 @@
 ||jobfilletfortitude.com^
 ||jobfukectivetr.com^
 ||joblouder.com^
+||jobs.educationweekjobs.co.uk^
 ||jobs.smpgn.co^
 ||jobsonationsing.com^
 ||jobsyndicate.com^
@@ -53821,6 +54169,7 @@
 ||lenopoteretol.com^
 ||lenpmh.francoisesaget.com^
 ||lenta.sparrow.ru^
+||lentaopz.xyz^
 ||lentculturalstudied.com^
 ||lenthyblent.com^
 ||lentmatchwith.info^
@@ -62471,6 +62820,7 @@
 ||my.pannar.com^
 ||my.pixelmuse.store^
 ||my.powur.com^
+||my.quantumcanvas.store^
 ||my.showin.gs^
 ||my.shymilftube.com^
 ||my.toruftuiov.com^
@@ -62765,6 +63115,7 @@
 ||namrinfo.motorolasolutions.com^
 ||nan0cns.com^
 ||nan46ysangt28eec.com^
+||nanakotrilith.com^
 ||nanalytics.virginaustralia.com^
 ||nanborderrocket.com^
 ||nancontrast.com^
@@ -63836,6 +64187,7 @@
 ||now.m5net.com^
 ||now.myfashionevents.com^
 ||now.peek-cloppenburg.de^
+||now.plsgotoasg.com^
 ||now.tana.fi^
 ||now.wealthmanagement.com^
 ||nowaaint.xyz^
@@ -64780,6 +65132,7 @@
 ||ojzghaawlf.com^
 ||ok.fapnow.xxx^
 ||ok.forwank.com^
+||ok.transhero.com^
 ||ok5.fun^
 ||ok8867s.com^
 ||ok88okg.infinityscans.net^
@@ -65392,6 +65745,7 @@
 ||oonsouque.com^
 ||oopatet.com^
 ||oophaiwhemt.net^
+||oopheecahough.net^
 ||oophengeey.com^
 ||oophijassaudral.xyz^
 ||oophoame.xyz^
@@ -68405,6 +68759,7 @@
 ||pointespassage.com^
 ||pointinginexperiencedbodyguard.com^
 ||pointlessmorselgemini.com^
+||pointlessplan.pro^
 ||pointroll.com^
 ||poisegel.com^
 ||poisism.com^
@@ -68825,6 +69180,7 @@
 ||prassas.openapp.link^
 ||prasserie.openapp.link^
 ||praterswhally.com^
+||prawn.inchperfect.com^
 ||prawn.lionsmouth.digital^
 ||prawnrespiratorgrim.com^
 ||prayercertificatecompletion.com^
@@ -72498,6 +72854,7 @@
 ||rhksxx.nencinisport.it^
 ||rhlctb.jjkeller.com^
 ||rhndvagz.icu^
+||rhntyrbkj.lookinews.com^
 ||rhombicsomeday.com^
 ||rhombicswotted.shop^
 ||rhouseoyopers.info^
@@ -73114,6 +73471,8 @@
 ||rtb-eu-v4.clickmi.net^
 ||rtb-eu-v4.cpmme.com^
 ||rtb-eu-v4.ezmob.com^
+||rtb-eu-v4.oppa.media^
+||rtb-eu-v4.prertbdir.com^
 ||rtb-eu-v4.pteamrtbdir.com^
 ||rtb-eu-v4.ras-trk.com^
 ||rtb-eu-v4.revbid.net^
@@ -73123,6 +73482,7 @@
 ||rtb-eu-v4.trackifyy.com^
 ||rtb-eu-v4.tri.media^
 ||rtb-eu-v4.voisetech.com^
+||rtb-eu.adbidglobal.com^
 ||rtb-eu.adcannyads.com^
 ||rtb-eu.adjux.com^
 ||rtb-eu.admeridianopenrtb.com^
@@ -73135,6 +73495,7 @@
 ||rtb-eu.blueparrot.media^
 ||rtb-eu.boffoadsapi.com^
 ||rtb-eu.brightmountainads.com^
+||rtb-eu.clickmi.net^
 ||rtb-eu.cpmme.com^
 ||rtb-eu.crowdegic.com^
 ||rtb-eu.ezmob.com^
@@ -73147,6 +73508,7 @@
 ||rtb-eu.milkywase.com^
 ||rtb-eu.mobipromote.com^
 ||rtb-eu.motionspots.com^
+||rtb-eu.prertbdir.com^
 ||rtb-eu.pressize.com^
 ||rtb-eu.pureadsltd.com^
 ||rtb-eu.push-sense.com^
@@ -73155,6 +73517,8 @@
 ||rtb-eu.rtbflairads.com^
 ||rtb-eu.saroadexchange.com^
 ||rtb-eu.servvidisplay.com^
+||rtb-eu.trackifyy.com^
+||rtb-eu.tri.media^
 ||rtb-eu.voisetech.com^
 ||rtb-eu.wxadserve.xyz^
 ||rtb-eu.zaimads.com^
@@ -73180,7 +73544,9 @@
 ||rtb-useast-v4.mobipromote.com^
 ||rtb-useast-v4.nebulaads.com^
 ||rtb-useast-v4.nexrtb.com^
+||rtb-useast-v4.prertbdir.com^
 ||rtb-useast-v4.pronivydigital.com^
+||rtb-useast-v4.pteamrtbdir.com^
 ||rtb-useast-v4.pubsfusion.com^
 ||rtb-useast-v4.ras-trk.com^
 ||rtb-useast-v4.revbid.net^
@@ -73231,6 +73597,7 @@
 ||rtb-useast.mybiddertop.xyz^
 ||rtb-useast.nativeadshb.com^
 ||rtb-useast.pareto21.com^
+||rtb-useast.prertbdir.com^
 ||rtb-useast.pressize.com^
 ||rtb-useast.pronivydigital.com^
 ||rtb-useast.pureadsltd.com^
@@ -73255,6 +73622,7 @@
 ||rtb-uswest-v4.clickmi.net^
 ||rtb-uswest-v4.ezmob.com^
 ||rtb-uswest-v4.infinityexplorers.com^
+||rtb-uswest-v4.prertbdir.com^
 ||rtb-uswest-v4.revbid.net^
 ||rtb-uswest-v4.voisetech.com^
 ||rtb-uswest.ad-maven.com^
@@ -73278,6 +73646,7 @@
 ||rtb-uswest.mobipromote.com^
 ||rtb-uswest.nativeadshb.com^
 ||rtb-uswest.omnijay.com^
+||rtb-uswest.prertbdir.com^
 ||rtb-uswest.pressize.com^
 ||rtb-uswest.pronivydigital.com^
 ||rtb-uswest.rtbflairads.com^
@@ -73704,12 +74073,14 @@
 ||s.ds3jbr.com^
 ||s.ds6ulg.com^
 ||s.ds7eji.com^
+||s.ds8wql.com^
 ||s.durhamregion.com^
 ||s.eaalink.com^
 ||s.elink2b.com^
 ||s.elink2c.com^
 ||s.elink3w.com^
 ||s.elink3x.com^
+||s.eln14e.com^
 ||s.elna1v.com^
 ||s.elna1w.com^
 ||s.elna1x.com^
@@ -73738,6 +74109,7 @@
 ||s.elnn24.com^
 ||s.elnn26.com^
 ||s.elnp11.com^
+||s.elnp12.com^
 ||s.elnr14.com^
 ||s.elnr15.com^
 ||s.elnr16.com^
@@ -73760,6 +74132,7 @@
 ||s.flamboroughreview.com^
 ||s.fraservotes.com^
 ||s.freelanceratecalculator.com^
+||s.freeonlinegayporn.com^
 ||s.freeporncave.com^
 ||s.frida.vse42.ru^
 ||s.gdt.qq.com^
@@ -73839,7 +74212,6 @@
 ||s.pie.org^
 ||s.pixsrvcs.com^
 ||s.playa.to^
-||s.porndub.us^
 ||s.pornoshub.site^
 ||s.pornworld.pro^
 ||s.q88z1s3.com^
@@ -82918,6 +83290,7 @@
 ||static-rtb.sedodna.com^
 ||static-rtb.vespymedia.com^
 ||static-rtb2.adpix.online^
+||static-rtb2.advantagedsp.com^
 ||static-rtb2.affinity.net^
 ||static-rtb2.afkwa.com^
 ||static-rtb2.africonverse.com^
@@ -82947,6 +83320,7 @@
 ||static.adconnect.vn^
 ||static.additionaldisplay.com^
 ||static.adjux.com^
+||static.adkriv.media^
 ||static.adlive.io^
 ||static.admeridianads.com^
 ||static.admidainsight.com^
@@ -83000,7 +83374,6 @@
 ||static.felixads.com^
 ||static.fengkongcloud.com^
 ||static.flairadscpc.com^
-||static.fstsrv1.com^
 ||static.fstsrv10.com^
 ||static.fstsrv11.com^
 ||static.fstsrv13.com^
@@ -83010,9 +83383,7 @@
 ||static.fstsrv17.com^
 ||static.fstsrv18.com^
 ||static.fstsrv19.com^
-||static.fstsrv2.com^
 ||static.fstsrv21.com^
-||static.fstsrv3.com^
 ||static.fstsrv4.com^
 ||static.fstsrv5.com^
 ||static.fstsrv8.com^
@@ -84114,6 +84485,7 @@
 ||staukaul.com^
 ||staumersleep.com^
 ||staupsadraim.xyz^
+||staupsoaksy.net^
 ||staureez.net^
 ||stawhoph.com^
 ||stay.lottehotel.com^
@@ -84369,6 +84741,7 @@
 ||store-api.mumuglobal.com^
 ||store.echovisuals.com^
 ||store.esquirrel.at^
+||store4porn.com^
 ||storea8tracking.alc.co.jp^
 ||storeconfig.mistat.intl.xiaomi.com^
 ||storedhaulms.com^
@@ -84628,6 +85001,7 @@
 ||styusib.top^
 ||su.aomg5bzv7.com^
 ||su1.les-suites.ca^
+||su4.guesswhatnews.com^
 ||su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me^
 ||suantlyleeched.shop^
 ||sub.booksdream-mypage.com^
@@ -87444,6 +87818,7 @@
 ||throwsceases.com^
 ||thrtle.com^
 ||thruksyq.com^
+||thrumulr.com^
 ||thruport.com^
 ||thrustlumpypulse.com^
 ||thruudrad.com^
@@ -88213,6 +88588,7 @@
 ||topsafelist.net^
 ||topsearcher.com^
 ||topsecurity2024.com^
+||topsexmovs.com^
 ||topsir.com^
 ||topsite.lv^
 ||topsites.com.br^
@@ -88412,6 +88788,7 @@
 ||tq-eu.clouback-4.online^
 ||tq-eu.donkstar2.online^
 ||tq-eu.lensgard-2.online^
+||tq-eu.lensgard-3.online^
 ||tq-eu.minsonbar2.online^
 ||tq-eu.mpds-smart1.online^
 ||tq-eu.mpds-smart2.online^
@@ -88435,6 +88812,7 @@
 ||tq.clouback-4.online^
 ||tq.ldnpointer.online^
 ||tq.lensgard-2.online^
+||tq.lensgard-3.online^
 ||tq.minsonbar2.online^
 ||tq.mpds-smart1.online^
 ||tq.mpds-smart2.online^
@@ -93132,6 +93510,7 @@
 ||url2031.lemonaidhealth.com^
 ||url2556.matthewherman.tantawy.app^
 ||url259.artcollection.io^
+||url25fatm.com^
 ||url2987.affirm.com^
 ||url3009.onbunches.com^
 ||url3630.newsletter.experience-muse.com^
@@ -93488,14 +93867,11 @@
 ||v1-be-pack.pglstatp-toutiao.com^
 ||v1-fe-pack.pglstatp-toutiao.com^
 ||v1.19purify.com^
-||v1.allnestinfinite.com^
-||v1.bowintelligence.com^
 ||v1.cnzz.com^
 ||v1.guesswhatnews.com^
 ||v1.kwpewga.cn^
 ||v1.phb123.com^
 ||v1.sellbuy.click^
-||v1.statelinear.com^
 ||v1.taksh.cn^
 ||v1.wphonelife.com^
 ||v10-win.vortex.data.microsoft.com.akadns.net^
@@ -94030,6 +94406,7 @@
 ||video-streaming.ezoic.com^
 ||video.adsninja.ca^
 ||video.bzfd.it^
+||video.cdnako.com^
 ||video.dispatch.tc.qq.com^
 ||video.funnelbox.com^
 ||video.mpush.qq.com^
@@ -94694,6 +95071,7 @@
 ||vulnerablebreakerstrong.com^
 ||vulnerablepeevestendon.com^
 ||vulsubsaugrourg.net^
+||vulture.bettershore.com^
 ||vulture.lagosdesaliencia.com^
 ||vungle.com^
 ||vuohztiwpwqd.com^
@@ -96851,6 +97229,7 @@
 ||www-sadobe.anabuki-community.com^
 ||www-sadobe.anabuki.co.jp^
 ||www-smt.daiichisankyo-hc.co.jp^
+||www.01045395.xyz^
 ||www.0420.loopanews.com^
 ||www.0433.lookinews.com^
 ||www.0490.reminews.com^
@@ -96858,6 +97237,7 @@
 ||www.0614.huronews.com^
 ||www.0740.reminews.com^
 ||www.07421283.xyz^
+||www.08f8f073.xyz^
 ||www.0918.gofenews.com^
 ||www.0s09t235s.com^
 ||www.1-cl0ud.com^
@@ -96870,8 +97250,9 @@
 ||www.1564.gofenews.com^
 ||www.1577.gofenews.com^
 ||www.1644.lookinews.com^
-||www.1647.rookinews.com^
+||www.16972675.xyz^
 ||www.1762.lookinews.com^
+||www.19009143.xyz^
 ||www.1936.lookinews.com^
 ||www.1957.reminews.com^
 ||www.19706903.xyz^
@@ -96891,7 +97272,6 @@
 ||www.2431.lookinews.com^
 ||www.2442.reminews.com^
 ||www.2445.jemonews.com^
-||www.2479.lookinews.com^
 ||www.2500.luronews.com^
 ||www.2644.lookinews.com^
 ||www.2695.sifenews.com^
@@ -96904,39 +97284,38 @@
 ||www.2903.luronews.com^
 ||www.2979.loopanews.com^
 ||www.3154.selornews.com^
-||www.3158.reminews.com^
 ||www.3160.luronews.com^
 ||www.3262.lookinews.com^
 ||www.33-trk-srv.com^
 ||www.3359.jemonews.com^
+||www.33862684.xyz^
 ||www.33infra-strat.com^
 ||www.3442.gofenews.com^
 ||www.34gwl8v1a.com^
 ||www.3598461.notify6.com^
 ||www.3643.gofenews.com^
 ||www.3765.gofenews.com^
+||www.38167473.xyz^
 ||www.3904.jemonews.com^
 ||www.3979.jemonews.com^
 ||www.3nrbkpvra.com^
 ||www.4029.lookinews.com^
+||www.40451343.xyz^
 ||www.4062.luronews.com^
-||www.4107.reminews.com^
 ||www.4397.loopanews.com^
 ||www.44-trk-srv.com^
-||www.4448.jemonews.com^
 ||www.4464.jemonews.com^
 ||www.44tele-infra.com^
 ||www.45496fee.xyz^
 ||www.4669.luronews.com^
 ||www.4696.lookinews.com^
 ||www.4710.gofenews.com^
+||www.47235645.xyz^
 ||www.4778.jemonews.com^
 ||www.4783.reminews.com^
 ||www.4puuqeh41.com^
 ||www.5109.reminews.com^
 ||www.5121.lookinews.com^
-||www.5145.lookinews.com^
-||www.5191.reminews.com^
 ||www.5248.gofenews.com^
 ||www.52data-venture.com^
 ||www.5330.jemonews.com^
@@ -96944,13 +97323,12 @@
 ||www.55-trk-srv.com^
 ||www.5508.gofenews.com^
 ||www.5526.lookinews.com^
-||www.5543.jemonews.com^
+||www.5681.gofenews.com^
 ||www.5896.loopanews.com^
 ||www.5949.jemonews.com^
 ||www.59768910.xyz^
 ||www.5clo0xmbf.com^
 ||www.6140.jemonews.com^
-||www.6209.gofenews.com^
 ||www.6268.reminews.com^
 ||www.6300.jemonews.com^
 ||www.6308.jemonews.com^
@@ -96958,31 +97336,29 @@
 ||www.6434.gofenews.com^
 ||www.6484.jemonews.com^
 ||www.6550.gofenews.com^
+||www.656f1ba3.xyz^
 ||www.66-trk-srv.com^
 ||www.6610.loopanews.com^
 ||www.6657.gofenews.com^
 ||www.66infra-strat.com^
 ||www.6738.jemonews.com^
 ||www.6832.lookinews.com^
+||www.6864.gofenews.com^
 ||www.7-companycompany.com^
 ||www.7004.jemonews.com^
 ||www.7052.gofenews.com^
 ||www.7063.luronews.com^
 ||www.7064.jemonews.com^
 ||www.7090.gofenews.com^
-||www.7134.jemonews.com^
 ||www.7199.gofenews.com^
+||www.72075223.xyz^
 ||www.7262.reminews.com^
-||www.7279.luronews.com^
 ||www.7281.selornews.com^
 ||www.7321.gofenews.com^
-||www.7354.rookinews.com^
 ||www.7360.deeginews.com^
 ||www.7390.deeginews.com^
-||www.7393.reminews.com^
 ||www.7395.reminews.com^
 ||www.7490.jemonews.com^
-||www.7549.luronews.com^
 ||www.7740.reminews.com^
 ||www.7765.selornews.com^
 ||www.7768.reminews.com^
@@ -96990,6 +97366,7 @@
 ||www.77886044.xyz^
 ||www.7827.reminews.com^
 ||www.7874.gofenews.com^
+||www.78847798.xyz^
 ||www.79180284.xyz^
 ||www.7944.gofenews.com^
 ||www.79893962.xyz^
@@ -97001,7 +97378,6 @@
 ||www.8124.lookinews.com^
 ||www.8165.lookinews.com^
 ||www.8252.lookinews.com^
-||www.8255.lookinews.com^
 ||www.8307.deeginews.com^
 ||www.8326.deeginews.com^
 ||www.8326.reminews.com^
@@ -97031,7 +97407,9 @@
 ||www.9696.lookinews.com^
 ||www.9708.reminews.com^
 ||www.9855.reminews.com^
+||www.9992.gofenews.com^
 ||www.9xvqogvtf.com^
+||www.a908a849.xyz^
 ||www.acor1sign.com^
 ||www.acpprograms.org^
 ||www.active-trk7.com^
@@ -97061,7 +97439,6 @@
 ||www.aonunited.com^
 ||www.ape78cn2.com^
 ||www.apgate.hubhubhub.name^
-||www.api.adbility-media.com^
 ||www.aqedsw4.com^
 ||www.aran9midi.com^
 ||www.arid5glop.com^
@@ -97071,6 +97448,9 @@
 ||www.avismarketing.gr^
 ||www.awfulmorning.pro^
 ||www.azera-s014.com^
+||www.b0f2f18e.xyz^
+||www.b1181fb1.site^
+||www.b395bfcd.xyz^
 ||www.badb5refl.com^
 ||www.bae5tracker.com^
 ||www.baidu.com.sogou.360.cn.qq.com.hunlaife.cn^
@@ -97079,6 +97459,7 @@
 ||www.bank8line.com^
 ||www.bass2poll.com^
 ||www.baw5tracker.com^
+||www.bc0ca74b.live^
 ||www.bcaeurope.eu^
 ||www.bdec1f37.xyz^
 ||www.bdg001a.com^
@@ -97096,6 +97477,7 @@
 ||www.boat3deer.com^
 ||www.boilingtrust.pro^
 ||www.bokep.su^
+||www.bollyocean.com^
 ||www.bolt8snap.com^
 ||www.boringoccasion.pro^
 ||www.bortanews.com^
@@ -97108,6 +97490,7 @@
 ||www.burn5tilt.com^
 ||www.business-path-55.com^
 ||www.bux1le001.com^
+||www.ca9246.xyz^
 ||www.cable-cen-01.com^
 ||www.cage6west.com^
 ||www.care5alea.com^
@@ -97174,6 +97557,7 @@
 ||www.dawn3host.com^
 ||www.dbrtkwaa81.com^
 ||www.dcad1d97.xyz^
+||www.deeginews.com^
 ||www.deng3rada.com^
 ||www.dens1raec.com^
 ||www.detailsinspiration-data.com^
@@ -97184,6 +97568,7 @@
 ||www.direct-azr-78.com^
 ||www.discover-path.com^
 ||www.discovertrail.net^
+||www.disfigured-survey.pro^
 ||www.djkeun1bal.com^
 ||www.dkjn1bal2.com^
 ||www.dm5.com/wxhfm.html^
@@ -97195,6 +97580,9 @@
 ||www.dtc-v6t.com^
 ||www.dthvdr9.com^
 ||www.dump4barn.com^
+||www.e076.xyz^
+||www.e8e2063b.xyz^
+||www.ea6c0ac4.xyz^
 ||www.east2pony.com^
 ||www.easy0bark.com^
 ||www.ed-clr-01.com^
@@ -97221,6 +97609,7 @@
 ||www.exoticfarmer.pro^
 ||www.explore-123.com^
 ||www.extrasmallpersonal.pro^
+||www.f54cd504.xyz^
 ||www.fasttrack.fr^
 ||www.fasttracker.fr^
 ||www.fear7calk.com^
@@ -97247,6 +97636,7 @@
 ||www.gaza2lote.com^
 ||www.gbl007.com^
 ||www.gblwebcen.com^
+||www.geoadserver.com^
 ||www.get.ukg.com^
 ||www.getone.today^
 ||www.gift2pair.com^
@@ -97261,6 +97651,7 @@
 ||www.grizzled-reality.pro^
 ||www.grow1maid.com^
 ||www.gtcslt-di2.com^
+||www.guesswhatnews.com^
 ||www.gumanews.com^
 ||www.gw100-10.com^
 ||www.haag0some.com^
@@ -97287,7 +97678,6 @@
 ||www.hvgcfx1.com^
 ||www.i0.lookinews.com^
 ||www.iaccede.net.jumia.ug^
-||www.images.hour-media.com^
 ||www.imaginative-trade7.com^
 ||www.inc9lineedge.com^
 ||www.incline9edge.com^
@@ -97317,6 +97707,7 @@
 ||www.javtvnow.xyz^
 ||www.jd-mail.co.uk^
 ||www.jebb8hurt.com^
+||www.jemonews.com^
 ||www.jenxsw21lb.com^
 ||www.jf11oowny.com^
 ||www.jody0sora.com^
@@ -97373,10 +97764,12 @@
 ||www.loki8lave.com^
 ||www.longterminvestmentsolutions.com^
 ||www.loom3otto.com^
+||www.loopanews.com^
 ||www.lootynews.com^
 ||www.lope4refl.com^
 ||www.lote1otto.com^
 ||www.lowvolatilitysolutions.com^
+||www.lycheenews.com^
 ||www.m1ll1c4n0.com^
 ||www.ma-catinfo.com^
 ||www.mack7oyes.com^
@@ -97412,6 +97805,7 @@
 ||www.moat4shot.com^
 ||www.mon-com-01.com^
 ||www.mon-com-net.com^
+||www.monsoonlassi.com^
 ||www.mown5gaze.com^
 ||www.muni360.com^
 ||www.mydocusign.com^
@@ -97484,6 +97878,7 @@
 ||www.plokij1.com^
 ||www.plug1luge.com^
 ||www.plug4norm.com^
+||www.pointlessplan.pro^
 ||www.poiuy12.com^
 ||www.poor5zero.com^
 ||www.popxml.com^
@@ -97526,7 +97921,6 @@
 ||www.restopascher.net.jumia.sn^
 ||www.retirementadvisorinsights.com^
 ||www.rfr-69.com^
-||www.rhntyrbkj.lookinews.com^
 ||www.rhsy174op.com^
 ||www.rigi9bury.com^
 ||www.rime8lope.com^
@@ -97655,6 +98049,7 @@
 ||www.undiaenlausj.com^
 ||www.unlinedmake.pro^
 ||www.unrealpain.com^
+||www.url25fatm.com^
 ||www.us.roche-applied-science.com^
 ||www.uyybde07w.com^
 ||www.vane3alga.com^
@@ -97808,6 +98203,7 @@
 ||wwwowww.xyz^
 ||wwwpromoter.com^
 ||wwwstat.rz.uni-leipzig.de^
+||wwww.bollyocean.com^
 ||wwwwzeraqvrej.top^
 ||wxa.wxs.qq.com^
 ||wxaaqr.plusdental.de^
@@ -98216,6 +98612,7 @@
 ||xml-eu-v4.adscholars.com^
 ||xml-eu-v4.adsfloow.net^
 ||xml-eu-v4.adverttise.com^
+||xml-eu-v4.adxpoint.com^
 ||xml-eu-v4.adzreach.com^
 ||xml-eu-v4.agilitydigitalmedia.com^
 ||xml-eu-v4.audienceye.com^
@@ -98248,10 +98645,13 @@
 ||xml-eu-v4.fstsrv8.com^
 ||xml-eu-v4.fstsrv9.com^
 ||xml-eu-v4.goclickz.net^
+||xml-eu-v4.h12ads.net^
 ||xml-eu-v4.hawkads.in^
+||xml-eu-v4.insightadz.com^
 ||xml-eu-v4.kunvertads.com^
 ||xml-eu-v4.ldnpointer.online^
 ||xml-eu-v4.lensgard-2.online^
+||xml-eu-v4.lensgard-3.online^
 ||xml-eu-v4.minsonbar2.online^
 ||xml-eu-v4.mpds-smart1.online^
 ||xml-eu-v4.mpds-smart2.online^
@@ -98292,6 +98692,7 @@
 ||xml-eu.adjux.com^
 ||xml-eu.admidainsight.com^
 ||xml-eu.adoperatorx.com^
+||xml-eu.adportonic.com^
 ||xml-eu.adright.co^
 ||xml-eu.adsailor.com^
 ||xml-eu.adverttise.com^
@@ -98305,7 +98706,9 @@
 ||xml-eu.flairadscpc.com^
 ||xml-eu.fstsrv11.com^
 ||xml-eu.fstsrv13.com^
+||xml-eu.h12ads.net^
 ||xml-eu.hueadsxml.com^
+||xml-eu.insightadz.com^
 ||xml-eu.kunvertads.com^
 ||xml-eu.mediaxchange.co^
 ||xml-eu.mobipromote.com^
@@ -98341,6 +98744,7 @@
 ||xml-v4.afkwa.com^
 ||xml-v4.afront.io^
 ||xml-v4.agilitydigitalmedia.com^
+||xml-v4.appmonsta.ai^
 ||xml-v4.audienceye.com^
 ||xml-v4.barcelona-backlinks.es^
 ||xml-v4.bidderads.com^
@@ -98363,7 +98767,6 @@
 ||xml-v4.donkstar2.online^
 ||xml-v4.exdirectopl.com^
 ||xml-v4.ezmob.com^
-||xml-v4.fstsrv1.com^
 ||xml-v4.fstsrv11.com^
 ||xml-v4.fstsrv13.com^
 ||xml-v4.fstsrv14.com^
@@ -98388,6 +98791,7 @@
 ||xml-v4.kvicads.com^
 ||xml-v4.ldnpointer.online^
 ||xml-v4.lensgard-2.online^
+||xml-v4.lensgard-3.online^
 ||xml-v4.medialabs.info^
 ||xml-v4.mediataggus.com^
 ||xml-v4.minsonbar2.online^
@@ -98438,6 +98842,7 @@
 ||xml-v4.vudhartb.com^
 ||xml-v4.webmedrtb.com^
 ||xml-v4.winkleads.com^
+||xml-v4.xmlwolf.com^
 ||xml-v4.zeusadx.com^
 ||xml.100conversions.com^
 ||xml.9dotsmedia.com^
@@ -98470,6 +98875,7 @@
 ||xml.adzreach.com^
 ||xml.afront.io^
 ||xml.aimkweb.com^
+||xml.appmonsta.ai^
 ||xml.audiencedevelopers.com^
 ||xml.audienceye.com^
 ||xml.babanetwork.net^
@@ -98505,6 +98911,7 @@
 ||xml.domains-traffic.com^
 ||xml.donkstar2.online^
 ||xml.dtxplatform.net^
+||xml.epikads.com^
 ||xml.eureekkaa.com^
 ||xml.exdirectopl.com^
 ||xml.expialidosius.com^
@@ -98513,7 +98920,6 @@
 ||xml.finevisit.com^
 ||xml.flairadscpc.com^
 ||xml.flyerblaze.com^
-||xml.fstsrv1.com^
 ||xml.fstsrv10.com^
 ||xml.fstsrv11.com^
 ||xml.fstsrv13.com^
@@ -98523,10 +98929,8 @@
 ||xml.fstsrv17.com^
 ||xml.fstsrv18.com^
 ||xml.fstsrv19.com^
-||xml.fstsrv2.com^
 ||xml.fstsrv20.com^
 ||xml.fstsrv21.com^
-||xml.fstsrv3.com^
 ||xml.fstsrv4.com^
 ||xml.fstsrv5.com^
 ||xml.fstsrv8.com^
@@ -98543,6 +98947,7 @@
 ||xml.laheatads.com^
 ||xml.landingpaged.com^
 ||xml.lensgard-2.online^
+||xml.lensgard-3.online^
 ||xml.leoback.com^
 ||xml.leofback.com^
 ||xml.leoyard.com^
@@ -98579,6 +98984,7 @@
 ||xml.poprtb.pro^
 ||xml.pops.gg^
 ||xml.popunder.bid^
+||xml.popviking.com^
 ||xml.pressize.com^
 ||xml.programmaticnexus.com^
 ||xml.pulsefintech.net^
@@ -99834,6 +100240,7 @@
 ||zauthuvy.com^
 ||zauwaigojeew.xyz^
 ||zaventemdijleland.viessmann.be^
+||zavirand.com^
 ||zavoxlquwb.com^
 ||zaxonoax.com^
 ||zazufi.com^
