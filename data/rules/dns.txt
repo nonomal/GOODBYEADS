@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-21 09:37:13（北京时间）
+! Version: 2025-01-21 20:40:15（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100807
+! Total count: 100813
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -644,6 +644,7 @@
 ||0121.luronews.com^
 ||0121.rookinews.com^
 ||01210sop.xyz^
+||01211sop.xyz^
 ||0122.gofenews.com^
 ||0122.lookinews.com^
 ||0122.luronews.com^
@@ -35184,6 +35185,7 @@
 ||dclnxirp001cou.net.jumia.co.tz^
 ||dclpjx.xyz^
 ||dcnkrd.baseballsavings.com^
+||dco.coupang.com^
 ||dcs.audi.com^
 ||dcs.esprit.at^
 ||dcs.esprit.au^
@@ -51562,6 +51564,7 @@
 ||jclrwjceymgec.com^
 ||jcm.jd.com^
 ||jcmonitor.xcar.com.cn^
+||jcokamia.top^
 ||jcosjpir.com^
 ||jcount.com^
 ||jcpclick.com^
@@ -66779,6 +66782,7 @@
 ||pa4ye.cyou^
 ||pa5ka.com^
 ||pa5xjc.m1guelpf.me^
+||pa6.fun^
 ||pabgey.siepomaga.pl^
 ||pac.thescottishsun.co.uk^
 ||pac.thesun.co.uk^
@@ -70802,6 +70806,7 @@
 ||qhemphox.com^
 ||qheose.xyz^
 ||qhestrad.com^
+||qhihoins.com^
 ||qhip.com^
 ||qhmlwvnd.com^
 ||qhocciks.com^
@@ -93773,6 +93778,7 @@
 ||uuysiaq.com^
 ||uuzxaz.vidaxl.com^
 ||uv.terra.com.br^
+||uv4.fun^
 ||uvac.devcre.site^
 ||uvccpk.1800petmeds.com^
 ||uvekyvs.icu^
