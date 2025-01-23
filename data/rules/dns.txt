@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-22 20:40:11（北京时间）
+! Version: 2025-01-23 09:37:53（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100865
+! Total count: 100875
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -18336,6 +18336,7 @@
 ||adsbanner.game.zing.vn^
 ||adsbar.online^
 ||adsbb.depositfiles.com^
+||adsbb.depositfiles.org^
 ||adsbeard.com^
 ||adsbetnet.com^
 ||adsblocker-ultra.com^
@@ -26518,7 +26519,6 @@
 ||bn.kino-go.co^
 ||bn.ohah.ru^
 ||bn.orthodoxy.ru^
-||bn.radiogold.it^
 ||bn.take-profit.org^
 ||bn.voyage-prive.com^
 ||bn5x.net^
@@ -28073,7 +28073,6 @@
 ||cabombaskopets.life^
 ||cac6042d62.21d9d2f09e.com^
 ||cacafly.net^
-||cache.betweendigital.com^
 ||cache.picxxxhub.com^
 ||cache2.delvenetworks.com^
 ||cachegorilla.com^
@@ -29209,7 +29208,6 @@
 ||cergbwa97.shop^
 ||cerineas.com^
 ||cerionnano.actonservice.com^
-||cerousfirmest.com^
 ||cert-test.sandbox.google.com^
 ||certaintyurnincur.com^
 ||certificaterainbow.com^
@@ -37155,6 +37153,7 @@
 ||doprinplupr.com^
 ||doptefoumsifee.xyz^
 ||doptik.ru^
+||dopub.site^
 ||doraikouor.com^
 ||dorangesource.alicdn.com^
 ||dore.new-indian-porn.com^
@@ -38588,6 +38587,7 @@
 ||edmasskin.live^
 ||ednewsbd.com^
 ||ednqjm.magnanni.com^
+||edokouksuk.net^
 ||edonhisdhi.com^
 ||edoshbw.top^
 ||edoumeph.com^
@@ -38685,6 +38685,7 @@
 ||eel.ieo.do^
 ||eel.transistor.fm^
 ||eeleekso.com^
+||eelerzambo.com^
 ||eelroave.xyz^
 ||eemgl.com^
 ||eemsautsoay.net^
@@ -42563,6 +42564,7 @@
 ||formatresourcefulresolved.com^
 ||formatstock.com^
 ||formedwrapped.com^
+||formerdisagreepectoral.com^
 ||formerdrearybiopsy.com^
 ||formerlyhorribly.com^
 ||formerlyparsleysuccess.com^
@@ -46487,6 +46489,7 @@
 ||harrier.progress.fyi^
 ||harrier.scdamerica.com.au^
 ||harris.ni.com^
+||harrowliquid.com^
 ||harrydough.com^
 ||harrymercurydynasty.com^
 ||harshlygiraffediscover.com^
@@ -47116,7 +47119,6 @@
 ||himhedrankslo.xyz^
 ||himosteg.xyz^
 ||himselfthoughtless.com^
-||himselve.info^
 ||himunpracticalwh.info^
 ||hinaprecent.info^
 ||hindervoting.com^
@@ -47945,7 +47947,6 @@
 ||hvac.solutions.jci.com^
 ||hvd-store.com^
 ||hvdt8.chimeratool.com^
-||hvkwmvpxvjo.xyz^
 ||hvooyieoei.com^
 ||hvpeme.petedge.com^
 ||hvrhgt.the-sun.com^
@@ -49283,7 +49284,6 @@
 ||imhwzc.blibli.com^
 ||imiclk.com^
 ||imidicsecular.com^
-||imiitrk22.com^
 ||imilroshoors.com^
 ||imitateupsettweak.com^
 ||imitationname.com^
@@ -50602,7 +50602,6 @@
 ||installer.betterinstaller.com^
 ||installfree.pro^
 ||installnow.pro^
-||installpack.net^
 ||installscolumnist.com^
 ||installslocalweep.com^
 ||installtracker.com^
@@ -52622,6 +52621,7 @@
 ||kaleidoscopeadjacent.com^
 ||kaleidoscopefingernaildigging.com^
 ||kaleidoscopepincers.com^
+||kalkvisrecit.shop^
 ||kallerupstone.viessmann.dk^
 ||kalmukrattail.com^
 ||kalseech.xyz^
@@ -54001,6 +54001,7 @@
 ||ldinry.drinks.ch^
 ||ldipsuml.top^
 ||ldjcteyoq.com^
+||ldjfsdku.icu^
 ||ldjudcpc-qxm.icu^
 ||ldjyvegage.com^
 ||ldmeukeuktyoue.com^
@@ -57000,6 +57001,7 @@
 ||m3i0v745b.com^
 ||m3uef4b38brmbntdzx.franchiseplus.nl^
 ||m4n.nl^
+||m4r.fun^
 ||m4su.online^
 ||m4zoxtrcea1k.controlconceptsusa.com^
 ||m5.66077.cn^
@@ -62281,6 +62283,7 @@
 ||mopiwhoisqui.com^
 ||mopub-win-us-east.bksn.se^
 ||mopub.com^
+||moqbfkfuex.com^
 ||moqdy.icu^
 ||moradu.com^
 ||moral-enthusiasm.pro^
@@ -64437,6 +64440,7 @@
 ||null-point.com^
 ||nullscateringinforms.com^
 ||nullsglitter.com^
+||numb-price.pro^
 ||numberium.com^
 ||numbers.md^
 ||numbers.monthlyphotos.com^
@@ -65253,6 +65257,7 @@
 ||olwqxg.europcar.it^
 ||olxoqmotw.com^
 ||olxwweaf.com^
+||olympuscracowe.shop^
 ||olytics.omeda.com^
 ||olzatpafwo.com^
 ||olziko.maxmara.com^
@@ -65658,6 +65663,7 @@
 ||onghfx.revolve.com^
 ||ongoingverdictparalyzed.com^
 ||onifdlak.top^
+||onionetmabela.top^
 ||onjjbn.koffiemarkt.be^
 ||onjmsj.sumai-surfin.com^
 ||onkafxtiqcu.com^
@@ -69833,6 +69839,7 @@
 ||proxy.ads.canalplus-bo.net^
 ||proxy.advp.apple.com^
 ||proxy.dzeio.com^
+||proxy.optoutadserving.com^
 ||proxy.svc.litv.tv^
 ||proxy.trysavvy.com^
 ||proxy.vidazoo.com^
@@ -71689,6 +71696,7 @@
 ||rbtwo.bid^
 ||rbvgaetqsk.love^
 ||rbweljjeqvevy.top^
+||rbzupn.icu^
 ||rc.dxsvr.com^
 ||rc.ie13.com^
 ||rc.precisely.com^
@@ -73006,6 +73014,7 @@
 ||riotousunspeakablestreet.com^
 ||riovdv.mustit.co.kr^
 ||riowrite.com^
+||ripe-heart.com^
 ||ripeautobiography.com^
 ||ripencompatiblefreezing.com^
 ||ripenstreet.com^
@@ -74822,6 +74831,7 @@
 ||sam.manager-magazin.de^
 ||sam.msn.com^
 ||samage-bility.icu^
+||samalcuratic.shop^
 ||samarketing.sedgwick.com^
 ||samarradeafer.top^
 ||samba.notifysrv.com^
@@ -75509,6 +75519,7 @@
 ||scritchmaranta.shop^
 ||scrollisolation.com^
 ||scrollye.com^
+||scrorlaets.com^
 ||scroscoi.com^
 ||scrubheiress.com^
 ||scruboutdoorsoffensive.com^
@@ -77170,7 +77181,6 @@
 ||shingleexpressing.com^
 ||shinglelatitude.com^
 ||shink.me/p/ifr^
-||shinnedsoughed.com^
 ||shinygabbleovertime.com^
 ||shinyspiesyou.com^
 ||shinystat.com^
@@ -81974,6 +81984,7 @@
 ||spezialreporte.de^
 ||sphc.caring4cancer.com^
 ||spheredkapas.com^
+||spheryexcise.shop^
 ||sphinx.aomg5bzv7.com^
 ||spice-sugar.net^
 ||spiceethnic.com^
@@ -87129,7 +87140,6 @@
 ||tearerernest.com^
 ||tearingsinnerprinciples.com^
 ||tearsskin.cfd^
-||teaser-goods.ru^
 ||teaserslamda.top^
 ||teaspoonbrave.com^
 ||teaspoondaffodilcould.com^
