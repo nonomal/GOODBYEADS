@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-23 09:37:53（北京时间）
+! Version: 2025-01-23 20:40:06（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100875
+! Total count: 100894
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -653,6 +653,7 @@
 ||0123.guesswhatnews.com^
 ||0123.reminews.com^
 ||0123.rookinews.com^
+||01231sop.xyz^
 ||0124.5clo0xmbf.com^
 ||0124.lycheenews.com^
 ||0125.79j68qav2.com^
@@ -9118,6 +9119,7 @@
 ||6hdw.site^
 ||6j296m8k.de^
 ||6ku.icu^
+||6lx.fun^
 ||6nwp0r33a71m.app.dev.cardahealth.com^
 ||6oi7mfa1w.com^
 ||6ox.de^
@@ -20391,6 +20393,7 @@
 ||amshroomishan.com^
 ||amsunsolar.actonservice.com^
 ||amt-k.ru^
+||amtmenlana.com^
 ||amtracking01.com^
 ||amtropiusr.com^
 ||amucresol.com^
@@ -21681,6 +21684,7 @@
 ||apatheticdrawerscolourful.com^
 ||apatheticformingalbeit.com^
 ||apathyjav128.fun^
+||apay-us.amazon.com^
 ||apbieqqb.xyz^
 ||apbspeakers.actonservice.com^
 ||apcatcltoph.com^
@@ -23131,6 +23135,7 @@
 ||arilsoaxie.xyz^
 ||arincol.arin-innovation.com^
 ||arioiundated.com^
+||ariotgribble.com^
 ||ariqye.xyz^
 ||arisglobal.actonservice.com^
 ||aristianewr.club^
@@ -24745,6 +24750,7 @@
 ||backupcelebritygrave.com^
 ||backuperwebcam.weebly.com^
 ||baconbedside.com^
+||baculeprudery.com^
 ||badayscase.live^
 ||badding.oss-ap-southeast-1.aliyuncs.com^
 ||badeldestarticulate.com^
@@ -28154,7 +28160,6 @@
 ||callyourinformer.com^
 ||calm-length.pro^
 ||calmbytedishwater.com^
-||calmlyglossaryhostile.com^
 ||calmlyilldollars.com^
 ||calmlyvacuumwidth.com^
 ||calmradio.actonservice.com^
@@ -28540,6 +28545,7 @@
 ||catgride.com^
 ||catharskeek.top^
 ||cathedralinthei.info^
+||cathodeoutwood.com^
 ||catholicprevalent.com^
 ||cathrynslues.com^
 ||cathyimemediate.com^
@@ -32672,8 +32678,10 @@
 ||cuevastrck.com^
 ||cufroa.aboutyou.be^
 ||cufultahaur.com^
+||cugaksoogleptix.xyz^
 ||cugraghorty.com^
 ||cuhlsl.info^
+||cuinageaquilid.com^
 ||cuisineenvoyadvertise.com^
 ||cuisineomnipresentinfinite.com^
 ||cukuix.com^
@@ -35021,6 +35029,7 @@
 ||datingtopgirls.com^
 ||datingvr.ru^
 ||datqagdkurce.com^
+||datsunepizzoa.com^
 ||datum.appfleet.com^
 ||datum.jsdelivr.com^
 ||daughterinlawrib.com^
@@ -36924,7 +36933,6 @@
 ||dmz3nd5oywtsw.cloudfront.net^
 ||dmzjmp.com^
 ||dn*.ixinwei.com^
-||dn0qt3r0xannq.cloudfront.net^
 ||dn34cbtcv9mef.cloudfront.net^
 ||dn3hksy6kf.com^
 ||dn3uy6cx65ujf.cloudfront.net^
@@ -40421,6 +40429,7 @@
 ||event.impression-neo.naver.com^
 ||event.instiengage.com^
 ||event.jma.or.jp^
+||event.msi.com^
 ||event.newsbreak.com^
 ||event.northghost.com^
 ||event.ortec.com^
@@ -40482,6 +40491,7 @@
 ||events.api.godaddy.com^
 ||events.api.red.wemesh.ca^
 ||events.api.secureserver.net^
+||events.app-performance.music.amazon.dev^
 ||events.appsflyer.com^
 ||events.artirix.com^
 ||events.attentivemobile.com^
@@ -51245,7 +51255,6 @@
 ||iuc1.online^
 ||iuc1.space^
 ||iudleaky.shop^
-||iuhrglyo.xyz^
 ||iujeaa.menz-style.com^
 ||iummqg.xyz^
 ||iuou.myadobe.cn^
@@ -53317,6 +53326,7 @@
 ||krskux.newhaircaps.com.br^
 ||krtlisd.top^
 ||krum.vsct.fr^
+||kruraits.com^
 ||krutilka.net^
 ||krutvncd.top^
 ||krxd.net^
@@ -56035,6 +56045,7 @@
 ||logger007.cam4.com^
 ||logging.api.intuit.com^
 ||logging.e-himart.co.kr^
+||logging.g.sst.secureserver.net^
 ||logging.goodgamestudios.com^
 ||logging.je-apps.com^
 ||logging.kinhtedothi.vn^
@@ -56538,6 +56549,7 @@
 ||lqtiwevsan.com^
 ||lqvfkk.sosyopix.com^
 ||lqxjrk.fbs.com^
+||lqxzx.com^
 ||lr-in.com^
 ||lraonxdikxi.com^
 ||lravwm.spa.cz^
@@ -59942,6 +59954,8 @@
 ||metric.yardhouse.com^
 ||metrica-yandex.com^
 ||metricas.agzero.com.br^
+||metricreceiver.cellrebel.com^
+||metrics-a.wbx2.com^
 ||metrics-api.librato.com^
 ||metrics-broker.prod.p.tf1.fr^
 ||metrics-cbslocal-com.cdn.ampproject.org^
@@ -62758,7 +62772,6 @@
 ||mvc.shopjapan.co.jp^
 ||mvchallenges.s3-website-eu-west-1.amazonaws.com^
 ||mvcngm.xyz^
-||mvfdsuoxufrngm.xyz^
 ||mvfmdfsvoq.com^
 ||mvirkw.xyz^
 ||mvjkbj.2-carat.net^
@@ -66968,6 +66981,7 @@
 ||pagesocket.glam.com^
 ||pagespeed.report.qq.com^
 ||pageviews.tray.com.br^
+||paginaltreitre.shop^
 ||paginaseloqua.unisabana.edu.co^
 ||pagnawhouk.net^
 ||paguridrenilla.com^
@@ -71415,6 +71429,7 @@
 ||r.z3.fm^
 ||r023m83skv5v.com^
 ||r066.dailytribune.com^
+||r0j.fun^
 ||r1.ati.su^
 ||r1.tegronews.com^
 ||r1ztni.oui.sncf^
@@ -73856,6 +73871,7 @@
 ||ruftodru.net^
 ||rugcrucial.com^
 ||ruggownpolacca.com^
+||ruggyscallop.top^
 ||rugiomyh2vmr.com^
 ||ruglhiahxam.com^
 ||rugttt.robinson.com^
@@ -75181,6 +75197,7 @@
 ||sauroajy.net^
 ||sausagefaithfemales.com^
 ||sausagegirlieheartburn.com^
+||sauthooptoo.net^
 ||sauwoaptain.com^
 ||sauyv.top^
 ||savableee.com^
@@ -83330,7 +83347,6 @@
 ||statdynamic.com^
 ||statedfertileconference.com^
 ||statedthoughtslave.com^
-||statelinear.com^
 ||statementsnellattenuate.com^
 ||statesbenediction.com^
 ||statesmanchosen.com^
@@ -86049,6 +86065,7 @@
 ||t.cofcsports.com^
 ||t.collinscenterforthearts.com^
 ||t.cometlytrack.com^
+||t.commandbar.com^
 ||t.comms.thetimes.co.uk^
 ||t.cozone.com^
 ||t.csurams.com^
@@ -92352,6 +92369,7 @@
 ||tumboaovernet.shop^
 ||tumidlyacorus.shop^
 ||tumordied.com^
+||tumpsmolla.com^
 ||tumri.net^
 ||tumultmarten.com^
 ||tuna.ajaymantri.com^
@@ -100287,6 +100305,7 @@
 ||zap-webspace.com^
 ||zap.cdn.zynga.com^
 ||zaparena.com^
+||zapasizzard.com^
 ||zaphakesleigh.com^
 ||zaphararidged.com^
 ||zapunited.com^
