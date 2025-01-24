@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-24 09:37:53（北京时间）
+! Version: 2025-01-24 20:39:17（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100908
+! Total count: 100918
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -3535,6 +3535,7 @@
 ||1iqepioegyffhuikddif.lycheenews.com^
 ||1itot7tm.de^
 ||1ittqyyepio.lycheenews.com^
+||1iuh5l.com^
 ||1j02claf9p.pro^
 ||1j2n061x3td.www.digi.no^
 ||1j771bhgi.de^
@@ -15644,6 +15645,7 @@
 ||aae52bebdd.7ee4c0f141.com^
 ||aae80f5380.7719094ddf.com^
 ||aafdcq.com^
+||aafns.xyz^
 ||aag.yahooapis.jp^
 ||aagm.link^
 ||aagmmrktriz.vip^
@@ -28935,6 +28937,7 @@
 ||cdn.plmwsl.com^
 ||cdn.plowh.com^
 ||cdn.plrst.com^
+||cdn.polarbyte.com^
 ||cdn.posawaj.com^
 ||cdn.ptomw.com^
 ||cdn.puyjjq.com^
@@ -35614,6 +35617,7 @@
 ||delusionpenal.com^
 ||delutza.com^
 ||deluxe-download.com^
+||delveactivity.com^
 ||demandbase.com^
 ||demandgen.ptc.com^
 ||demanding-application.pro^
@@ -38020,6 +38024,7 @@
 ||e1e.io^
 ||e1e7608274.00f8c4bb25.com^
 ||e1f6a352a1.3ea94c3718.com^
+||e1s.fun^
 ||e1zin.icu^
 ||e2.resources.foxtel.com.au^
 ||e20d8e38992b.o3n.io^
@@ -64516,6 +64521,7 @@
 ||nvjqtz.xyz^
 ||nvlcnvyqvpjppi.xyz^
 ||nvpdaa.brightcellars.com^
+||nvpokyko.icu^
 ||nvtvssczb.com^
 ||nvumcv.standoil.kr^
 ||nvuwqcfdux.xyz^
@@ -67752,6 +67758,7 @@
 ||petulanthamsterunless.com^
 ||petuneaffrap.click^
 ||pevftg.shopee.sg^
+||pevpbx.icu^
 ||pexuvais.net^
 ||peyqvn.falke.com^
 ||pezoomsekre.com^
@@ -94102,6 +94109,7 @@
 ||vanirausones.shop^
 ||vanishedentrails.com^
 ||vanishedpatriot.com^
+||vannaxacqpm.com^
 ||vapedia.com^
 ||vapjcusfua.com^
 ||vapourfertile.com^
@@ -99321,6 +99329,7 @@
 ||xukpqemfs.com^
 ||xuldtcip.icu^
 ||xulizui6.com^
+||xulkervf.com^
 ||xunsfr.xyz^
 ||xunzbx.mon-abri-de-jardin.com^
 ||xuoizbtl.xyz^
@@ -99597,6 +99606,7 @@
 ||ydvdjjtakso.xyz^
 ||ydvsok.newbalance.jp^
 ||ydwrkwwqytj.xyz^
+||ydxdg.xyz^
 ||ydybwjpa.xyz^
 ||ye.dun.163yun.com^
 ||ye185hcamw.com^
