@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-23 20:40:06（北京时间）
+! Version: 2025-01-24 09:37:53（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100894
+! Total count: 100908
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -656,6 +656,7 @@
 ||01231sop.xyz^
 ||0124.5clo0xmbf.com^
 ||0124.lycheenews.com^
+||01240sop.xyz^
 ||0125.79j68qav2.com^
 ||0125.gofenews.com^
 ||0125.jemonews.com^
@@ -23805,6 +23806,7 @@
 ||atticepuces.com^
 ||atticshepherd.com^
 ||attictop.com^
+||attingepicrate.com^
 ||attivoconsulting.actonservice.com^
 ||attorchica.com^
 ||attr-shift.dotabuff.com^
@@ -25066,6 +25068,7 @@
 ||barbecuedilatefinally.com^
 ||barbmerchant.com^
 ||bardatm.ru^
+||bardeearmsize.com^
 ||bardicjazzed.com^
 ||bardogazed.shop^
 ||barecurldiscovering.com^
@@ -25758,6 +25761,7 @@
 ||besaieltense.com^
 ||besandileer.com^
 ||besandileom.com^
+||besaylecran.com^
 ||besc.baidustatic.com^
 ||beseechpill.com^
 ||besidesparties.com^
@@ -27178,6 +27182,7 @@
 ||breezefraudulent.com^
 ||brelawunbung.click^
 ||brephras.com^
+||brerkols.com^
 ||brespark.eccocar.com^
 ||brevityeconomy.com^
 ||brevnet.eccocar.com^
@@ -28339,6 +28344,7 @@
 ||captainad.com^
 ||captchafine.live^
 ||captickc.com^
+||captionconjecture.com^
 ||captivatecustomergentlemen.com^
 ||captivatepestilentstormy.com^
 ||captiveatmospheric.com^
@@ -30496,6 +30502,7 @@
 ||cmgfbg.billetreduc.com^
 ||cmhmpr.lolaliza.com^
 ||cmhoriu.com^
+||cmjvuwtgfzl.com^
 ||cmm.xmfish.com^
 ||cmme.actonservice.com^
 ||cmon.congress.gov^
@@ -35327,7 +35334,6 @@
 ||dearestimmortality.com^
 ||deasandcomemunic.com^
 ||deavelydragees.shop^
-||deb6268bc5.com^
 ||debateconsentvisitation.com^
 ||debauchinteract.com^
 ||debaucky.com^
@@ -37004,6 +37010,7 @@
 ||doc830ytc7pyp.cloudfront.net^
 ||docfj.cyou^
 ||dochmiiresidue.com^
+||dociblessed.com^
 ||dockboulevardshoes.com^
 ||dockdeity.com^
 ||dockdigestion.com^
@@ -46261,7 +46268,6 @@
 ||h019.wtae.com^
 ||h031.familydollar.com^
 ||h037n.letsporn.com^
-||h05grpd9s1qfbt.xyz^
 ||h0d.icu^
 ||h0w-t0-watch.net^
 ||h1.cfxinxi.cn^
@@ -47429,7 +47435,6 @@
 ||homestairnine.com^
 ||homesyowl.com^
 ||homeycommemorate.com^
-||homeyloanedmes.work^
 ||homicidalseparationmesh.com^
 ||homicidelumpforensic.com^
 ||homicidewoodenbladder.com^
@@ -52693,6 +52698,7 @@
 ||kauleeci.com^
 ||kauraishojy.com^
 ||kaurieseluxate.com^
+||kauriessizzler.shop^
 ||kaushichie.net^
 ||kaushooptawo.net^
 ||kauzishy.com^
@@ -63755,7 +63761,6 @@
 ||ngbcrg3b.xn--ngbcrg3b.com^
 ||ngc1.nsm-corp.com^
 ||ngcbjq.frecuento.com^
-||ngcouncern.xyz^
 ||ngegas.files.im^
 ||ngfruitiesmatc.info^
 ||ngfycrwwd.com^
@@ -66597,6 +66602,7 @@
 ||owlunimmvn.com^
 ||owndata.network^
 ||owneriq.net^
+||ownhoodmucro.shop^
 ||ownzzohggdfb.com^
 ||owojqopr.com^
 ||owp-sg-prop.americanexpress.com^
@@ -71645,6 +71651,7 @@
 ||rauceesh.com^
 ||raudoufoay.com^
 ||raufajoo.net^
+||rauheestuma.xyz^
 ||raujouca.com^
 ||raumipti.net^
 ||raunooligais.net^
@@ -72870,6 +72877,7 @@
 ||rezync.com^
 ||rffsds.fsastore.com^
 ||rficarolnak.com^
+||rfidpytri.com^
 ||rfihub.com^
 ||rfihub.net^
 ||rfinidtirz.com^
@@ -75724,6 +75732,7 @@
 ||seatrackingdomain.com^
 ||seatsrehearseinitial.com^
 ||seawantocelots.click^
+||seawantyroma.com^
 ||seayipsex.com^
 ||seb.sharpmarketing.eu^
 ||sebateastrier.com^
@@ -81719,6 +81728,7 @@
 ||sourcetobin.com^
 ||sourishpuler.com^
 ||sourne.com^
+||southeestais.net^
 ||southmailboxdeduct.com^
 ||southolaitha.com^
 ||southsturdy.com^
@@ -82016,6 +82026,7 @@
 ||spider.scottw.com^
 ||spider.storiesofchang.com^
 ||spigte.shopee.tw^
+||spijdawmqvs.com^
 ||spike-plant.valorbuff.com^
 ||spikearsonembroider.com^
 ||spikedelishah.com^
@@ -84724,6 +84735,7 @@
 ||stimaariraco.info^
 ||stimiyb.top^
 ||stimtavy.net^
+||stimtoughougnax.net^
 ||stimulateartificial.com^
 ||stimulatinggrocery.pro^
 ||stinglackingrent.com^
@@ -92579,6 +92591,7 @@
 ||txt.shopbanquet.com^
 ||txt.showings.com^
 ||txt.styr.com^
+||txtspjaorddrjqq.com^
 ||txumirk.com^
 ||txv0.destinia.hu^
 ||txv2-br-cdn.kwai.net.iberostar.com^
@@ -96216,6 +96229,7 @@
 ||wesicuros.com^
 ||wesmallproclaim.com^
 ||west.bidtellect.com^
+||westcoa.com^
 ||westernhungryadditions.com^
 ||westernwhetherowen.com^
 ||westevents.presidio.com^
