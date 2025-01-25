@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-25 09:26:27（北京时间）
+! Version: 2025-01-25 20:35:43（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100951
+! Total count: 100970
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -7819,7 +7819,6 @@
 ||52e8023e9d.3e1898dbbe.com^
 ||52f5a0650e.3ded3c3e5c.com^
 ||5301.lookinews.com^
-||5305c68a0b.com^
 ||5311.lootynews.com^
 ||5313.lookinews.com^
 ||5314.deeginews.com^
@@ -9124,6 +9123,7 @@
 ||6lx.fun^
 ||6nwp0r33a71m.app.dev.cardahealth.com^
 ||6oi7mfa1w.com^
+||6oj.fun^
 ||6ox.de^
 ||6pal.consobaby.com^
 ||6ped2nd3yp.com^
@@ -18488,7 +18488,6 @@
 ||adshopping.com^
 ||adshort.media^
 ||adshort.space^
-||adshost2.com^
 ||adshow.sc2tv.ru^
 ||adshows.21cn.com^
 ||adside.com^
@@ -20801,6 +20800,7 @@
 ||analytics.githubassets.com^
 ||analytics.glance.inmobi.com^
 ||analytics.global.sky.com^
+||analytics.gokwik.co^
 ||analytics.google.com^
 ||analytics.googleapis.com^
 ||analytics.gooogol.com^
@@ -21896,6 +21896,7 @@
 ||aplombwealden.shop^
 ||apm-log-upload-os.hoyoverse.com^
 ||apm.tnet.nl^
+||apmplus.ap-southeast-1.volces.com^
 ||apnpr.com^
 ||apnttuttej.com^
 ||apocalypsegulliblemood.com^
@@ -23043,6 +23044,7 @@
 ||ar1.aza.io^
 ||arabcuff.com^
 ||arabicpostboy.shop^
+||arabinprotoma.com^
 ||arablefoundation.com^
 ||arabs.alarabsex.com^
 ||arabs.alarabsex.net^
@@ -26162,6 +26164,7 @@
 ||bird.brondby.com^
 ||bird.recruitkit.com.au^
 ||bird.webitizevoice.com^
+||birdeangioid.com^
 ||birdnavy.com^
 ||birlersbhunder.com^
 ||birlinnfrugged.com^
@@ -37164,6 +37167,7 @@
 ||doompuncturedearest.com^
 ||doonedo.com^
 ||doopimim.net^
+||dooptoupouwhuwu.xyz^
 ||doorbanker.com^
 ||doorboyouthear.com^
 ||doordishow.live^
@@ -42319,6 +42323,7 @@
 ||floralrichardapprentice.com^
 ||floraopinionsome.com^
 ||florapitchy.com^
+||florinsqrs.top^
 ||floristgathering.com^
 ||floroonwhun.com^
 ||flossdiversebates.com^
@@ -46558,6 +46563,7 @@
 ||hathor.notifysrv.com^
 ||hatlesswhsle.com^
 ||hats-47b.com^
+||hattycivitan.com^
 ||hatwasallo.com^
 ||hatwasallokmv.info^
 ||hatzhq.net^
@@ -54457,6 +54463,7 @@
 ||lightssyrupdecree.com^
 ||liglomsoltuwhax.net^
 ||ligninenchant.com^
+||ligulinrhema.com^
 ||ligvraojlrr.com^
 ||ligxyv.hackers.co.kr^
 ||lijjk.space^
@@ -54484,6 +54491,7 @@
 ||lilyhumility.com^
 ||lilyrealitycourthouse.com^
 ||lilysuffocateacademy.com^
+||limbecculvers.com^
 ||limberkilnman.cam^
 ||limbievireos.com^
 ||limboduty.com^
@@ -59718,7 +59726,6 @@
 ||megnotch.xyz^
 ||megroarsoy.net^
 ||megydyk.icu^
-||meheartlove.net^
 ||meilunsc.com^
 ||meinauto.hdd-dienste.de^
 ||meitustat.com^
@@ -68741,6 +68748,7 @@
 ||plxnbwjtbr.com^
 ||plxserve.com^
 ||plyfoni.ru^
+||plygainroundup.com^
 ||plyizb.latour-lith.nl^
 ||plzblz.xyz^
 ||pm.boostintegrated.com^
@@ -71190,6 +71198,7 @@
 ||quarterbackanimateappointed.com^
 ||quarterbacknervous.com^
 ||quasarcouhage.top^
+||quataloden.com^
 ||quaternnerka.com^
 ||quatrefeuillepolonaise.xyz^
 ||quatxio.xyz^
@@ -71911,6 +71920,7 @@
 ||reatushaithal.com^
 ||reauksoffyrikm.com^
 ||reauthenticator.com^
+||rebakebelage.com^
 ||rebatelirate.top^
 ||rebecca.users.aomg5bzv7.com^
 ||rebelfarewe.org^
@@ -72978,6 +72988,7 @@
 ||rhzvlcu.xyz^
 ||riamiavid.com^
 ||riaoz.xyz^
+||riatahemapod.com^
 ||riazrk-oba.online^
 ||ribougrauchoum.net^
 ||ribqpiocnzc.com^
@@ -77430,6 +77441,7 @@
 ||sicouthautso.net^
 ||sid.nordstrom.com^
 ||sidanarchy.net^
+||sidderbows.com^
 ||sidebar.angelfire.com^
 ||sidebiologyretirement.com^
 ||sidebyx.com^
@@ -77872,6 +77884,7 @@
 ||slobgrandmadryer.com^
 ||slockertummies.com^
 ||sloeri.com^
+||sloomcalumba.com^
 ||slopeac.com^
 ||slopeaota.com^
 ||slopingunrein.com^
@@ -84787,6 +84800,7 @@
 ||stixeepou.com^
 ||stjoe.psjhealth.org^
 ||stjpezyt.com^
+||stk.px-cloud.net^
 ||stktkt.profizelt24.de^
 ||stliom.vidaxl.cz^
 ||stlog.d.dmkt-sp.jp^
@@ -87751,6 +87765,7 @@
 ||thenicenewz.com^
 ||theod-qsr.com^
 ||theologicalpresentation.com^
+||theolwelt.com^
 ||theonecdn.com^
 ||theonesstoodtheirground.com^
 ||theonlins.com^
@@ -87945,6 +87960,7 @@
 ||thsantmirza.shop^
 ||thsnvv.hollywoodschaukel-paradies.de^
 ||thtk.temu.com^
+||thudonanselsaps.net^
 ||thudsurdardu.net^
 ||thugjudgementpreparations.com^
 ||thukimoocult.net^
@@ -93196,6 +93212,7 @@
 ||uncannynobilityenclose.com^
 ||uncastnork.com^
 ||uncertainimprovementsspelling.com^
+||unclealcine.com^
 ||uncleffaan.com^
 ||unclesnewspaper.com^
 ||uncletroublescircumference.com^
@@ -94056,6 +94073,7 @@
 ||vaebard.com^
 ||vaehxkhbhguaq.xyz^
 ||vaguishtrepak.com^
+||vahinisimcon.com^
 ||vahlnd.bogsfootwear.com^
 ||vahoupomp.com^
 ||vaibooja.net^
@@ -99348,6 +99366,7 @@
 ||xubcnzfex.com^
 ||xuc.monteleone.fr^
 ||xucashntaghy.com^
+||xudaiklj.com^
 ||xudarl.xyz^
 ||xudmrz.conforama.fr^
 ||xue.zbyw.cn^
