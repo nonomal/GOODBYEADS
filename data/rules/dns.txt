@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-26 09:40:08（北京时间）
+! Version: 2025-01-26 20:35:31（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101045
+! Total count: 101051
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -890,6 +890,7 @@
 ||0208.jemonews.com^
 ||0208.reminews.com^
 ||0208.tegronews.com^
+||02085170.xyz^
 ||0210.gofenews.com^
 ||0210.guesswhatnews.com^
 ||0210.reminews.com^
@@ -7231,6 +7232,7 @@
 ||4719.gofenews.com^
 ||4720.gofenews.com^
 ||4720.jemonews.com^
+||47206262.xyz^
 ||4721.reminews.com^
 ||4722.jemonews.com^
 ||4722.lookinews.com^
@@ -8637,6 +8639,7 @@
 ||6278.reminews.com^
 ||6279.seponews.com^
 ||6283.reminews.com^
+||62842068.xyz^
 ||6288.jemonews.com^
 ||6288.reminews.com^
 ||6291.lookinews.com^
@@ -8691,6 +8694,7 @@
 ||6375.reminews.com^
 ||6377.reminews.com^
 ||6380.lootynews.com^
+||63801782.xyz^
 ||6381.5clo0xmbf.com^
 ||638236rpn.com^
 ||6383.luronews.com^
@@ -8769,6 +8773,7 @@
 ||6506.jemonews.com^
 ||6507.luronews.com^
 ||6507.selornews.com^
+||65122038.xyz^
 ||6514.lookinews.com^
 ||6514.lootynews.com^
 ||6514.reminews.com^
@@ -10721,6 +10726,7 @@
 ||8q88n.icu^
 ||8rf.com^
 ||8s32e590un.com^
+||8sh.fun^
 ||8si.ru^
 ||8stream-ai.com^
 ||8streams.com^
@@ -10932,7 +10938,6 @@
 ||92888e5ff3.com^
 ||9289.luronews.com^
 ||92934e7e2b.fc9d8824d4.com^
-||92c04d81dd.com^
 ||92e6136b5d.com^
 ||92e703f830.com^
 ||92f77b89a1b2df1b539ff2772282e19b.com^
@@ -11385,7 +11390,6 @@
 ||9e53d7ea46.6f0b6cb0fe.com^
 ||9eb0538646.com^
 ||9eb10b7a3d04a.com^
-||9ee4971a50.com^
 ||9eeb47afec.678aea51c0.com^
 ||9efc2a7246.com^
 ||9f30710c95.1370065b3a.com^
@@ -39681,7 +39685,6 @@
 ||endorsesmelly.com^
 ||endowmentoverhangutmost.com^
 ||endream.buzz^
-||endurableshop.com^
 ||endurancetransmitted.com^
 ||enduresopens.com^
 ||endwaysdsname.com^
@@ -46340,6 +46343,7 @@
 ||h3.lookinews.com^
 ||h3.tegronews.com^
 ||h353.ncadvertiser.com^
+||h3d.fun^
 ||h4.guesswhatnews.com^
 ||h4.lookinews.com^
 ||h4.tegronews.com^
@@ -63192,6 +63196,7 @@
 ||nadruphoordy.xyz^
 ||nads.io^
 ||nadvideo2.baidu.com^
+||naettarq.com^
 ||naewynn.com^
 ||nafmxc.1083.fr^
 ||naforeshow.org^
@@ -73603,6 +73608,7 @@
 ||rt.newswire.ca^
 ||rt.prnewswire.com^
 ||rt.t-online.de^
+||rt.whitebridge.ai^
 ||rta.dailymail.co.uk^
 ||rta2.inews.co.uk^
 ||rta2.metro.co.uk^

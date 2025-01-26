@@ -883,6 +883,7 @@ DOMAIN,0208.gofenews.com,reject
 DOMAIN,0208.jemonews.com,reject
 DOMAIN,0208.reminews.com,reject
 DOMAIN,0208.tegronews.com,reject
+DOMAIN,02085170.xyz,reject
 DOMAIN,0210.gofenews.com,reject
 DOMAIN,0210.guesswhatnews.com,reject
 DOMAIN,0210.reminews.com,reject
@@ -7219,6 +7220,7 @@ DOMAIN,4719.deeginews.com,reject
 DOMAIN,4719.gofenews.com,reject
 DOMAIN,4720.gofenews.com,reject
 DOMAIN,4720.jemonews.com,reject
+DOMAIN,47206262.xyz,reject
 DOMAIN,4721.reminews.com,reject
 DOMAIN,4722.jemonews.com,reject
 DOMAIN,4722.lookinews.com,reject
@@ -8625,6 +8627,7 @@ DOMAIN,6277.luronews.com,reject
 DOMAIN,6278.reminews.com,reject
 DOMAIN,6279.seponews.com,reject
 DOMAIN,6283.reminews.com,reject
+DOMAIN,62842068.xyz,reject
 DOMAIN,6288.jemonews.com,reject
 DOMAIN,6288.reminews.com,reject
 DOMAIN,6291.lookinews.com,reject
@@ -8679,6 +8682,7 @@ DOMAIN,6373.luronews.com,reject
 DOMAIN,6375.reminews.com,reject
 DOMAIN,6377.reminews.com,reject
 DOMAIN,6380.lootynews.com,reject
+DOMAIN,63801782.xyz,reject
 DOMAIN,6381.5clo0xmbf.com,reject
 DOMAIN,638236rpn.com,reject
 DOMAIN,6383.luronews.com,reject
@@ -8757,6 +8761,7 @@ DOMAIN,6506.cosmicnewspulse.com,reject
 DOMAIN,6506.jemonews.com,reject
 DOMAIN,6507.luronews.com,reject
 DOMAIN,6507.selornews.com,reject
+DOMAIN,65122038.xyz,reject
 DOMAIN,6514.lookinews.com,reject
 DOMAIN,6514.lootynews.com,reject
 DOMAIN,6514.reminews.com,reject
@@ -10708,6 +10713,7 @@ DOMAIN,8pv9vvi9b.com,reject
 DOMAIN,8q88n.icu,reject
 DOMAIN,8rf.com,reject
 DOMAIN,8s32e590un.com,reject
+DOMAIN,8sh.fun,reject
 DOMAIN,8si.ru,reject
 DOMAIN,8stream-ai.com,reject
 DOMAIN,8streams.com,reject
@@ -10919,7 +10925,6 @@ DOMAIN,9287.jemonews.com,reject
 DOMAIN,92888e5ff3.com,reject
 DOMAIN,9289.luronews.com,reject
 DOMAIN,92934e7e2b.fc9d8824d4.com,reject
-DOMAIN,92c04d81dd.com,reject
 DOMAIN,92e6136b5d.com,reject
 DOMAIN,92e703f830.com,reject
 DOMAIN,92f77b89a1b2df1b539ff2772282e19b.com,reject
@@ -11372,7 +11377,6 @@ DOMAIN,9e3810a418.com,reject
 DOMAIN,9e53d7ea46.6f0b6cb0fe.com,reject
 DOMAIN,9eb0538646.com,reject
 DOMAIN,9eb10b7a3d04a.com,reject
-DOMAIN,9ee4971a50.com,reject
 DOMAIN,9eeb47afec.678aea51c0.com,reject
 DOMAIN,9efc2a7246.com,reject
 DOMAIN,9f30710c95.1370065b3a.com,reject
@@ -39621,7 +39625,6 @@ DOMAIN,endorsementpsychicwry.com,reject
 DOMAIN,endorsesmelly.com,reject
 DOMAIN,endowmentoverhangutmost.com,reject
 DOMAIN,endream.buzz,reject
-DOMAIN,endurableshop.com,reject
 DOMAIN,endurancetransmitted.com,reject
 DOMAIN,enduresopens.com,reject
 DOMAIN,endwaysdsname.com,reject
@@ -46262,6 +46265,7 @@ DOMAIN,h3.aomg5bzv7.com,reject
 DOMAIN,h3.lookinews.com,reject
 DOMAIN,h3.tegronews.com,reject
 DOMAIN,h353.ncadvertiser.com,reject
+DOMAIN,h3d.fun,reject
 DOMAIN,h4.guesswhatnews.com,reject
 DOMAIN,h4.lookinews.com,reject
 DOMAIN,h4.tegronews.com,reject
@@ -63077,6 +63081,7 @@ DOMAIN,nadelle.wantsext.me,reject
 DOMAIN,nadruphoordy.xyz,reject
 DOMAIN,nads.io,reject
 DOMAIN,nadvideo2.baidu.com,reject
+DOMAIN,naettarq.com,reject
 DOMAIN,naewynn.com,reject
 DOMAIN,nafmxc.1083.fr,reject
 DOMAIN,naforeshow.org,reject
@@ -73457,6 +73462,7 @@ DOMAIN,rt.flix360.com,reject
 DOMAIN,rt.newswire.ca,reject
 DOMAIN,rt.prnewswire.com,reject
 DOMAIN,rt.t-online.de,reject
+DOMAIN,rt.whitebridge.ai,reject
 DOMAIN,rta.dailymail.co.uk,reject
 DOMAIN,rta2.inews.co.uk,reject
 DOMAIN,rta2.metro.co.uk,reject
