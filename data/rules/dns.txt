@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-26 20:35:31（北京时间）
+! Version: 2025-01-27 09:39:21（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101051
+! Total count: 101075
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2824,7 +2824,6 @@
 ||13b3403320.com^
 ||13b696a4c1.com^
 ||13c4491879.com^
-||13e72f87ba.com^
 ||13js1lbtbj3.sparkloop.app^
 ||13p76nnir.de^
 ||14.deeginews.com^
@@ -4773,7 +4772,6 @@
 ||3099.jemonews.com^
 ||3099.reminews.com^
 ||30a9789ea1.cec41c3e84.com^
-||30d0b97ffa.com^
 ||30d5shnjq.de^
 ||30e4a37eb7.com^
 ||30eb1eca12.d1a0c6affa.com^
@@ -7601,6 +7599,7 @@
 ||4wnetwork.com^
 ||4wu3gf.cn^
 ||4xporn.com^
+||4zn.fun^
 ||5.61.55.143^
 ||5.ccutu.com^
 ||5.guesswhatnews.com^
@@ -7986,7 +7985,6 @@
 ||554.luronews.com^
 ||5543.jemonews.com^
 ||5545.lookinews.com^
-||55454ed59d.com^
 ||5546.luronews.com^
 ||5546.reminews.com^
 ||5547.gofenews.com^
@@ -16249,6 +16247,7 @@
 ||acclaimbedtime.com^
 ||acclaimcraftsman.com^
 ||acclaimed-travel.pro^
+||acclalmeddate.com^
 ||acclalmeddate.net^
 ||acclaro.actonservice.com^
 ||acclog001.shop-pro.jp^
@@ -16721,7 +16720,6 @@
 ||ad.genybet.fr^
 ||ad.gmw.cn^
 ||ad.gogox.com^
-||ad.graciamediaweb.com^
 ||ad.grafika.cz^
 ||ad.groupon.fr^
 ||ad.gt^
@@ -17711,6 +17709,7 @@
 ||adorableold.com^
 ||adoredstation.pro^
 ||adorigin.com^
+||adoriinggirl.com^
 ||adornenveloperecognize.com^
 ||adornexampleauthority.com^
 ||adornmadeup.com^
@@ -17789,6 +17788,7 @@
 ||adrent.net^
 ||adreporting.com^
 ||adrepository.opoxv.com^
+||adreq.eagle-insight.com^
 ||adrevenue.appsflyer.com^
 ||adrevenuerescue.com^
 ||adrgyouguide.com^
@@ -19303,6 +19303,7 @@
 ||afqsrygmu.com^
 ||afr4g5.de^
 ||afraidferocious.com^
+||afraidhardcover.com^
 ||afraidsoil.pro^
 ||afrdtech.com^
 ||afre.guru^
@@ -20014,7 +20015,6 @@
 ||alligator.remotecyberwork.com^
 ||allinsurance.allinsure.ca^
 ||allkmbr.icu^
-||alllinear.com^
 ||allloveydovey.fun^
 ||allmobexpo.com^
 ||allmt.com^
@@ -20043,7 +20043,6 @@
 ||alloysteel.ru^
 ||allpdfmags.net^
 ||allpornovids.com^
-||allprofitsurvey.top^
 ||allreach.actonservice.com^
 ||allrightpaint.com^
 ||allrisks.actonservice.com^
@@ -20325,6 +20324,7 @@
 ||aminks.underarmour.com.tr^
 ||aminopay.net^
 ||amitracks.actonservice.com^
+||amjllwblmlbyr.top^
 ||amjllwbovlvbb.top^
 ||amjllwbovlyba.top^
 ||amjoltiktor.com^
@@ -25497,7 +25497,6 @@
 ||beardinrather.com^
 ||beardyapii.com^
 ||bearerdarkfiscal.com^
-||bearerviolateacid.com^
 ||bearinggall.com^
 ||bearingted.com^
 ||bears.daigostudio.com^
@@ -26636,6 +26635,7 @@
 ||bobabillydirect.org^
 ||bobawb.pomellato.com^
 ||bobboro.com^
+||bobbyscole.shop^
 ||bobcad.actonservice.com^
 ||bobcat.pronounce.technology^
 ||bobcat.snapshooter.io^
@@ -27701,6 +27701,7 @@
 ||bustlemiszone.com^
 ||bustling-let.pro^
 ||busychopdenounce.com^
+||busyingcambogecarib.shop^
 ||butcherhashexistence.com^
 ||buthawk.com^
 ||buticiodized.shop^
@@ -37668,6 +37669,7 @@
 ||dtakdb1z5gq7e.cloudfront.net^
 ||dtbfpygjdxuxfbs.xyz^
 ||dtch.brunel.nl^
+||dtcqhfip.com^
 ||dtestpromo.fiat.it^
 ||dtheharityhild.info^
 ||dthipkts.com^
@@ -41239,7 +41241,6 @@
 ||factory.redbull.racing^
 ||fad8345565.5533b4c3ea.com^
 ||fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz^
-||fadedprofit.com^
 ||fadedsnow.com^
 ||fadegranted.com^
 ||fadesunshine.com^
@@ -41397,6 +41398,7 @@
 ||fascespro.com^
 ||fascinateddashboard.com^
 ||fasder12.ru^
+||fasder12.store^
 ||fasfsv-sli.love^
 ||fasgazazxvi.com^
 ||fashion.edm.globalsources.com^
@@ -46965,6 +46967,7 @@
 ||heremployeesihi.info^
 ||hereonline.online^
 ||heresanothernicemess.com^
+||heretopgirll.com^
 ||heretopgirls.net^
 ||herhomeou.xyz^
 ||heritageamyconstitutional.com^
@@ -47344,6 +47347,7 @@
 ||hjgcdi.farmacybeauty.com^
 ||hjgkdv.fiverr.com^
 ||hjimtyu.top^
+||hjj.pw^
 ||hjjshv.xyz^
 ||hjkhxfh.360doc.cn^
 ||hjklq.com^
@@ -47642,6 +47646,7 @@
 ||hostkarma.notifysrv.com^
 ||hostmaster.brandnewapp.pro^
 ||hostmaster.rtnews.pro^
+||hostolhg.com^
 ||hosupshunk.com^
 ||hot-dating-here.life^
 ||hot4k.org^
@@ -49472,6 +49477,7 @@
 ||impressions.svc.abillion.com^
 ||impressionz.co.uk^
 ||impressivecontinuous.com^
+||impressivepail.com^
 ||impressiveporchcooler.com^
 ||impressivewhoop.com^
 ||imprintmake.com^
@@ -50396,6 +50402,7 @@
 ||info2.thermoscientific.com^
 ||info3.thermofisher.com^
 ||infocab888.life^
+||infocentro.ru^
 ||infoco.readingpartners.org^
 ||infodc.readingpartners.org^
 ||infohimatalk77.net^
@@ -57243,6 +57250,7 @@
 ||magicalbending.com^
 ||magicalfurnishcompatriot.com^
 ||magicallyitalian.com^
+||magicgirlsthere.com^
 ||magicianboundary.com^
 ||magiciancleopatramagnetic.com^
 ||magicianguideours.com^
@@ -62515,6 +62523,7 @@
 ||mowhamsterradiator.com^
 ||mowvra.idlookmall.com^
 ||moxtra.actonservice.com^
+||moyslovar.ru^
 ||mozgvya.com^
 ||mozime.com^
 ||mozoo.com^
@@ -65008,6 +65017,7 @@
 ||odb.outbrain.com^
 ||odc.1und1.de^
 ||odc.wunderground.com^
+||oddgate.com^
 ||odds.vebo.xyz^
 ||oddsserve.com^
 ||odeecmoothaith.net^
@@ -65811,6 +65821,7 @@
 ||onlinevacationcenter.actonservice.com^
 ||onlombreor.com^
 ||onlyfansrips.com^
+||onlyneedtoreadnotebook.buzz^
 ||onlypleaseopposition.com^
 ||onlyry.net^
 ||onlyvpn.site^
@@ -66901,7 +66912,6 @@
 ||p2.l.qq.com^
 ||p2l.info^
 ||p2p.huya.com^
-||p2poolmining.com^
 ||p2v.fun^
 ||p3-be-pack-sign.pglstatp-toutiao.com^
 ||p3-lm.adkwai.com^
@@ -67129,6 +67139,7 @@
 ||palaroleg.guru^
 ||palatablelay.pro^
 ||palatedaylight.com^
+||palatialdates.com^
 ||paleexamsletters.com^
 ||paleogdeedful.top^
 ||paletteantler.com^
@@ -67941,6 +67952,7 @@
 ||pheersie.com^
 ||pheetuth.com^
 ||pheftoud.com^
+||phegnauxoudsez.xyz^
 ||pheksousi.net^
 ||pheniter.com^
 ||phenotypebest.com^
@@ -70714,7 +70726,6 @@
 ||pxmzlk.redfin.com^
 ||pxpfnbe1t1.com^
 ||pxqqytk.icu^
-||pxrbl.megafilms.me^
 ||pxsg.pandora.com^
 ||pxtjfmv.xyz^
 ||pxvlcc.crocs.fr^
@@ -71798,6 +71809,7 @@
 ||rbfxoex.xyz^
 ||rbhunp.xyz^
 ||rbift.icu^
+||rbighouse.ru^
 ||rbis-solutions.averydennison.com^
 ||rbjmfj.dickies.ca^
 ||rbkmzhc.icu^
@@ -77311,6 +77323,7 @@
 ||shinep.xyz^
 ||shingleexpressing.com^
 ||shinglelatitude.com^
+||shiningdate.net^
 ||shink.me/p/ifr^
 ||shinygabbleovertime.com^
 ||shinyspiesyou.com^
@@ -82057,6 +82070,7 @@
 ||special-offers.online^
 ||special-promotions.online^
 ||special.aomg5bzv7.com^
+||special2date.net^
 ||specialevent.informaengage.com^
 ||specialisthuge.com^
 ||specialistinsensitive.com^
@@ -87284,6 +87298,7 @@
 ||tearingsinnerprinciples.com^
 ||tearsskin.cfd^
 ||teaserslamda.top^
+||teasmedia.ru^
 ||teaspoonbrave.com^
 ||teaspoondaffodilcould.com^
 ||tebeveck.xyz^
@@ -88028,6 +88043,7 @@
 ||thrzbf.xyz^
 ||thsantmirza.shop^
 ||thsnvv.hollywoodschaukel-paradies.de^
+||thstvv.com^
 ||thtk.temu.com^
 ||thudonanselsaps.net^
 ||thudsurdardu.net^
@@ -88640,6 +88656,7 @@
 ||tomatoitch.com^
 ||tomatoqqamber.click^
 ||tomawilea.com^
+||tombedismal.com^
 ||tomekas.com^
 ||tomladvert.com^
 ||tommy.notifysrv.com^
@@ -88770,6 +88787,7 @@
 ||topforall.com^
 ||topfreenewsfeed.com^
 ||topgamesites.net^
+||topgoroscope.ru^
 ||tophaw.com^
 ||topiccorruption.com^
 ||toplinkz.ru^
@@ -93351,7 +93369,9 @@
 ||unevenregime.com^
 ||unfairgenelullaby.com^
 ||unfaithfulgoddess.com^
+||unfamiiilardates.com^
 ||unfamiiliardate.net^
+||unfamilliardates.com^
 ||unfiledbunkum.shop^
 ||unfinisheddolphin.com^
 ||unfolded-economics.com^
@@ -94776,7 +94796,6 @@
 ||viipular.com^
 ||viipura.com^
 ||viiqqou.com^
-||viiqvmfb.com^
 ||viirift.com^
 ||viirkagt.com^
 ||viisupport.com^
@@ -95016,6 +95035,7 @@
 ||vm8lm1vp.xyz^
 ||vmap.v.ad-generation.jp^
 ||vmauw.space^
+||vmbhlbmgkh.site^
 ||vmcnl.xyz^
 ||vmgihu.gelatopique.com^
 ||vmindhls.tc.qq.com^
@@ -95610,6 +95630,7 @@
 ||wantmuchmorenews.com^
 ||wantopticalfreelance.com^
 ||wantsomenews.com^
+||wantyoudate.net^
 ||waouss.xyz^
 ||wap.mpush.qq.com^
 ||wap.mylifetime.com^
@@ -96731,6 +96752,7 @@
 ||williamfaxarts.com^
 ||williamporterlilac.com^
 ||williednb.com^
+||willingcowbell.com^
 ||willowantibiotic.com^
 ||willtissuetank.com^
 ||wilrimowpaml.com^
@@ -99535,6 +99557,7 @@
 ||xxsmad2.com^
 ||xxsmad3.com^
 ||xxsmad4.com^
+||xxsmad5.com^
 ||xxss6677.com^
 ||xxx.sdtraff.com^
 ||xxx21xl771.lycheenews.com^
@@ -99581,6 +99604,7 @@
 ||xyooepktyy.xyz^
 ||xysefte.icu^
 ||xysgfqnara.xyz^
+||xysrrnavtyod.xyz^
 ||xytcboyz.icu^
 ||xyxgbs.lezhin.com^
 ||xyxz.site^
