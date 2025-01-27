@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-27 09:39:21（北京时间）
+! Version: 2025-01-27 20:40:05（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101075
+! Total count: 101072
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -6074,7 +6074,6 @@
 ||3758.79j68qav2.com^
 ||3758.reminews.com^
 ||3759.luronews.com^
-||375969086c.com^
 ||3760.jemonews.com^
 ||3762.gofenews.com^
 ||3762001.notifysrv.com^
@@ -20324,7 +20323,6 @@
 ||aminks.underarmour.com.tr^
 ||aminopay.net^
 ||amitracks.actonservice.com^
-||amjllwblmlbyr.top^
 ||amjllwbovlvbb.top^
 ||amjllwbovlyba.top^
 ||amjoltiktor.com^
@@ -23297,6 +23295,7 @@
 ||as.welt.de^
 ||as.wieistmeineip.de^
 ||as.yomonda.de^
+||as01271kkp.xyz^
 ||as1.m.hao123.com^
 ||as1.maturexxx.vip^
 ||as1.wenku.baidu.com^
@@ -26499,7 +26498,6 @@
 ||blusterflintbig.com^
 ||blusterhawspontaneous.com^
 ||bluvue.actonservice.com^
-||blwyruirj.xyz^
 ||blytheco.actonservice.com^
 ||blzayw.ticketsmarter.com^
 ||blzbjpg.xyz^
@@ -27653,7 +27651,6 @@
 ||burnswhite.actonservice.com^
 ||burntarcherydecompose.com^
 ||burntclear.com^
-||buroorgi.com^
 ||bursa.conxxx.pro^
 ||burstnet.com^
 ||burydwellingchristmas.com^
@@ -35370,7 +35367,6 @@
 ||debojuagug1sf.cloudfront.net^
 ||debonairdust.com^
 ||debonairtree.com^
-||debonairway.com^
 ||debonerscroop.top^
 ||debrisstern.com^
 ||debsoaftist.com^
@@ -41520,6 +41516,7 @@
 ||fca6f.icu^
 ||fca88bf71e.632c96af3c.com^
 ||fcbacec887.df86fe80e6.com^
+||fcbdpock.icu^
 ||fcc217ae84.com^
 ||fcc222dcb2.fe7fbef413.com^
 ||fccc287c78.64580df84b.com^
@@ -71652,6 +71649,7 @@
 ||raistiwije.net^
 ||raivoabu.com^
 ||rajabets.xyz^
+||rajxjj.icu^
 ||rake.11st.co.kr^
 ||rake.tmap.co.kr^
 ||rakiblinger.com^
@@ -73120,7 +73118,6 @@
 ||rigourpreludefelon.com^
 ||rigryvusfyu.xyz^
 ||riiciuy.com^
-||rijmfqzckx.com^
 ||rikakza.xyz^
 ||rikharenut.shop^
 ||rileimply.com^
@@ -84883,7 +84880,6 @@
 ||stixeepou.com^
 ||stjoe.psjhealth.org^
 ||stjpezyt.com^
-||stk.px-cloud.net^
 ||stktkt.profizelt24.de^
 ||stliom.vidaxl.cz^
 ||stlog.d.dmkt-sp.jp^
@@ -94408,6 +94404,7 @@
 ||vehiclepatsyacacia.com^
 ||vehosw.com^
 ||veih8bee.xhcdn.com^
+||veilengh.com^
 ||veille-referencement.com^
 ||veilsuccessfully.com^
 ||veincartrigeforceful.com^
