@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-28 09:37:16（北京时间）
+! Version: 2025-01-28 20:39:23（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101614
+! Total count: 101602
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -569,7 +569,6 @@
 ||0099.lookinews.com^
 ||0099.lootynews.com^
 ||00author.com^
-||00d2e2e5ef.com^
 ||00f8c4bb25.com^
 ||00go.com^
 ||00it.com^
@@ -16249,7 +16248,6 @@
 ||abcd.yiq.com^
 ||abcd.zle.com^
 ||abcdcfasda.gushiwen.cn^
-||abchimcharon.com^
 ||abchygmsaftnrr.xyz^
 ||abcj.dooccn.com^
 ||abclauncher.com^
@@ -17597,6 +17595,7 @@
 ||adcy.net^
 ||adcycle.com^
 ||add.newmedia.cz^
+||addalzq.com^
 ||addapptr.com^
 ||addata.exxen.com^
 ||addata.jd.com^
@@ -21778,6 +21777,7 @@
 ||analyzer51.fc2.com^
 ||anamaembush.com^
 ||anamuel-careslie.com^
+||anape12.xyz^
 ||anapirate.com^
 ||anapp.adobe.com^
 ||anastasia-international.com^
@@ -22159,7 +22159,6 @@
 ||apatheticdrawerscolourful.com^
 ||apatheticformingalbeit.com^
 ||apathyjav128.fun^
-||apay-us.amazon.com^
 ||apbieqqb.xyz^
 ||apbspeakers.actonservice.com^
 ||apcatcltoph.com^
@@ -23765,6 +23764,7 @@
 ||as.yomonda.de^
 ||as01271kkp.xyz^
 ||as01280kkp.xyz^
+||as01281kkp.xyz^
 ||as1.m.hao123.com^
 ||as1.maturexxx.vip^
 ||as1.wenku.baidu.com^
@@ -24598,7 +24598,6 @@
 ||avygpim.com^
 ||avzwkkmzkawyr.top^
 ||awaitifregularly.com^
-||awaitingdate.com^
 ||awaitingutilize.com^
 ||awakeclauseunskilled.com^
 ||awakeexterior.com^
@@ -24960,7 +24959,6 @@
 ||b-5-shield.com^
 ||b-aws.aol.com^
 ||b-m.xyz^
-||b.accided.online^
 ||b.aecf.org^
 ||b.allsecur.nl^
 ||b.arenum.games^
@@ -25969,7 +25967,6 @@
 ||beardyapii.com^
 ||bearerdarkfiscal.com^
 ||bearinggall.com^
-||bearingted.com^
 ||bears.daigostudio.com^
 ||beastintruder.com^
 ||beastlyrapillo.shop^
@@ -26964,7 +26961,6 @@
 ||blum.stellaplus.xyz^
 ||blunderadventurouscompound.com^
 ||blunderfluffy.com^
-||bluntmonster.com^
 ||blurbreimbursetrombone.com^
 ||blushruinouslamppost.com^
 ||blusterflintbig.com^
@@ -27346,7 +27342,6 @@
 ||bowedcounty.com^
 ||boweddemand.com^
 ||boweddrawback.com^
-||bowedrhymesnack.com^
 ||bowelslipperypraised.com^
 ||bowermisrule.com^
 ||bowerywill.com^
@@ -32222,7 +32217,6 @@
 ||cookie-law-enforcement-qq.xyz^
 ||cookie.amerigas.com^
 ||cookie.cynch.com^
-||cookie.fuel451.com^
 ||cookie.myamerigas.com^
 ||cookie.sync.usonar.jp^
 ||cookiejar.atea.no^
@@ -34889,7 +34883,6 @@
 ||dampapproach.com^
 ||dampdock.com^
 ||dampedvisored.com^
-||damselfly.clk.click^
 ||damselfly.vegenook.com^
 ||dana123.com^
 ||dance.javgle.tokyo^
@@ -35495,6 +35488,7 @@
 ||database01p.anixe.net^
 ||datacluster.club^
 ||datacollector-dra.dt.hicloud.com^
+||datacollector-drru.dt.dbankcloud.ru^
 ||datacygnal.io^
 ||datadog-service.mvfglobal.com^
 ||datadome.maisonsdumonde.com^
@@ -35761,7 +35755,6 @@
 ||dd9l0474.de^
 ||ddb6f742cc.f3010e5e7a.com^
 ||ddbhm.pro^
-||ddd.adil23.xyz^
 ||ddd.contoseroticoscnn.com^
 ||ddd.sexstories69.com^
 ||ddd0273cf4.a85d43cd02.com^
@@ -39068,6 +39061,7 @@
 ||edeals.rbp.com^
 ||edeals.rhymebiz.com^
 ||edeensiwaftaih.xyz^
+||edenai.go2cloud.org^
 ||ederrassi.com^
 ||edgbas.com^
 ||edge-mobile-static.azureedge.net.iberostar.com^
@@ -45892,7 +45886,6 @@
 ||godloveme.cn^
 ||godlu.com^
 ||godmotherelectricity.com^
-||godogle.steeelm.online^
 ||godpvqnszo.com^
 ||godrix.com^
 ||godroonrefrig.com^
@@ -46038,7 +46031,6 @@
 ||gositego.live^
 ||gosoeos2314.tsmt5revp.com^
 ||gosoftwarenow.com^
-||gosoo.steeelm.xyz^
 ||gosorte4321.tsmt5revp.com^
 ||gosrv.cl^
 ||gossipcase.com^
@@ -48923,6 +48915,7 @@
 ||idregie.com^
 ||idrivelogistics.actonservice.com^
 ||ids.actonservice.com^
+||idsse.com^
 ||idstatus.sky.com^
 ||idswinpole.casa^
 ||idthecharityc.info^
@@ -49760,7 +49753,6 @@
 ||imeetcentral.pgi.com^
 ||imemediates.org^
 ||imeto.site^
-||imftrk1.net^
 ||img-c.heytapimage.com^
 ||img-x.jd.com^
 ||img.0279.net^
@@ -51684,7 +51676,6 @@
 ||ish.tumedia.no^
 ||ishainsight.actonservice.com^
 ||isharemetric.rediff.com^
-||ishikawa.steeelm.online^
 ||ishousumo.com^
 ||isi-tracking.eventim.com^
 ||isine88.com^
@@ -51714,7 +51705,6 @@
 ||isparkmedia.com^
 ||isreputysolomo.com^
 ||isrv07.com^
-||isshi.steeelm.xyz^
 ||issomeoneinth.info^
 ||issuedindiscreetcounsel.com^
 ||ist.aomg5bzv7.com^
@@ -52364,6 +52354,7 @@
 ||jg0c.sfr.fr^
 ||jg1.trypicz.com^
 ||jg3.trypicz.com^
+||jg7y.quizlet.com^
 ||jgblvt.xyz^
 ||jgfuxnrloev.com^
 ||jggegj-rtbix.top^
@@ -62099,7 +62090,6 @@
 ||midlk.online^
 ||midmaintee.com^
 ||midnightcontemn.com^
-||mido.steeelm.online^
 ||midootib.net^
 ||midpopedge.com^
 ||midstconductcanned.com^
@@ -63162,7 +63152,6 @@
 ||msi.msigts.com^
 ||msigbs.actonservice.com^
 ||msioay.backcountry.com^
-||msioi.steeelm.xyz^
 ||msite.baidu.com^
 ||msitec.actonservice.com^
 ||msm.qq.com^
@@ -69086,6 +69075,7 @@
 ||plausible.external.sine.foundation^
 ||plausible.f1laps.com^
 ||plausible.factly.in^
+||plausible.flamekiller.org^
 ||plausible.flowcv.io^
 ||plausible.getlean.digital^
 ||plausible.giveatip.io^
@@ -72319,7 +72309,6 @@
 ||rbfxoex.xyz^
 ||rbhunp.xyz^
 ||rbift.icu^
-||rbighouse.ru^
 ||rbis-solutions.averydennison.com^
 ||rbjmfj.dickies.ca^
 ||rbkmzhc.icu^
@@ -82583,7 +82572,6 @@
 ||special-offers.online^
 ||special-promotions.online^
 ||special.aomg5bzv7.com^
-||special2date.net^
 ||specialevent.informaengage.com^
 ||specialisthuge.com^
 ||specialistinsensitive.com^
@@ -84175,7 +84163,6 @@
 ||static.qksrv.cc^
 ||static.rapidbidhub.com^
 ||static.ras-trk.com^
-||static.reachclicks.net^
 ||static.readywind.media^
 ||static.realtime-bid.com^
 ||static.reklama.network^
@@ -92206,6 +92193,7 @@
 ||trayzillion.com^
 ||trazgki.com^
 ||trblocked.com^
+||trbx-l1.online^
 ||trc.gpcdn.pl^
 ||trc.r25.jp^
 ||trc.taboola.com^
@@ -94660,6 +94648,7 @@
 ||v4.guesswhatnews.com^
 ||v402.canoncitydailyrecord.com^
 ||v476.reporterherald.com^
+||v4p.fun^
 ||v5.guesswhatnews.com^
 ||v6-be-pack.pglstatp-toutiao.com^
 ||v6-fe-pack.pglstatp-toutiao.com^
@@ -95148,6 +95137,7 @@
 ||victimcondescendingcable.com^
 ||victoria.aomg5bzv7.com^
 ||victoryrugbyumbrella.com^
+||victorytiime.net^
 ||victorytunatulip.com^
 ||vicuna.callisoma.com^
 ||vicuna.casa-moebel.at^
@@ -95891,7 +95881,6 @@
 ||vwiind.beautyforever.com^
 ||vwinagptucpa.com^
 ||vwioxxra.com^
-||vwlknjjt.com^
 ||vwmjkl.icu^
 ||vwonwkaqvq-a.global.ssl.fastly.net^
 ||vwotiw.agazeta.com.br^
@@ -99792,7 +99781,6 @@
 ||xml.q32167.com^
 ||xml.qksrv.cc^
 ||xml.re-media.info^
-||xml.reachclicks.net^
 ||xml.readywind.media^
 ||xml.realtime-bid.com^
 ||xml.reklama.network^
