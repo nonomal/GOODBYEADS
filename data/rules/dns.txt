@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-28 20:39:23（北京时间）
+! Version: 2025-01-29 09:37:27（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101602
+! Total count: 101607
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -9407,7 +9407,6 @@
 ||6bcf1efec5.b21379380e.com^
 ||6bgaput9ullc.com^
 ||6br.lycheenews.com^
-||6c078023c1.com^
 ||6c4ab5bf6a.586ee111d1.com^
 ||6c5xnntfvi.com^
 ||6c67329704.4d3f87f705.com^
@@ -9457,6 +9456,7 @@
 ||6pal.consobaby.com^
 ||6ped2nd3yp.com^
 ||6pznpz.com^
+||6qo.fun^
 ||6qyxeob.xyz^
 ||6r9ahe6qb.com^
 ||6rn05mmbct.ru^
@@ -14641,7 +14641,6 @@
 ||a7dfd3c64a.84f101d1bb.com^
 ||a7e.monnierfreres.de^
 ||a7e48ab5ca.b9f26bbf80.com^
-||a7f851c6ab.com^
 ||a8-22.hana-yume.net^
 ||a8-affiliate.kase3535.com^
 ||a8-cv.lean-body.jp^
@@ -17334,7 +17333,6 @@
 ||ad.vietbao.vn^
 ||ad.virtual-nights.com^
 ||ad.vkool.net^
-||ad.vkoolzzz.net^
 ||ad.vrvm.com^
 ||ad.walkgame.com^
 ||ad.wavu.hu^
@@ -20107,7 +20105,6 @@
 ||aitertemob.net^
 ||aitoocoo.xyz^
 ||aitsatho.com^
-||aitsouty.top^
 ||aivali.openapp.link^
 ||aiveemtomsaix.net^
 ||aivoonsa.xyz^
@@ -24650,7 +24647,6 @@
 ||awestat.com/npt/banner^
 ||awestatic.com^
 ||awestc.com^
-||awexjtozogod.com^
 ||aweyqalyljbj.top^
 ||aweyqalylqqr.top^
 ||awfulmorning.pro^
@@ -26440,6 +26436,7 @@
 ||bhabhiporn.pro^
 ||bhakte.com^
 ||bhalukecky.com^
+||bhanphevg.com^
 ||bhaoea.cn^
 ||bhawtp.vitacost.com^
 ||bhcfpo.elfa.se^
@@ -26628,6 +26625,7 @@
 ||biopsyheadless.com^
 ||biopsyintruder.com^
 ||biosda.com^
+||bipeedsoubsie.xyz^
 ||bipgialxcfvad.xyz^
 ||biphic.com^
 ||biplihopsdim.com^
@@ -27353,6 +27351,7 @@
 ||bowlingunauthorized.com^
 ||bowlprick.com^
 ||bowlpromoteintimacy.com^
+||bownunseel.com^
 ||bowoprf.icu^
 ||bowsingchilkat.click^
 ||bowvses.icu^
@@ -27668,6 +27667,7 @@
 ||brephras.com^
 ||brerkols.com^
 ||brespark.eccocar.com^
+||brethelkumys.com^
 ||brevityeconomy.com^
 ||brevnet.eccocar.com^
 ||brewailmentsubstance.com^
@@ -27704,6 +27704,7 @@
 ||brieflizard.com^
 ||briefready.com^
 ||briefredos.click^
+||briersiconv.com^
 ||brightcriticism.com^
 ||brightenpleasurejest.com^
 ||brighteroption.com^
@@ -29842,6 +29843,7 @@
 ||chalkedretrieval.com^
 ||challengeh.carte-gr.total.fr^
 ||challengetoward.com^
+||chalonbinge.com^
 ||chalondeacons.com^
 ||chambermaidthree.xyz^
 ||chambershoist.com^
@@ -31577,7 +31579,6 @@
 ||community.xw.qq.com^
 ||comoideludes.shop^
 ||compactbanner.com^
-||compactdiverse.com^
 ||company.com.ph^
 ||comparativeexclusion.com^
 ||comparativelyoccursdeclaration.com^
@@ -46022,7 +46023,6 @@
 ||gorillatraffic.xyz^
 ||gorillatrking.com^
 ||gorod.tunt.lv^
-||goruli.com^
 ||goschenelect.com^
 ||gosenergy.actonservice.com^
 ||goseri-link.mysuki.io^
@@ -47433,6 +47433,7 @@
 ||hercockremarke.info^
 ||herconsequence.com^
 ||herdailylife.com^
+||herdersfiches.com^
 ||herdethi.net^
 ||herdmenrations.com^
 ||hereaftertriadcreep.com^
@@ -51287,7 +51288,6 @@
 ||internal-analytics.odoo.com^
 ||internal-deal.com^
 ||internal-e.posthog.com^
-||internal.750g.com^
 ||internal.hcltech.com^
 ||internal.notifysrv.com^
 ||internal.terrafemina.com^
@@ -52225,6 +52225,7 @@
 ||jdgtgb.weser-kurier.de^
 ||jdickea.top^
 ||jdiekknmcb.com^
+||jdinmia.top^
 ||jdipsuma.top^
 ||jditera.top^
 ||jdmodr.com^
@@ -52677,6 +52678,7 @@
 ||jordan.qunis.ru^
 ||jorttiuyng.com^
 ||josephineravine.com^
+||josephtotters.top^
 ||josfrvq.com^
 ||josiehopeless.com^
 ||josiepigroot.com^
@@ -54340,6 +54342,7 @@
 ||lan.landing.ni.com^
 ||lancaster.aomg5bzv7.com^
 ||lanceforthwith.com^
+||land.izuchai.dance^
 ||landelcut.com^
 ||landerhq.com^
 ||landfowl.typegang.com^
@@ -56804,6 +56807,7 @@
 ||longmusic.com^
 ||loobilysubdebs.com^
 ||loobmf.hardloop.fr^
+||loobyfleyed.com^
 ||loodauni.com^
 ||loohiwez.net^
 ||look-ahead.nurturemarketing.com^
@@ -65343,7 +65347,6 @@
 ||oast.online^
 ||oast.pro^
 ||oast.site^
-||oastoorg.com^
 ||oastoumsaimpoa.xyz^
 ||oatchaudu.net^
 ||oatchelt.com^
@@ -67622,6 +67625,7 @@
 ||pajamasgnat.com^
 ||pajamasguests.com^
 ||pajnutas.com^
+||pajockpomme.com^
 ||pajtll.xyz^
 ||pakaujf.icu^
 ||pakdru.altrarunning.com^
@@ -67880,6 +67884,7 @@
 ||paservices.tech^
 ||pasheeheghie.net^
 ||pashmfordeal.com^
+||pashulroak.net^
 ||paslsa.com^
 ||passagessixtyseeing.com^
 ||passeura.com^
@@ -72841,6 +72846,7 @@
 ||rek.serial24.com^
 ||rek.www.wp.pl^
 ||rek5.savefrom.net^
+||reke.at.sohu.com^
 ||rekipion.com^
 ||rekl.seasonvar.ru^
 ||reklam.arabul.com^
@@ -72979,7 +72985,6 @@
 ||renohj.xyz^
 ||renovatefairfaxmope.com^
 ||renrenkanpian.com^
-||rensuvoofeex.com^
 ||rent.mgrc.com^
 ||rentalrebuild.com^
 ||renting.aldautomotive.es^
@@ -77825,7 +77830,6 @@
 ||shinep.xyz^
 ||shingleexpressing.com^
 ||shinglelatitude.com^
-||shiningdate.net^
 ||shink.me/p/ifr^
 ||shinygabbleovertime.com^
 ||shinyspiesyou.com^
@@ -78268,6 +78272,7 @@
 ||sixuzxwdajpl.com^
 ||siyaukq.com^
 ||sizcsi.eobuv.cz^
+||sizedcalas.com^
 ||sizybn.shipsltd.co.jp^
 ||sizzledfirings.com^
 ||sjalipa.cn^
@@ -89365,7 +89370,6 @@
 ||totalmedia2.ynet.co.il^
 ||totalnicefeed.com^
 ||totaltopfeed.com^
-||totaltopposts.com^
 ||totalwowblog.com^
 ||totalwownews.com^
 ||totemcash.com^
@@ -95564,6 +95568,7 @@
 ||vmuid.com^
 ||vmvajwc.com^
 ||vmwody.seibu-k.co.jp^
+||vmxvcjuf.icu^
 ||vmzqqmlpwwmazjnio.com^
 ||vn1.lookinews.com^
 ||vnadssb.com^
@@ -95800,6 +95805,7 @@
 ||vt.mak.com^
 ||vtabnalp.net^
 ||vtbfgnf00.fun^
+||vtbkhl.icu^
 ||vtdgfisz.icu^
 ||vteflygt.com^
 ||vtetishcijmi.com^
@@ -100386,7 +100392,6 @@
 ||yhimpnr.icu^
 ||yhjgjk.wemakeup.it^
 ||yhjhjwy.com^
-||yhjhmlutxksgyjo.xyz^
 ||yhlpshi.xyz^
 ||yhmhbnzz.com^
 ||yhnvgdkw.xyz^
