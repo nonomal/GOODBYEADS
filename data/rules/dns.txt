@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-29 09:37:27（北京时间）
+! Version: 2025-01-29 20:38:42（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101607
+! Total count: 101594
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1632,6 +1632,7 @@
 ||0591.deeginews.com^
 ||0591.jemonews.com^
 ||0591.lookinews.com^
+||0592.mobi^
 ||0593.reminews.com^
 ||0594.5clo0xmbf.com^
 ||0594.reminews.com^
@@ -3373,7 +3374,6 @@
 ||1898.luronews.com^
 ||189zx.com^
 ||18freeporn.com^
-||18hdxxx.com^
 ||18pluspics.com^
 ||18plusstore.com^
 ||18teensex.com^
@@ -5322,7 +5322,6 @@
 ||3298834.notifysrv.com^
 ||3299.luronews.com^
 ||32ae2295ab.com^
-||32d39cd3fe.com^
 ||32d3db0610.db35b0c4c1.com^
 ||32dcfb89c9.6ee4d8e440.com^
 ||32n.icu^
@@ -8787,7 +8786,6 @@
 ||6061de8597.com^
 ||6062.rookinews.com^
 ||6064032171.9c40c28bf4.com^
-||6064695105.com^
 ||6065.lycheenews.com^
 ||6066.lootynews.com^
 ||6066.reminews.com^
@@ -11820,7 +11818,6 @@
 ||9bbbabcb26.com^
 ||9bc639da.xyz^
 ||9bdb.pandasuite.io^
-||9bdf800214.com^
 ||9bf9309f6f.com^
 ||9bff4acb16.051e57adf3.com^
 ||9br.lycheenews.com^
@@ -16705,7 +16702,6 @@
 ||acclaimbedtime.com^
 ||acclaimcraftsman.com^
 ||acclaimed-travel.pro^
-||acclalmeddate.com^
 ||acclalmeddate.net^
 ||acclaro.actonservice.com^
 ||acclog001.shop-pro.jp^
@@ -36918,7 +36914,6 @@
 ||direct-collect.dy-api.eu^
 ||direct-events-collector.spot.im^
 ||direct-specific.com^
-||direct-xxx-access.com^
 ||direct.diarymuslim.com^
 ||directaclick.com^
 ||directavenue.tech^
@@ -37726,6 +37721,7 @@
 ||doubleclick.com^
 ||doubleclick.ctfile.com^
 ||doubleclick.de^
+||doubleclick.host^
 ||doubleclick.ne.jp^
 ||doubleclick.net^
 ||doublemax.net^
@@ -39199,7 +39195,6 @@
 ||eegheecog.net^
 ||eeghooptauy.net^
 ||eegnacou.com^
-||eegnoune.com^
 ||eegookiz.com^
 ||eegroosoad.com^
 ||eeheersoat.com^
@@ -42939,6 +42934,7 @@
 ||fnfhgj.secretsales.com^
 ||fngwdl.allheart.com^
 ||fnjoomqa.icu^
+||fnl.quizizz.com^
 ||fnlojkpbe.com^
 ||fnlvhy.wowma.jp^
 ||fnmvok.aaaradiatory.cz^
@@ -44783,6 +44779,7 @@
 ||gh.vsee.me^
 ||gh3hswoo.sdbrrrr.lat^
 ||ghabnq.xyz^
+||ghairqin.com^
 ||gharryronier.click^
 ||ghcaoaefmj.com^
 ||ghd.vsee.me^
@@ -47911,7 +47908,6 @@
 ||hoacauch.net^
 ||hoadaphagoar.net^
 ||hoadavouthob.com^
-||hoaglaustoad.com^
 ||hoaleenech.com^
 ||hoanoola.net^
 ||hoaphoath.com^
@@ -48128,6 +48124,7 @@
 ||hotadultcontent.com^
 ||hotadultvids.com^
 ||hotapi-va.isnssdk.com^
+||hotbbuvifu.cc^
 ||hotbedssmarmy.digital^
 ||hotbonus.loopanews.com^
 ||hotboys.biz^
@@ -48423,7 +48420,6 @@
 ||hugupq.selency.fr^
 ||hugysoral.digital^
 ||huhcoldish.com^
-||huhowmvewocv.xyz^
 ||huichuan.sm.cn^
 ||huigt6y.xyz^
 ||huisvrouwen.be^
@@ -50881,7 +50877,6 @@
 ||info2.thermoscientific.com^
 ||info3.thermofisher.com^
 ||infocab888.life^
-||infocentro.ru^
 ||infoco.readingpartners.org^
 ||infodc.readingpartners.org^
 ||infohimatalk77.net^
@@ -53302,6 +53297,7 @@
 ||kde.qq.com^
 ||kdhmzv.oculosmeninaflor.com.br^
 ||kdicked.top^
+||kdinmid.top^
 ||kdipsumd.top^
 ||kdjdpyrt.xyz^
 ||kdlktswsqhpd.com^
@@ -56875,6 +56871,7 @@
 ||losingoldfry.com^
 ||losingtiger.com^
 ||losital.ru^
+||losobo.xyz^
 ||lossactivity.com^
 ||lostdormitory.com^
 ||lostinfuture.com^
@@ -57739,7 +57736,6 @@
 ||magicalbending.com^
 ||magicalfurnishcompatriot.com^
 ||magicallyitalian.com^
-||magicgirlsthere.com^
 ||magicianboundary.com^
 ||magiciancleopatramagnetic.com^
 ||magicianguideours.com^
@@ -65258,7 +65254,6 @@
 ||oacaighy.com^
 ||oacechoo.com^
 ||oaceewhouceet.net^
-||oachaigin.com^
 ||oackaudrikrul.net^
 ||oackoubs.com^
 ||oacoagne.com^
@@ -67017,7 +67012,6 @@
 ||outaipoma.com^
 ||outal.origo.hu^
 ||outarcaninean.com^
-||outastib.com^
 ||outbalanceleverage.com^
 ||outbound.aomg5bzv7.com^
 ||outbrainimg.com^
@@ -67634,7 +67628,6 @@
 ||palaroleg.guru^
 ||palatablelay.pro^
 ||palatedaylight.com^
-||palatialdates.com^
 ||paleexamsletters.com^
 ||paleogdeedful.top^
 ||paletteantler.com^
@@ -70910,7 +70903,6 @@
 ||pundr.shemrec.cc^
 ||pungar85.shop^
 ||pungentsmartlyhoarse.com^
-||punicajosher.top^
 ||punishgrantedvirus.com^
 ||punkhonouredrole.com^
 ||punkieamplect.com^
@@ -72451,7 +72443,6 @@
 ||realgfporn.com/lander^
 ||realisecheerfuljockey.com^
 ||realiseequanimityliteracy.com^
-||realistic-negotiation.com^
 ||realiukzem.org^
 ||realizationhunchback.com^
 ||realize.goldenspiralmarketing.com^
@@ -82393,7 +82384,6 @@
 ||sp.burlingtonfreepress.com^
 ||sp.caller.com^
 ||sp.cargurus.co.uk^
-||sp.centralfloridafuture.com^
 ||sp.chillicothegazette.com^
 ||sp.cincinnati.com^
 ||sp.citizen-times.com^
@@ -87871,7 +87861,6 @@
 ||teestoagloupaza.net^
 ||teetusee.xyz^
 ||teewhilemath.net^
-||teezoshou.com^
 ||tefrjctjwuu.com^
 ||tefuse.com^
 ||tegleebs.com^
@@ -97560,7 +97549,6 @@
 ||wollycanoing.com^
 ||wolqundera.com^
 ||wolsretet.net^
-||woltagnourgu.com^
 ||woltar.live^
 ||woltarty.com^
 ||wolve.pro^
@@ -100660,7 +100648,6 @@
 ||yourtthig.com^
 ||youruntie.com^
 ||yourwebbars.com^
-||yourwowfeed.com^
 ||yourwownews.com^
 ||yourwownewz.com^
 ||youservit.com^
