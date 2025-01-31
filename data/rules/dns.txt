@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-30 20:39:24（北京时间）
+! Version: 2025-01-31 09:37:47（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101651
+! Total count: 101683
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2078,6 +2078,7 @@
 ||0a1c70608b.2e4b7fc71a.com^
 ||0a22eeac91.e46ece0a18.com^
 ||0a3a73fbc1.14f9a8b353.com^
+||0a74314cd1.com^
 ||0a8d87mlbcac.top^
 ||0ab8344566.51cd57d70c.com^
 ||0ae00c7c.xyz^
@@ -8380,6 +8381,7 @@
 ||5702.luronews.com^
 ||5706.lycheenews.com^
 ||5707.79j68qav2.com^
+||5707f9766c.com^
 ||5709.833enmhob.com^
 ||5709.gofenews.com^
 ||5712.jemonews.com^
@@ -16111,6 +16113,7 @@
 ||aainfo.anz.co.nz^
 ||aajdcp.brand-satei.me^
 ||aajfoz.halfclub.com^
+||aajjfemnw.com^
 ||aajmmd.aireuropa.com^
 ||aajoqmytnrq.com^
 ||aajtech.actonservice.com^
@@ -20667,6 +20670,7 @@
 ||am.siemensplmevents.com^
 ||am.szhome.com^
 ||am.yahoo.co.jp^
+||am0.fun^
 ||am10.ru^
 ||am11.ru^
 ||am15.net^
@@ -20885,6 +20889,7 @@
 ||amwatching.com^
 ||amxpceol.com^
 ||amyfixesfelicity.com^
+||amylo.site^
 ||amylsturkdom.com^
 ||amzargfaht.com^
 ||amzbtuolwp.com^
@@ -26081,6 +26086,7 @@
 ||beginoppressivegreet.com^
 ||begknock.com^
 ||begnawnkaliphs.top^
+||begoihuh.com^
 ||begracetindery.com^
 ||beguessbents.com^
 ||begun.ru^
@@ -26727,6 +26733,7 @@
 ||bjqug.xyz^
 ||bjrspnbf.xyz^
 ||bjs.faxingzhan.com^
+||bjsvp35.space^
 ||bjuvux.andgino.jp^
 ||bjxfnn.xyz^
 ||bjxiangcao.com^
@@ -33107,6 +33114,7 @@
 ||ctcxflak.xyz^
 ||ctd.drivescore.com^
 ||ctdfm.ilgiornale.it^
+||cteakmwtivr.com^
 ||ctengine.io^
 ||ctent.povvverz.one^
 ||cteripre.com^
@@ -38276,6 +38284,7 @@
 ||duralgomari.com^
 ||durantconvey.com^
 ||durchsichtig.xyz^
+||duringherenurew.com^
 ||durith.com^
 ||durst-group.actonservice.com^
 ||duskinglocus.com^
@@ -42179,6 +42188,7 @@
 ||fenixm.com^
 ||fenloxstream.wiki^
 ||fennecsenlard.shop^
+||fenoofaussut.net^
 ||fentent.stre4mplay.one^
 ||fentent.streampiay.me^
 ||feodzebecks.click^
@@ -46780,6 +46790,7 @@
 ||gyehtm.thebridge.it^
 ||gyfumobo.com^
 ||gyh1lh20owj.ru^
+||gyklvfxbpt.com^
 ||gylor.xyz^
 ||gymgipsy.com^
 ||gymnasiumfilmgale.com^
@@ -48130,6 +48141,7 @@
 ||host.pornolenta.cc^
 ||host.roxiapp.com^
 ||host11.traffic-builders.com^
+||hostadsmarkets.com^
 ||hostave.net^
 ||hostave4.net^
 ||hostedads.realitykings.com^
@@ -52098,6 +52110,7 @@
 ||jaumevie.com^
 ||jaunithuw.com^
 ||jauntycrystal.com^
+||jauntyit.com^
 ||jaupaptaifoaw.net^
 ||jauphauzee.net^
 ||jaupozup.xyz^
@@ -52295,6 +52308,7 @@
 ||jehudf.com^
 ||jeinugsnkwe.xyz^
 ||jekesjzv.com^
+||jekkfqndxe.com^
 ||jekotyay.com^
 ||jelllearnedhungry.com^
 ||jellyfish.teresaharlow.com^
@@ -57136,6 +57150,7 @@
 ||lpzxed.superesportes.com.br^
 ||lpzxed.uai.com.br^
 ||lqbinr.locker-room.co.kr^
+||lqbvjmkoomerm.top^
 ||lqbzuny.com^
 ||lqcaznzllnrfh.com^
 ||lqcdn.com^
@@ -58031,6 +58046,7 @@
 ||manomincasaque.com^
 ||manompas.com^
 ||manorfunctions.com^
+||manrec.cc^
 ||manrootarbota.com^
 ||mansfieldspurtvan.com^
 ||manslaughterhallucinateenjoyment.com^
@@ -68262,6 +68278,7 @@
 ||perf.hsforms.com^
 ||perf.mouser.com^
 ||perfb.com^
+||perfect-interest.com^
 ||perfectaudience.com^
 ||perfectflowing.com^
 ||perfectionministerfeasible.com^
@@ -69314,6 +69331,7 @@
 ||plumbfullybeehive.com^
 ||plumbsplash.com^
 ||plummychewer.com^
+||plumousfouldre.shop^
 ||plumpcontrol.pro^
 ||plumpdianafraud.com^
 ||plumpdisobeyastronomy.com^
@@ -70441,6 +70459,7 @@
 ||prosedisavow.com^
 ||proselyaltars.com^
 ||prosinggumdrop.com^
+||prospectsirresistible.com^
 ||prosperent.com^
 ||prosperitysemiimpediment.com^
 ||prosperousdreary.com^
@@ -71196,6 +71215,7 @@
 ||pvxvazbehd.com^
 ||pw.gigazine.net^
 ||pw.wpu.sh^
+||pw2.fun^
 ||pw2ct1.asia^
 ||pwaarkac.com^
 ||pwbffdsszgkv.com^
@@ -73725,6 +73745,7 @@
 ||rjlkibvwgxiduq.com^
 ||rjowzlkaz.today^
 ||rjsouj.clubd.co.jp^
+||rjvmxdhfmyvsuy.com^
 ||rjw4obbw.com^
 ||rjwpwod.icu^
 ||rk6h3.icu^
@@ -73781,6 +73802,7 @@
 ||rms-drcn.platform.dbankcloud.cn^
 ||rmshqa.com^
 ||rmtckjzct.com^
+||rmtxdn.icu^
 ||rmuuspy.com^
 ||rmxads.com^
 ||rmxhti.zpacks.com^
@@ -76070,6 +76092,7 @@
 ||scholarsgrewsage.com^
 ||scholarsslate.com^
 ||schoolboyfingernail.com^
+||schoolhangoverearlier.com^
 ||schoolmasterconveyedladies.com^
 ||schoolnotwithstandingconfinement.com^
 ||schoolunmoved.com^
@@ -77900,6 +77923,7 @@
 ||shockingstrategynovelty.com^
 ||shockynews.com^
 ||shodaisy.com^
+||shoeinggrimy.top^
 ||shoessaucepaninvoke.com^
 ||shoftoussees.com^
 ||shok.md/wp-content/banners^
@@ -82572,6 +82596,7 @@
 ||spain.thomsonreuters.com^
 ||spaleswairsh.com^
 ||spam.carte-gr.total.fr^
+||spamimpunity.com^
 ||spamtitan.actonservice.com^
 ||spanish.aomg5bzv7.com^
 ||spanish.notifysrv.com^
@@ -85663,6 +85688,7 @@
 ||strikenurse.usnursing.com^
 ||strikeprowesshelped.com^
 ||strikinghystericalglove.com^
+||strilqoill.com^
 ||stripe.rs-1028-a.com^
 ||stripedcover.pro^
 ||stripedonerous.com^
@@ -88514,6 +88540,7 @@
 ||tholteti.com^
 ||thomasalthoughhear.com^
 ||thomasbarlowpro.com^
+||thomasmonks.com^
 ||thomsonreuters.actonservice.com^
 ||thongke.24h.com.vn^
 ||thongke.arttimes.vn^
@@ -88532,6 +88559,7 @@
 ||thoorest.com^
 ||thoorgins.com^
 ||thoorteeboo.xyz^
+||thoosatheedo.net^
 ||thootsoumsoa.com^
 ||thordoodovoo.net^
 ||thornfloatingbazaar.com^
@@ -88607,6 +88635,7 @@
 ||thunderdepthsforger.top^
 ||thunderhead.com^
 ||thunnqyo.com^
+||thuoccultive.com^
 ||thuphedsaup.com^
 ||thupsirsifte.xyz^
 ||thurnflfant.com^
@@ -95136,6 +95165,7 @@
 ||vgzytn.xyz^
 ||vh8.icu^
 ||vhans.siege-corp.com^
+||vhbeyeqaukjui.xyz^
 ||vhdbohe.com^
 ||vhducnso.com^
 ||vheoggjiqaz.com^
@@ -96862,6 +96892,7 @@
 ||weightfeathersoffhand.com^
 ||weinas.co.in^
 ||weird-lab.pro^
+||weird-speed.pro^
 ||weirddistribution.pro^
 ||weirdsentence.com^
 ||weixin.qq.hellocdn.top^
@@ -100264,6 +100295,7 @@
 ||yardr.net^
 ||yarlnk.com^
 ||yarningbursal.com^
+||yasesumedadele.com^
 ||yashi.com^
 ||yast.rutube.ru^
 ||yatemy.cn^
