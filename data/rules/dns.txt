@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-31 09:37:47（北京时间）
+! Version: 2025-01-31 20:38:55（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101683
+! Total count: 101702
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2081,6 +2081,7 @@
 ||0a74314cd1.com^
 ||0a8d87mlbcac.top^
 ||0ab8344566.51cd57d70c.com^
+||0ab9f67572.com^
 ||0ae00c7c.xyz^
 ||0af2a962b0102942d9a7df351b20be55.com^
 ||0af597d3bd.ce26c78a4e.com^
@@ -20352,6 +20353,7 @@
 ||algat.intergoles.me^
 ||algerianembassy.co.in^
 ||algg.site^
+||algicgauzes.com^
 ||algo.creepingbrings.com^
 ||algodon.net^
 ||algolduckan.com^
@@ -23544,6 +23546,7 @@
 ||aralomomolachan.com^
 ||araneidboruca.com^
 ||arbersunroof.com^
+||arboreaisidae.com^
 ||arbourrenewal.com^
 ||arbutterfreer.com^
 ||arc1.msn.com^
@@ -23558,6 +23561,7 @@
 ||archedmagnifylegislation.com^
 ||archerpointy.com^
 ||archerseizure.com^
+||archiedujan.com^
 ||archiewinningsneaking.com^
 ||architectmalicemossy.com^
 ||architecturecultivated.com^
@@ -24657,6 +24661,7 @@
 ||aweyqalylqqr.top^
 ||awfulmorning.pro^
 ||awfulresolvedraised.com^
+||awfurawer.com^
 ||awfzfs.kwantum.nl^
 ||awggij.wplay.co^
 ||awhauchoa.net^
@@ -26089,6 +26094,7 @@
 ||begoihuh.com^
 ||begracetindery.com^
 ||beguessbents.com^
+||begumsbandi.com^
 ||begun.ru^
 ||begwhistlinggem.com^
 ||beha.ksmobile.com^
@@ -27018,6 +27024,7 @@
 ||bn.kino-go.co^
 ||bn.ohah.ru^
 ||bn.orthodoxy.ru^
+||bn.radiogold.it^
 ||bn.take-profit.org^
 ||bn.voyage-prive.com^
 ||bn5x.net^
@@ -38061,6 +38068,7 @@
 ||drumskilxoa.click^
 ||drunkendecembermediocre.com^
 ||drunkindigenouswaitress.com^
+||drustren.com^
 ||druzja.canmart.co.kr^
 ||drvive.lamoda.ru^
 ||drxxnhks.com^
@@ -39222,6 +39230,7 @@
 ||eegnacou.com^
 ||eegookiz.com^
 ||eegroosoad.com^
+||eehassoosostoa.com^
 ||eeheersoat.com^
 ||eehhabacgieacfjeaacg.world^
 ||eehir.tech^
@@ -44038,6 +44047,7 @@
 ||gak.webtoons.com^
 ||gakairohekoa.com^
 ||gakrarsabamt.net^
+||galagosalmon.top^
 ||galas3xy.com^
 ||galaxien.com^
 ||galaxydiminution.com^
@@ -45060,6 +45070,7 @@
 ||gleewhor.xyz^
 ||gleloamseft.xyz^
 ||glelroalso.xyz^
+||glempirteechacm.com^
 ||gleneditor.com^
 ||glenmexican.com^
 ||glersakr.com^
@@ -57407,6 +57418,7 @@
 ||lwprdv.xyz^
 ||lwrnikzjpp.com^
 ||lwrohd.xyz^
+||lwtupzua.icu^
 ||lwurserl.top^
 ||lwusnt.yogibo.kr^
 ||lwvrv.icu^
@@ -62608,6 +62620,7 @@
 ||moa.mediaoutcast.com^
 ||moadworld.com^
 ||moaglail.xyz^
+||moagrejinubiko.xyz^
 ||moagroal.com^
 ||moakaumo.com^
 ||moanhaul.com^
@@ -63420,7 +63433,6 @@
 ||mwbhkv.plasico.bg^
 ||mwbilx.pisos.com^
 ||mweb-hb.presage.io^
-||mwejhobumo.com^
 ||mwerilxx.top^
 ||mweriox.top^
 ||mwf7.montecarlowellness.com^
@@ -66690,6 +66702,7 @@
 ||oracle-netsuite-com-796203850.p04.elqsandbox.com^
 ||oracle.marketingcube.com.au^
 ||oracletechnology.arrow.com^
+||oraefleers.top^
 ||oraheadyguinner.org^
 ||oralking.shop^
 ||oralmaliciousmonday.com^
@@ -69652,6 +69665,7 @@
 ||porcupine.dvresolve.com^
 ||poredii.com^
 ||porkpielepidin.com^
+||porktuliac.shop^
 ||porn-upload.com^
 ||porn18.me^
 ||porn213419.4puuqeh41.com^
@@ -73840,6 +73854,7 @@
 ||roadoati.xyz^
 ||roadrunner.ausmv.com.au^
 ||roagreed.com^
+||roagrofoogrobo.com^
 ||roajaiwoul.com^
 ||roamapheejub.com^
 ||roambedroom.com^
@@ -76254,6 +76269,7 @@
 ||sda.seksohub.com^
 ||sdamcsb.top^
 ||sdarot-il.org^
+||sdarot-tv.org^
 ||sdarot.cc^
 ||sdata.avid.com^
 ||sdata.chelseafc.com^
@@ -76399,6 +76415,7 @@
 ||searchrespectivelypotency.com^
 ||searchresultsadblocker.com^
 ||searchsecurer.com^
+||searswalers.com^
 ||seashorelikelihoodreasonably.com^
 ||seashoremessy.com^
 ||seashorepigeonsbanish.com^
@@ -86125,6 +86142,7 @@
 ||survivalcheersgem.com^
 ||survrhostngs.xyz^
 ||susanbabysitter.com^
+||sushainsihogner.net^
 ||susheeze.xyz^
 ||susifhfh2d8ldn09.com^
 ||suspectedadvisor.com^
@@ -87679,6 +87697,7 @@
 ||taugookoaw.net^
 ||tauphaub.net^
 ||taurus.aomg5bzv7.com^
+||tautedmasonry.com^
 ||tauvoojo.net^
 ||taxconceivableseafood.com^
 ||taxi69.com/nb^
