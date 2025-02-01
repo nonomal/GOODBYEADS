@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-02-01 09:42:21（北京时间）
+! Version: 2025-02-01 20:35:41（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101715
+! Total count: 101735
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -3523,6 +3523,7 @@
 ||1buo.icu^
 ||1buu1.penyouw.com^
 ||1bw7etm93lf.www.woodbrass.com^
+||1c0c3fde9d.com^
 ||1c447fc5b7.com^
 ||1c466187fa.30e4a37eb7.com^
 ||1c52e1e2.live^
@@ -11440,6 +11441,7 @@
 ||9417.jemonews.com^
 ||9418b95070.845d6bbf60.com^
 ||9420.lootynews.com^
+||9421d59b1d.com^
 ||9424.reminews.com^
 ||9428.deeginews.com^
 ||9429.selornews.com^
@@ -19993,6 +19995,7 @@
 ||aiejlfb.com^
 ||aiftakrenge.com^
 ||aigaithojo.com^
+||aigeersaibouk.net^
 ||aigenstud.com^
 ||aigfednd.icu^
 ||aigheebsu.net^
@@ -21095,6 +21098,7 @@
 ||analytics.audionow.de^
 ||analytics.autozone.com^
 ||analytics.avanser.com.au^
+||analytics.avcdn.net^
 ||analytics.avis.de^
 ||analytics.aweber.com^
 ||analytics.awhr.com^
@@ -22005,7 +22009,6 @@
 ||antenta.site^
 ||antentgu.co.in^
 ||anteog.com^
-||anthemmutevenison.com^
 ||anthemportalcommence.com^
 ||anthill.vn^
 ||anti-adblock.herokuapp.com^
@@ -23769,6 +23772,7 @@
 ||as01271kkp.xyz^
 ||as01280kkp.xyz^
 ||as01281kkp.xyz^
+||as02010kkp.xyz^
 ||as1.m.hao123.com^
 ||as1.maturexxx.vip^
 ||as1.wenku.baidu.com^
@@ -26266,6 +26270,7 @@
 ||best-u.vip^
 ||best-video-app.com^
 ||best-vpn-app.com^
+||best0ne.com^
 ||bestadbid.com^
 ||bestadload.com^
 ||bestadsforyou.com^
@@ -27274,6 +27279,7 @@
 ||boringbegglanced.com^
 ||boringoccasion.pro^
 ||bornebeautify.com^
+||bornmandemicria.co.in^
 ||bororango.com^
 ||borotango.com^
 ||boroup.com^
@@ -31263,6 +31269,7 @@
 ||col.idealista.it^
 ||col.idealista.pt^
 ||col.rentalia.com^
+||coladinlized.com^
 ||colanbalkily.com^
 ||colanderdecrepitplaster.com^
 ||colarak.com^
@@ -36712,6 +36719,7 @@
 ||digitalmediapp.com^
 ||digitalmerkat.com^
 ||digitalworkplace.ricoh.fr^
+||digitklosh.top^
 ||dignityhourmulticultural.com^
 ||dignityprop.com^
 ||dignityunattractivefungus.com^
@@ -37703,7 +37711,6 @@
 ||doprinplupr.com^
 ||doptefoumsifee.xyz^
 ||doptik.ru^
-||dopub.site^
 ||doraikouor.com^
 ||dorangesource.alicdn.com^
 ||dore.new-indian-porn.com^
@@ -41255,6 +41262,7 @@
 ||exactsag.com^
 ||exacttarget.api.mashery.com^
 ||exad.smi2.ru^
+||exaggerating.makeup^
 ||exaltationinsufficientintentional.com^
 ||exaltbelow.com^
 ||exaltflatterrequested.com^
@@ -46495,6 +46503,7 @@
 ||growthmodemarketing.actonservice.com^
 ||growthpic.weishi.qq.com^
 ||grphfzutw.xyz^
+||grpvyrybbqhob.com^
 ||grs.dbankcloud.com^
 ||grs.hicloud.com^
 ||grs.platform.dbankcloud.ru^
@@ -48977,6 +48986,7 @@
 ||ie8eamus.com^
 ||ieapak.xyz^
 ||iecmca.xyz^
+||iedullkg.com^
 ||ieeowa.marcjacobsbeauty.com^
 ||iefiop.raizs.com.br^
 ||ieg.intel.com^
@@ -56921,7 +56931,6 @@
 ||losingfunk.com^
 ||losingoldfry.com^
 ||losingtiger.com^
-||losital.ru^
 ||losobo.xyz^
 ||lossactivity.com^
 ||lostdormitory.com^
@@ -62919,6 +62928,7 @@
 ||moon.ibytecdn.cn^
 ||moonads.net^
 ||mooncklick.com^
+||mooneyejollier.top^
 ||moonicorn.network^
 ||moonjscdn.info^
 ||moonlitturbots.com^
@@ -63767,7 +63777,6 @@
 ||nahjzx.xyz^
 ||nahnoji.cz/compact_miner^
 ||nahnoji.cz^
-||nahotseetsoo.com^
 ||naiantcapling.com^
 ||naichootikie.com^
 ||naidileobram.actonservice.com^
@@ -65596,6 +65605,7 @@
 ||oehgk.com^
 ||oek7.april-moto.com^
 ||oelwojattkd.xyz^
+||oempafnyfiexpe.com^
 ||oeryt111.fun^
 ||oesfco.glamira.pl^
 ||oesonx.10000recipe.com^
@@ -65920,6 +65930,7 @@
 ||olomonautcatho.info^
 ||olopruy.com^
 ||olpmni.acer.com^
+||olpoxumbkput.com^
 ||olpv.onlylady.com^
 ||olq18dx1t.com^
 ||olqead.com^
@@ -66037,6 +66048,7 @@
 ||omjtca.emlakjet.com^
 ||omkxadadsh.com^
 ||omlahpewing.com^
+||ommjkomvweg.com^
 ||omn.americanexpress.com^
 ||omn.costumesupercenter.com^
 ||omn.crackle.com^
@@ -66343,6 +66355,7 @@
 ||onkafxtiqcu.com^
 ||onkavst.com^
 ||onkodjwuq.com^
+||online-1.co.in^
 ||online-adnetwork.com^
 ||online-metrix.imars.cloud^
 ||online-mt-com-455208869.p06.elqsandbox.com^
@@ -68055,6 +68068,7 @@
 ||pbbhhxm.xyz^
 ||pbbqzqi.com^
 ||pbc.programbrokerage.com^
+||pbc.wsj.com^
 ||pbcde.com^
 ||pbcs.realtor.com^
 ||pbdo.net^
@@ -69512,6 +69526,7 @@
 ||poketraff.com^
 ||pokingtrainswriter.com^
 ||pokjhgrs.click^
+||pokrutim.ru^
 ||pol3.cheque-domicile.fr^
 ||polads.pro^
 ||polanders.com^
@@ -73816,6 +73831,7 @@
 ||rmhfrtnd.com^
 ||rmhoffman.actonservice.com^
 ||rmioswx.icu^
+||rmishe.com^
 ||rmmskb.fnacspectacles.com^
 ||rmndme.com^
 ||rmp4.destinia.uy^
@@ -77213,6 +77229,7 @@
 ||senonsiatinus.com^
 ||sensationnominatereflect.com^
 ||sensationtwigpresumptuous.com^
+||senscirrascul.co.in^
 ||sense.cliexa.com^
 ||sensifyfugged.com^
 ||sensitivenessvalleyparasol.com^
@@ -82702,6 +82719,7 @@
 ||speedsupermarketdonut.com^
 ||speedtest.aomg5bzv7.com^
 ||speedtrap.shopdirect.com^
+||speedybytes.cfd^
 ||speedyfox.io^
 ||speedyrhino.co^
 ||speee-ad.akamaized.net^
@@ -86196,7 +86214,6 @@
 ||svaohpdxn.xyz^
 ||svc.kartinka.com.ua^
 ||svc2.sc.com^
-||svi.online.sberbank.ru^
 ||sviakavgwjg.xyz^
 ||svibeacon.onezapp.com^
 ||svkmxwssih.com^
@@ -86718,6 +86735,7 @@
 ||t.adlpo.com^
 ||t.adx.opera.com^
 ||t.afry.com^
+||t.aftermath.site^
 ||t.airasia.com^
 ||t.allmodern.com^
 ||t.alumni.duke.edu^
@@ -91357,6 +91375,7 @@
 ||tracking.ancestry.com^
 ||tracking.apac.business.samsung.com^
 ||tracking.api.media.zapps.vn^
+||tracking.api.shoppinggives.com^
 ||tracking.applift.com^
 ||tracking.appwifi.com^
 ||tracking.arabiancentres.com^
@@ -93238,6 +93257,7 @@
 ||twdhec.marioeletro.com^
 ||tweakarrangement.com^
 ||tweedygirly.com^
+||tweelessatic.co.in^
 ||tweetdeck.net.anwalt.de^
 ||tweisii.top^
 ||tweizai.top^
@@ -93583,7 +93603,6 @@
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
 ||udd1i5.zhihu.com^
-||udeghaipekr.com^
 ||udeias.xyz^
 ||udgrbq.malwarebytes.com^
 ||udheansv.com^
@@ -93849,6 +93868,7 @@
 ||umdlbn.globetrotter.de^
 ||umdpva.gakumado.mynavi.jp^
 ||umebella.com^
+||umedadelemp.com^
 ||umekana.ru^
 ||umengacs.m.taobao.com^
 ||umengcloud.com^
@@ -94792,6 +94812,7 @@
 ||vaigowoa.com^
 ||vaikijie.net^
 ||vaimoogegry.net^
+||vaimucuvikuwu.net^
 ||vainfulkmole.com^
 ||vainjav11.fun^
 ||vaipsona.com^
@@ -95480,6 +95501,7 @@
 ||vipads.cc^
 ||vipads.live^
 ||vipcpms.com^
+||vipdragonapp.monster^
 ||viper.kyrelldixon.com^
 ||viper.notifysrv.com^
 ||viper.sitesauce.app^
@@ -96900,7 +96922,6 @@
 ||ween.bid^
 ||weensnandow.com^
 ||weensydudler.com^
-||weepauza.com^
 ||weephuwe.xyz^
 ||weepingheartache.com^
 ||weepingpretext.com^
@@ -97022,7 +97043,6 @@
 ||wetrack.it^
 ||wetsireoverload.com^
 ||wettestspanemy.com^
-||wetuygnenimvft.xyz^
 ||weus2watcab01.blob.core.windows.net^
 ||weus2watcab02.blob.core.windows.net^
 ||wevbgr.vidaxl.it^
