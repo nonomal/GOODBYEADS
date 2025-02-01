@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-01-31 20:38:55（北京时间）
+! Version: 2025-02-01 09:42:21（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101702
+! Total count: 101715
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2081,7 +2081,6 @@
 ||0a74314cd1.com^
 ||0a8d87mlbcac.top^
 ||0ab8344566.51cd57d70c.com^
-||0ab9f67572.com^
 ||0ae00c7c.xyz^
 ||0af2a962b0102942d9a7df351b20be55.com^
 ||0af597d3bd.ce26c78a4e.com^
@@ -3659,6 +3658,7 @@
 ||1qi.info^
 ||1qingdao.com^
 ||1qrsumhcuudhkt4c.brandnewapp.pro^
+||1qv.fun^
 ||1qwdc.lycheenews.com^
 ||1qwdt.lycheenews.com^
 ||1r4g65b63.de^
@@ -36613,6 +36613,7 @@
 ||diametersunglassesbranch.com^
 ||dian.brecm.xyz^
 ||dianassb.com^
+||dianilinfant.top^
 ||dianomi.com^
 ||dianomioffers.co.uk^
 ||diaperdollrelevant.com^
@@ -53023,6 +53024,7 @@
 ||juno.aomg5bzv7.com^
 ||jupabwmocgqxeo.com^
 ||jupiterhealth-app.hotdoc.com.au^
+||jurantsepinine.shop^
 ||juresda.top^
 ||jurgeeph.net^
 ||juricts.xyz^
@@ -57220,6 +57222,7 @@
 ||lsuws.com^
 ||lsv5.belambra.fr^
 ||lswfmx.stuartweitzman.com^
+||lsxvnzif.icu^
 ||lsyliel.top^
 ||lszydrtzsh.com^
 ||ltam2.secureforms.mcafee.com^
@@ -66493,6 +66496,7 @@
 ||opchikoritar.com^
 ||opclauncheran.com^
 ||opclck.com^
+||opclumbcuqze.com^
 ||opcnflku.com^
 ||opdomains.space^
 ||opdowvamjv.com^
@@ -67161,6 +67165,7 @@
 ||ovaleithermansfield.com^
 ||ovardu.com^
 ||ovdimin.buzz^
+||oveakmqk.com^
 ||oveechoops.xyz^
 ||ovejqw.xyz^
 ||ovenbifaces.cam^
@@ -69301,6 +69306,7 @@
 ||pliblc.com^
 ||plinksplanet.com^
 ||plirkep.com^
+||pljhaiftxr.com^
 ||pljuin.lensmode.com^
 ||pll.pearlinsurance.com^
 ||pllah.com^
@@ -69573,6 +69579,7 @@
 ||pool.supportxmr.com^
 ||poolfeecop.live^
 ||poolgmsd.com^
+||poolirido.com^
 ||pooptoom.net^
 ||pooraithacuzaum.net^
 ||poorgasillago.click^
@@ -78026,6 +78033,7 @@
 ||showdoyoukno.info^
 ||showedinburgh.com^
 ||showedprovisional.com^
+||showierberetta.com^
 ||showilycola.shop^
 ||showjav11.fun^
 ||showmebars.com^
@@ -87716,6 +87724,7 @@
 ||tba.smrtp.link^
 ||tbao684tryo.com^
 ||tbaqje.zadig-et-voltaire.com^
+||tbbfdr.icu^
 ||tbdhap.gamesonly.at^
 ||tbe.tom.ru^
 ||tbeiu658gftk.com^
@@ -94844,6 +94853,7 @@
 ||vampirebat.febolos.es^
 ||vampirebat.git-tower.com^
 ||vampirebat.tinamrak.com^
+||vamqt.vip^
 ||vamsoupowoa.com^
 ||vandalismblackboard.com^
 ||vandalismundermineshock.com^
@@ -94996,6 +95006,7 @@
 ||ve0ke.icu^
 ||ve6k5.top^
 ||veaiyl.icu^
+||vealedincite.com^
 ||vebadu.com^
 ||vebv8me7q.com^
 ||vecggfp.icu^
@@ -95687,6 +95698,7 @@
 ||vod-mplayer.sooplive.co.kr^
 ||vodlpsf.com^
 ||vodobyve.pro^
+||vodsoamsoun.net^
 ||voeux2020.wearemip.com^
 ||vogulprecast.com^
 ||vohqpgsdn.xyz^
@@ -100070,6 +100082,7 @@
 ||xsvideohs48241.34gwl8v1a.com^
 ||xsvideohs48244.34gwl8v1a.com^
 ||xszcdn.com^
+||xszjh.tech^
 ||xszpuvwr7.com^
 ||xszw0.icu^
 ||xtalfuwcxh.com^
