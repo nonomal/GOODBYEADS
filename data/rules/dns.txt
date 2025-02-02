@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-02-02 09:41:36（北京时间）
+! Version: 2025-02-02 20:35:17（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101819
+! Total count: 101831
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1336,7 +1336,6 @@
 ||0399.tegronews.com^
 ||03b5f525af.com^
 ||03e.info^
-||03eea1b6dd.com^
 ||03p.info^
 ||04-f-bmf.com^
 ||0400.jemonews.com^
@@ -2921,6 +2920,7 @@
 ||1426.jemonews.com^
 ||1426.reminews.com^
 ||1428.jemonews.com^
+||142f8fb46a.com^
 ||143.guesswhatnews.com^
 ||143.tegronews.com^
 ||1432.lookinews.com^
@@ -3505,6 +3505,7 @@
 ||1a65658575.com^
 ||1a715b8q5m3j.www.logology.co^
 ||1a8f9rq9c.de^
+||1ab287b306.com^
 ||1ab9f4d295.e7e34b16ed.com^
 ||1ac9365789.com^
 ||1ad6ea4211.com^
@@ -3556,6 +3557,7 @@
 ||1clic1don.fr^
 ||1cros.net^
 ||1ctc.sfr.fr^
+||1d0ff645c4.com^
 ||1d18dd4bc1.d5db478dde.com^
 ||1d36243653.ef1dd1776c.com^
 ||1d60ed7be0.c0699fd01b.com^
@@ -5378,6 +5380,7 @@
 ||3307754.notifysrv.com^
 ||3307792.notifysrv.com^
 ||3307896.notifysrv.com^
+||330e4e8090.com^
 ||3310.sifenews.com^
 ||3310026.notify6.com^
 ||3310238.notify6.com^
@@ -8329,6 +8332,7 @@
 ||5598.reminews.com^
 ||5598.sifenews.com^
 ||55cc9d.xyz^
+||55f4605f6d.com^
 ||55fa118139.2ffabf3b1d.com^
 ||55rtjikredf65.lycheenews.com^
 ||56.deeginews.com^
@@ -9573,6 +9577,7 @@
 ||7068.gofenews.com^
 ||7071.lookinews.com^
 ||7073.huronews.com^
+||707309096f.com^
 ||7076.selornews.com^
 ||7078.gofenews.com^
 ||7080.5clo0xmbf.com^
@@ -11292,6 +11297,7 @@
 ||9097.luronews.com^
 ||9099.lookinews.com^
 ||9099.reminews.com^
+||90e2545579.com^
 ||90e78be4ad.f250b37f9e.com^
 ||90e7fd481d.com^
 ||91.guesswhatnews.com^
@@ -11900,7 +11906,6 @@
 ||9c77b4180f.3d5affba28.com^
 ||9c9281c723.fd39024d2a.com^
 ||9c93c6787b.a9ae7df45f.com^
-||9ca8b325b8.com^
 ||9cbj41a5.de^
 ||9cd76b4462bb.com^
 ||9d0a3ce113.0935feb05f.com^
@@ -13096,6 +13101,7 @@
 ||a1b7fa8b46.250f851761.com^
 ||a1bbcd100e.com^
 ||a1bw2cup.top^
+||a1c08555bc.com^
 ||a1c99093b6.com^
 ||a1hosting.online^
 ||a1webstrategy.com^
@@ -17515,6 +17521,7 @@
 ||adaround.net^
 ||adarutoad.com^
 ||adasdz.cn^
+||adasgsts.cc^
 ||adash.m.taobao.com^
 ||adashbc.ut.taobao.com^
 ||adashx4ae.ut.taobao.com^
@@ -18126,7 +18133,6 @@
 ||adnet.de^
 ||adnet.ru^
 ||adnetwork.net^
-||adnetwork.vn^
 ||adnetworkperformance.com^
 ||adnetwrk.com^
 ||adnews.maddog2000.de^
@@ -31330,6 +31336,7 @@
 ||cogitatetrailsplendid.com^
 ||cogitblype.click^
 ||cognatebenefactor.com^
+||cognatesyringe.com^
 ||cognitionmesmerize.com^
 ||cognizancesteepleelevate.com^
 ||cogsnarks.shop^
@@ -33338,7 +33345,6 @@
 ||cups.republicoftea.com^
 ||cupswiss.com^
 ||cupulaeveinal.top^
-||curacaocrafty.top^
 ||curated.fieldtest.cc^
 ||curatekrait.com^
 ||curatelsack.com^
@@ -34769,7 +34775,6 @@
 ||d43849fz.xyz^
 ||d44501d9f7.com^
 ||d457c69ef7.0e07fa9a08.com^
-||d473c08307.com^
 ||d477275c.xyz^
 ||d483501b04.com^
 ||d485.capitalgazette.com^
@@ -37800,6 +37805,7 @@
 ||doprinplupr.com^
 ||doptefoumsifee.xyz^
 ||doptik.ru^
+||dopub.site^
 ||doraikouor.com^
 ||dorangesource.alicdn.com^
 ||dore.new-indian-porn.com^
@@ -37863,7 +37869,6 @@
 ||doubtedprompts.com^
 ||doubtmeasure.com^
 ||doubtslutecia.com^
-||douceuristana.top^
 ||douchaiwouvo.net^
 ||doucheraisiny.com^
 ||douchucoam.net^
@@ -41835,6 +41840,7 @@
 ||facilitatevoluntarily.com^
 ||facilitycompetition.com^
 ||facilityearlyimminent.com^
+||facisespess.com^
 ||fackeyess.com^
 ||factgoldbeg.live^
 ||factoruser.com^
@@ -42859,6 +42865,7 @@
 ||flagmantensity.com^
 ||flairads.com^
 ||flairadscpc.com^
+||flakefanwort.shop^
 ||flakesaridphysical.com^
 ||flakeschopped.com^
 ||flamebeard.top^
@@ -46796,6 +46803,7 @@
 ||gumgum.com^
 ||gumlahdeprint.com^
 ||gummierhedera.life^
+||gumnus.com^
 ||gumon.site^
 ||gunggo.com^
 ||gunlockpepped.shop^
@@ -48911,6 +48919,7 @@
 ||iasrv.com^
 ||iatoex.kahve.com^
 ||iatspayments.actonservice.com^
+||iaukmlastitytyeast.com^
 ||iazwzp.lyst.com^
 ||ib.snssdk.com.edgekey.net^
 ||ib.snssdk.com^
@@ -48943,7 +48952,6 @@
 ||icalnormaticalacyc.info^
 ||icas.ikea.com^
 ||icas.ikea.net^
-||icasmarbor.com^
 ||icaubf.casamundo.de^
 ||icdirect.com^
 ||icelessbogles.com^
@@ -54552,6 +54560,7 @@
 ||lantern8.wealth.mandg.com^
 ||lantern9.mandg.com^
 ||lantodomirus.com^
+||lanyinadiingsin.com^
 ||lanzonmotlier.click^
 ||laolcwsd.tech^
 ||laoqo.top^
@@ -56501,6 +56510,7 @@
 ||log-stats.weathercn.com^
 ||log-tb.isnssdk.com^
 ||log-upload-eur.mihoyo.com^
+||log-upload-os.hoyolab.com^
 ||log-upload-os.hoyoverse.com^
 ||log-upload.mihoyo.com^
 ||log-v4-insight.kaizenplatform.net^
@@ -57428,7 +57438,6 @@
 ||lupon.media^
 ||luptbq.lampsplus.com^
 ||lupvaqvfeka.com^
-||lurchedchafted.top^
 ||lurdoocu.com^
 ||lurefq.com^
 ||lureillegimateillegimate.com^
@@ -63114,6 +63123,7 @@
 ||motleyanybody.com^
 ||motm.adp.ca^
 ||motorsports.locktonaffinity.net^
+||motphimqq.pro^
 ||motsardi.net^
 ||motu-teamblue.services^
 ||moumaiphuch.net^
@@ -67780,7 +67790,6 @@
 ||paipsuto.com^
 ||pairin.actonservice.com^
 ||paishoonain.net^
-||paitoucaum.com^
 ||paiwariaroids.shop^
 ||paiwena.xyz^
 ||paiwhisep.com^
@@ -69612,7 +69621,6 @@
 ||poketraff.com^
 ||pokingtrainswriter.com^
 ||pokjhgrs.click^
-||pokrutim.ru^
 ||pol3.cheque-domicile.fr^
 ||polads.pro^
 ||polanders.com^
@@ -74255,6 +74263,7 @@
 ||rronsep.com^
 ||rrss.abc.es^
 ||rruvbtb.com^
+||rrxapb.icu^
 ||rrxldl.bol.de^
 ||rrznha.lanvin-en-bleu.com^
 ||rs-stripe.com^
@@ -88530,7 +88539,6 @@
 ||theglossonline.com^
 ||thegoodcaster.com^
 ||thehotposts.com^
-||thehugefeed.com^
 ||thehypenewz.com^
 ||theirbellsound.co^
 ||theirbellstudio.co^
@@ -94272,6 +94280,7 @@
 ||unusualwarmingloner.com^
 ||unweezingr.com^
 ||unwelcomegardenerinterpretation.com^
+||unwelcomehurry.com^
 ||unwilling-jury.pro^
 ||unwillingsnick.com^
 ||unwindirenebank.com^
@@ -97560,6 +97569,7 @@
 ||wipeilluminationlocomotive.com^
 ||wipepeepcyclist.com^
 ||wipowaxe.com^
+||wipzxpbs.com^
 ||wiremembership.com^
 ||wirenth.com^
 ||wiringsensitivecontents.com^
@@ -101490,6 +101500,7 @@
 ||zkc5.fleurancenature.fr^
 ||zkcvb.com^
 ||zkczzltlhp6y.com^
+||zkdefuiz.icu^
 ||zkebwy.copenhagenstudios.com^
 ||zkkkvb.welovebags.de^
 ||zkmhhr1fr79z.dictionary.basabali.org^
@@ -101551,6 +101562,7 @@
 ||znq9.destinia.mx^
 ||znrttr.jaypore.com^
 ||znvlfef.com^
+||znvmlmsqfseioy.com^
 ||zoachoar.net^
 ||zoachops.com^
 ||zoagreejouph.com^
