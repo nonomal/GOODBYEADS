@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-02-03 09:39:01（北京时间）
+! Version: 2025-02-03 20:39:48（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101848
+! Total count: 101834
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -6613,7 +6613,6 @@
 ||3d55b46c91.78187cbed6.com^
 ||3d5affba28.com^
 ||3d78620f7e.be30660063.com^
-||3d7df2557f.com^
 ||3d871ef919.e1dcd571c0.com^
 ||3date.de^
 ||3dbluerayplayer.com^
@@ -9577,7 +9576,6 @@
 ||7068.gofenews.com^
 ||7071.lookinews.com^
 ||7073.huronews.com^
-||707309096f.com^
 ||7076.selornews.com^
 ||7078.gofenews.com^
 ||7080.5clo0xmbf.com^
@@ -18640,7 +18638,6 @@
 ||ads.lot-tissimo.com^
 ||ads.luffy.my.id^
 ||ads.macsonuclari.mobi^
-||ads.mariuana.it^
 ||ads.markettimes.vn^
 ||ads.marry.vn^
 ||ads.massinfra.nl^
@@ -20228,7 +20225,6 @@
 ||aj2142.online^
 ||aj2178.online^
 ||aj2218.online^
-||aj2393.online^
 ||aj2396.online^
 ||aj2397.online^
 ||aj2517.bid^
@@ -22474,6 +22470,7 @@
 ||apnttuttej.com^
 ||apocalypsegulliblemood.com^
 ||apogee.spacenews.com^
+||apollo.miniclip.com^
 ||apologiesneedleworkrising.com^
 ||apologizepitfall.com^
 ||apologizingrigorousmorally.com^
@@ -24078,7 +24075,6 @@
 ||asrowjkagg.com^
 ||assadbee.live^
 ||assailusefullyenemies.com^
-||assassinationrussia.com^
 ||assassinationsteal.com^
 ||assaultmolecularjim.com^
 ||assbwaaqtaqx.com^
@@ -25549,7 +25545,6 @@
 ||banner.linux.se^
 ||banner.media-system.de^
 ||banner.mob.hr^
-||banner.moscarossa.biz^
 ||banner.nixnet.cz^
 ||banner.noblepoker.com^
 ||banner.northsky.com^
@@ -28161,7 +28156,6 @@
 ||bulky-battle.com^
 ||bulkyfriend.com^
 ||bull3t.co^
-||bullads.net^
 ||bulletinmoonoral.com^
 ||bulletinwarmingtattoo.com^
 ||bulletproxy.ch^
@@ -50272,7 +50266,6 @@
 ||inestimableloiteringextortion.com^
 ||inetlog.ru^
 ||inetprocess.actonservice.com^
-||ineuntmenta.com^
 ||inexpedientdatagourmet.com^
 ||inexplicablecarelessfairly.com^
 ||infamousprescribe.com^
@@ -53703,7 +53696,6 @@
 ||kiolpia.icu^
 ||kiosked.com^
 ||kipchakshoat.shop^
-||kiphairg.com^
 ||kiqwal.autoscout24.es^
 ||kiqwil.l-m.co.jp^
 ||kiretafly.com^
@@ -56403,7 +56395,6 @@
 ||lntrigulngdates.com^
 ||lntvby.banggood.com^
 ||lnuqlyoejdpb.com^
-||lnweoovesh.xyz^
 ||lnxfgm.party-calendar.net^
 ||lnxkrd.xyz^
 ||lo8ve6ygour3pea4cee.com^
@@ -56727,7 +56718,6 @@
 ||log.viettimes.vn^
 ||log.vnay.vn^
 ||log.vneconomy.vn^
-||log.vnfinance.vn^
 ||log.vov.vn^
 ||log.vovworld.vn^
 ||log.wat.tv^
@@ -57930,7 +57920,6 @@
 ||magukaudsodo.xyz^
 ||mahaidroagra.com^
 ||maibaume.com^
-||maichobooy.com^
 ||maidr.pro^
 ||maiglair.net^
 ||maihigre.net^
@@ -59890,7 +59879,6 @@
 ||mauphupooca.com^
 ||mautic-learn.teky.edu.vn^
 ||mautic.200lab.io^
-||mautic.hubs.vn^
 ||mautic.teky.edu.vn^
 ||mauzna.xyz^
 ||maven.aomg5bzv7.com^
@@ -60427,6 +60415,7 @@
 ||meezauch.net^
 ||mefestivalbout.com^
 ||mefo1.zdf.de^
+||mega.mydealz.de^
 ||mega.promodescuentos.com^
 ||megaad.nz^
 ||megabookline.com^
@@ -69632,6 +69621,7 @@
 ||poketraff.com^
 ||pokingtrainswriter.com^
 ||pokjhgrs.click^
+||pokrutim.ru^
 ||pol3.cheque-domicile.fr^
 ||polads.pro^
 ||polanders.com^
@@ -72009,7 +71999,6 @@
 ||questions.theanswerco.com^
 ||questrominfo.bu.edu^
 ||questtest.epoise.com^
-||quethemetron.top^
 ||queuequalificationtreasure.com^
 ||queuescotman.com^
 ||quiazo.xyz^
@@ -78755,7 +78744,6 @@
 ||smartclickz.com^
 ||smartclip.com^
 ||smartclip.net^
-||smartconvert.co^
 ||smartcpatrack.com^
 ||smartdating.top^
 ||smartlnk.com^
@@ -86103,7 +86091,6 @@
 ||summary.instaread.co^
 ||summaryjustlybouquet.com^
 ||summer-notifications.com^
-||summerbestapp.com^
 ||summerboycottrot.com^
 ||summerhamster.com^
 ||summertracethou.com^
@@ -87409,7 +87396,6 @@
 ||tailsweep.com^
 ||tailsweep.se^
 ||taimachojoba.xyz^
-||tainohuer.top^
 ||taisteptife.com^
 ||taivoofasoo.net^
 ||taiwhups.net^
@@ -94674,6 +94660,7 @@
 ||utiq.24auto.de^
 ||utiq.24hamburg.de^
 ||utiq.24rhein.de^
+||utiq.actu.fr^
 ||utiq.buzzfeed.de^
 ||utiq.come-on.de^
 ||utiq.einfach-tasty.de^
@@ -101429,7 +101416,6 @@
 ||zi8ivy4b0c7l.com^
 ||ziblo.cloud^
 ||zicgoi.emmiegray.de^
-||zickukoo.com^
 ||zieyeq.intent24.fr^
 ||ziggingantlid.com^
 ||zigpdx.ltbjeans.com^
